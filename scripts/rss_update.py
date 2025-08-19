@@ -33,6 +33,9 @@ def main():
     original_content = content
     added = 0
 
+    # Дефинираме приоритетни keywords извън loop-а
+    PRIORITY_KEYWORDS = ["runpod", "torch", "cuda", "performance", "breaking", "security"]
+
     for url in feeds:
         d = feedparser.parse(url)
         if d.bozo:
@@ -48,7 +51,12 @@ def main():
             if link and link in content:
                 continue
 
-            line = f"- {published}: {title} - {link} __auto-added__"
+            # Проверка за приоритетни keywords
+            if any(kw.lower() in title.lower() for kw in PRIORITY_KEYWORDS):
+                line = f"- 🔥 {published}: {title} - {link} __priority-auto-added__"
+            else:
+                line = f"- {published}: {title} - {link} __auto-added__"
+            
             content += ("\n" if content and not content.endswith("\n") else "") + line
             added += 1
 
