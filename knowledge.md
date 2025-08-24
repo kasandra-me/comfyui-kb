@@ -160,3 +160,4 @@ _Last updated: 2025-08-12_
 - 2025-08-23T22:57:09+00:00: v0.3.52 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.52 __auto-added__
 - 2025-08-24T00:30:37+00:00: v0.4.64 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.64 __auto-added__
 - 2025-08-24T19:29:49+00:00: Fix EasyCache/LazyCache crash when tensor shape/dtype/device changes … - https://github.com/comfyanonymous/ComfyUI/commit/95ac7794b7c735de8e5426442507d08edd29bec5 __auto-added__
+- 2025-08-24T19:40:32+00:00: Remove models from readme that are not fully implemented. (#9535) - https://github.com/comfyanonymous/ComfyUI/commit/f6b93d41a03081fad3c1a01221eac9c42d6790df __auto-added__
