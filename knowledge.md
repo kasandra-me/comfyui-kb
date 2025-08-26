@@ -163,3 +163,4 @@ _Last updated: 2025-08-12_
 - 2025-08-24T19:40:32+00:00: Remove models from readme that are not fully implemented. (#9535) - https://github.com/comfyanonymous/ComfyUI/commit/f6b93d41a03081fad3c1a01221eac9c42d6790df __auto-added__
 - 2025-08-25T20:50:48+00:00: Qwen Image ControlNet & LoRA, EasyCache and Context Window in ComfyUI - https://blog.comfy.org/p/comfyui-now-supports-qwen-image-controlnet __auto-added__
 - 2025-08-26T03:26:47+00:00: Implement wav2vec2 as an audio encoder model. (#9549) - https://github.com/comfyanonymous/ComfyUI/commit/914c2a29731be9c082f773c4b95892f553ac5ae8 __auto-added__
+- 2025-08-26T16:50:46+00:00: Make AudioEncoderOutput usable in v3 node schema. (#9554) - https://github.com/comfyanonymous/ComfyUI/commit/39aa06bd5d630e50c88d3be1586d21737c4387c1 __auto-added__
