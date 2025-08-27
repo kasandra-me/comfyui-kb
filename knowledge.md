@@ -166,3 +166,6 @@ _Last updated: 2025-08-12_
 - 2025-08-26T16:50:46+00:00: Make AudioEncoderOutput usable in v3 node schema. (#9554) - https://github.com/comfyanonymous/ComfyUI/commit/39aa06bd5d630e50c88d3be1586d21737c4387c1 __auto-added__
 - 2025-08-26T17:33:54+00:00: Update template to 0.1.66 (#9557) - https://github.com/comfyanonymous/ComfyUI/commit/5352abc6d389570455776c457738db54367cd6cb __auto-added__
 - 2025-08-26T17:56:39+00:00: Day-1 Support of Qwen-Image InstantX ControlNet - https://blog.comfy.org/p/day-1-support-of-qwen-image-instantx __auto-added__
+- 2025-08-27T02:20:44+00:00: Adding Google Gemini Image API node (#9566) - https://github.com/comfyanonymous/ComfyUI/commit/47f4db3e84874ca6076e5cdbb345444faec83028 __auto-added__
+- 2025-08-27T01:51:08+00:00: v1.25.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.25.11 __auto-added__
+- 2025-08-27T02:36:09+00:00: Nano-banana via ComfyUI API Nodes! - https://blog.comfy.org/p/nano-banana-via-comfyui-api-nodes __auto-added__
