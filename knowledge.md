@@ -175,3 +175,4 @@ _Last updated: 2025-08-12_
 - 2025-08-27T15:06:36+00:00: v1.26.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.7 __auto-added__
 - 2025-08-27T16:45:02+00:00: Fix #9537 (#9576) - https://github.com/comfyanonymous/ComfyUI/commit/b20ba1f27cbd4e1c84cf8ec72b345723de9e7c80 __auto-added__
 - 2025-08-27T19:26:28+00:00: Fixes to make controlnet type models work on qwen edit and kontext. (… - https://github.com/comfyanonymous/ComfyUI/commit/b5ac6ed7ce73294e0025ffe3b16452d8434b83c7 __auto-added__
+- 🔥 2025-08-27T20:06:40+00:00: Improve s2v performance when generating videos longer than 120 frames… - https://github.com/comfyanonymous/ComfyUI/commit/496888fd68813033c260195bf70e4d11181e5454 __priority-auto-added__
