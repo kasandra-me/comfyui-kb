@@ -171,3 +171,4 @@ _Last updated: 2025-08-12_
 - 2025-08-27T02:36:09+00:00: Nano-banana via ComfyUI API Nodes! - https://blog.comfy.org/p/nano-banana-via-comfyui-api-nodes __auto-added__
 - 2025-08-27T04:10:20+00:00: Update template to 0.1.68 (#9569) - https://github.com/comfyanonymous/ComfyUI/commit/6a193ac557b2b35a6d2ea1916b0b8d5d9ee9b1ba __auto-added__
 - 2025-08-27T05:10:34+00:00: WIP Wan 2.2 S2V model. (#9568) - https://github.com/comfyanonymous/ComfyUI/commit/88aee596a30e9b80ca831c42a0ae70e0d22b61ae __auto-added__
+- 2025-08-27T07:41:37+00:00: v0.4.65 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.65 __auto-added__
