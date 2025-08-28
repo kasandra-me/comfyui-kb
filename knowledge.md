@@ -182,3 +182,5 @@ _Last updated: 2025-08-12_
 - 2025-08-28T03:50:48+00:00: v0.4.66 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.66 __auto-added__
 - 2025-08-28T04:39:12+00:00: "Turn It Around": The Comfy Challenge #1 Montage - https://blog.comfy.org/p/the-comfy-challenge-2-falling __auto-added__
 - 2025-08-28T14:37:42+00:00: Fix diffsynth controlnet regression. (#9597) - https://github.com/comfyanonymous/ComfyUI/commit/ce0052c087cb1e81ba01e8afbe362bec54eeb665 __auto-added__
+- 2025-08-28T14:44:57+00:00: ComfyUI version 0.3.54 - https://github.com/comfyanonymous/ComfyUI/commit/00636101771cb373354d6294cc6567deda2635f6 __auto-added__
+- 2025-08-28T14:44:57+00:00: v0.3.54 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.54 __auto-added__
