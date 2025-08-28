@@ -177,3 +177,5 @@ _Last updated: 2025-08-12_
 - 2025-08-27T19:26:28+00:00: Fixes to make controlnet type models work on qwen edit and kontext. (… - https://github.com/comfyanonymous/ComfyUI/commit/b5ac6ed7ce73294e0025ffe3b16452d8434b83c7 __auto-added__
 - 🔥 2025-08-27T20:06:40+00:00: Improve s2v performance when generating videos longer than 120 frames… - https://github.com/comfyanonymous/ComfyUI/commit/496888fd68813033c260195bf70e4d11181e5454 __priority-auto-added__
 - 2025-08-27T23:07:31+00:00: Add DPM++ 2M SDE Heun (RES) sampler (#9542) - https://github.com/comfyanonymous/ComfyUI/commit/3aad339b63f03e17dc6ebae035b90afc2fefb627 __auto-added__
+- 2025-08-28T03:09:06+00:00: ComfyUI 0.3.53 - https://github.com/comfyanonymous/ComfyUI/commit/0eb821a7b6612af0fa3aaa8302739788a4bd629e __auto-added__
+- 2025-08-28T03:09:06+00:00: v0.3.53 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.53 __auto-added__
