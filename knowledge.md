@@ -185,3 +185,4 @@ _Last updated: 2025-08-12_
 - 2025-08-28T14:44:57+00:00: ComfyUI version 0.3.54 - https://github.com/comfyanonymous/ComfyUI/commit/00636101771cb373354d6294cc6567deda2635f6 __auto-added__
 - 2025-08-28T14:44:57+00:00: v0.3.54 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.54 __auto-added__
 - 2025-08-28T17:28:28+00:00: v0.4.67 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.67 __auto-added__
+- 2025-08-28T21:59:48+00:00: WanSoundImageToVideoExtend node to manually extend s2v video. (#9606) - https://github.com/comfyanonymous/ComfyUI/commit/edde0b50431e296f61f79205e25cb01f653013a2 __auto-added__
