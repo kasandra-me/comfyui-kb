@@ -193,3 +193,4 @@ _Last updated: 2025-08-12_
 - 2025-08-29T10:03:41+00:00: ComfyUI v0.3.55 - https://github.com/comfyanonymous/ComfyUI/commit/a86aaa430183068e2a264495c802c81d05eb350a __auto-added__
 - 2025-08-29T10:03:41+00:00: v0.3.55 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.55 __auto-added__
 - 2025-08-29T12:40:30+00:00: v0.4.68 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.68 __auto-added__
+- 2025-08-29T14:20:41+00:00: Wan2.2 S2V in ComfyUI: Audio-Driven Video Generation from Static Images - https://blog.comfy.org/p/wan22-s2v-in-comfyui-audio-driven __auto-added__
