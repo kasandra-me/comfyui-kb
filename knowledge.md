@@ -190,3 +190,5 @@ _Last updated: 2025-08-12_
 - 2025-08-28T23:38:28+00:00: Add a LatentCut node to cut latents. (#9609) - https://github.com/comfyanonymous/ComfyUI/commit/d28b39d93dc498110e28ca32c8f39e6de631aa42 __auto-added__
 - 2025-08-29T02:46:57+00:00: Support the 5B fun inpaint model. (#9614) - https://github.com/comfyanonymous/ComfyUI/commit/c7bb3e2bceaad7accd52c23d22b97a1b6808304b __auto-added__
 - 2025-08-29T08:12:00+00:00: Trim audio to video when saving video. (#9617) - https://github.com/comfyanonymous/ComfyUI/commit/15aa9222c4d1fc74f5190d7c7e56ef986d0d7146 __auto-added__
+- 2025-08-29T10:03:41+00:00: ComfyUI v0.3.55 - https://github.com/comfyanonymous/ComfyUI/commit/a86aaa430183068e2a264495c802c81d05eb350a __auto-added__
+- 2025-08-29T10:03:41+00:00: v0.3.55 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.55 __auto-added__
