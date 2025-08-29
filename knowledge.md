@@ -192,3 +192,4 @@ _Last updated: 2025-08-12_
 - 2025-08-29T08:12:00+00:00: Trim audio to video when saving video. (#9617) - https://github.com/comfyanonymous/ComfyUI/commit/15aa9222c4d1fc74f5190d7c7e56ef986d0d7146 __auto-added__
 - 2025-08-29T10:03:41+00:00: ComfyUI v0.3.55 - https://github.com/comfyanonymous/ComfyUI/commit/a86aaa430183068e2a264495c802c81d05eb350a __auto-added__
 - 2025-08-29T10:03:41+00:00: v0.3.55 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.55 __auto-added__
+- 2025-08-29T12:40:30+00:00: v0.4.68 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.68 __auto-added__
