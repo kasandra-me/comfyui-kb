@@ -188,3 +188,4 @@ _Last updated: 2025-08-12_
 - 2025-08-28T21:59:48+00:00: WanSoundImageToVideoExtend node to manually extend s2v video. (#9606) - https://github.com/comfyanonymous/ComfyUI/commit/edde0b50431e296f61f79205e25cb01f653013a2 __auto-added__
 - 2025-08-28T22:34:01+00:00: Fix issue with s2v node when extending past audio length. (#9608) - https://github.com/comfyanonymous/ComfyUI/commit/1c184c29eb2a8f6fdd4e49f27347809090038e3f __auto-added__
 - 2025-08-28T23:38:28+00:00: Add a LatentCut node to cut latents. (#9609) - https://github.com/comfyanonymous/ComfyUI/commit/d28b39d93dc498110e28ca32c8f39e6de631aa42 __auto-added__
+- 2025-08-29T02:46:57+00:00: Support the 5B fun inpaint model. (#9614) - https://github.com/comfyanonymous/ComfyUI/commit/c7bb3e2bceaad7accd52c23d22b97a1b6808304b __auto-added__
