@@ -195,3 +195,5 @@ _Last updated: 2025-08-12_
 - 2025-08-29T12:40:30+00:00: v0.4.68 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.68 __auto-added__
 - 2025-08-29T14:20:41+00:00: Wan2.2 S2V in ComfyUI: Audio-Driven Video Generation from Static Images - https://blog.comfy.org/p/wan22-s2v-in-comfyui-audio-driven __auto-added__
 - 2025-08-30T03:06:04+00:00: Lower ram usage on windows. (#9628) - https://github.com/comfyanonymous/ComfyUI/commit/885015eecf649d6e49e1ade68e4475b434517b82 __auto-added__
+- 2025-08-30T10:31:19+00:00: ComfyUI version 0.3.56 - https://github.com/comfyanonymous/ComfyUI/commit/4449e147692366ac8b9bd3b8834c771bc81e91ac __auto-added__
+- 2025-08-30T10:31:19+00:00: v0.3.56 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.56 __auto-added__
