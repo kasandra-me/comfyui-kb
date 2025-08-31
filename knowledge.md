@@ -199,3 +199,4 @@ _Last updated: 2025-08-12_
 - 2025-08-30T10:31:19+00:00: v0.3.56 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.56 __auto-added__
 - 2025-08-30T12:22:36+00:00: v0.4.69 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.69 __auto-added__
 - 2025-08-31T03:21:58+00:00: convert Primitive nodes to V3 schema (#9372) - https://github.com/comfyanonymous/ComfyUI/commit/fe442fac2eccd0cc66999b48d3c518623cafe4fc __auto-added__
+- 2025-08-31T04:01:45+00:00: SEEDS: update noise decomposition and refactor (#9633) - https://github.com/comfyanonymous/ComfyUI/commit/32a627bf1feadb83abba97906a27978b927abd33 __auto-added__
