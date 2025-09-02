@@ -202,3 +202,4 @@ _Last updated: 2025-08-12_
 - 2025-08-31T04:01:45+00:00: SEEDS: update noise decomposition and refactor (#9633) - https://github.com/comfyanonymous/ComfyUI/commit/32a627bf1feadb83abba97906a27978b927abd33 __auto-added__
 - 2025-08-31T05:32:10+00:00: Probably not necessary anymore. (#9646) - https://github.com/comfyanonymous/ComfyUI/commit/9b151559721ff6c8d93150f3d8a53259a23911cd __auto-added__
 - 2025-09-01T22:54:02+00:00: Implement the USO subject identity lora. (#9674) - https://github.com/comfyanonymous/ComfyUI/commit/27e067ce505c102fd0f2be0f1242016c59a6816f __auto-added__
+- 2025-09-02T00:33:50+00:00: Enable Convolution AutoTuning (#9301) - https://github.com/comfyanonymous/ComfyUI/commit/e2d1e5dad98dbbcf505703ea8663f20101e6570a __auto-added__
