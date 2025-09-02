@@ -204,3 +204,4 @@ _Last updated: 2025-08-12_
 - 2025-09-01T22:54:02+00:00: Implement the USO subject identity lora. (#9674) - https://github.com/comfyanonymous/ComfyUI/commit/27e067ce505c102fd0f2be0f1242016c59a6816f __auto-added__
 - 2025-09-02T00:33:50+00:00: Enable Convolution AutoTuning (#9301) - https://github.com/comfyanonymous/ComfyUI/commit/e2d1e5dad98dbbcf505703ea8663f20101e6570a __auto-added__
 - 2025-09-02T19:36:22+00:00: USO style reference. (#9677) - https://github.com/comfyanonymous/ComfyUI/commit/3412d53b1d69e4dfedf7e86c3092cea085094053 __auto-added__
+- 2025-09-02T20:12:07+00:00: uso -> uxo/uno as requested.  (#9688) - https://github.com/comfyanonymous/ComfyUI/commit/e3018c2a5aeb99f0c5b595621949a451686ce55a __auto-added__
