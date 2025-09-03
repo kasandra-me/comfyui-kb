@@ -209,3 +209,4 @@ _Last updated: 2025-08-12_
 - 2025-09-03T00:06:41+00:00: Update template to 0.1.73 (#9686) - https://github.com/comfyanonymous/ComfyUI/commit/4f5812b93712e0f52ae8fe80a89e8b5e7d0fa309 __auto-added__
 - 2025-09-03T02:17:36+00:00: v1.26.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.8 __auto-added__
 - 2025-09-03T02:25:25+00:00: "Falling": The Comfy Challenge #2 Montage - https://blog.comfy.org/p/falling-the-comfy-challenge-2-montage __auto-added__
+- 2025-09-03T18:01:07+00:00: v1.26.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.9 __auto-added__
