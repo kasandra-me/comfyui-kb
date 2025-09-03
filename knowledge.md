@@ -210,3 +210,4 @@ _Last updated: 2025-08-12_
 - 2025-09-03T02:17:36+00:00: v1.26.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.8 __auto-added__
 - 2025-09-03T02:25:25+00:00: "Falling": The Comfy Challenge #2 Montage - https://blog.comfy.org/p/falling-the-comfy-challenge-2-montage __auto-added__
 - 2025-09-03T18:01:07+00:00: v1.26.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.9 __auto-added__
+- 2025-09-03T20:18:27+00:00: [V3] convert Runway API nodes to the V3 schema (#9487) - https://github.com/comfyanonymous/ComfyUI/commit/22da0a83e9a251ca16b9753bf808bfa9f4b023d8 __auto-added__
