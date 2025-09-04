@@ -212,3 +212,4 @@ _Last updated: 2025-08-12_
 - 2025-09-03T18:01:07+00:00: v1.26.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.9 __auto-added__
 - 2025-09-03T20:18:27+00:00: [V3] convert Runway API nodes to the V3 schema (#9487) - https://github.com/comfyanonymous/ComfyUI/commit/22da0a83e9a251ca16b9753bf808bfa9f4b023d8 __auto-added__
 - 2025-09-03T22:43:29+00:00: Update comment in api example. (#9708) - https://github.com/comfyanonymous/ComfyUI/commit/4368d8f87f580f526e8b2bc43bf0ac88e2b67033 __auto-added__
+- 2025-09-04T02:20:13+00:00: Fix potential rope issue. (#9710) - https://github.com/comfyanonymous/ComfyUI/commit/72855db715096bc378817b1aaffcf232fdc39659 __auto-added__
