@@ -217,3 +217,4 @@ _Last updated: 2025-08-12_
 - 2025-09-04T06:15:57+00:00: v0.3.57 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.57 __auto-added__
 - 2025-09-04T07:19:06+00:00: v1.27.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.0 __auto-added__
 - 2025-09-04T07:24:23+00:00: v0.4.70 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.70 __auto-added__
+- 2025-09-04T10:05:21+00:00: 5.4.1 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.4.1 __auto-added__
