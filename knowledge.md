@@ -215,3 +215,5 @@ _Last updated: 2025-08-12_
 - 2025-09-04T02:20:13+00:00: Fix potential rope issue. (#9710) - https://github.com/comfyanonymous/ComfyUI/commit/72855db715096bc378817b1aaffcf232fdc39659 __auto-added__
 - 2025-09-04T06:15:57+00:00: ComfyUI 0.3.57 - https://github.com/comfyanonymous/ComfyUI/commit/b0338e930bbc1f9d01f005f224573d5994732932 __auto-added__
 - 2025-09-04T06:15:57+00:00: v0.3.57 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.57 __auto-added__
+- 2025-09-04T07:19:06+00:00: v1.27.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.0 __auto-added__
+- 2025-09-04T07:24:23+00:00: v0.4.70 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.70 __auto-added__
