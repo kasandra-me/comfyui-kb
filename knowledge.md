@@ -219,3 +219,4 @@ _Last updated: 2025-08-12_
 - 2025-09-04T07:24:23+00:00: v0.4.70 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.70 __auto-added__
 - 2025-09-04T10:05:21+00:00: 5.4.1 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.4.1 __auto-added__
 - 2025-09-04T14:01:28+00:00: USO Unified Style and Subject-Driven Generation Now Available in ComfyUI - https://blog.comfy.org/p/uso-available-in-comfyui __auto-added__
+- 2025-09-04T23:13:28+00:00: Fix progress update crossover between users (#9706) - https://github.com/comfyanonymous/ComfyUI/commit/a9f1bb10a52ce08a3f21e6fc562554671c85c3d5 __auto-added__
