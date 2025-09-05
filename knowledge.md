@@ -222,3 +222,4 @@ _Last updated: 2025-08-12_
 - 2025-09-04T23:13:28+00:00: Fix progress update crossover between users (#9706) - https://github.com/comfyanonymous/ComfyUI/commit/a9f1bb10a52ce08a3f21e6fc562554671c85c3d5 __auto-added__
 - 2025-09-05T00:39:02+00:00: Some changes to the previous hunyuan PR. (#9725) - https://github.com/comfyanonymous/ComfyUI/commit/c9ebe70072213a875ffbe40cc1b36820b2005211 __auto-added__
 - 2025-09-05T06:39:57+00:00: v1.27.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.1 __auto-added__
+- 2025-09-05T18:32:25+00:00: fix: add cache headers for images  (#9560) - https://github.com/comfyanonymous/ComfyUI/commit/3493b9cb1f9a9a66b1b86ed908cf87bc382b647a __auto-added__
