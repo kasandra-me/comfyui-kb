@@ -225,3 +225,4 @@ _Last updated: 2025-08-12_
 - 2025-09-05T18:32:25+00:00: fix: add cache headers for images  (#9560) - https://github.com/comfyanonymous/ComfyUI/commit/3493b9cb1f9a9a66b1b86ed908cf87bc382b647a __auto-added__
 - 2025-09-05T18:57:35+00:00: Fix lowvram issues with hunyuan3d 2.1 (#9735) - https://github.com/comfyanonymous/ComfyUI/commit/2ee7879a0bdbf507bfd26f8b36eca2fef147c29d __auto-added__
 - 2025-09-06T05:05:05+00:00: Print all fast options in --help (#9737) - https://github.com/comfyanonymous/ComfyUI/commit/ea6cdd2631fbca6ed81b95796150c32c9a029f0d __auto-added__
+- 2025-09-07T03:25:22+00:00: Enable bf16 VAE on RDNA4. (#9746) - https://github.com/comfyanonymous/ComfyUI/commit/27a0fcccc376fef6f035ed97664db8aa7e2e6117 __auto-added__
