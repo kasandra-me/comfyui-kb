@@ -229,3 +229,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-09-07T04:29:38+00:00: Don't enable pytorch attention on AMD if triton isn't available. (#9747) - https://github.com/comfyanonymous/ComfyUI/commit/bcbd7884e3af5ee8b6ab848da2a3123f247d6114 __priority-auto-added__
 - 2025-09-07T07:42:34+00:00: v1.27.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.2 __auto-added__
 - 2025-09-08T01:16:29+00:00: Fix amd_min_version crash when cpu device. (#9754) - https://github.com/comfyanonymous/ComfyUI/commit/fb763d43332aaf15e96350cf1c25e2a1927423f1 __auto-added__
+- 2025-09-08T19:08:18+00:00: Add explicit casting in apply_rope for Qwen VL (#9759) - https://github.com/comfyanonymous/ComfyUI/commit/97652d26b81f83fc9a3675be55ede7762fafb7bd __auto-added__
