@@ -233,3 +233,4 @@ _Last updated: 2025-08-12_
 - 2025-09-08T21:30:26+00:00: Support qwen inpaint controlnet. (#9772) - https://github.com/comfyanonymous/ComfyUI/commit/103a12cb668303f197b22f52bb2981bb1539beea __auto-added__
 - 2025-09-09T18:40:29+00:00: add ByteDance video API nodes (#9712) - https://github.com/comfyanonymous/ComfyUI/commit/f73b176abd6b3e3b587b668fa6748107deef311c __auto-added__
 - 2025-09-09T22:09:56+00:00: Small refactor of some vae code. (#9787) - https://github.com/comfyanonymous/ComfyUI/commit/b288fb0db88281532d813d4fb83f715f88b54ffc __auto-added__
+- 2025-09-09T22:30:52+00:00: "Latent Reforge": Comfy Challenge #3 Montage - https://blog.comfy.org/p/latent-reforge-comfy-challenge-3 __auto-added__
