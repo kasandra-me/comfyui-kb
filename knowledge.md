@@ -246,3 +246,4 @@ _Last updated: 2025-08-12_
 - 2025-09-10T21:25:41+00:00: ComfyUI version 0.3.59 - https://github.com/comfyanonymous/ComfyUI/commit/72212fef660bcd7d9702fa52011d089c027a64d8 __auto-added__
 - 2025-09-10T21:25:41+00:00: v0.3.59 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.59 __auto-added__
 - 2025-09-10T21:44:56+00:00: Seedream 4.0 Now Available in ComfyUI! - https://blog.comfy.org/p/seedream-40-now-available-in-comfyui __auto-added__
+- 2025-09-10T22:21:52+00:00: v0.4.72 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.72 __auto-added__
