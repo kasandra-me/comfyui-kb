@@ -241,3 +241,4 @@ _Last updated: 2025-08-12_
 - 2025-09-10T14:51:02+00:00: ComfyUI version v0.3.58 - https://github.com/comfyanonymous/ComfyUI/commit/8d7c930246bd33c32eb957b01ab0d364af6e81c0 __auto-added__
 - 2025-09-10T14:51:02+00:00: v0.3.58 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.58 __auto-added__
 - 2025-09-10T14:49:07+00:00: Stable Audio 2.5 is now in ComfyUI! - https://blog.comfy.org/p/stable-audio-25-is-now-in-comfyui __auto-added__
+- 2025-09-10T16:29:58+00:00: v0.4.71 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.71 __auto-added__
