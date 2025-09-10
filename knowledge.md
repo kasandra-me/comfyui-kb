@@ -237,3 +237,4 @@ _Last updated: 2025-08-12_
 - 2025-09-10T01:33:36+00:00: Change validate_inputs' output typehint to 'bool | str' and update do… - https://github.com/comfyanonymous/ComfyUI/commit/206595f854c67538d5921d36326acbfeb69c5ac2 __auto-added__
 - 🔥 2025-09-10T04:23:47+00:00: Fix issue on old torch. (#9791) - https://github.com/comfyanonymous/ComfyUI/commit/5c33872e2f355e51adf212d5b5c83815b7fe77b0 __priority-auto-added__
 - 2025-09-10T06:15:34+00:00: Fix lowvram issue with hunyuan image vae. (#9794) - https://github.com/comfyanonymous/ComfyUI/commit/543888d3d84a6ec4c4273838d5179845840e3226 __auto-added__
+- 2025-09-10T09:06:47+00:00: add StabilityAudio API nodes (#9749) - https://github.com/comfyanonymous/ComfyUI/commit/de44b95db6c7ef107f26e7edf30748b608afaa48 __auto-added__
