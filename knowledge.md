@@ -235,3 +235,4 @@ _Last updated: 2025-08-12_
 - 2025-09-09T22:09:56+00:00: Small refactor of some vae code. (#9787) - https://github.com/comfyanonymous/ComfyUI/commit/b288fb0db88281532d813d4fb83f715f88b54ffc __auto-added__
 - 2025-09-09T22:30:52+00:00: "Latent Reforge": Comfy Challenge #3 Montage - https://blog.comfy.org/p/latent-reforge-comfy-challenge-3 __auto-added__
 - 2025-09-10T01:33:36+00:00: Change validate_inputs' output typehint to 'bool | str' and update do… - https://github.com/comfyanonymous/ComfyUI/commit/206595f854c67538d5921d36326acbfeb69c5ac2 __auto-added__
+- 🔥 2025-09-10T04:23:47+00:00: Fix issue on old torch. (#9791) - https://github.com/comfyanonymous/ComfyUI/commit/5c33872e2f355e51adf212d5b5c83815b7fe77b0 __priority-auto-added__
