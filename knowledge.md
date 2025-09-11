@@ -251,3 +251,4 @@ _Last updated: 2025-08-12_
 - 2025-09-11T08:49:47+00:00: v1.26.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.10 __auto-added__
 - 2025-09-11T18:59:26+00:00: Update template to 0.1.81 (#9811) - https://github.com/comfyanonymous/ComfyUI/commit/df6850fae8a75126cb7a645e38d58cebcfd51096 __auto-added__
 - 2025-09-11T20:45:57+00:00: v1.27.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.3 __auto-added__
+- 2025-09-11T23:33:02+00:00: Fast preview for hunyuan image. (#9814) - https://github.com/comfyanonymous/ComfyUI/commit/18de0b28305fd8bf002d74e91c0630bd76b01d6b __auto-added__
