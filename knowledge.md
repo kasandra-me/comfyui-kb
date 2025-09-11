@@ -249,3 +249,4 @@ _Last updated: 2025-08-12_
 - 2025-09-10T22:21:52+00:00: v0.4.72 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.72 __auto-added__
 - 2025-09-11T03:17:34+00:00: Support hunyuan image distilled model. (#9807) - https://github.com/comfyanonymous/ComfyUI/commit/e01e99d075852b94e93f27ea64ab862a49a7d2cc __auto-added__
 - 2025-09-11T08:49:47+00:00: v1.26.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.10 __auto-added__
+- 2025-09-11T18:59:26+00:00: Update template to 0.1.81 (#9811) - https://github.com/comfyanonymous/ComfyUI/commit/df6850fae8a75126cb7a645e38d58cebcfd51096 __auto-added__
