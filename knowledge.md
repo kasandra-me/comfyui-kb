@@ -247,3 +247,4 @@ _Last updated: 2025-08-12_
 - 2025-09-10T21:25:41+00:00: v0.3.59 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.59 __auto-added__
 - 2025-09-10T21:44:56+00:00: Seedream 4.0 Now Available in ComfyUI! - https://blog.comfy.org/p/seedream-40-now-available-in-comfyui __auto-added__
 - 2025-09-10T22:21:52+00:00: v0.4.72 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.72 __auto-added__
+- 2025-09-11T03:17:34+00:00: Support hunyuan image distilled model. (#9807) - https://github.com/comfyanonymous/ComfyUI/commit/e01e99d075852b94e93f27ea64ab862a49a7d2cc __auto-added__
