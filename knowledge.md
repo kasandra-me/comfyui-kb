@@ -253,3 +253,4 @@ _Last updated: 2025-08-12_
 - 2025-09-11T20:45:57+00:00: v1.27.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.3 __auto-added__
 - 2025-09-11T23:33:02+00:00: Fast preview for hunyuan image. (#9814) - https://github.com/comfyanonymous/ComfyUI/commit/18de0b28305fd8bf002d74e91c0630bd76b01d6b __auto-added__
 - 2025-09-12T04:46:01+00:00: Bump frontend to 1.26.11 (#9809) - https://github.com/comfyanonymous/ComfyUI/commit/d6b977b2e680e98ad18a37ee13783da4f30e15f4 __auto-added__
+- 2025-09-12T20:03:08+00:00: Add noise augmentation to hunyuan image refiner. (#9831) - https://github.com/comfyanonymous/ComfyUI/commit/fd2b820ec28e9575877dc6c51949b2d28dc78894 __auto-added__
