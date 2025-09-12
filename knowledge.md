@@ -256,3 +256,4 @@ _Last updated: 2025-08-12_
 - 2025-09-12T20:03:08+00:00: Add noise augmentation to hunyuan image refiner. (#9831) - https://github.com/comfyanonymous/ComfyUI/commit/fd2b820ec28e9575877dc6c51949b2d28dc78894 __auto-added__
 - 2025-09-12T20:35:34+00:00: Fix hunyuan refiner blownout colors at noise aug less than 0.25 (#9832) - https://github.com/comfyanonymous/ComfyUI/commit/e600520f8aa583c79caa286a8d7d584edc3d059b __auto-added__
 - 2025-09-12T20:40:12+00:00: Set default hunyuan refiner shift to 4.0 (#9833) - https://github.com/comfyanonymous/ComfyUI/commit/7757d5a657cbe9b22d1f3538ee0bc5387d3f5459 __auto-added__
+- 2025-09-12T21:29:03+00:00: add kling-v2-1 model to the KlingStartEndFrame node (#9630) - https://github.com/comfyanonymous/ComfyUI/commit/0aa074a420c450fd7793d83c6f8d66009a1ca2a2 __auto-added__
