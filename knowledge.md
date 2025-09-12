@@ -258,3 +258,4 @@ _Last updated: 2025-08-12_
 - 2025-09-12T20:40:12+00:00: Set default hunyuan refiner shift to 4.0 (#9833) - https://github.com/comfyanonymous/ComfyUI/commit/7757d5a657cbe9b22d1f3538ee0bc5387d3f5459 __auto-added__
 - 2025-09-12T21:29:03+00:00: add kling-v2-1 model to the KlingStartEndFrame node (#9630) - https://github.com/comfyanonymous/ComfyUI/commit/0aa074a420c450fd7793d83c6f8d66009a1ca2a2 __auto-added__
 - 2025-09-12T21:41:26+00:00: convert Moonvalley API nodes to the V3 schema (#9698) - https://github.com/comfyanonymous/ComfyUI/commit/581bae2af30b0839a39734bd97006c4009f9d70a __auto-added__
+- 2025-09-12T22:07:38+00:00: Enable Runtime Selection of Attention Functions (#9639) - https://github.com/comfyanonymous/ComfyUI/commit/d7f40442f91a02946cab7445c6204bf154b1e86f __auto-added__
