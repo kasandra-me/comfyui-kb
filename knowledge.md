@@ -260,3 +260,4 @@ _Last updated: 2025-08-12_
 - 2025-09-12T21:41:26+00:00: convert Moonvalley API nodes to the V3 schema (#9698) - https://github.com/comfyanonymous/ComfyUI/commit/581bae2af30b0839a39734bd97006c4009f9d70a __auto-added__
 - 2025-09-12T22:07:38+00:00: Enable Runtime Selection of Attention Functions (#9639) - https://github.com/comfyanonymous/ComfyUI/commit/d7f40442f91a02946cab7445c6204bf154b1e86f __auto-added__
 - 2025-09-12T23:46:46+00:00: Hunyuan refiner vae now works with tiled. (#9836) - https://github.com/comfyanonymous/ComfyUI/commit/a3b04de7004cc19dee9364bd71e62bab05475810 __auto-added__
+- 2025-09-13T01:57:04+00:00: Cleanup. (#9838) - https://github.com/comfyanonymous/ComfyUI/commit/29bf807b0e2d89402d555d08bd8e9df15e636f0c __auto-added__
