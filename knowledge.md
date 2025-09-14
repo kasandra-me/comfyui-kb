@@ -263,3 +263,4 @@ _Last updated: 2025-08-12_
 - 2025-09-13T01:57:04+00:00: Cleanup. (#9838) - https://github.com/comfyanonymous/ComfyUI/commit/29bf807b0e2d89402d555d08bd8e9df15e636f0c __auto-added__
 - 2025-09-13T20:59:19+00:00: Remove single quote pattern to avoid wrong matches (#9842) - https://github.com/comfyanonymous/ComfyUI/commit/e5e70636e7b7b54695220a88ab036c1607959736 __auto-added__
 - 2025-09-13T22:03:34+00:00: Changes to the previous radiance commit. (#9851) - https://github.com/comfyanonymous/ComfyUI/commit/80b7c9455bf7afba7a9e95a1eb76b172408ab56c __auto-added__
+- 2025-09-14T01:34:21+00:00: Make ModuleNotFoundError ImportError instead (#9850) - https://github.com/comfyanonymous/ComfyUI/commit/f228367c5e3906de194968fa9b6fbe7aa9987bfa __auto-added__
