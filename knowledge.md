@@ -265,3 +265,4 @@ _Last updated: 2025-08-12_
 - 2025-09-13T22:03:34+00:00: Changes to the previous radiance commit. (#9851) - https://github.com/comfyanonymous/ComfyUI/commit/80b7c9455bf7afba7a9e95a1eb76b172408ab56c __auto-added__
 - 2025-09-14T01:34:21+00:00: Make ModuleNotFoundError ImportError instead (#9850) - https://github.com/comfyanonymous/ComfyUI/commit/f228367c5e3906de194968fa9b6fbe7aa9987bfa __auto-added__
 - 2025-09-14T08:05:38+00:00: Add that hunyuan image is supported to readme. (#9857) - https://github.com/comfyanonymous/ComfyUI/commit/4f1f26ac6c11b803bbc83cb347178e2f9b5e421b __auto-added__
+- 2025-09-15T15:05:58+00:00: Comfy Cloud - https://blog.comfy.org/p/comfy-cloud __auto-added__
