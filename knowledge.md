@@ -267,3 +267,4 @@ _Last updated: 2025-08-12_
 - 2025-09-14T08:05:38+00:00: Add that hunyuan image is supported to readme. (#9857) - https://github.com/comfyanonymous/ComfyUI/commit/4f1f26ac6c11b803bbc83cb347178e2f9b5e421b __auto-added__
 - 2025-09-15T15:05:58+00:00: Comfy Cloud - https://blog.comfy.org/p/comfy-cloud __auto-added__
 - 2025-09-15T18:55:33+00:00: v1.27.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.4 __auto-added__
+- 2025-09-15T22:10:55+00:00: Support the omnigen2 umo lora. (#9886) - https://github.com/comfyanonymous/ComfyUI/commit/47a9cde5d3045c42f20baafb9855fb96959124f0 __auto-added__
