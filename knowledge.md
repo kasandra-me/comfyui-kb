@@ -271,3 +271,4 @@ _Last updated: 2025-08-12_
 - 2025-09-16T00:05:03+00:00: Fix depending on asserts to raise an exception in BatchedBrownianTree… - https://github.com/comfyanonymous/ComfyUI/commit/1a85483da159f2800407ae5a8a45eb0d88ffce2d __auto-added__
 - 2025-09-16T05:19:50+00:00: Add encoder part of whisper large v3 as an audio encoder model. (#9894) - https://github.com/comfyanonymous/ComfyUI/commit/a39ac59c3e3fddc8b278899814f0bd5371abb11f __auto-added__
 - 2025-09-16T15:34:49+00:00: Comfy Raises $17M Funding - https://blog.comfy.org/p/comfy-raises-17m-funding __auto-added__
+- 2025-09-16T23:21:14+00:00: Reduce Peak WAN inference VRAM usage (#9898) - https://github.com/comfyanonymous/ComfyUI/commit/e42682b24ef033a93001ba27cc5c5aa461a61d8d __auto-added__
