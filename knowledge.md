@@ -269,3 +269,4 @@ _Last updated: 2025-08-12_
 - 2025-09-15T18:55:33+00:00: v1.27.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.4 __auto-added__
 - 2025-09-15T22:10:55+00:00: Support the omnigen2 umo lora. (#9886) - https://github.com/comfyanonymous/ComfyUI/commit/47a9cde5d3045c42f20baafb9855fb96959124f0 __auto-added__
 - 2025-09-16T00:05:03+00:00: Fix depending on asserts to raise an exception in BatchedBrownianTree… - https://github.com/comfyanonymous/ComfyUI/commit/1a85483da159f2800407ae5a8a45eb0d88ffce2d __auto-added__
+- 2025-09-16T05:19:50+00:00: Add encoder part of whisper large v3 as an audio encoder model. (#9894) - https://github.com/comfyanonymous/ComfyUI/commit/a39ac59c3e3fddc8b278899814f0bd5371abb11f __auto-added__
