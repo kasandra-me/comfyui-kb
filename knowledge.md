@@ -273,3 +273,4 @@ _Last updated: 2025-08-12_
 - 2025-09-16T15:34:49+00:00: Comfy Raises $17M Funding - https://blog.comfy.org/p/comfy-raises-17m-funding __auto-added__
 - 2025-09-16T23:21:14+00:00: Reduce Peak WAN inference VRAM usage (#9898) - https://github.com/comfyanonymous/ComfyUI/commit/e42682b24ef033a93001ba27cc5c5aa461a61d8d __auto-added__
 - 2025-09-17T03:44:03+00:00: v1.27.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.5 __auto-added__
+- 2025-09-17T04:12:48+00:00: Support the HuMo model. (#9903) - https://github.com/comfyanonymous/ComfyUI/commit/9288c78fc5fae74d3fa7787736dea442e996303f __auto-added__
