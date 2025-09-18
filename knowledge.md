@@ -275,3 +275,4 @@ _Last updated: 2025-08-12_
 - 2025-09-17T03:44:03+00:00: v1.27.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.5 __auto-added__
 - 2025-09-17T04:12:48+00:00: Support the HuMo model. (#9903) - https://github.com/comfyanonymous/ComfyUI/commit/9288c78fc5fae74d3fa7787736dea442e996303f __auto-added__
 - 2025-09-17T22:39:24+00:00: Support the HuMo 17B model. (#9912) - https://github.com/comfyanonymous/ComfyUI/commit/dd611a7700956f45f393dee32fb8505de176dc66 __auto-added__
+- 2025-09-18T15:00:55+00:00: "Pose Alchemy": Comfy Challenge #4 Montage & #5 Reveal - https://blog.comfy.org/p/pose-alchemy-comfy-challenge-4-montage __auto-added__
