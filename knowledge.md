@@ -279,3 +279,4 @@ _Last updated: 2025-08-12_
 - 2025-09-18T21:15:46+00:00: v1.28.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.0 __auto-added__
 - 2025-09-18T23:54:16+00:00: Do padding of audio embed in model for humo for more flexibility. (#9… - https://github.com/comfyanonymous/ComfyUI/commit/24b0fce099c56d18ceb1f4f6b9455fee55e154ce __auto-added__
 - 2025-09-19T03:19:22+00:00: v1.26.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.13 __auto-added__
+- 2025-09-19T07:07:17+00:00: Basic WIP support for the wan animate model. (#9939) - https://github.com/comfyanonymous/ComfyUI/commit/dc95b6acc0ef4962460592d417db4024f7160586 __auto-added__
