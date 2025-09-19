@@ -281,3 +281,4 @@ _Last updated: 2025-08-12_
 - 2025-09-19T03:19:22+00:00: v1.26.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.26.13 __auto-added__
 - 2025-09-19T07:07:17+00:00: Basic WIP support for the wan animate model. (#9939) - https://github.com/comfyanonymous/ComfyUI/commit/dc95b6acc0ef4962460592d417db4024f7160586 __auto-added__
 - 2025-09-19T20:04:51+00:00: fix(seedream4): add flag to ignore error on partial success (#9952) - https://github.com/comfyanonymous/ComfyUI/commit/852704c81a652cc53fbe53c5f47dea0e50d0534e __auto-added__
+- 2025-09-19T22:48:56+00:00: Update WanAnimateToVideo to more easily extend videos. (#9959) - https://github.com/comfyanonymous/ComfyUI/commit/e8df53b764c7dfce1a9235f6ee70a17cfdece3ff __auto-added__
