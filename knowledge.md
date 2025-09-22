@@ -289,3 +289,4 @@ _Last updated: 2025-08-12_
 - 2025-09-22T20:49:48+00:00: Support for qwen edit plus model. Use the new TextEncodeQwenImageEdit… - https://github.com/comfyanonymous/ComfyUI/commit/1fee8827cb8160c85d96c375413ac590311525dc __auto-added__
 - 2025-09-22T21:12:32+00:00: add offset param (#9977) - https://github.com/comfyanonymous/ComfyUI/commit/e3206351b07852f2127a56abd898ee77f7f4c25f __auto-added__
 - 2025-09-22T21:26:58+00:00: Fix bug with WanAnimateToVideo node. (#9988) - https://github.com/comfyanonymous/ComfyUI/commit/8a5ac527e60fcd48ec228d309d49ab28ac79def8 __auto-added__
+- 2025-09-22T21:34:33+00:00: Fix bug with WanAnimateToVideo. (#9990) - https://github.com/comfyanonymous/ComfyUI/commit/707b2638ecd82360c0a67e1d86cc4fdeae218d03 __auto-added__
