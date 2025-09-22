@@ -284,3 +284,4 @@ _Last updated: 2025-08-12_
 - 2025-09-19T22:48:56+00:00: Update WanAnimateToVideo to more easily extend videos. (#9959) - https://github.com/comfyanonymous/ComfyUI/commit/e8df53b764c7dfce1a9235f6ee70a17cfdece3ff __auto-added__
 - 2025-09-20T06:24:10+00:00: Add inputs for character replacement to the WanAnimateToVideo node. (… - https://github.com/comfyanonymous/ComfyUI/commit/66241cef31f21247ec8b450d699250fd83b3ff7c __auto-added__
 - 2025-09-21T02:09:35+00:00: Lower wan memory estimation value a bit. (#9964) - https://github.com/comfyanonymous/ComfyUI/commit/d1d9eb94b1096c9b3f963bf152bd6b9cd330c3a4 __auto-added__
+- 2025-09-21T23:48:31+00:00: Set some wan nodes as no longer experimental. (#9976) - https://github.com/comfyanonymous/ComfyUI/commit/27bc181c49249f11da2d8a14f84f3bdb58a0615f __auto-added__
