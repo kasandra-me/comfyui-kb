@@ -287,3 +287,4 @@ _Last updated: 2025-08-12_
 - 2025-09-21T23:48:31+00:00: Set some wan nodes as no longer experimental. (#9976) - https://github.com/comfyanonymous/ComfyUI/commit/27bc181c49249f11da2d8a14f84f3bdb58a0615f __auto-added__
 - 2025-09-22T20:04:04+00:00: v0.4.73 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.73 __auto-added__
 - 2025-09-22T20:49:48+00:00: Support for qwen edit plus model. Use the new TextEncodeQwenImageEdit… - https://github.com/comfyanonymous/ComfyUI/commit/1fee8827cb8160c85d96c375413ac590311525dc __auto-added__
+- 2025-09-22T21:12:32+00:00: add offset param (#9977) - https://github.com/comfyanonymous/ComfyUI/commit/e3206351b07852f2127a56abd898ee77f7f4c25f __auto-added__
