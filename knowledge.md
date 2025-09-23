@@ -292,3 +292,4 @@ _Last updated: 2025-08-12_
 - 2025-09-22T21:34:33+00:00: Fix bug with WanAnimateToVideo. (#9990) - https://github.com/comfyanonymous/ComfyUI/commit/707b2638ecd82360c0a67e1d86cc4fdeae218d03 __auto-added__
 - 2025-09-23T01:38:19+00:00: v1.28.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.1 __auto-added__
 - 2025-09-23T15:22:35+00:00: update template to 0.1.86 (#9998) - https://github.com/comfyanonymous/ComfyUI/commit/145b0e4f79b5d9e815bb781ba29ccd057bb52dab __auto-added__
+- 2025-09-23T15:36:47+00:00: feat(api-nodes): add wan t2i, t2v, i2v nodes (#9996) - https://github.com/comfyanonymous/ComfyUI/commit/e8087907995497c6971ee64bd5fa02cb49c1eda6 __auto-added__
