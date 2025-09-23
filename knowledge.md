@@ -293,3 +293,5 @@ _Last updated: 2025-08-12_
 - 2025-09-23T01:38:19+00:00: v1.28.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.1 __auto-added__
 - 2025-09-23T15:22:35+00:00: update template to 0.1.86 (#9998) - https://github.com/comfyanonymous/ComfyUI/commit/145b0e4f79b5d9e815bb781ba29ccd057bb52dab __auto-added__
 - 2025-09-23T15:36:47+00:00: feat(api-nodes): add wan t2i, t2v, i2v nodes (#9996) - https://github.com/comfyanonymous/ComfyUI/commit/e8087907995497c6971ee64bd5fa02cb49c1eda6 __auto-added__
+- 2025-09-23T15:50:33+00:00: ComfyUI version 0.3.60 - https://github.com/comfyanonymous/ComfyUI/commit/b8730510db30c8858e1e5d8e126ef19eac395560 __auto-added__
+- 2025-09-23T15:50:33+00:00: v0.3.60 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.60 __auto-added__
