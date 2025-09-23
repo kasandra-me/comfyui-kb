@@ -296,3 +296,4 @@ _Last updated: 2025-08-12_
 - 2025-09-23T15:50:33+00:00: ComfyUI version 0.3.60 - https://github.com/comfyanonymous/ComfyUI/commit/b8730510db30c8858e1e5d8e126ef19eac395560 __auto-added__
 - 2025-09-23T15:50:33+00:00: v0.3.60 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.60 __auto-added__
 - 2025-09-23T17:33:50+00:00: v0.4.74 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.74 __auto-added__
+- 2025-09-23T19:55:25+00:00: WAN2.2 Animate & Qwen-Image-Edit 2509 Native Support in ComfyUI - https://blog.comfy.org/p/wan22-animate-and-qwen-image-edit-2509 __auto-added__
