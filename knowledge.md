@@ -291,3 +291,4 @@ _Last updated: 2025-08-12_
 - 2025-09-22T21:26:58+00:00: Fix bug with WanAnimateToVideo node. (#9988) - https://github.com/comfyanonymous/ComfyUI/commit/8a5ac527e60fcd48ec228d309d49ab28ac79def8 __auto-added__
 - 2025-09-22T21:34:33+00:00: Fix bug with WanAnimateToVideo. (#9990) - https://github.com/comfyanonymous/ComfyUI/commit/707b2638ecd82360c0a67e1d86cc4fdeae218d03 __auto-added__
 - 2025-09-23T01:38:19+00:00: v1.28.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.1 __auto-added__
+- 2025-09-23T15:22:35+00:00: update template to 0.1.86 (#9998) - https://github.com/comfyanonymous/ComfyUI/commit/145b0e4f79b5d9e815bb781ba29ccd057bb52dab __auto-added__
