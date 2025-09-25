@@ -304,3 +304,4 @@ _Last updated: 2025-08-12_
 - 2025-09-25T00:09:42+00:00: Fix issue with .view() in HuMo. (#10014) - https://github.com/comfyanonymous/ComfyUI/commit/fccab99ec0fcd13e80fa59bc73bccff31f9450ca __auto-added__
 - 2025-09-25T02:35:12+00:00: Fix memory leak by properly detaching model finalizer (#9979) - https://github.com/comfyanonymous/ComfyUI/commit/c8d2117f02bcad6d8316ffd8273bdc27adf83b44 __auto-added__
 - 2025-09-25T02:23:05+00:00: v1.28.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.2 __auto-added__
+- 2025-09-25T15:03:22+00:00: "Heartbeat": Comfy Challenge #6 X Wan Muse - https://blog.comfy.org/p/comfy-challenge-x-wan __auto-added__
