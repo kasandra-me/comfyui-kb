@@ -301,3 +301,4 @@ _Last updated: 2025-08-12_
 - 2025-09-24T03:44:07+00:00: Wan 2.5 (preview) API Nodes in ComfyUI - https://blog.comfy.org/p/wan-25-preview-api-nodes-in-comfyui __auto-added__
 - 2025-09-24T18:05:37+00:00: Rodin3D - add [Rodin3D Gen-2 generate] api-node (#9994) - https://github.com/comfyanonymous/ComfyUI/commit/341b4adefd308cbcf82c07effc255f2770b3b3e2 __auto-added__
 - 2025-09-24T22:59:29+00:00: Add new audio nodes (#9908) - https://github.com/comfyanonymous/ComfyUI/commit/fd79d32f38fd24adca5a6e8214f05050f287c9db __auto-added__
+- 2025-09-25T00:09:42+00:00: Fix issue with .view() in HuMo. (#10014) - https://github.com/comfyanonymous/ComfyUI/commit/fccab99ec0fcd13e80fa59bc73bccff31f9450ca __auto-added__
