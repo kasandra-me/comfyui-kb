@@ -305,3 +305,4 @@ _Last updated: 2025-08-12_
 - 2025-09-25T02:35:12+00:00: Fix memory leak by properly detaching model finalizer (#9979) - https://github.com/comfyanonymous/ComfyUI/commit/c8d2117f02bcad6d8316ffd8273bdc27adf83b44 __auto-added__
 - 2025-09-25T02:23:05+00:00: v1.28.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.2 __auto-added__
 - 2025-09-25T15:03:22+00:00: "Heartbeat": Comfy Challenge #6 X Wan Muse - https://blog.comfy.org/p/comfy-challenge-x-wan __auto-added__
+- 2025-09-25T21:20:13+00:00: Make LatentCompositeMasked work with basic video latents. (#10023) - https://github.com/comfyanonymous/ComfyUI/commit/ce4cb2389c8ce63cf8735f200b8672a2c1be0950 __auto-added__
