@@ -309,3 +309,4 @@ _Last updated: 2025-08-12_
 - 2025-09-26T04:06:20+00:00: HuMo & Chroma1-Radiance Native Support in ComfyUI - https://blog.comfy.org/p/humo-and-chroma1-radiance-support __auto-added__
 - 2025-09-26T18:12:43+00:00: Fix the failing unit test. (#10037) - https://github.com/comfyanonymous/ComfyUI/commit/2b7f9a8196304badb5fe58e5c734e4b182ad0fdf __auto-added__
 - 2025-09-26T21:08:16+00:00: Add @kosinkadink as code owner (#10041) - https://github.com/comfyanonymous/ComfyUI/commit/c4a46e943c12c7f3f6ac72f8fb51caad514ec9b6 __auto-added__
+- 2025-09-26T21:15:44+00:00: convert CLIPTextEncodeSDXL nodes to V3 schema (#9716) - https://github.com/comfyanonymous/ComfyUI/commit/cd66d72b464fd9d344baa426b50a5f0e5e512f99 __auto-added__
