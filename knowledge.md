@@ -306,3 +306,4 @@ _Last updated: 2025-08-12_
 - 2025-09-25T02:23:05+00:00: v1.28.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.2 __auto-added__
 - 2025-09-25T15:03:22+00:00: "Heartbeat": Comfy Challenge #6 X Wan Muse - https://blog.comfy.org/p/comfy-challenge-x-wan __auto-added__
 - 2025-09-25T21:20:13+00:00: Make LatentCompositeMasked work with basic video latents. (#10023) - https://github.com/comfyanonymous/ComfyUI/commit/ce4cb2389c8ce63cf8735f200b8672a2c1be0950 __auto-added__
+- 2025-09-26T04:06:20+00:00: HuMo & Chroma1-Radiance Native Support in ComfyUI - https://blog.comfy.org/p/humo-and-chroma1-radiance-support __auto-added__
