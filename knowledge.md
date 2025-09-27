@@ -312,3 +312,4 @@ _Last updated: 2025-08-12_
 - 2025-09-26T21:15:44+00:00: convert CLIPTextEncodeSDXL nodes to V3 schema (#9716) - https://github.com/comfyanonymous/ComfyUI/commit/cd66d72b464fd9d344baa426b50a5f0e5e512f99 __auto-added__
 - 2025-09-26T22:34:17+00:00: Don't add template to qwen2.5vl when template is in prompt. (#10043) - https://github.com/comfyanonymous/ComfyUI/commit/1e098d61327e1c02c1a47b2626514474aa8e3c7e __auto-added__
 - 2025-09-27T02:55:03+00:00: Add 'input_cond' and 'input_uncond' to the args dictionary passed int… - https://github.com/comfyanonymous/ComfyUI/commit/196954ab8c55bc4ac48113686a57ce250677c7b5 __auto-added__
+- 2025-09-27T04:29:13+00:00: Add workflow templates version tracking to system_stats (#9089) - https://github.com/comfyanonymous/ComfyUI/commit/255572188f79e5c58fa997bf73529021129459a9 __auto-added__
