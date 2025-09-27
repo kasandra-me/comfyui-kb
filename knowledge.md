@@ -315,3 +315,4 @@ _Last updated: 2025-08-12_
 - 2025-09-27T04:29:13+00:00: Add workflow templates version tracking to system_stats (#9089) - https://github.com/comfyanonymous/ComfyUI/commit/255572188f79e5c58fa997bf73529021129459a9 __auto-added__
 - 2025-09-27T06:13:05+00:00: convert nodes_hidream.py to V3 schema (#9946) - https://github.com/comfyanonymous/ComfyUI/commit/a9cf1cd249773632949bec2262f921f64378127f __auto-added__
 - 2025-09-27T09:28:11+00:00: convert nodes_luma.py to V3 schema (#10030) - https://github.com/comfyanonymous/ComfyUI/commit/bcfd80dd79ccfa77a7da69380795fbb55b65b1ba __auto-added__
+- 2025-09-27T09:36:43+00:00: convert nodes_photomaker.py to V3 schema (#10017) - https://github.com/comfyanonymous/ComfyUI/commit/7eca95657cf7a70c15d598c969b890a164a300a1 __auto-added__
