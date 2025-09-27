@@ -311,3 +311,4 @@ _Last updated: 2025-08-12_
 - 2025-09-26T21:08:16+00:00: Add @kosinkadink as code owner (#10041) - https://github.com/comfyanonymous/ComfyUI/commit/c4a46e943c12c7f3f6ac72f8fb51caad514ec9b6 __auto-added__
 - 2025-09-26T21:15:44+00:00: convert CLIPTextEncodeSDXL nodes to V3 schema (#9716) - https://github.com/comfyanonymous/ComfyUI/commit/cd66d72b464fd9d344baa426b50a5f0e5e512f99 __auto-added__
 - 2025-09-26T22:34:17+00:00: Don't add template to qwen2.5vl when template is in prompt. (#10043) - https://github.com/comfyanonymous/ComfyUI/commit/1e098d61327e1c02c1a47b2626514474aa8e3c7e __auto-added__
+- 2025-09-27T02:55:03+00:00: Add 'input_cond' and 'input_uncond' to the args dictionary passed int… - https://github.com/comfyanonymous/ComfyUI/commit/196954ab8c55bc4ac48113686a57ce250677c7b5 __auto-added__
