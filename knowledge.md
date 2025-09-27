@@ -313,3 +313,4 @@ _Last updated: 2025-08-12_
 - 2025-09-26T22:34:17+00:00: Don't add template to qwen2.5vl when template is in prompt. (#10043) - https://github.com/comfyanonymous/ComfyUI/commit/1e098d61327e1c02c1a47b2626514474aa8e3c7e __auto-added__
 - 2025-09-27T02:55:03+00:00: Add 'input_cond' and 'input_uncond' to the args dictionary passed int… - https://github.com/comfyanonymous/ComfyUI/commit/196954ab8c55bc4ac48113686a57ce250677c7b5 __auto-added__
 - 2025-09-27T04:29:13+00:00: Add workflow templates version tracking to system_stats (#9089) - https://github.com/comfyanonymous/ComfyUI/commit/255572188f79e5c58fa997bf73529021129459a9 __auto-added__
+- 2025-09-27T06:13:05+00:00: convert nodes_hidream.py to V3 schema (#9946) - https://github.com/comfyanonymous/ComfyUI/commit/a9cf1cd249773632949bec2262f921f64378127f __auto-added__
