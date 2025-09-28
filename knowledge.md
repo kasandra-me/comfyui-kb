@@ -319,3 +319,4 @@ _Last updated: 2025-08-12_
 - 2025-09-27T19:25:35+00:00: convert nodes_qwen.py to V3 schema (#10049) - https://github.com/comfyanonymous/ComfyUI/commit/160698eb418269d64fbbe8c34db27a4d1ddb0540 __auto-added__
 - 2025-09-27T22:07:53+00:00: v1.28.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.3 __auto-added__
 - 2025-09-27T22:14:16+00:00: Reduce Peak WAN inference VRAM usage - part II (#10062) - https://github.com/comfyanonymous/ComfyUI/commit/653ceab4148a9fbc050ebceb674acef760792b77 __auto-added__
+- 2025-09-28T00:28:49+00:00: Improvements to the stable release workflow. (#10065) - https://github.com/comfyanonymous/ComfyUI/commit/40ae495ddcbc04846e91ccad3e844bb34d98c6fd __auto-added__
