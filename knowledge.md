@@ -321,3 +321,4 @@ _Last updated: 2025-08-12_
 - 2025-09-27T22:14:16+00:00: Reduce Peak WAN inference VRAM usage - part II (#10062) - https://github.com/comfyanonymous/ComfyUI/commit/653ceab4148a9fbc050ebceb674acef760792b77 __auto-added__
 - 2025-09-28T00:28:49+00:00: Improvements to the stable release workflow. (#10065) - https://github.com/comfyanonymous/ComfyUI/commit/40ae495ddcbc04846e91ccad3e844bb34d98c6fd __auto-added__
 - 2025-09-28T02:36:02+00:00: feat: ComfyUI can be run on the specified Ascend NPU (#9663) - https://github.com/comfyanonymous/ComfyUI/commit/1364548c721a466adcdc60e49ee291b0d4255245 __auto-added__
+- 2025-09-28T02:43:25+00:00: Fix stable workflow creating multiple draft releases. (#10067) - https://github.com/comfyanonymous/ComfyUI/commit/555f902fc1ed20e98201f9102172f0fc190c2c42 __auto-added__
