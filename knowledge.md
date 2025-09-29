@@ -325,3 +325,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-09-28T17:41:32+00:00: Update command to install latest nighly pytorch. (#10085) - https://github.com/comfyanonymous/ComfyUI/commit/b60dc316272ba139e06b8a7b2f5f5b622c9afe20 __priority-auto-added__
 - 2025-09-29T19:05:28+00:00: convert nodes_perpneg.py to V3 schema (#10081) - https://github.com/comfyanonymous/ComfyUI/commit/041b8824f50e01803637d5e83c3f4edaf628f43a __auto-added__
 - 2025-09-29T19:16:02+00:00: dont cache new locale entry points (#10101) - https://github.com/comfyanonymous/ComfyUI/commit/ed0f4a609b5e6821f97db5cb1715068c25f78e7b __auto-added__
+- 2025-09-29T19:35:51+00:00: convert nodes_mahiro.py to V3 schema (#10070) - https://github.com/comfyanonymous/ComfyUI/commit/8accf50908094d9cd39168981fa5394274d25491 __auto-added__
