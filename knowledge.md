@@ -324,3 +324,4 @@ _Last updated: 2025-08-12_
 - 2025-09-28T02:43:25+00:00: Fix stable workflow creating multiple draft releases. (#10067) - https://github.com/comfyanonymous/ComfyUI/commit/555f902fc1ed20e98201f9102172f0fc190c2c42 __auto-added__
 - 🔥 2025-09-28T17:41:32+00:00: Update command to install latest nighly pytorch. (#10085) - https://github.com/comfyanonymous/ComfyUI/commit/b60dc316272ba139e06b8a7b2f5f5b622c9afe20 __priority-auto-added__
 - 2025-09-29T19:05:28+00:00: convert nodes_perpneg.py to V3 schema (#10081) - https://github.com/comfyanonymous/ComfyUI/commit/041b8824f50e01803637d5e83c3f4edaf628f43a __auto-added__
+- 2025-09-29T19:16:02+00:00: dont cache new locale entry points (#10101) - https://github.com/comfyanonymous/ComfyUI/commit/ed0f4a609b5e6821f97db5cb1715068c25f78e7b __auto-added__
