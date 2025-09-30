@@ -329,3 +329,5 @@ _Last updated: 2025-08-12_
 - 🔥 2025-09-29T21:27:52+00:00: Add action to create cached deps with manually specified torch. (#10102) - https://github.com/comfyanonymous/ComfyUI/commit/7f38e4c538de2fa38d0539c18577cdd0e5d251c2 __priority-auto-added__
 - 2025-09-29T23:08:42+00:00: Make the final release test optional in the stable release action. (#… - https://github.com/comfyanonymous/ComfyUI/commit/1673ace19b9d63a8dc0d388aafdb54abf2497892 __auto-added__
 - 2025-09-30T00:37:51+00:00: Make stable release workflow callable. (#10108) - https://github.com/comfyanonymous/ComfyUI/commit/447884b65740d9f4160ef13d55adb49ca111140e __auto-added__
+- 2025-09-30T03:04:42+00:00: ComfyUI version 0.3.61 - https://github.com/comfyanonymous/ComfyUI/commit/977a4ed8c55ade53d0d6cfe1fe8a6396ee35a2ec __auto-added__
+- 2025-09-30T03:04:42+00:00: v0.3.61 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.61 __auto-added__
