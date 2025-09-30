@@ -334,3 +334,4 @@ _Last updated: 2025-08-12_
 - 2025-09-30T03:11:37+00:00: Workflow permission fix. (#10110) - https://github.com/comfyanonymous/ComfyUI/commit/6e079abc3a3fc0fb98e2a0848877874151310ed1 __auto-added__
 - 2025-09-30T04:02:56+00:00: v0.4.75 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.75 __auto-added__
 - 2025-09-30T16:17:49+00:00: Add new portable links to readme. (#10112) - https://github.com/comfyanonymous/ComfyUI/commit/f48d7230de2f7b10fe8bfda3d7f53241d19c7266 __auto-added__
+- 2025-09-30T17:21:47+00:00: fix(Rodin3D-Gen2): missing "task_uuid" parameter (#10128) - https://github.com/comfyanonymous/ComfyUI/commit/631b9ae861bf8bdd3c538da232e4c8938448e59d __auto-added__
