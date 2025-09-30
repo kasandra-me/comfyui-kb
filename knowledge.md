@@ -335,3 +335,4 @@ _Last updated: 2025-08-12_
 - 2025-09-30T04:02:56+00:00: v0.4.75 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.75 __auto-added__
 - 2025-09-30T16:17:49+00:00: Add new portable links to readme. (#10112) - https://github.com/comfyanonymous/ComfyUI/commit/f48d7230de2f7b10fe8bfda3d7f53241d19c7266 __auto-added__
 - 2025-09-30T17:21:47+00:00: fix(Rodin3D-Gen2): missing "task_uuid" parameter (#10128) - https://github.com/comfyanonymous/ComfyUI/commit/631b9ae861bf8bdd3c538da232e4c8938448e59d __auto-added__
+- 2025-09-30T17:43:41+00:00: enable Seedance Pro model in the FirstLastFrame node (#10120) - https://github.com/comfyanonymous/ComfyUI/commit/b682a73c55a6434fdd9293d45ace969597f8ad65 __auto-added__
