@@ -338,3 +338,5 @@ _Last updated: 2025-08-12_
 - 2025-09-30T17:43:41+00:00: enable Seedance Pro model in the FirstLastFrame node (#10120) - https://github.com/comfyanonymous/ComfyUI/commit/b682a73c55a6434fdd9293d45ace969597f8ad65 __auto-added__
 - 2025-09-30T19:12:07+00:00: ComfyUI version 0.3.62. - https://github.com/comfyanonymous/ComfyUI/commit/bab8ba20bf47d985d6b1d73627c2add76bd4e716 __auto-added__
 - 2025-09-30T19:12:07+00:00: v0.3.62 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.62 __auto-added__
+- 2025-09-30T20:00:10+00:00: v1.27.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.7 __auto-added__
+- 2025-09-30T20:06:07+00:00: v0.4.76 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.76 __auto-added__
