@@ -331,3 +331,4 @@ _Last updated: 2025-08-12_
 - 2025-09-30T00:37:51+00:00: Make stable release workflow callable. (#10108) - https://github.com/comfyanonymous/ComfyUI/commit/447884b65740d9f4160ef13d55adb49ca111140e __auto-added__
 - 2025-09-30T03:04:42+00:00: ComfyUI version 0.3.61 - https://github.com/comfyanonymous/ComfyUI/commit/977a4ed8c55ade53d0d6cfe1fe8a6396ee35a2ec __auto-added__
 - 2025-09-30T03:04:42+00:00: v0.3.61 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.61 __auto-added__
+- 2025-09-30T03:11:37+00:00: Workflow permission fix. (#10110) - https://github.com/comfyanonymous/ComfyUI/commit/6e079abc3a3fc0fb98e2a0848877874151310ed1 __auto-added__
