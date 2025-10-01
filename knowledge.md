@@ -347,3 +347,4 @@ _Last updated: 2025-08-12_
 - 2025-10-01T19:26:11+00:00: Comfy Challenge #6: Heartbeat - https://blog.comfy.org/p/comfy-challenge-6-heartbeat __auto-added__
 - 2025-10-01T21:19:13+00:00: Support the new hunyuan vae. (#10150) - https://github.com/comfyanonymous/ComfyUI/commit/a6f83a4a1a70d720c16d66feb5d87fee5998acdf __auto-added__
 - 2025-10-01T21:59:07+00:00: feat: Add Epsilon Scaling node for exposure bias correction (#10132) - https://github.com/comfyanonymous/ComfyUI/commit/bb32d4ec3141333df26fcdaee0c3c08e41b7b249 __auto-added__
+- 2025-10-01T22:42:16+00:00: WAN: Fix cache VRAM leak on error (#10141) - https://github.com/comfyanonymous/ComfyUI/commit/4965c0e2acf39d84e82cb63dd6cc4400299d0a61 __auto-added__
