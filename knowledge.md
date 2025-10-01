@@ -342,3 +342,4 @@ _Last updated: 2025-08-12_
 - 2025-09-30T20:06:07+00:00: v0.4.76 - https://github.com/Comfy-Org/desktop/releases/tag/v0.4.76 __auto-added__
 - 2025-10-01T04:42:57+00:00: v1.28.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.4 __auto-added__
 - 2025-10-01T05:12:32+00:00: Bump frontend to 1.27.7 (#10133) - https://github.com/comfyanonymous/ComfyUI/commit/c4a8cf60ab5d6eaf052b7a08f5ee97104acf7a2f __auto-added__
+- 2025-10-01T06:00:22+00:00: convert nodes_audio_encoder.py to V3 schema (#10123) - https://github.com/comfyanonymous/ComfyUI/commit/638097829d2352a1c78ab4fbb1e028d1e7cff012 __auto-added__
