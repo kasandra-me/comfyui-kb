@@ -344,3 +344,4 @@ _Last updated: 2025-08-12_
 - 2025-10-01T05:12:32+00:00: Bump frontend to 1.27.7 (#10133) - https://github.com/comfyanonymous/ComfyUI/commit/c4a8cf60ab5d6eaf052b7a08f5ee97104acf7a2f __auto-added__
 - 2025-10-01T06:00:22+00:00: convert nodes_audio_encoder.py to V3 schema (#10123) - https://github.com/comfyanonymous/ComfyUI/commit/638097829d2352a1c78ab4fbb1e028d1e7cff012 __auto-added__
 - 2025-10-01T19:20:30+00:00: convert nodes_ip2p.pt to V3 schema (#10097) - https://github.com/comfyanonymous/ComfyUI/commit/e4f99b479a19730bea890567129f4032b4dd4787 __auto-added__
+- 2025-10-01T19:26:11+00:00: Comfy Challenge #6: Heartbeat - https://blog.comfy.org/p/comfy-challenge-6-heartbeat __auto-added__
