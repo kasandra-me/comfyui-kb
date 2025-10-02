@@ -352,3 +352,4 @@ _Last updated: 2025-08-12_
 - 2025-10-02T20:53:00+00:00: convert nodes_morphology.py to V3 schema (#10159) - https://github.com/comfyanonymous/ComfyUI/commit/8f4ee9984c0c3864290e4fea81cfea2ba281717d __auto-added__
 - 🔥 2025-10-02T21:57:15+00:00: Turn on TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL by default. (#10168) - https://github.com/comfyanonymous/ComfyUI/commit/e9364ee279f65d0546fea1796c3cd2e0b7e1965f __priority-auto-added__
 - 2025-10-02T22:20:29+00:00: update example_node to use V3 schema (#9723) - https://github.com/comfyanonymous/ComfyUI/commit/1395bce9f707e52ec613eeaa87ea690518cfe0a8 __auto-added__
+- 2025-10-02T23:14:28+00:00: feat(linter, api-nodes): add pylint for comfy_api_nodes folder (#10157) - https://github.com/comfyanonymous/ComfyUI/commit/4ffea0e864275301329ddb5ecc3fbc7211d7a802 __auto-added__
