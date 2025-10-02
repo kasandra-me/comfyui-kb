@@ -350,3 +350,4 @@ _Last updated: 2025-08-12_
 - 2025-10-01T22:42:16+00:00: WAN: Fix cache VRAM leak on error (#10141) - https://github.com/comfyanonymous/ComfyUI/commit/4965c0e2acf39d84e82cb63dd6cc4400299d0a61 __auto-added__
 - 2025-10-02T04:33:05+00:00: Add a .bat to the AMD portable to disable smart memory. (#10153) - https://github.com/comfyanonymous/ComfyUI/commit/0e9d1724be327c79ba86159d868f0b57adb8c384 __auto-added__
 - 2025-10-02T20:53:00+00:00: convert nodes_morphology.py to V3 schema (#10159) - https://github.com/comfyanonymous/ComfyUI/commit/8f4ee9984c0c3864290e4fea81cfea2ba281717d __auto-added__
+- 🔥 2025-10-02T21:57:15+00:00: Turn on TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL by default. (#10168) - https://github.com/comfyanonymous/ComfyUI/commit/e9364ee279f65d0546fea1796c3cd2e0b7e1965f __priority-auto-added__
