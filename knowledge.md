@@ -359,3 +359,4 @@ _Last updated: 2025-08-12_
 - 2025-10-03T18:50:38+00:00: convert nodes_tomesd.py to V3 schema (#10180) - https://github.com/comfyanonymous/ComfyUI/commit/5c8e986e273d8af8b976fddbaed726e8278cf1fe __auto-added__
 - 2025-10-03T20:24:42+00:00: convert nodes_edit_model.py to V3 schema (#10147) - https://github.com/comfyanonymous/ComfyUI/commit/4614ee09ca1aaca7ee8067d6c5c30695582326ff __auto-added__
 - 2025-10-03T21:32:19+00:00: Fix type annotation syntax in MotionEncoder_tc __init__ (#10186) - https://github.com/comfyanonymous/ComfyUI/commit/93d859cfaaad150c2a1e5e54c8f14765fa79ecb5 __auto-added__
+- 2025-10-03T22:22:43+00:00: Update amd nightly command in readme. (#10189) - https://github.com/comfyanonymous/ComfyUI/commit/08726b64fe767f47bf074a05bedd6db45314c4c9 __auto-added__
