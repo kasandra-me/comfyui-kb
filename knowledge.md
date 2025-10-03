@@ -357,3 +357,4 @@ _Last updated: 2025-08-12_
 - 2025-10-03T15:02:57+00:00: Frame Control Unlocked: Seedance Pro in ComfyUI - https://blog.comfy.org/p/frame-control-unlocked-seedance-pro __auto-added__
 - 🔥 2025-10-03T18:43:54+00:00: convert nodes_torch_compile.py to V3 schema (#10173) - https://github.com/comfyanonymous/ComfyUI/commit/3e68bc342cd60b909b4117c1b68a3afc62ef875c __priority-auto-added__
 - 2025-10-03T18:50:38+00:00: convert nodes_tomesd.py to V3 schema (#10180) - https://github.com/comfyanonymous/ComfyUI/commit/5c8e986e273d8af8b976fddbaed726e8278cf1fe __auto-added__
+- 2025-10-03T20:24:42+00:00: convert nodes_edit_model.py to V3 schema (#10147) - https://github.com/comfyanonymous/ComfyUI/commit/4614ee09ca1aaca7ee8067d6c5c30695582326ff __auto-added__
