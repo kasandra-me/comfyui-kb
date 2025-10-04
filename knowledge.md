@@ -361,3 +361,4 @@ _Last updated: 2025-08-12_
 - 2025-10-03T21:32:19+00:00: Fix type annotation syntax in MotionEncoder_tc __init__ (#10186) - https://github.com/comfyanonymous/ComfyUI/commit/93d859cfaaad150c2a1e5e54c8f14765fa79ecb5 __auto-added__
 - 2025-10-03T22:22:43+00:00: Update amd nightly command in readme. (#10189) - https://github.com/comfyanonymous/ComfyUI/commit/08726b64fe767f47bf074a05bedd6db45314c4c9 __auto-added__
 - 🔥 2025-10-04T03:37:43+00:00: Add instructions to install nightly AMD pytorch for windows. (#10190) - https://github.com/comfyanonymous/ComfyUI/commit/bbd683098e7d18700f025b2f0a4f6a44a3176602 __priority-auto-added__
+- 2025-10-04T19:33:48+00:00: convert nodes_stable3d.py to V3 schema (#10204) - https://github.com/comfyanonymous/ComfyUI/commit/b1fa1922df597af759150f4e26ecb276c9753ee4 __auto-added__
