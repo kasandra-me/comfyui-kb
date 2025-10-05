@@ -364,3 +364,4 @@ _Last updated: 2025-08-12_
 - 2025-10-04T19:33:48+00:00: convert nodes_stable3d.py to V3 schema (#10204) - https://github.com/comfyanonymous/ComfyUI/commit/b1fa1922df597af759150f4e26ecb276c9753ee4 __auto-added__
 - 🔥 2025-10-05T02:05:05+00:00: Remove soundfile dependency. No more torchaudio load or save. (#10210) - https://github.com/comfyanonymous/ComfyUI/commit/caf07331ff1b20f4104b9693ed244d6e22f80b5a __priority-auto-added__
 - 2025-10-05T06:34:18+00:00: fix(api-nodes): disable "std" mode for Kling2.5-turbo (#10212) - https://github.com/comfyanonymous/ComfyUI/commit/187f43696dd58f252075d2e3c6873706eb6b5fa1 __auto-added__
+- 2025-10-05T19:41:19+00:00: Remove useless code. (#10223) - https://github.com/comfyanonymous/ComfyUI/commit/195e0b063950f585fe584c5ce7b0b689f8d20ff8 __auto-added__
