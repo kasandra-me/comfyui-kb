@@ -370,3 +370,4 @@ _Last updated: 2025-08-12_
 - 2025-10-06T18:49:04+00:00: ComfyUI version 0.3.63 - https://github.com/comfyanonymous/ComfyUI/commit/6bd3f8eb9ff2d7c74e8ca75ad1f854a6b256b714 __auto-added__
 - 2025-10-06T18:49:04+00:00: v0.3.63 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.63 __auto-added__
 - 2025-10-06T20:31:14+00:00: ComfyUI 0.3.63: Subgraph Publishing, Selection Toolbox Redesign - https://blog.comfy.org/p/comfyui-0363-subgraph-publishing __auto-added__
+- 2025-10-06T23:05:57+00:00: fix(api-nodes): enable more pylint rules (#10213) - https://github.com/comfyanonymous/ComfyUI/commit/6ae35158013e50698e680344ab1f54de0d59fef0 __auto-added__
