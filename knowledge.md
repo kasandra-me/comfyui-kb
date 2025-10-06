@@ -367,3 +367,5 @@ _Last updated: 2025-08-12_
 - 2025-10-05T19:41:19+00:00: Remove useless code. (#10223) - https://github.com/comfyanonymous/ComfyUI/commit/195e0b063950f585fe584c5ce7b0b689f8d20ff8 __auto-added__
 - 2025-10-06T04:55:59+00:00: v1.28.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.6 __auto-added__
 - 2025-10-06T17:57:00+00:00: Update template to 0.1.93 (#10235) - https://github.com/comfyanonymous/ComfyUI/commit/7326e46deeab97219cad32d0624991f9ffea4fe5 __auto-added__
+- 2025-10-06T18:49:04+00:00: ComfyUI version 0.3.63 - https://github.com/comfyanonymous/ComfyUI/commit/6bd3f8eb9ff2d7c74e8ca75ad1f854a6b256b714 __auto-added__
+- 2025-10-06T18:49:04+00:00: v0.3.63 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.63 __auto-added__
