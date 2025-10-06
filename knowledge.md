@@ -366,3 +366,4 @@ _Last updated: 2025-08-12_
 - 2025-10-05T06:34:18+00:00: fix(api-nodes): disable "std" mode for Kling2.5-turbo (#10212) - https://github.com/comfyanonymous/ComfyUI/commit/187f43696dd58f252075d2e3c6873706eb6b5fa1 __auto-added__
 - 2025-10-05T19:41:19+00:00: Remove useless code. (#10223) - https://github.com/comfyanonymous/ComfyUI/commit/195e0b063950f585fe584c5ce7b0b689f8d20ff8 __auto-added__
 - 2025-10-06T04:55:59+00:00: v1.28.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.6 __auto-added__
+- 2025-10-06T17:57:00+00:00: Update template to 0.1.93 (#10235) - https://github.com/comfyanonymous/ComfyUI/commit/7326e46deeab97219cad32d0624991f9ffea4fe5 __auto-added__
