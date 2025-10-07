@@ -375,3 +375,4 @@ _Last updated: 2025-08-12_
 - 2025-10-06T23:26:52+00:00: convert nodes_kling.py to V3 schema (#10236) - https://github.com/comfyanonymous/ComfyUI/commit/8c1991042795d06c7ccfd5d1931eb994044c75ef __auto-added__
 - 2025-10-07T02:08:08+00:00: Implement gemma 3 as a text encoder. (#10241) - https://github.com/comfyanonymous/ComfyUI/commit/8aea746212dc1bb1601b4dc5e8c8093d2221d89c __auto-added__
 - 2025-10-07T03:08:12+00:00: v0.5.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.0 __auto-added__
+- 2025-10-07T20:15:32+00:00: fix(ReCraft-API-node): allow custom multipart parser to return FormDa… - https://github.com/comfyanonymous/ComfyUI/commit/fc34c3d1125e970699dcb311323839ed6dda4985 __auto-added__
