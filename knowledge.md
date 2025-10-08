@@ -382,3 +382,5 @@ _Last updated: 2025-08-12_
 - 2025-10-08T00:54:00+00:00: Bump frontend to 1.27.10 (#10252) - https://github.com/comfyanonymous/ComfyUI/commit/19f595b788bd227004a5f7232f3b5895b46411ea __auto-added__
 - 2025-10-08T01:13:49+00:00: Sora 2 API Nodes Now in ComfyUI - https://blog.comfy.org/p/sora-2-api-nodes-now-in-comfyui __auto-added__
 - 2025-10-08T02:48:51+00:00: update template to 0.1.94 (#10253) - https://github.com/comfyanonymous/ComfyUI/commit/51697d50dc94005b1c279eb0cf45207697946020 __auto-added__
+- 2025-10-08T04:53:43+00:00: ComfyUI version 0.3.64 - https://github.com/comfyanonymous/ComfyUI/commit/637221995f7424a561bd825de3e61ea117dfe1e3 __auto-added__
+- 2025-10-08T04:53:43+00:00: v0.3.64 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.64 __auto-added__
