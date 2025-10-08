@@ -384,3 +384,4 @@ _Last updated: 2025-08-12_
 - 2025-10-08T02:48:51+00:00: update template to 0.1.94 (#10253) - https://github.com/comfyanonymous/ComfyUI/commit/51697d50dc94005b1c279eb0cf45207697946020 __auto-added__
 - 2025-10-08T04:53:43+00:00: ComfyUI version 0.3.64 - https://github.com/comfyanonymous/ComfyUI/commit/637221995f7424a561bd825de3e61ea117dfe1e3 __auto-added__
 - 2025-10-08T04:53:43+00:00: v0.3.64 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.64 __auto-added__
+- 2025-10-08T05:24:46+00:00: v0.5.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.1 __auto-added__
