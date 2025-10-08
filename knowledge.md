@@ -388,3 +388,4 @@ _Last updated: 2025-08-12_
 - 2025-10-08T07:14:04+00:00: feat(V3-io): allow Enum classes for Combo options (#10237) - https://github.com/comfyanonymous/ComfyUI/commit/3e0eb8d33f9a65f2a01430f1b4a1535348af881c __auto-added__
 - 2025-10-08T15:27:50+00:00: 5.5.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.5.0 __auto-added__
 - 2025-10-08T19:52:23+00:00: v1.29.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.29.0 __auto-added__
+- 2025-10-08T21:49:02+00:00: Refactor model sampling sigmas code. (#10250) - https://github.com/comfyanonymous/ComfyUI/commit/6e59934089df3375e39db174340b6a937b226c83 __auto-added__
