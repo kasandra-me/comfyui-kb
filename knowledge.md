@@ -386,3 +386,4 @@ _Last updated: 2025-08-12_
 - 2025-10-08T04:53:43+00:00: v0.3.64 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.64 __auto-added__
 - 2025-10-08T05:24:46+00:00: v0.5.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.1 __auto-added__
 - 2025-10-08T07:14:04+00:00: feat(V3-io): allow Enum classes for Combo options (#10237) - https://github.com/comfyanonymous/ComfyUI/commit/3e0eb8d33f9a65f2a01430f1b4a1535348af881c __auto-added__
+- 2025-10-08T15:27:50+00:00: 5.5.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.5.0 __auto-added__
