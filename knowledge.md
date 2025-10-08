@@ -377,3 +377,5 @@ _Last updated: 2025-08-12_
 - 2025-10-07T03:08:12+00:00: v0.5.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.0 __auto-added__
 - 2025-10-07T20:15:32+00:00: fix(ReCraft-API-node): allow custom multipart parser to return FormDa… - https://github.com/comfyanonymous/ComfyUI/commit/fc34c3d1125e970699dcb311323839ed6dda4985 __auto-added__
 - 2025-10-07T21:11:37+00:00: feat(api-nodes): add Sora2 API node (#10249) - https://github.com/comfyanonymous/ComfyUI/commit/9e984c48bc6a1d1c82231c46542995dbf5a265d7 __auto-added__
+- 2025-10-07T23:55:23+00:00: Temp fix for LTXV custom nodes. (#10251) - https://github.com/comfyanonymous/ComfyUI/commit/8a15568f10c0622a7281c32fadffc51511e53c10 __auto-added__
+- 2025-10-08T00:44:50+00:00: v1.27.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.10 __auto-added__
