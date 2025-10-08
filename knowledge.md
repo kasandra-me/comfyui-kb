@@ -379,3 +379,5 @@ _Last updated: 2025-08-12_
 - 2025-10-07T21:11:37+00:00: feat(api-nodes): add Sora2 API node (#10249) - https://github.com/comfyanonymous/ComfyUI/commit/9e984c48bc6a1d1c82231c46542995dbf5a265d7 __auto-added__
 - 2025-10-07T23:55:23+00:00: Temp fix for LTXV custom nodes. (#10251) - https://github.com/comfyanonymous/ComfyUI/commit/8a15568f10c0622a7281c32fadffc51511e53c10 __auto-added__
 - 2025-10-08T00:44:50+00:00: v1.27.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.27.10 __auto-added__
+- 2025-10-08T00:54:00+00:00: Bump frontend to 1.27.10 (#10252) - https://github.com/comfyanonymous/ComfyUI/commit/19f595b788bd227004a5f7232f3b5895b46411ea __auto-added__
+- 2025-10-08T01:13:49+00:00: Sora 2 API Nodes Now in ComfyUI - https://blog.comfy.org/p/sora-2-api-nodes-now-in-comfyui __auto-added__
