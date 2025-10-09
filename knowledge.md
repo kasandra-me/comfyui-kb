@@ -393,3 +393,4 @@ _Last updated: 2025-08-12_
 - 2025-10-09T06:14:00+00:00: convert nodes_latent.py to V3 schema (#10160) - https://github.com/comfyanonymous/ComfyUI/commit/cbee7d33909f168a08ab7e53d897ea284a304d84 __auto-added__
 - 2025-10-09T20:37:35+00:00: More surgical fix for #10267 (#10276) - https://github.com/comfyanonymous/ComfyUI/commit/139addd53c6cab97fb0ac28d1c895b3ecc7dff6c __auto-added__
 - 2025-10-09T22:18:23+00:00: convert nodes_sd3.py and nodes_slg.py to V3 schema (#10162) - https://github.com/comfyanonymous/ComfyUI/commit/fc0fbf141c7deb444fe730af2f2db8e2beddaf60 __auto-added__
+- 2025-10-09T23:08:40+00:00: convert nodes_upscale_model.py to V3 schema (#10149) - https://github.com/comfyanonymous/ComfyUI/commit/81e4dac107c24b1655babc47c99c33551c96a644 __auto-added__
