@@ -391,3 +391,4 @@ _Last updated: 2025-08-12_
 - 2025-10-08T21:49:02+00:00: Refactor model sampling sigmas code. (#10250) - https://github.com/comfyanonymous/ComfyUI/commit/6e59934089df3375e39db174340b6a937b226c83 __auto-added__
 - 2025-10-09T00:30:41+00:00: Mvly/node update (#10042) - https://github.com/comfyanonymous/ComfyUI/commit/72c2071972d3207ed92bc20535299c5f39622818 __auto-added__
 - 2025-10-09T06:14:00+00:00: convert nodes_latent.py to V3 schema (#10160) - https://github.com/comfyanonymous/ComfyUI/commit/cbee7d33909f168a08ab7e53d897ea284a304d84 __auto-added__
+- 2025-10-09T20:37:35+00:00: More surgical fix for #10267 (#10276) - https://github.com/comfyanonymous/ComfyUI/commit/139addd53c6cab97fb0ac28d1c895b3ecc7dff6c __auto-added__
