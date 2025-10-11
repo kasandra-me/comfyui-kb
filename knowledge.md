@@ -396,3 +396,4 @@ _Last updated: 2025-08-12_
 - 2025-10-09T23:08:40+00:00: convert nodes_upscale_model.py to V3 schema (#10149) - https://github.com/comfyanonymous/ComfyUI/commit/81e4dac107c24b1655babc47c99c33551c96a644 __auto-added__
 - 2025-10-10T21:33:51+00:00: Fix save audio nodes saving mono audio as stereo. (#10289) - https://github.com/comfyanonymous/ComfyUI/commit/cdfc25a1605add750a3b1a83360b84e8e95324c6 __auto-added__
 - 2025-10-10T23:21:40+00:00: feat(api-nodes): add price extractor feature; small fixes to Kling & … - https://github.com/comfyanonymous/ComfyUI/commit/14d642acd66973c81a806dc6f0562d89b4ba3506 __auto-added__
+- 2025-10-11T03:32:00+00:00: v1.29.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.29.1 __auto-added__
