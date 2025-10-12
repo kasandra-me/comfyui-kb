@@ -398,3 +398,4 @@ _Last updated: 2025-08-12_
 - 2025-10-10T23:21:40+00:00: feat(api-nodes): add price extractor feature; small fixes to Kling & … - https://github.com/comfyanonymous/ComfyUI/commit/14d642acd66973c81a806dc6f0562d89b4ba3506 __auto-added__
 - 2025-10-11T03:32:00+00:00: v1.29.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.29.1 __auto-added__
 - 2025-10-11T17:27:22+00:00: Update template to 0.1.95 (#10294) - https://github.com/comfyanonymous/ComfyUI/commit/f43b8ab2a2eda034651187222829f72aa82eae6c __auto-added__
+- 2025-10-12T02:57:23+00:00: Implement the mmaudio VAE. (#10300) - https://github.com/comfyanonymous/ComfyUI/commit/84e9ce32c6d9d340404ee0798a426dae52bbee8b __auto-added__
