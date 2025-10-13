@@ -401,3 +401,4 @@ _Last updated: 2025-08-12_
 - 2025-10-12T02:57:23+00:00: Implement the mmaudio VAE. (#10300) - https://github.com/comfyanonymous/ComfyUI/commit/84e9ce32c6d9d340404ee0798a426dae52bbee8b __auto-added__
 - 🔥 2025-10-12T04:28:01+00:00: Improve AMD performance. (#10302) - https://github.com/comfyanonymous/ComfyUI/commit/a125cd84b054a57729b5eecab930ca9408719832 __priority-auto-added__
 - 2025-10-13T03:32:02+00:00: Update node docs to 0.3.0 (#10318) - https://github.com/comfyanonymous/ComfyUI/commit/fdc92863b6dc6d0edff85e6dbb6a2382046c020d __auto-added__
+- 2025-10-13T03:54:41+00:00: Update the extra_model_paths.yaml.example (#10319) - https://github.com/comfyanonymous/ComfyUI/commit/d68ece7301c63da11e0b565da0ecc2900c8ea447 __auto-added__
