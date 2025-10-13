@@ -404,3 +404,4 @@ _Last updated: 2025-08-12_
 - 2025-10-13T03:54:41+00:00: Update the extra_model_paths.yaml.example (#10319) - https://github.com/comfyanonymous/ComfyUI/commit/d68ece7301c63da11e0b565da0ecc2900c8ea447 __auto-added__
 - 2025-10-13T18:57:27+00:00: Always set diffusion model to eval() mode. (#10331) - https://github.com/comfyanonymous/ComfyUI/commit/e693e4db6a2df8482599eed348be15f87799b910 __auto-added__
 - 2025-10-13T19:14:52+00:00: add indent=4 kwarg to json.dumps() (#10307) - https://github.com/comfyanonymous/ComfyUI/commit/27ffd12c45d4237338fe8789779313db9bab59f1 __auto-added__
+- 2025-10-13T19:23:11+00:00: WAN2.2: Fix cache VRAM leak on error (#10308) - https://github.com/comfyanonymous/ComfyUI/commit/95ca2e56c82c1c714dba685bd81ebf3f7baf8efa __auto-added__
