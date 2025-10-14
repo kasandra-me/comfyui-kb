@@ -408,3 +408,5 @@ _Last updated: 2025-08-12_
 - 2025-10-13T19:36:26+00:00: convert nodes_hunyuan.py to V3 schema (#10136) - https://github.com/comfyanonymous/ComfyUI/commit/3dfdcf66b643b6c191743d3b30fd8198ce690f2d __auto-added__
 - 2025-10-13T23:56:15+00:00: ComfyUI on NVIDIA DGX Spark - https://blog.comfy.org/p/comfyui-on-nvidia-dgx-spark __auto-added__
 - 2025-10-14T02:18:58+00:00: Fix loading old stable diffusion ckpt files on newer numpy. (#10333) - https://github.com/comfyanonymous/ComfyUI/commit/e4ea3936660a8f8dfa2467e51631362b04ad47e8 __auto-added__
+- 2025-10-14T02:37:19+00:00: Better memory estimation for the SD/Flux VAE on AMD. (#10334) - https://github.com/comfyanonymous/ComfyUI/commit/dfff7e5332530b7278c1f90c51aed525db53489e __auto-added__
+- 2025-10-14T03:10:30+00:00: 🚀 ComfyUI Frontend v1.29.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.29.2 __auto-added__
