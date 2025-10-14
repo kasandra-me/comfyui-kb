@@ -412,3 +412,4 @@ _Last updated: 2025-08-12_
 - 2025-10-14T03:10:30+00:00: 🚀 ComfyUI Frontend v1.29.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.29.2 __auto-added__
 - 2025-10-14T03:39:55+00:00: ComfyUI version 0.3.65 - https://github.com/comfyanonymous/ComfyUI/commit/51696e3fdcdfad657cb15854345fbcbbe70eef8d __auto-added__
 - 2025-10-14T03:39:55+00:00: v0.3.65 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.65 __auto-added__
+- 2025-10-14T03:43:53+00:00: Faster workflow cancelling. (#10301) - https://github.com/comfyanonymous/ComfyUI/commit/3374e900d0f310100ebe54944175a36f287110cb __auto-added__
