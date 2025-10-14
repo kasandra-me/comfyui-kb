@@ -414,3 +414,4 @@ _Last updated: 2025-08-12_
 - 2025-10-14T03:39:55+00:00: v0.3.65 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.65 __auto-added__
 - 2025-10-14T03:43:53+00:00: Faster workflow cancelling. (#10301) - https://github.com/comfyanonymous/ComfyUI/commit/3374e900d0f310100ebe54944175a36f287110cb __auto-added__
 - 2025-10-14T05:09:19+00:00: v0.5.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.2 __auto-added__
+- 2025-10-14T06:09:12+00:00: Python 3.14 instructions. (#10337) - https://github.com/comfyanonymous/ComfyUI/commit/84867067ea588e2a3d38a54dc34d86c96d706487 __auto-added__
