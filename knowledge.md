@@ -406,3 +406,4 @@ _Last updated: 2025-08-12_
 - 2025-10-13T19:14:52+00:00: add indent=4 kwarg to json.dumps() (#10307) - https://github.com/comfyanonymous/ComfyUI/commit/27ffd12c45d4237338fe8789779313db9bab59f1 __auto-added__
 - 2025-10-13T19:23:11+00:00: WAN2.2: Fix cache VRAM leak on error (#10308) - https://github.com/comfyanonymous/ComfyUI/commit/95ca2e56c82c1c714dba685bd81ebf3f7baf8efa __auto-added__
 - 2025-10-13T19:36:26+00:00: convert nodes_hunyuan.py to V3 schema (#10136) - https://github.com/comfyanonymous/ComfyUI/commit/3dfdcf66b643b6c191743d3b30fd8198ce690f2d __auto-added__
+- 2025-10-13T23:56:15+00:00: ComfyUI on NVIDIA DGX Spark - https://blog.comfy.org/p/comfyui-on-nvidia-dgx-spark __auto-added__
