@@ -416,3 +416,4 @@ _Last updated: 2025-08-12_
 - 2025-10-14T05:09:19+00:00: v0.5.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.2 __auto-added__
 - 2025-10-14T06:09:12+00:00: Python 3.14 instructions. (#10337) - https://github.com/comfyanonymous/ComfyUI/commit/84867067ea588e2a3d38a54dc34d86c96d706487 __auto-added__
 - 2025-10-14T06:55:56+00:00: api-nodes: fixed dynamic pricing format; import comfy_io directly (#1… - https://github.com/comfyanonymous/ComfyUI/commit/7a883849ea21003a5a649276a4cd322cb6c2ff0b __auto-added__
+- 2025-10-15T01:08:23+00:00: Bump frontend to 1.28.6 (#10345) - https://github.com/comfyanonymous/ComfyUI/commit/ddfce1af4fc76768dbdd0cc4fa22d47b20a8b876 __auto-added__
