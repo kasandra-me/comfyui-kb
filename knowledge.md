@@ -419,3 +419,4 @@ _Last updated: 2025-08-12_
 - 2025-10-15T01:08:23+00:00: Bump frontend to 1.28.6 (#10345) - https://github.com/comfyanonymous/ComfyUI/commit/ddfce1af4fc76768dbdd0cc4fa22d47b20a8b876 __auto-added__
 - 2025-10-15T04:21:11+00:00: gfx942 doesn't support fp8 operations. (#10348) - https://github.com/comfyanonymous/ComfyUI/commit/1c10b33f9bbc75114053bc041851b60767791783 __auto-added__
 - 2025-10-15T22:12:25+00:00: Add TemporalScoreRescaling node (#10351) - https://github.com/comfyanonymous/ComfyUI/commit/f72c6616b2e91e4021591895192cef8b9d4d1c75 __auto-added__
+- 2025-10-15T22:41:45+00:00: feat(api-nodes): add Veo3.1 model (#10357) - https://github.com/comfyanonymous/ComfyUI/commit/74b7f0b04ba19926286518b0a0179290b79bfae0 __auto-added__
