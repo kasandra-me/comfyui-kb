@@ -423,3 +423,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-10-15T22:48:12+00:00: Latest pytorch stable is cu130 (#10361) - https://github.com/comfyanonymous/ComfyUI/commit/6b035bfce25b5336ed2a39c72972a8a36a80f9bd __priority-auto-added__
 - 2025-10-15T23:47:26+00:00: Fix order of inputs nested merge_nested_dicts (#10362) - https://github.com/comfyanonymous/ComfyUI/commit/493b81e48f4067da95e4cee36d42a3516338da79 __auto-added__
 - 2025-10-16T00:16:09+00:00: refactor: Replace manual patches merging with merge_nested_dicts (#10… - https://github.com/comfyanonymous/ComfyUI/commit/afa8a24fe1f81d447b961fdf41f47f9094d28919 __auto-added__
+- 2025-10-16T03:16:28+00:00: v1.28.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.7 __auto-added__
