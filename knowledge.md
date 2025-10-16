@@ -426,3 +426,4 @@ _Last updated: 2025-08-12_
 - 2025-10-16T03:16:28+00:00: v1.28.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.7 __auto-added__
 - 2025-10-16T03:30:39+00:00: Bump frontend to 1.28.7 (#10364) - https://github.com/comfyanonymous/ComfyUI/commit/55ac7d333c55d808be33c590a4a2e6c965d5f9a8 __auto-added__
 - 2025-10-16T03:25:25+00:00: Veo 3.1 is now available in ComfyUI! - https://blog.comfy.org/p/veo-31-is-now-available-in-comfyui __auto-added__
+- 2025-10-16T08:13:31+00:00: feat: deprecated API alert (#10366) - https://github.com/comfyanonymous/ComfyUI/commit/4054b4bf38d11fc0c784c2d19f5fc0ed3bbc7ae4 __auto-added__
