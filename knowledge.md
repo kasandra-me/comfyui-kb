@@ -431,3 +431,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-10-16T22:16:03+00:00: Workaround for nvidia issue where VAE uses 3x more memory on torch 2.… - https://github.com/comfyanonymous/ComfyUI/commit/19b466160c1cd43f707769adef6f8ed6e9fd50bf __priority-auto-added__
 - 2025-10-16T23:59:56+00:00: workaround also works on cudnn 91200 (#10375) - https://github.com/comfyanonymous/ComfyUI/commit/b1293d50eff5f1ff2e54f73114fbe7c0f9aef8fe __auto-added__
 - 2025-10-17T02:15:55+00:00: 🚀 ComfyUI Frontend v1.30.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.30.0 __auto-added__
+- 2025-10-17T02:34:47+00:00: Introducing ImagenWorld: A Real World Benchmark for Image Generation and Editing - https://blog.comfy.org/p/introducing-imagenworld __auto-added__
