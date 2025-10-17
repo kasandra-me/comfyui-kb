@@ -429,3 +429,4 @@ _Last updated: 2025-08-12_
 - 2025-10-16T08:13:31+00:00: feat: deprecated API alert (#10366) - https://github.com/comfyanonymous/ComfyUI/commit/4054b4bf38d11fc0c784c2d19f5fc0ed3bbc7ae4 __auto-added__
 - 2025-10-16T17:12:50+00:00: fix(api-nodes): remove "veo2" model from Veo3 node (#10372) - https://github.com/comfyanonymous/ComfyUI/commit/bc0ad9bb49b642e081f99f92d239d634988d52bc __auto-added__
 - 🔥 2025-10-16T22:16:03+00:00: Workaround for nvidia issue where VAE uses 3x more memory on torch 2.… - https://github.com/comfyanonymous/ComfyUI/commit/19b466160c1cd43f707769adef6f8ed6e9fd50bf __priority-auto-added__
+- 2025-10-16T23:59:56+00:00: workaround also works on cudnn 91200 (#10375) - https://github.com/comfyanonymous/ComfyUI/commit/b1293d50eff5f1ff2e54f73114fbe7c0f9aef8fe __auto-added__
