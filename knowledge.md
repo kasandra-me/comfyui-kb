@@ -437,3 +437,4 @@ _Last updated: 2025-08-12_
 - 2025-10-17T21:13:05+00:00: convert nodes_controlnet.py to V3 schema (#10202) - https://github.com/comfyanonymous/ComfyUI/commit/99ce2a1f66c4bcd500d76cc9a7430f7b2bf32776 __auto-added__
 - 2025-10-17T22:22:59+00:00: Update Python 3.14 installation instructions (#10385) - https://github.com/comfyanonymous/ComfyUI/commit/92d97380bd02d9883295aeb2d29365cecd9a765e __auto-added__
 - 🔥 2025-10-18T00:03:28+00:00: Disable torch compiler for cast_bias_weight function (#10384) - https://github.com/comfyanonymous/ComfyUI/commit/9da397ea2f271080406f0c14cf4f0db7221ddf70 __priority-auto-added__
+- 2025-10-18T11:26:13+00:00: v1.30.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.30.1 __auto-added__
