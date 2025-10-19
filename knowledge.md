@@ -441,3 +441,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-10-19T02:35:46+00:00: Turn off cuda malloc by default when --fast autotune is turned on. (#… - https://github.com/comfyanonymous/ComfyUI/commit/5b80addafd24bda5b2f9f7a35e32dbd40823c3fd __priority-auto-added__
 - 2025-10-19T03:19:52+00:00: Speed up chroma radiance. (#10395) - https://github.com/comfyanonymous/ComfyUI/commit/dad076aee68ab676fb390d9663ab9e343824a080 __auto-added__
 - 🔥 2025-10-19T05:25:35+00:00: Pytorch is stupid. (#10398) - https://github.com/comfyanonymous/ComfyUI/commit/b4f30bd4087a79b4c4fc89bb67b9889adb866294 __priority-auto-added__
+- 2025-10-19T20:05:46+00:00: Deprecation warning on unused files (#10387) - https://github.com/comfyanonymous/ComfyUI/commit/b5c59b763c6b14e1362ec4274b09eca4f3f7091b __auto-added__
