@@ -444,3 +444,4 @@ _Last updated: 2025-08-12_
 - 2025-10-19T20:05:46+00:00: Deprecation warning on unused files (#10387) - https://github.com/comfyanonymous/ComfyUI/commit/b5c59b763c6b14e1362ec4274b09eca4f3f7091b __auto-added__
 - 2025-10-20T19:28:36+00:00: Update template to 0.2.1 (#10413) - https://github.com/comfyanonymous/ComfyUI/commit/a4787ac83bf6c83eeb459ed80fc9b36f63d2a3a7 __auto-added__
 - 2025-10-20T19:43:24+00:00: Log message for cudnn disable on  AMD. (#10418) - https://github.com/comfyanonymous/ComfyUI/commit/2c2aa409b01f513de88d2245931e5836ed1cd718 __auto-added__
+- 2025-10-20T23:03:06+00:00: Revert "execution: fold in dependency aware caching / Fix --cache-non… - https://github.com/comfyanonymous/ComfyUI/commit/b7992f871af38d89a459080caa57cc359ed93a46 __auto-added__
