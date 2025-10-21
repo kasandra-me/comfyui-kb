@@ -447,3 +447,4 @@ _Last updated: 2025-08-12_
 - 2025-10-20T23:03:06+00:00: Revert "execution: fold in dependency aware caching / Fix --cache-non… - https://github.com/comfyanonymous/ComfyUI/commit/b7992f871af38d89a459080caa57cc359ed93a46 __auto-added__
 - 2025-10-21T05:12:32+00:00: ComfyUI version v0.3.66 - https://github.com/comfyanonymous/ComfyUI/commit/560b1bdfca77d9441ca2924fd9d6baa8dda05cd7 __auto-added__
 - 2025-10-21T05:12:32+00:00: v0.3.66 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.66 __auto-added__
+- 2025-10-21T19:28:01+00:00: v0.5.3 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.3 __auto-added__
