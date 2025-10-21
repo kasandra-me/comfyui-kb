@@ -448,3 +448,4 @@ _Last updated: 2025-08-12_
 - 2025-10-21T05:12:32+00:00: ComfyUI version v0.3.66 - https://github.com/comfyanonymous/ComfyUI/commit/560b1bdfca77d9441ca2924fd9d6baa8dda05cd7 __auto-added__
 - 2025-10-21T05:12:32+00:00: v0.3.66 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.66 __auto-added__
 - 2025-10-21T19:28:01+00:00: v0.5.3 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.3 __auto-added__
+- 2025-10-21T20:05:40+00:00: New in ComfyUI: Easy Subgraph Editing & New Template Library - https://blog.comfy.org/p/comfyui-0366-updates __auto-added__
