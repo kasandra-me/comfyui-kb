@@ -451,3 +451,4 @@ _Last updated: 2025-08-12_
 - 2025-10-21T20:05:40+00:00: New in ComfyUI: Easy Subgraph Editing & New Template Library - https://blog.comfy.org/p/comfyui-0366-updates __auto-added__
 - 2025-10-21T21:16:02+00:00: v1.29.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.29.3 __auto-added__
 - 2025-10-21T23:15:23+00:00: Only disable cudnn on newer AMD GPUs. (#10437) - https://github.com/comfyanonymous/ComfyUI/commit/9cdc64998f8990aed7688b0ebe89bc3b97733764 __auto-added__
+- 2025-10-22T03:16:16+00:00: Add custom node published subgraphs endpoint (#10438) - https://github.com/comfyanonymous/ComfyUI/commit/f13cff0be65e35d34876b173bba2fec6bd94746b __auto-added__
