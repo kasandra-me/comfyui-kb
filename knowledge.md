@@ -453,3 +453,4 @@ _Last updated: 2025-08-12_
 - 2025-10-21T23:15:23+00:00: Only disable cudnn on newer AMD GPUs. (#10437) - https://github.com/comfyanonymous/ComfyUI/commit/9cdc64998f8990aed7688b0ebe89bc3b97733764 __auto-added__
 - 2025-10-22T03:16:16+00:00: Add custom node published subgraphs endpoint (#10438) - https://github.com/comfyanonymous/ComfyUI/commit/f13cff0be65e35d34876b173bba2fec6bd94746b __auto-added__
 - 2025-10-22T19:49:05+00:00: execution: fold in dependency aware caching / Fix --cache-none with l… - https://github.com/comfyanonymous/ComfyUI/commit/4739d7717fea56750d0ef98c64268d9c1e487d78 __auto-added__
+- 2025-10-22T21:26:22+00:00: Small readme improvement. (#10442) - https://github.com/comfyanonymous/ComfyUI/commit/a1864c01f29cc43fe6bf823fc3fd46ba2781c2e0 __auto-added__
