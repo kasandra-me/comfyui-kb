@@ -457,3 +457,4 @@ _Last updated: 2025-08-12_
 - 2025-10-22T22:44:50+00:00: v1.30.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.30.2 __auto-added__
 - 2025-10-24T01:21:14+00:00: WIP way to support multi multi dimensional latents. (#10456) - https://github.com/comfyanonymous/ComfyUI/commit/1bcda6df987a6c92b39d8b6d29e0b029450d67d0 __auto-added__
 - 2025-10-24T05:37:16+00:00: feat(api-nodes): network client v2: async ops, cancellation, download… - https://github.com/comfyanonymous/ComfyUI/commit/388b306a2b48070737b092b51e76de933baee9ad __auto-added__
+- 2025-10-24T22:48:34+00:00: convert Tripo API nodes to V3 schema (#10469) - https://github.com/comfyanonymous/ComfyUI/commit/dd5af0c5871376c377b2e30f9725b67a768eea6f __auto-added__
