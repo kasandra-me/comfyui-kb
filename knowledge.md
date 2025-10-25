@@ -459,3 +459,4 @@ _Last updated: 2025-08-12_
 - 2025-10-24T05:37:16+00:00: feat(api-nodes): network client v2: async ops, cancellation, download… - https://github.com/comfyanonymous/ComfyUI/commit/388b306a2b48070737b092b51e76de933baee9ad __auto-added__
 - 2025-10-24T22:48:34+00:00: convert Tripo API nodes to V3 schema (#10469) - https://github.com/comfyanonymous/ComfyUI/commit/dd5af0c5871376c377b2e30f9725b67a768eea6f __auto-added__
 - 2025-10-24T23:56:51+00:00: Remove useless function (#10472) - https://github.com/comfyanonymous/ComfyUI/commit/426cde37f10dc391f9601ab938e02c0faa42db14 __auto-added__
+- 2025-10-25T02:24:56+00:00: v1.30.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.30.3 __auto-added__
