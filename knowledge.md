@@ -461,3 +461,4 @@ _Last updated: 2025-08-12_
 - 2025-10-24T23:56:51+00:00: Remove useless function (#10472) - https://github.com/comfyanonymous/ComfyUI/commit/426cde37f10dc391f9601ab938e02c0faa42db14 __auto-added__
 - 2025-10-25T02:24:56+00:00: v1.30.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.30.3 __auto-added__
 - 2025-10-25T21:35:30+00:00: convert Gemini API nodes to V3 schema (#10476) - https://github.com/comfyanonymous/ComfyUI/commit/e86b79ab9ea7e740b80490353f3f5763840ede81 __auto-added__
+- 🔥 2025-10-26T00:05:22+00:00: Add warning for torch-directml usage (#10482) - https://github.com/comfyanonymous/ComfyUI/commit/098a352f136c610071bcb74f13e5b0ca16e6e7b3 __priority-auto-added__
