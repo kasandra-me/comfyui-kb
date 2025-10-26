@@ -463,3 +463,4 @@ _Last updated: 2025-08-12_
 - 2025-10-25T21:35:30+00:00: convert Gemini API nodes to V3 schema (#10476) - https://github.com/comfyanonymous/ComfyUI/commit/e86b79ab9ea7e740b80490353f3f5763840ede81 __auto-added__
 - 🔥 2025-10-26T00:05:22+00:00: Add warning for torch-directml usage (#10482) - https://github.com/comfyanonymous/ComfyUI/commit/098a352f136c610071bcb74f13e5b0ca16e6e7b3 __priority-auto-added__
 - 2025-10-26T03:07:29+00:00: Fix mistake. (#10484) - https://github.com/comfyanonymous/ComfyUI/commit/f6bbc1ac846b7d9a73ae50c3a45cf5a41058c54d __auto-added__
+- 2025-10-26T06:51:06+00:00: fix(api-nodes): random issues on Windows by capturing general OSError… - https://github.com/comfyanonymous/ComfyUI/commit/9d529e53084bdec28f684f3886a26c93598e7338 __auto-added__
