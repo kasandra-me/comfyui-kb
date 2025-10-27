@@ -464,3 +464,5 @@ _Last updated: 2025-08-12_
 - 🔥 2025-10-26T00:05:22+00:00: Add warning for torch-directml usage (#10482) - https://github.com/comfyanonymous/ComfyUI/commit/098a352f136c610071bcb74f13e5b0ca16e6e7b3 __priority-auto-added__
 - 2025-10-26T03:07:29+00:00: Fix mistake. (#10484) - https://github.com/comfyanonymous/ComfyUI/commit/f6bbc1ac846b7d9a73ae50c3a45cf5a41058c54d __auto-added__
 - 2025-10-26T06:51:06+00:00: fix(api-nodes): random issues on Windows by capturing general OSError… - https://github.com/comfyanonymous/ComfyUI/commit/9d529e53084bdec28f684f3886a26c93598e7338 __auto-added__
+- 🔥 2025-10-27T00:23:01+00:00: Bump portable deps workflow to torch cu130 python 3.13.9 (#10493) - https://github.com/comfyanonymous/ComfyUI/commit/c170fd2db598a0bdce56f80e22e83e10ad731421 __priority-auto-added__
+- 2025-10-27T00:22:46+00:00: v1.31.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.31.0 __auto-added__
