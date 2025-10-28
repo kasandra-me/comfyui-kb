@@ -479,3 +479,4 @@ _Last updated: 2025-08-12_
 - 2025-10-28T21:38:05+00:00: convert nodes_recraft.py to V3 schema (#10507) - https://github.com/comfyanonymous/ComfyUI/commit/210f7a1ba580d57d817ca68346cb72b8d0a26ad2 __auto-added__
 - 2025-10-28T22:07:45+00:00: v1.31.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.31.1 __auto-added__
 - 2025-10-28T21:54:31+00:00: LTX-2 Now Available in ComfyUI! - https://blog.comfy.org/p/ltx-2-now-available-in-comfyui __auto-added__
+- 2025-10-28T22:16:54+00:00: v0.5.4 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.4 __auto-added__
