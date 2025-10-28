@@ -472,3 +472,4 @@ _Last updated: 2025-08-12_
 - 2025-10-28T07:03:59+00:00: ComfyUI version v0.3.67 - https://github.com/comfyanonymous/ComfyUI/commit/f2bb3230b796f6a486894fc3b597db2c0b9538c9 __auto-added__
 - 2025-10-28T07:03:59+00:00: v0.3.67 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.67 __auto-added__
 - 2025-10-28T07:23:52+00:00: Remove comfy api key from queue api. (#10502) - https://github.com/comfyanonymous/ComfyUI/commit/8cf2ba4ba64203551276513068ee81145e90f0bc __auto-added__
+- 2025-10-28T08:45:45+00:00: Tell users to update nvidia drivers if problem with portable. (#10510) - https://github.com/comfyanonymous/ComfyUI/commit/3bea4efc6b23d76c6b0672cd90421a9024e13fdb __auto-added__
