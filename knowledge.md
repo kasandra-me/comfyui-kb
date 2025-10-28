@@ -469,3 +469,5 @@ _Last updated: 2025-08-12_
 - 2025-10-28T03:54:00+00:00: Add a bat to run comfyui portable without api nodes. (#10504) - https://github.com/comfyanonymous/ComfyUI/commit/601ee1775a3c06c9b4de1fa7d808af8625b2fcd5 __auto-added__
 - 2025-10-28T05:25:29+00:00: feat(api-nodes): add LTXV API nodes (#10496) - https://github.com/comfyanonymous/ComfyUI/commit/55bad303754eb60fa98f3ccf598e95502b819149 __auto-added__
 - 2025-10-28T05:56:30+00:00: Update template to 0.2.4 (#10505) - https://github.com/comfyanonymous/ComfyUI/commit/6abc30aae9bd13f31dafd32552a365f2df2cf715 __auto-added__
+- 2025-10-28T07:03:59+00:00: ComfyUI version v0.3.67 - https://github.com/comfyanonymous/ComfyUI/commit/f2bb3230b796f6a486894fc3b597db2c0b9538c9 __auto-added__
+- 2025-10-28T07:03:59+00:00: v0.3.67 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.67 __auto-added__
