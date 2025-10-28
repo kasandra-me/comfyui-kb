@@ -474,3 +474,4 @@ _Last updated: 2025-08-12_
 - 2025-10-28T07:23:52+00:00: Remove comfy api key from queue api. (#10502) - https://github.com/comfyanonymous/ComfyUI/commit/8cf2ba4ba64203551276513068ee81145e90f0bc __auto-added__
 - 2025-10-28T08:45:45+00:00: Tell users to update nvidia drivers if problem with portable. (#10510) - https://github.com/comfyanonymous/ComfyUI/commit/3bea4efc6b23d76c6b0672cd90421a9024e13fdb __auto-added__
 - 2025-10-28T18:49:07+00:00: v1.28.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.8 __auto-added__
+- 2025-10-28T19:08:08+00:00: Tell users to update their nvidia drivers if portable doesn't start. … - https://github.com/comfyanonymous/ComfyUI/commit/22e40d2ace0f53da025b3a41cbe4b664ef807097 __auto-added__
