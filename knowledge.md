@@ -475,3 +475,4 @@ _Last updated: 2025-08-12_
 - 2025-10-28T08:45:45+00:00: Tell users to update nvidia drivers if problem with portable. (#10510) - https://github.com/comfyanonymous/ComfyUI/commit/3bea4efc6b23d76c6b0672cd90421a9024e13fdb __auto-added__
 - 2025-10-28T18:49:07+00:00: v1.28.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.28.8 __auto-added__
 - 2025-10-28T19:08:08+00:00: Tell users to update their nvidia drivers if portable doesn't start. … - https://github.com/comfyanonymous/ComfyUI/commit/22e40d2ace0f53da025b3a41cbe4b664ef807097 __auto-added__
+- 2025-10-28T20:22:08+00:00: execution: Allow a subgraph nodes to execute multiple times (#10499) - https://github.com/comfyanonymous/ComfyUI/commit/d202c2ba7404affd58a2199aeb514b3cc48e0ef3 __auto-added__
