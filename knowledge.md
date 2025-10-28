@@ -466,3 +466,4 @@ _Last updated: 2025-08-12_
 - 2025-10-26T06:51:06+00:00: fix(api-nodes): random issues on Windows by capturing general OSError… - https://github.com/comfyanonymous/ComfyUI/commit/9d529e53084bdec28f684f3886a26c93598e7338 __auto-added__
 - 🔥 2025-10-27T00:23:01+00:00: Bump portable deps workflow to torch cu130 python 3.13.9 (#10493) - https://github.com/comfyanonymous/ComfyUI/commit/c170fd2db598a0bdce56f80e22e83e10ad731421 __priority-auto-added__
 - 2025-10-27T00:22:46+00:00: v1.31.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.31.0 __auto-added__
+- 2025-10-28T03:54:00+00:00: Add a bat to run comfyui portable without api nodes. (#10504) - https://github.com/comfyanonymous/ComfyUI/commit/601ee1775a3c06c9b4de1fa7d808af8625b2fcd5 __auto-added__
