@@ -485,3 +485,4 @@ _Last updated: 2025-08-12_
 - 2025-10-29T18:14:56+00:00: use new API client in Luma and Minimax nodes (#10528) - https://github.com/comfyanonymous/ComfyUI/commit/6c14f3afac0ea28dba24fe8783e7c1f09c03b31f __auto-added__
 - 2025-10-29T19:43:51+00:00: Reduce memory usage for fp8 scaled op. (#10531) - https://github.com/comfyanonymous/ComfyUI/commit/1a58087ac2eb64be3645934d0025aafaa5bdce38 __auto-added__
 - 2025-10-29T19:48:06+00:00: Fix case of weights not being unpinned. (#10533) - https://github.com/comfyanonymous/ComfyUI/commit/ec4fc2a09a390d0d81500c51fb9e4d8a7a5ce1fc __auto-added__
+- 2025-10-29T21:20:27+00:00: Try to fix slow load issue on low ram hardware with pinned mem. (#10536) - https://github.com/comfyanonymous/ComfyUI/commit/25de7b1bfa22dd98922f047a1342cc97f8e46c5b __auto-added__
