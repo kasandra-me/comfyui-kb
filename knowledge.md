@@ -483,3 +483,4 @@ _Last updated: 2025-08-12_
 - 2025-10-29T04:37:00+00:00: Fix issue. (#10527) - https://github.com/comfyanonymous/ComfyUI/commit/e525673f7201b6c49af0fa0e6baf44e4e98bb10c __auto-added__
 - 2025-10-29T16:25:18+00:00: Comfy Challenge #8: Spooky Renders! - https://blog.comfy.org/p/comfy-challenge-8-spooky-renders __auto-added__
 - 2025-10-29T18:14:56+00:00: use new API client in Luma and Minimax nodes (#10528) - https://github.com/comfyanonymous/ComfyUI/commit/6c14f3afac0ea28dba24fe8783e7c1f09c03b31f __auto-added__
+- 2025-10-29T19:43:51+00:00: Reduce memory usage for fp8 scaled op. (#10531) - https://github.com/comfyanonymous/ComfyUI/commit/1a58087ac2eb64be3645934d0025aafaa5bdce38 __auto-added__
