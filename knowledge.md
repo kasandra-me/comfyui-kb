@@ -487,3 +487,4 @@ _Last updated: 2025-08-12_
 - 2025-10-29T19:48:06+00:00: Fix case of weights not being unpinned. (#10533) - https://github.com/comfyanonymous/ComfyUI/commit/ec4fc2a09a390d0d81500c51fb9e4d8a7a5ce1fc __auto-added__
 - 2025-10-29T21:20:27+00:00: Try to fix slow load issue on low ram hardware with pinned mem. (#10536) - https://github.com/comfyanonymous/ComfyUI/commit/25de7b1bfa22dd98922f047a1342cc97f8e46c5b __auto-added__
 - 2025-10-29T23:37:06+00:00: Add units/info for the numbers displayed on 'load completely' and 'lo… - https://github.com/comfyanonymous/ComfyUI/commit/998bf60bebd03e57a55e106434657849342b733f __auto-added__
+- 2025-10-30T06:49:03+00:00: use new API client in Pixverse and Ideogram nodes (#10543) - https://github.com/comfyanonymous/ComfyUI/commit/163b629c70a349c7d1e91eebc5365713e770af8a __auto-added__
