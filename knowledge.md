@@ -489,3 +489,4 @@ _Last updated: 2025-08-12_
 - 2025-10-29T23:37:06+00:00: Add units/info for the numbers displayed on 'load completely' and 'lo… - https://github.com/comfyanonymous/ComfyUI/commit/998bf60bebd03e57a55e106434657849342b733f __auto-added__
 - 2025-10-30T06:49:03+00:00: use new API client in Pixverse and Ideogram nodes (#10543) - https://github.com/comfyanonymous/ComfyUI/commit/163b629c70a349c7d1e91eebc5365713e770af8a __auto-added__
 - 2025-10-30T17:06:53+00:00: v0.5.5 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.5 __auto-added__
+- 2025-10-30T17:22:35+00:00: fix img2img operation in Dall2 node (#10552) - https://github.com/comfyanonymous/ComfyUI/commit/dfac94695be95076d8028d04005a744f3ec0de8d __auto-added__
