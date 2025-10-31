@@ -494,3 +494,4 @@ _Last updated: 2025-08-12_
 - 2025-10-31T02:11:38+00:00: Add a ScaleROPE node. Currently only works on WAN models. (#10559) - https://github.com/comfyanonymous/ComfyUI/commit/614cf9805e1056216487a2d1b1a07206d77f87e7 __auto-added__
 - 2025-10-31T02:51:58+00:00: Fix rope scaling. (#10560) - https://github.com/comfyanonymous/ComfyUI/commit/27d1bd882925e3bbdffb405cea098ac52bb20ac5 __auto-added__
 - 2025-10-31T04:14:52+00:00: v1.32.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.0 __auto-added__
+- 2025-10-31T19:41:40+00:00: ScaleROPE now works on Lumina models. (#10578) - https://github.com/comfyanonymous/ComfyUI/commit/7f374e42c833c69c71605507b90f79cc26d14a71 __auto-added__
