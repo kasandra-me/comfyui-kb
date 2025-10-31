@@ -492,3 +492,4 @@ _Last updated: 2025-08-12_
 - 2025-10-30T17:22:35+00:00: fix img2img operation in Dall2 node (#10552) - https://github.com/comfyanonymous/ComfyUI/commit/dfac94695be95076d8028d04005a744f3ec0de8d __auto-added__
 - 2025-10-30T21:39:02+00:00: Add RAM Pressure cache mode (#10454) - https://github.com/comfyanonymous/ComfyUI/commit/513b0c46fba3bf40191d684ff81207ad935f1717 __auto-added__
 - 2025-10-31T02:11:38+00:00: Add a ScaleROPE node. Currently only works on WAN models. (#10559) - https://github.com/comfyanonymous/ComfyUI/commit/614cf9805e1056216487a2d1b1a07206d77f87e7 __auto-added__
+- 2025-10-31T02:51:58+00:00: Fix rope scaling. (#10560) - https://github.com/comfyanonymous/ComfyUI/commit/27d1bd882925e3bbdffb405cea098ac52bb20ac5 __auto-added__
