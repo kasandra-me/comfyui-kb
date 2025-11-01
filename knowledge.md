@@ -495,3 +495,4 @@ _Last updated: 2025-08-12_
 - 2025-10-31T02:51:58+00:00: Fix rope scaling. (#10560) - https://github.com/comfyanonymous/ComfyUI/commit/27d1bd882925e3bbdffb405cea098ac52bb20ac5 __auto-added__
 - 2025-10-31T04:14:52+00:00: v1.32.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.0 __auto-added__
 - 2025-10-31T19:41:40+00:00: ScaleROPE now works on Lumina models. (#10578) - https://github.com/comfyanonymous/ComfyUI/commit/7f374e42c833c69c71605507b90f79cc26d14a71 __auto-added__
+- 🔥 2025-11-01T04:25:17+00:00: Fix torch compile regression on fp8 ops. (#10580) - https://github.com/comfyanonymous/ComfyUI/commit/c58c13b2bad6df0de93cc0cf107e96522a3cb5b3 __priority-auto-added__
