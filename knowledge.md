@@ -499,3 +499,4 @@ _Last updated: 2025-08-12_
 - 2025-11-01T19:14:06+00:00: convert StabilityAI to use new API client (#10582) - https://github.com/comfyanonymous/ComfyUI/commit/20182a393f43ab1fdf798f8da6aac0ef6116e7e6 __auto-added__
 - 2025-11-01T21:25:59+00:00: Fix issue with pinned memory. (#10597) - https://github.com/comfyanonymous/ComfyUI/commit/44869ff786dc90b36172fd766c9a110e4c40c04b __auto-added__
 - 2025-11-01T22:48:53+00:00: Small speed improvements to --async-offload (#10593) - https://github.com/comfyanonymous/ComfyUI/commit/135fa49ec23320834f774cf3def9e51ad3773f86 __auto-added__
+- 2025-11-02T18:14:04+00:00: Clarify help text for --fast argument (#10609) - https://github.com/comfyanonymous/ComfyUI/commit/97ff9fae7e728cffdfc3aee6d72aa1e0d0b78702 __auto-added__
