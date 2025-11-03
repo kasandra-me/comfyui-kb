@@ -506,3 +506,4 @@ _Last updated: 2025-08-12_
 - 2025-11-03T18:59:44+00:00: chore: update embedded docs to v0.3.1 (#10614) - https://github.com/comfyanonymous/ComfyUI/commit/e974e554ca23be505b72bc9c1614f4285c1db6e3 __auto-added__
 - 🔥 2025-11-03T22:08:30+00:00: People should update their pytorch versions. (#10618) - https://github.com/comfyanonymous/ComfyUI/commit/958a17199ac519504e390ea0d53295ceb8cbd2c1 __priority-auto-added__
 - 🔥 2025-11-03T22:37:12+00:00: Speed up torch.compile (#10620) - https://github.com/comfyanonymous/ComfyUI/commit/0652cb8e2d343f68e38285755835c77bda7f6389 __priority-auto-added__
+- 2025-11-03T22:58:24+00:00: Fixes (#10621) - https://github.com/comfyanonymous/ComfyUI/commit/e199c8cc6758d388792fd66b99e8de832814ff91 __auto-added__
