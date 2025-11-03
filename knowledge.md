@@ -504,3 +504,4 @@ _Last updated: 2025-08-12_
 - 2025-11-03T08:16:40+00:00: fix(caching): treat bytes as hashable (#10567) - https://github.com/comfyanonymous/ComfyUI/commit/88df172790b8ed7b2e6ea7c0f0bd63ca3553921b __auto-added__
 - 2025-11-03T08:29:08+00:00: feat(Pika-API-nodes): use new API client (#10608) - https://github.com/comfyanonymous/ComfyUI/commit/4e2110c794b187c9326d604e7c0b0a4fad81148a __auto-added__
 - 2025-11-03T18:59:44+00:00: chore: update embedded docs to v0.3.1 (#10614) - https://github.com/comfyanonymous/ComfyUI/commit/e974e554ca23be505b72bc9c1614f4285c1db6e3 __auto-added__
+- 🔥 2025-11-03T22:08:30+00:00: People should update their pytorch versions. (#10618) - https://github.com/comfyanonymous/ComfyUI/commit/958a17199ac519504e390ea0d53295ceb8cbd2c1 __priority-auto-added__
