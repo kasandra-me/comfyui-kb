@@ -502,3 +502,4 @@ _Last updated: 2025-08-12_
 - 2025-11-02T18:14:04+00:00: Clarify help text for --fast argument (#10609) - https://github.com/comfyanonymous/ComfyUI/commit/97ff9fae7e728cffdfc3aee6d72aa1e0d0b78702 __auto-added__
 - 2025-11-02T21:44:40+00:00: v1.32.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.1 __auto-added__
 - 2025-11-03T08:16:40+00:00: fix(caching): treat bytes as hashable (#10567) - https://github.com/comfyanonymous/ComfyUI/commit/88df172790b8ed7b2e6ea7c0f0bd63ca3553921b __auto-added__
+- 2025-11-03T08:29:08+00:00: feat(Pika-API-nodes): use new API client (#10608) - https://github.com/comfyanonymous/ComfyUI/commit/4e2110c794b187c9326d604e7c0b0a4fad81148a __auto-added__
