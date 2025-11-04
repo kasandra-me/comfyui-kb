@@ -509,3 +509,4 @@ _Last updated: 2025-08-12_
 - 2025-11-03T22:58:24+00:00: Fixes (#10621) - https://github.com/comfyanonymous/ComfyUI/commit/e199c8cc6758d388792fd66b99e8de832814ff91 __auto-added__
 - 🔥 2025-11-04T00:22:10+00:00: Bring back fp8 torch compile performance to what it should be. (#10622) - https://github.com/comfyanonymous/ComfyUI/commit/6b88478f9fe0874c0e17468c9fca3a0a84e6c781 __priority-auto-added__
 - 🔥 2025-11-04T03:14:20+00:00: More fp8 torch.compile regressions fixed. (#10625) - https://github.com/comfyanonymous/ComfyUI/commit/af4b7b5edb339a15aa443e32aefbceac1810baa0 __priority-auto-added__
+- 2025-11-04T16:34:22+00:00: Comfy Cloud is Now in Public Beta - https://blog.comfy.org/p/comfy-cloud-is-now-in-public-beta __auto-added__
