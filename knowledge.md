@@ -507,3 +507,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-11-03T22:08:30+00:00: People should update their pytorch versions. (#10618) - https://github.com/comfyanonymous/ComfyUI/commit/958a17199ac519504e390ea0d53295ceb8cbd2c1 __priority-auto-added__
 - 🔥 2025-11-03T22:37:12+00:00: Speed up torch.compile (#10620) - https://github.com/comfyanonymous/ComfyUI/commit/0652cb8e2d343f68e38285755835c77bda7f6389 __priority-auto-added__
 - 2025-11-03T22:58:24+00:00: Fixes (#10621) - https://github.com/comfyanonymous/ComfyUI/commit/e199c8cc6758d388792fd66b99e8de832814ff91 __auto-added__
+- 🔥 2025-11-04T00:22:10+00:00: Bring back fp8 torch compile performance to what it should be. (#10622) - https://github.com/comfyanonymous/ComfyUI/commit/6b88478f9fe0874c0e17468c9fca3a0a84e6c781 __priority-auto-added__
