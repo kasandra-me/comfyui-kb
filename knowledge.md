@@ -518,3 +518,5 @@ _Last updated: 2025-08-12_
 - 2025-11-05T01:10:11+00:00: Use single apply_rope function across models (#10547) - https://github.com/comfyanonymous/ComfyUI/commit/4cd881866bad0cde70273cc123d725693c1f2759 __auto-added__
 - 2025-11-05T03:47:35+00:00: Lower ltxv mem usage to what it was before previous pr. (#10643) - https://github.com/comfyanonymous/ComfyUI/commit/c4a6b389de1014471a75a46ee57d2fdac4f8df93 __auto-added__
 - 2025-11-05T10:16:00+00:00: feat(API-nodes): move Rodin3D nodes to new client; removed old api cl… - https://github.com/comfyanonymous/ComfyUI/commit/bda0eb2448135797d5a72f7236ce26d07e555baf __auto-added__
+- 2025-11-05T21:09:44+00:00: v1.32.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.2 __auto-added__
+- 2025-11-05T21:09:12+00:00: Comfy Challenge #9 : Cloudcrafted! - https://blog.comfy.org/p/comfy-challenge-9-cloudcrafted __auto-added__
