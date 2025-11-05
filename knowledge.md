@@ -515,3 +515,4 @@ _Last updated: 2025-08-12_
 - 2025-11-04T22:37:50+00:00: Limit amount of pinned memory on windows to prevent issues. (#10638) - https://github.com/comfyanonymous/ComfyUI/commit/7f3e4d486cd77c3ad30eb4714ec18bdaf29e2b5c __auto-added__
 - 2025-11-05T00:42:23+00:00: ComfyUI version v0.3.68 - https://github.com/comfyanonymous/ComfyUI/commit/265adad858e1f31b66cd3523a02b16f5d34ced52 __auto-added__
 - 2025-11-05T00:42:23+00:00: v0.3.68 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.68 __auto-added__
+- 2025-11-05T01:10:11+00:00: Use single apply_rope function across models (#10547) - https://github.com/comfyanonymous/ComfyUI/commit/4cd881866bad0cde70273cc123d725693c1f2759 __auto-added__
