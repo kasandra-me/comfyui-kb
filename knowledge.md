@@ -513,3 +513,5 @@ _Last updated: 2025-08-12_
 - 2025-11-04T18:51:53+00:00: chore: update workflow templates to v0.2.11 (#10634) - https://github.com/comfyanonymous/ComfyUI/commit/9c71a667904a049975531f2a7dd55f4a8fc92652 __auto-added__
 - 2025-11-04T22:14:10+00:00: caching: Handle None outputs tuple case (#10637) - https://github.com/comfyanonymous/ComfyUI/commit/a389ee01bb7ba5174729906a7f85bd08b5c2cb87 __auto-added__
 - 2025-11-04T22:37:50+00:00: Limit amount of pinned memory on windows to prevent issues. (#10638) - https://github.com/comfyanonymous/ComfyUI/commit/7f3e4d486cd77c3ad30eb4714ec18bdaf29e2b5c __auto-added__
+- 2025-11-05T00:42:23+00:00: ComfyUI version v0.3.68 - https://github.com/comfyanonymous/ComfyUI/commit/265adad858e1f31b66cd3523a02b16f5d34ced52 __auto-added__
+- 2025-11-05T00:42:23+00:00: v0.3.68 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.68 __auto-added__
