@@ -520,3 +520,4 @@ _Last updated: 2025-08-12_
 - 2025-11-05T10:16:00+00:00: feat(API-nodes): move Rodin3D nodes to new client; removed old api cl… - https://github.com/comfyanonymous/ComfyUI/commit/bda0eb2448135797d5a72f7236ce26d07e555baf __auto-added__
 - 2025-11-05T21:09:44+00:00: v1.32.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.2 __auto-added__
 - 2025-11-05T21:09:12+00:00: Comfy Challenge #9 : Cloudcrafted! - https://blog.comfy.org/p/comfy-challenge-9-cloudcrafted __auto-added__
+- 2025-11-05T23:08:13+00:00: Enable pinned memory by default on Nvidia. (#10656) - https://github.com/comfyanonymous/ComfyUI/commit/1d69245981f9fb3861018613246042296d887dd3 __auto-added__
