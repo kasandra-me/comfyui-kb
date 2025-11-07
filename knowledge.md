@@ -523,3 +523,4 @@ _Last updated: 2025-08-12_
 - 2025-11-05T23:08:13+00:00: Enable pinned memory by default on Nvidia. (#10656) - https://github.com/comfyanonymous/ComfyUI/commit/1d69245981f9fb3861018613246042296d887dd3 __auto-added__
 - 2025-11-06T00:11:15+00:00: Pinned mem also seems to work on AMD. (#10658) - https://github.com/comfyanonymous/ComfyUI/commit/09dc24c8a982776abd5cb2f71e3d041139e1d5b2 __auto-added__
 - 2025-11-06T09:11:30+00:00: Clarify release cycle. (#10667) - https://github.com/comfyanonymous/ComfyUI/commit/e05c90712670fa4a2ffebd44046fc78747193a36 __auto-added__
+- 2025-11-07T02:20:48+00:00: mm: guard against double pin and unpin explicitly (#10672) - https://github.com/comfyanonymous/ComfyUI/commit/cf97b033ee80cf245b4592d42f89e6de67e409a4 __auto-added__
