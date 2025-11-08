@@ -525,3 +525,4 @@ _Last updated: 2025-08-12_
 - 2025-11-06T09:11:30+00:00: Clarify release cycle. (#10667) - https://github.com/comfyanonymous/ComfyUI/commit/e05c90712670fa4a2ffebd44046fc78747193a36 __auto-added__
 - 2025-11-07T02:20:48+00:00: mm: guard against double pin and unpin explicitly (#10672) - https://github.com/comfyanonymous/ComfyUI/commit/cf97b033ee80cf245b4592d42f89e6de67e409a4 __auto-added__
 - 2025-11-07T16:15:05+00:00: Only unpin tensor if it was pinned by ComfyUI (#10677) - https://github.com/comfyanonymous/ComfyUI/commit/a1a70362ca376cff05a0514e0ce771ab26d92fd9 __auto-added__
+- 2025-11-08T04:52:25+00:00: v1.32.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.3 __auto-added__
