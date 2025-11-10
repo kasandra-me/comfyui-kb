@@ -529,3 +529,4 @@ _Last updated: 2025-08-12_
 - 2025-11-08T19:25:54+00:00: v1.32.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.4 __auto-added__
 - 2025-11-08T20:52:02+00:00: Make ScaleROPE node work on Flux. (#10686) - https://github.com/comfyanonymous/ComfyUI/commit/2abd2b5c2049a9625b342bcb7decedd5d1645f66 __auto-added__
 - 2025-11-09T23:06:39+00:00: Add logging for model unloading. (#10692) - https://github.com/comfyanonymous/ComfyUI/commit/e632e5de281b91dd7199636dd6d82126fbfb07d5 __auto-added__
+- 2025-11-09T23:51:33+00:00: Unload weights if vram usage goes up between runs. (#10690) - https://github.com/comfyanonymous/ComfyUI/commit/dea899f22125d38a8b48147d6cce89a2b659fdeb __auto-added__
