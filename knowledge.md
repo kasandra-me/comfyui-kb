@@ -531,3 +531,4 @@ _Last updated: 2025-08-12_
 - 2025-11-09T23:06:39+00:00: Add logging for model unloading. (#10692) - https://github.com/comfyanonymous/ComfyUI/commit/e632e5de281b91dd7199636dd6d82126fbfb07d5 __auto-added__
 - 2025-11-09T23:51:33+00:00: Unload weights if vram usage goes up between runs. (#10690) - https://github.com/comfyanonymous/ComfyUI/commit/dea899f22125d38a8b48147d6cce89a2b659fdeb __auto-added__
 - 2025-11-10T03:52:11+00:00: ops: Put weight cast on the offload stream (#10697) - https://github.com/comfyanonymous/ComfyUI/commit/c350009236e5d172a3050c04043ea70a301378ca __auto-added__
+- 2025-11-10T14:57:40+00:00: 5.5.1 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.5.1 __auto-added__
