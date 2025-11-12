@@ -533,3 +533,4 @@ _Last updated: 2025-08-12_
 - 2025-11-10T03:52:11+00:00: ops: Put weight cast on the offload stream (#10697) - https://github.com/comfyanonymous/ComfyUI/commit/c350009236e5d172a3050c04043ea70a301378ca __auto-added__
 - 2025-11-10T14:57:40+00:00: 5.5.1 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.5.1 __auto-added__
 - 2025-11-10T20:35:29+00:00: Update CI workflow to remove dead macOS runner. (#10704) - https://github.com/comfyanonymous/ComfyUI/commit/5ebcab3c7d974963a89cecd37296a22fdb73bd2b __auto-added__
+- 🔥 2025-11-12T00:33:30+00:00: Don't pin tensor if not a torch.nn.parameter.Parameter (#10718) - https://github.com/comfyanonymous/ComfyUI/commit/119941174704081a16a4c3f303d99f2fb1e95cde __priority-auto-added__
