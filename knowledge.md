@@ -536,3 +536,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-11-12T00:33:30+00:00: Don't pin tensor if not a torch.nn.parameter.Parameter (#10718) - https://github.com/comfyanonymous/ComfyUI/commit/119941174704081a16a4c3f303d99f2fb1e95cde __priority-auto-added__
 - 2025-11-12T20:21:05+00:00: Update README.md for Intel Arc GPU installation, remove IPEX (#10729) - https://github.com/comfyanonymous/ComfyUI/commit/e1d85e7577d8f6355bd4cb3449bcb0a7e5f80cb8 __auto-added__
 - 2025-11-12T21:20:53+00:00: qwen: reduce VRAM usage (#10725) - https://github.com/comfyanonymous/ComfyUI/commit/1c7eaeca1013e4315f36e0d4d274faa106001121 __auto-added__
+- 2025-11-12T22:04:41+00:00: Update Python 3.14 compatibility notes in README  (#10730) - https://github.com/comfyanonymous/ComfyUI/commit/8b0b93df51d04f08eb779cb84dc331fa18b43ae8 __auto-added__
