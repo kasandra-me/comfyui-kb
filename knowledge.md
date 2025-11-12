@@ -534,3 +534,4 @@ _Last updated: 2025-08-12_
 - 2025-11-10T14:57:40+00:00: 5.5.1 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.5.1 __auto-added__
 - 2025-11-10T20:35:29+00:00: Update CI workflow to remove dead macOS runner. (#10704) - https://github.com/comfyanonymous/ComfyUI/commit/5ebcab3c7d974963a89cecd37296a22fdb73bd2b __auto-added__
 - 🔥 2025-11-12T00:33:30+00:00: Don't pin tensor if not a torch.nn.parameter.Parameter (#10718) - https://github.com/comfyanonymous/ComfyUI/commit/119941174704081a16a4c3f303d99f2fb1e95cde __priority-auto-added__
+- 2025-11-12T20:21:05+00:00: Update README.md for Intel Arc GPU installation, remove IPEX (#10729) - https://github.com/comfyanonymous/ComfyUI/commit/e1d85e7577d8f6355bd4cb3449bcb0a7e5f80cb8 __auto-added__
