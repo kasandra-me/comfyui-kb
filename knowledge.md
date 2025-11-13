@@ -538,3 +538,4 @@ _Last updated: 2025-08-12_
 - 2025-11-12T21:20:53+00:00: qwen: reduce VRAM usage (#10725) - https://github.com/comfyanonymous/ComfyUI/commit/1c7eaeca1013e4315f36e0d4d274faa106001121 __auto-added__
 - 2025-11-12T22:04:41+00:00: Update Python 3.14 compatibility notes in README  (#10730) - https://github.com/comfyanonymous/ComfyUI/commit/8b0b93df51d04f08eb779cb84dc331fa18b43ae8 __auto-added__
 - 2025-11-12T23:26:52+00:00: Quantized Ops fixes (#10715) - https://github.com/comfyanonymous/ComfyUI/commit/3b3ef9a77ac03ed516a45063f9736f33085cecca __auto-added__
+- 2025-11-13T04:10:39+00:00: v1.32.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.5 __auto-added__
