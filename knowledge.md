@@ -543,3 +543,4 @@ _Last updated: 2025-08-12_
 - 2025-11-13T23:11:52+00:00: feat: add create_time dict to prompt field in /history and /queue (#1… - https://github.com/comfyanonymous/ComfyUI/commit/2fde9597f4b02c5f06c1a5ceb3ca2fa6d74966ec __auto-added__
 - 2025-11-14T00:02:03+00:00: flux: reduce VRAM usage (#10737) - https://github.com/comfyanonymous/ComfyUI/commit/94c298f9625b0fd9af8ea07a73075fdefe0d9e57 __auto-added__
 - 2025-11-14T02:32:39+00:00: Better instructions for the portable. (#10743) - https://github.com/comfyanonymous/ComfyUI/commit/1ef328c007a419c2c429df0f80532cc11579dc97 __auto-added__
+- 2025-11-14T06:28:05+00:00: Use same code for chroma and flux blocks so that optimizations are sh… - https://github.com/comfyanonymous/ComfyUI/commit/f60923590c3f2fd05e166e2ec57968aaf7007dd0 __auto-added__
