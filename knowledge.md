@@ -545,3 +545,4 @@ _Last updated: 2025-08-12_
 - 2025-11-14T02:32:39+00:00: Better instructions for the portable. (#10743) - https://github.com/comfyanonymous/ComfyUI/commit/1ef328c007a419c2c429df0f80532cc11579dc97 __auto-added__
 - 2025-11-14T06:28:05+00:00: Use same code for chroma and flux blocks so that optimizations are sh… - https://github.com/comfyanonymous/ComfyUI/commit/f60923590c3f2fd05e166e2ec57968aaf7007dd0 __auto-added__
 - 2025-11-14T08:26:05+00:00: Fix custom nodes import error. (#10747) - https://github.com/comfyanonymous/ComfyUI/commit/443056c401c53953bb8eee6da71b9ad29afe2581 __auto-added__
+- 2025-11-15T11:54:40+00:00: Add left padding support to tokenizers. (#10753) - https://github.com/comfyanonymous/ComfyUI/commit/bd01d9f7fd241a45bd08b60dfedbe78577383cc4 __auto-added__
