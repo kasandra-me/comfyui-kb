@@ -546,3 +546,4 @@ _Last updated: 2025-08-12_
 - 2025-11-14T06:28:05+00:00: Use same code for chroma and flux blocks so that optimizations are sh… - https://github.com/comfyanonymous/ComfyUI/commit/f60923590c3f2fd05e166e2ec57968aaf7007dd0 __auto-added__
 - 2025-11-14T08:26:05+00:00: Fix custom nodes import error. (#10747) - https://github.com/comfyanonymous/ComfyUI/commit/443056c401c53953bb8eee6da71b9ad29afe2581 __auto-added__
 - 2025-11-15T11:54:40+00:00: Add left padding support to tokenizers. (#10753) - https://github.com/comfyanonymous/ComfyUI/commit/bd01d9f7fd241a45bd08b60dfedbe78577383cc4 __auto-added__
+- 2025-11-15T19:18:49+00:00: chore(api-nodes): mark OpenAIDalle2 and OpenAIDalle3 nodes as depreca… - https://github.com/comfyanonymous/ComfyUI/commit/9a0238256873711bd38ce0e0b1d15a617a1ee454 __auto-added__
