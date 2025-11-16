@@ -548,3 +548,4 @@ _Last updated: 2025-08-12_
 - 2025-11-15T11:54:40+00:00: Add left padding support to tokenizers. (#10753) - https://github.com/comfyanonymous/ComfyUI/commit/bd01d9f7fd241a45bd08b60dfedbe78577383cc4 __auto-added__
 - 2025-11-15T19:18:49+00:00: chore(api-nodes): mark OpenAIDalle2 and OpenAIDalle3 nodes as depreca… - https://github.com/comfyanonymous/ComfyUI/commit/9a0238256873711bd38ce0e0b1d15a617a1ee454 __auto-added__
 - 2025-11-15T20:37:34+00:00: Revert "chore(api-nodes): mark OpenAIDalle2 and OpenAIDalle3 nodes as… - https://github.com/comfyanonymous/ComfyUI/commit/2d4a08b717c492fa45e98bd70beb48d4e77cb464 __auto-added__
+- 2025-11-16T08:01:14+00:00: Change ROCm nightly install command to 7.1 (#10764) - https://github.com/comfyanonymous/ComfyUI/commit/7d6103325e1c97aa54f963253e3e7f1d6da6947f __auto-added__
