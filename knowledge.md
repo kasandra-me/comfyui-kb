@@ -553,3 +553,4 @@ _Last updated: 2025-08-12_
 - 2025-11-17T22:17:24+00:00: v0.3.69 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.69 __auto-added__
 - 2025-11-18T00:04:04+00:00: Add release workflow for NVIDIA cu126 (#10777) - https://github.com/comfyanonymous/ComfyUI/commit/27cbac865ec226cfd9c1563327b0d62cf5dbd484 __auto-added__
 - 2025-11-18T00:59:19+00:00: Update README with new portable download link (#10778) - https://github.com/comfyanonymous/ComfyUI/commit/f41e5f398d5d4059a3c87cf157bd932afcce3c0d __auto-added__
+- 🔥 2025-11-18T03:04:06+00:00: Fix the portable download link for CUDA 12.6 (#10780) - https://github.com/comfyanonymous/ComfyUI/commit/fdf49a28617f742d746ad209e57ed7420b3535dc __priority-auto-added__
