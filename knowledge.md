@@ -551,3 +551,4 @@ _Last updated: 2025-08-12_
 - 2025-11-16T08:01:14+00:00: Change ROCm nightly install command to 7.1 (#10764) - https://github.com/comfyanonymous/ComfyUI/commit/7d6103325e1c97aa54f963253e3e7f1d6da6947f __auto-added__
 - 2025-11-17T22:17:24+00:00: ComfyUI version 0.3.69 - https://github.com/comfyanonymous/ComfyUI/commit/3d0003c24c1aec9f0c021dbc70ffb7cd8cf0685c __auto-added__
 - 2025-11-17T22:17:24+00:00: v0.3.69 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.69 __auto-added__
+- 2025-11-18T00:04:04+00:00: Add release workflow for NVIDIA cu126 (#10777) - https://github.com/comfyanonymous/ComfyUI/commit/27cbac865ec226cfd9c1563327b0d62cf5dbd484 __auto-added__
