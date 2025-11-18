@@ -554,3 +554,4 @@ _Last updated: 2025-08-12_
 - 2025-11-18T00:04:04+00:00: Add release workflow for NVIDIA cu126 (#10777) - https://github.com/comfyanonymous/ComfyUI/commit/27cbac865ec226cfd9c1563327b0d62cf5dbd484 __auto-added__
 - 2025-11-18T00:59:19+00:00: Update README with new portable download link (#10778) - https://github.com/comfyanonymous/ComfyUI/commit/f41e5f398d5d4059a3c87cf157bd932afcce3c0d __auto-added__
 - 🔥 2025-11-18T03:04:06+00:00: Fix the portable download link for CUDA 12.6 (#10780) - https://github.com/comfyanonymous/ComfyUI/commit/fdf49a28617f742d746ad209e57ed7420b3535dc __priority-auto-added__
+- 2025-11-18T05:26:44+00:00: Native block swap custom nodes considered harmful. (#10783) - https://github.com/comfyanonymous/ComfyUI/commit/47bfd5a33fa984a1102fc2bd7b25c91a69ace288 __auto-added__
