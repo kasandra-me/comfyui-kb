@@ -556,3 +556,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-11-18T03:04:06+00:00: Fix the portable download link for CUDA 12.6 (#10780) - https://github.com/comfyanonymous/ComfyUI/commit/fdf49a28617f742d746ad209e57ed7420b3535dc __priority-auto-added__
 - 2025-11-18T05:26:44+00:00: Native block swap custom nodes considered harmful. (#10783) - https://github.com/comfyanonymous/ComfyUI/commit/47bfd5a33fa984a1102fc2bd7b25c91a69ace288 __auto-added__
 - 2025-11-18T11:59:27+00:00: chore(api-nodes): adjusted PR template; set min python version for py… - https://github.com/comfyanonymous/ComfyUI/commit/048f49adbd19ac2d9c7c87682c832b7827a4b29d __auto-added__
+- 2025-11-18T15:00:21+00:00: EasyCache: Fix for mismatch in input/output channels with some models… - https://github.com/comfyanonymous/ComfyUI/commit/e1ab6bb394b82fa654d5bc84043f97479d12f84c __auto-added__
