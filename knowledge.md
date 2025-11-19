@@ -563,3 +563,4 @@ _Last updated: 2025-08-12_
 - 2025-11-19T00:37:20+00:00: ComfyUI 0.3.70 - https://github.com/comfyanonymous/ComfyUI/commit/b5c8be8b1db44ded07cb1b437b9f33ebff5848c1 __auto-added__
 - 2025-11-19T00:37:20+00:00: v0.3.70 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.70 __auto-added__
 - 2025-11-19T03:36:03+00:00: Add a way to disable the final norm in the llama based TE models. (#1… - https://github.com/comfyanonymous/ComfyUI/commit/17027f2a6a20a31e2c6f3be2b1a06f39ad3a68d9 __auto-added__
+- 2025-11-19T06:16:07+00:00: v1.32.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.6 __auto-added__
