@@ -560,3 +560,5 @@ _Last updated: 2025-08-12_
 - 2025-11-18T21:46:19+00:00: Fix hunyuan 3d 2.0 (#10792) - https://github.com/comfyanonymous/ComfyUI/commit/d52697457608a045cafc3b6d6cb89f0a49ba0709 __auto-added__
 - 2025-11-18T20:40:01+00:00: v1.30.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.30.4 __auto-added__
 - 2025-11-18T22:26:44+00:00: feat(api-nodes): add new Gemini model (#10789) - https://github.com/comfyanonymous/ComfyUI/commit/24fdb92edf2e96fe757c480aa7f12be5bdfa3a15 __auto-added__
+- 2025-11-19T00:37:20+00:00: ComfyUI 0.3.70 - https://github.com/comfyanonymous/ComfyUI/commit/b5c8be8b1db44ded07cb1b437b9f33ebff5848c1 __auto-added__
+- 2025-11-19T00:37:20+00:00: v0.3.70 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.70 __auto-added__
