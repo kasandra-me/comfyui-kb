@@ -566,3 +566,4 @@ _Last updated: 2025-08-12_
 - 2025-11-19T06:16:07+00:00: v1.32.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.6 __auto-added__
 - 2025-11-19T09:25:28+00:00: change display name of PreviewAny node to "Preview as Text" (#10796) - https://github.com/comfyanonymous/ComfyUI/commit/65ee24c9789b93660ebe978a3186486f105298c2 __auto-added__
 - 2025-11-19T22:49:01+00:00: convert hunyuan3d.py to V3 schema (#10664) - https://github.com/comfyanonymous/ComfyUI/commit/6a1d3a1ae131f3fff7f45a7e835eb10e9d1338ee __auto-added__
+- 2025-11-20T00:54:31+00:00: v1.33.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.1 __auto-added__
