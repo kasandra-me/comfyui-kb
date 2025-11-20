@@ -574,3 +574,4 @@ _Last updated: 2025-08-12_
 - 2025-11-20T06:36:56+00:00: Update server templates handler to use new multi-package distribution… - https://github.com/comfyanonymous/ComfyUI/commit/87b0359392219841c2214e1eb06678840cae470e __auto-added__
 - 2025-11-20T08:57:57+00:00: v1.33.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.3 __auto-added__
 - 2025-11-20T20:08:03+00:00: Fix ImageBatch with different channel count. (#10815) - https://github.com/comfyanonymous/ComfyUI/commit/f5e66d5e47271253edad5c4eddd817b0d6a23340 __auto-added__
+- 2025-11-20T20:29:13+00:00: v0.5.7 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.7 __auto-added__
