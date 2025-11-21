@@ -585,3 +585,4 @@ _Last updated: 2025-08-12_
 - 2025-11-21T05:49:13+00:00: ComfyUI 0.3.71 - https://github.com/comfyanonymous/ComfyUI/commit/c55fd7481626d8bee8044ea7512ea996d13a1b90 __auto-added__
 - 2025-11-21T05:49:13+00:00: v0.3.71 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.71 __auto-added__
 - 2025-11-21T07:23:08+00:00: Meet Nano Banana Pro in ComfyUI! - https://blog.comfy.org/p/meet-nano-banana-pro-in-comfyui __auto-added__
+- 2025-11-21T21:34:47+00:00: update frontend to 1.30 (#10793) - https://github.com/comfyanonymous/ComfyUI/commit/ecb683b057a19f1a05d18d6d0b0ee9a6c6c8f4a0 __auto-added__
