@@ -584,3 +584,4 @@ _Last updated: 2025-08-12_
 - 2025-11-21T04:39:37+00:00: Fix wrong path. (#10821) - https://github.com/comfyanonymous/ComfyUI/commit/33981237527a3d84d4e9c3b113f75d6dd37af6a4 __auto-added__
 - 2025-11-21T05:49:13+00:00: ComfyUI 0.3.71 - https://github.com/comfyanonymous/ComfyUI/commit/c55fd7481626d8bee8044ea7512ea996d13a1b90 __auto-added__
 - 2025-11-21T05:49:13+00:00: v0.3.71 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.71 __auto-added__
+- 2025-11-21T07:23:08+00:00: Meet Nano Banana Pro in ComfyUI! - https://blog.comfy.org/p/meet-nano-banana-pro-in-comfyui __auto-added__
