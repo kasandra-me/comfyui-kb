@@ -581,3 +581,4 @@ _Last updated: 2025-08-12_
 - 2025-11-21T02:20:52+00:00: bump comfyui-workflow-templates for nano banana 2 (#10818) - https://github.com/comfyanonymous/ComfyUI/commit/10e90a5757906ecdb71b84d41173813d7f62c140 __auto-added__
 - 2025-11-21T03:44:43+00:00: HunyuanVideo 1.5 (#10819) - https://github.com/comfyanonymous/ComfyUI/commit/943b3b615d40542ea19bc8ff8ad2950c0a094605 __auto-added__
 - 2025-11-21T04:08:08+00:00: v1.33.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.5 __auto-added__
+- 2025-11-21T04:39:37+00:00: Fix wrong path. (#10821) - https://github.com/comfyanonymous/ComfyUI/commit/33981237527a3d84d4e9c3b113f75d6dd37af6a4 __auto-added__
