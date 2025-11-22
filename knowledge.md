@@ -587,3 +587,4 @@ _Last updated: 2025-08-12_
 - 2025-11-21T07:23:08+00:00: Meet Nano Banana Pro in ComfyUI! - https://blog.comfy.org/p/meet-nano-banana-pro-in-comfyui __auto-added__
 - 2025-11-21T21:34:47+00:00: update frontend to 1.30 (#10793) - https://github.com/comfyanonymous/ComfyUI/commit/ecb683b057a19f1a05d18d6d0b0ee9a6c6c8f4a0 __auto-added__
 - 2025-11-21T22:51:55+00:00: --disable-api-nodes now sets CSP header to force frontend offline. (#… - https://github.com/comfyanonymous/ComfyUI/commit/532938b16b544e4492ba0ffbe18b201b1a7bc55f __auto-added__
+- 2025-11-22T10:28:29+00:00: Update requirements.txt (#10834) - https://github.com/comfyanonymous/ComfyUI/commit/a9c35256bccd4018fbe74bf1e857cc18bd1900ed __auto-added__
