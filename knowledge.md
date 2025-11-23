@@ -589,3 +589,4 @@ _Last updated: 2025-08-12_
 - 2025-11-21T22:51:55+00:00: --disable-api-nodes now sets CSP header to force frontend offline. (#… - https://github.com/comfyanonymous/ComfyUI/commit/532938b16b544e4492ba0ffbe18b201b1a7bc55f __auto-added__
 - 2025-11-22T10:28:29+00:00: Update requirements.txt (#10834) - https://github.com/comfyanonymous/ComfyUI/commit/a9c35256bccd4018fbe74bf1e857cc18bd1900ed __auto-added__
 - 2025-11-22T23:37:08+00:00: v0.5.8 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.8 __auto-added__
+- 2025-11-23T03:51:53+00:00: Add display names to Hunyuan latent video nodes. (#10837) - https://github.com/comfyanonymous/ComfyUI/commit/d89c29f25992713ec3102017c189858a457f1215 __auto-added__
