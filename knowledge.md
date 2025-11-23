@@ -591,3 +591,4 @@ _Last updated: 2025-08-12_
 - 2025-11-22T23:37:08+00:00: v0.5.8 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.8 __auto-added__
 - 2025-11-23T03:51:53+00:00: Add display names to Hunyuan latent video nodes. (#10837) - https://github.com/comfyanonymous/ComfyUI/commit/d89c29f25992713ec3102017c189858a457f1215 __auto-added__
 - 2025-11-23T09:55:22+00:00: Add better error message for common error. (#10846) - https://github.com/comfyanonymous/ComfyUI/commit/cbd68e3d587a1b345bdc6ebcd8a8c6ba1a9d3af3 __auto-added__
+- 2025-11-23T18:33:59+00:00: v1.33.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.6 __auto-added__
