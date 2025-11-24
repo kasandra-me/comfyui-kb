@@ -594,3 +594,4 @@ _Last updated: 2025-08-12_
 - 2025-11-23T18:33:59+00:00: v1.33.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.6 __auto-added__
 - 2025-11-23T18:49:45+00:00: v1.33.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.7 __auto-added__
 - 2025-11-24T06:35:25+00:00: v1.33.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.8 __auto-added__
+- 2025-11-24T06:56:20+00:00: [fix] Fixes non-async public API access (#10857) - https://github.com/comfyanonymous/ComfyUI/commit/f66183a54142be693ab858e9f1f06ed62439a92e __auto-added__
