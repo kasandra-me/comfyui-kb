@@ -595,3 +595,4 @@ _Last updated: 2025-08-12_
 - 2025-11-23T18:49:45+00:00: v1.33.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.7 __auto-added__
 - 2025-11-24T06:35:25+00:00: v1.33.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.8 __auto-added__
 - 2025-11-24T06:56:20+00:00: [fix] Fixes non-async public API access (#10857) - https://github.com/comfyanonymous/ComfyUI/commit/f66183a54142be693ab858e9f1f06ed62439a92e __auto-added__
+- 2025-11-24T17:48:37+00:00: fix(api-nodes): edge cases in responses for Gemini models (#10860) - https://github.com/comfyanonymous/ComfyUI/commit/3bd71554a2df14b862cc5e1e875df37ba24af1ac __auto-added__
