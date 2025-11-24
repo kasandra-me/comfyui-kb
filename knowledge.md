@@ -597,3 +597,4 @@ _Last updated: 2025-08-12_
 - 2025-11-24T06:56:20+00:00: [fix] Fixes non-async public API access (#10857) - https://github.com/comfyanonymous/ComfyUI/commit/f66183a54142be693ab858e9f1f06ed62439a92e __auto-added__
 - 2025-11-24T17:48:37+00:00: fix(api-nodes): edge cases in responses for Gemini models (#10860) - https://github.com/comfyanonymous/ComfyUI/commit/3bd71554a2df14b862cc5e1e875df37ba24af1ac __auto-added__
 - 2025-11-24T18:40:09+00:00: block info (#10844) - https://github.com/comfyanonymous/ComfyUI/commit/b2ef58e2b17e73ca8cd376a1cdc976518ebbc168 __auto-added__
+- 2025-11-24T21:29:13+00:00: HunyuanVideo 1.5 Native Support in ComfyUI - https://blog.comfy.org/p/hunyuanvideo-15-native-support __auto-added__
