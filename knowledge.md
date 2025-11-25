@@ -610,3 +610,5 @@ _Last updated: 2025-08-12_
 - 2025-11-25T17:40:58+00:00: v0.3.72 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.72 __auto-added__
 - 2025-11-25T19:18:51+00:00: FLUX.2 Day-0 Support in ComfyUI: Frontier Visual Intelligence - https://blog.comfy.org/p/flux2-state-of-the-art-visual-intelligence __auto-added__
 - 2025-11-25T19:30:24+00:00: Fix crash. (#10885) - https://github.com/comfyanonymous/ComfyUI/commit/dff996ca39d86265bbabf15e666484e051f0b3d5 __auto-added__
+- 2025-11-25T19:59:37+00:00: ComfyUI v0.3.73 - https://github.com/comfyanonymous/ComfyUI/commit/0c18842acbdf546883b08808dd9feea7605d7649 __auto-added__
+- 2025-11-25T19:59:37+00:00: v0.3.73 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.73 __auto-added__
