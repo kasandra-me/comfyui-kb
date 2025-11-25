@@ -606,3 +606,5 @@ _Last updated: 2025-08-12_
 - 2025-11-25T15:50:19+00:00: Flux 2 (#10879) - https://github.com/comfyanonymous/ComfyUI/commit/6b573ae0cb11000a0330a35d9e31917c22c874a4 __auto-added__
 - 2025-11-25T16:09:07+00:00: [API Nodes] add Flux.2 Pro node (#10880) - https://github.com/comfyanonymous/ComfyUI/commit/5c7b08ca58f5412b3a814b374793cacdb5b5f0a7 __auto-added__
 - 2025-11-25T16:40:32+00:00: Add Flux 2 support to README. (#10882) - https://github.com/comfyanonymous/ComfyUI/commit/af81cb962d9dd283ddb551962cc223b5a186a1ce __auto-added__
+- 2025-11-25T17:40:58+00:00: ComfyUI version v0.3.72 - https://github.com/comfyanonymous/ComfyUI/commit/828b1b9953175b6df79459f417d1032869d0b46a __auto-added__
+- 2025-11-25T17:40:58+00:00: v0.3.72 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.72 __auto-added__
