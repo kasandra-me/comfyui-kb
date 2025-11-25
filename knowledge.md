@@ -598,3 +598,4 @@ _Last updated: 2025-08-12_
 - 2025-11-24T17:48:37+00:00: fix(api-nodes): edge cases in responses for Gemini models (#10860) - https://github.com/comfyanonymous/ComfyUI/commit/3bd71554a2df14b862cc5e1e875df37ba24af1ac __auto-added__
 - 2025-11-24T18:40:09+00:00: block info (#10844) - https://github.com/comfyanonymous/ComfyUI/commit/b2ef58e2b17e73ca8cd376a1cdc976518ebbc168 __auto-added__
 - 2025-11-24T21:29:13+00:00: HunyuanVideo 1.5 Native Support in ComfyUI - https://blog.comfy.org/p/hunyuanvideo-15-native-support __auto-added__
+- 2025-11-25T00:45:54+00:00: Bump transformers version in requirements.txt (#10869) - https://github.com/comfyanonymous/ComfyUI/commit/22a2644e57530ee40e13486ccd7c953b87072093 __auto-added__
