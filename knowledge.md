@@ -602,3 +602,4 @@ _Last updated: 2025-08-12_
 - 2025-11-25T06:48:53+00:00: Cleanup and fix issues with text encoder quants. (#10872) - https://github.com/comfyanonymous/ComfyUI/commit/25022e0b0965975b35bcaf28b153184d60a4f9de __auto-added__
 - 2025-11-25T07:55:49+00:00: Don't try fp8 matrix mult in quantized ops if not supported by hardwa… - https://github.com/comfyanonymous/ComfyUI/commit/acfaa5c4a132e1c01bc9d94e76b0d667c899bfd1 __auto-added__
 - 2025-11-25T08:23:19+00:00: I found a case where this is needed (#10875) - https://github.com/comfyanonymous/ComfyUI/commit/015a0599d08f1072155b9213d488b73e502fea3c __auto-added__
+- 2025-11-25T14:10:51+00:00: Comfy Cloud: new features and pricing changes - https://blog.comfy.org/p/comfy-cloud-new-features-and-pricing __auto-added__
