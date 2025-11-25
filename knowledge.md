@@ -608,3 +608,4 @@ _Last updated: 2025-08-12_
 - 2025-11-25T16:40:32+00:00: Add Flux 2 support to README. (#10882) - https://github.com/comfyanonymous/ComfyUI/commit/af81cb962d9dd283ddb551962cc223b5a186a1ce __auto-added__
 - 2025-11-25T17:40:58+00:00: ComfyUI version v0.3.72 - https://github.com/comfyanonymous/ComfyUI/commit/828b1b9953175b6df79459f417d1032869d0b46a __auto-added__
 - 2025-11-25T17:40:58+00:00: v0.3.72 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.72 __auto-added__
+- 2025-11-25T19:18:51+00:00: FLUX.2 Day-0 Support in ComfyUI: Frontier Visual Intelligence - https://blog.comfy.org/p/flux2-state-of-the-art-visual-intelligence __auto-added__
