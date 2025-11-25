@@ -600,3 +600,4 @@ _Last updated: 2025-08-12_
 - 2025-11-24T21:29:13+00:00: HunyuanVideo 1.5 Native Support in ComfyUI - https://blog.comfy.org/p/hunyuanvideo-15-native-support __auto-added__
 - 2025-11-25T00:45:54+00:00: Bump transformers version in requirements.txt (#10869) - https://github.com/comfyanonymous/ComfyUI/commit/22a2644e57530ee40e13486ccd7c953b87072093 __auto-added__
 - 2025-11-25T06:48:53+00:00: Cleanup and fix issues with text encoder quants. (#10872) - https://github.com/comfyanonymous/ComfyUI/commit/25022e0b0965975b35bcaf28b153184d60a4f9de __auto-added__
+- 2025-11-25T07:55:49+00:00: Don't try fp8 matrix mult in quantized ops if not supported by hardwa… - https://github.com/comfyanonymous/ComfyUI/commit/acfaa5c4a132e1c01bc9d94e76b0d667c899bfd1 __auto-added__
