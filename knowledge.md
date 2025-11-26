@@ -631,3 +631,4 @@ _Last updated: 2025-08-12_
 - 2025-11-26T20:16:40+00:00: Fix the CSP offline feature. (#10923) - https://github.com/comfyanonymous/ComfyUI/commit/55f654db3ddaf5a10ac6dbe79774c23c350d279d __auto-added__
 - 2025-11-26T20:36:38+00:00: Add Z Image to readme. (#10924) - https://github.com/comfyanonymous/ComfyUI/commit/dd41b745497cdbbafb0bd745f590726b0e41f9f3 __auto-added__
 - 2025-11-26T22:00:40+00:00: v0.5.11 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.11 __auto-added__
+- 2025-11-26T22:42:01+00:00: chore(api-nodes): remove chat widgets from OpenAI/Gemini nodes (#10861) - https://github.com/comfyanonymous/ComfyUI/commit/d8433c63fdacef24f40da401b02ebba272bf1fbb __auto-added__
