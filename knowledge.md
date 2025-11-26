@@ -617,3 +617,4 @@ _Last updated: 2025-08-12_
 - 2025-11-25T23:41:45+00:00: Z Image model. (#10892) - https://github.com/comfyanonymous/ComfyUI/commit/e9aae31fa241a6a63a368800146ea91629d4e8c2 __auto-added__
 - 2025-11-26T00:02:51+00:00: Adjustments to Z Image. (#10893) - https://github.com/comfyanonymous/ComfyUI/commit/0e24dbb19f34f242edb77c550396cf6806f7b22f __auto-added__
 - 2025-11-26T00:01:15+00:00: v1.33.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.9 __auto-added__
+- 2025-11-26T01:10:51+00:00: v1.32.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.9 __auto-added__
