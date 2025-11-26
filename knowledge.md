@@ -623,3 +623,4 @@ _Last updated: 2025-08-12_
 - 2025-11-26T05:34:15+00:00: v0.3.74 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.74 __auto-added__
 - 2025-11-26T07:41:13+00:00: ComfyUI version v0.3.75 - https://github.com/comfyanonymous/ComfyUI/commit/8402c8700a29a97bc5d706d6a0b14c41bc2c2d8a __auto-added__
 - 2025-11-26T07:41:13+00:00: v0.3.75 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.75 __auto-added__
+- 2025-11-26T09:00:43+00:00: Add cheap latent preview for flux 2. (#10907) - https://github.com/comfyanonymous/ComfyUI/commit/f16219e3aadcb7a301a1a313ab8989c3ebe53764 __auto-added__
