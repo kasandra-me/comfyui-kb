@@ -626,3 +626,4 @@ _Last updated: 2025-08-12_
 - 2025-11-26T09:00:43+00:00: Add cheap latent preview for flux 2. (#10907) - https://github.com/comfyanonymous/ComfyUI/commit/f16219e3aadcb7a301a1a313ab8989c3ebe53764 __auto-added__
 - 2025-11-26T17:23:14+00:00: improve UX for batch uploads in upload_images_to_comfyapi (#10913) - https://github.com/comfyanonymous/ComfyUI/commit/1105e0d139001ad602d0f883406bfce41e54ae67 __auto-added__
 - 2025-11-26T18:38:30+00:00: fix(gemini): use first 10 images as fileData (URLs) and remaining ima… - https://github.com/comfyanonymous/ComfyUI/commit/8908ee262862f1252d1363d55c59872fb3361066 __auto-added__
+- 2025-11-26T19:26:37+00:00: v1.34.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.0 __auto-added__
