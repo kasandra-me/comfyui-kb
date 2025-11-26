@@ -619,3 +619,5 @@ _Last updated: 2025-08-12_
 - 2025-11-26T00:01:15+00:00: v1.33.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.33.9 __auto-added__
 - 2025-11-26T01:10:51+00:00: v1.32.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.32.9 __auto-added__
 - 2025-11-26T05:07:58+00:00: Fix loras not working on mixed fp8. (#10899) - https://github.com/comfyanonymous/ComfyUI/commit/bdb10a583f1b1e495ee00dbd1674f11016a6a93e __auto-added__
+- 2025-11-26T05:34:15+00:00: ComfyUI v0.3.74 - https://github.com/comfyanonymous/ComfyUI/commit/90b3995ec842335e44d70e0521ff6ff6c3ff9aaa __auto-added__
+- 2025-11-26T05:34:15+00:00: v0.3.74 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.74 __auto-added__
