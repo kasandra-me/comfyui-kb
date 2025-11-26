@@ -629,3 +629,4 @@ _Last updated: 2025-08-12_
 - 2025-11-26T19:26:37+00:00: v1.34.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.0 __auto-added__
 - 2025-11-26T19:58:27+00:00: Merge 3d animation node (#10025) - https://github.com/comfyanonymous/ComfyUI/commit/58c6ed541d5aaf6d9b12f63bc23c33164e1cf7a3 __auto-added__
 - 2025-11-26T20:16:40+00:00: Fix the CSP offline feature. (#10923) - https://github.com/comfyanonymous/ComfyUI/commit/55f654db3ddaf5a10ac6dbe79774c23c350d279d __auto-added__
+- 2025-11-26T20:36:38+00:00: Add Z Image to readme. (#10924) - https://github.com/comfyanonymous/ComfyUI/commit/dd41b745497cdbbafb0bd745f590726b0e41f9f3 __auto-added__
