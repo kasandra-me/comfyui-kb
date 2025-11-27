@@ -633,3 +633,6 @@ _Last updated: 2025-08-12_
 - 2025-11-26T22:00:40+00:00: v0.5.11 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.11 __auto-added__
 - 2025-11-26T22:42:01+00:00: chore(api-nodes): remove chat widgets from OpenAI/Gemini nodes (#10861) - https://github.com/comfyanonymous/ComfyUI/commit/d8433c63fdacef24f40da401b02ebba272bf1fbb __auto-added__
 - 2025-11-26T22:55:31+00:00: convert nodes_customer_sampler.py to V3 schema (#10206) - https://github.com/comfyanonymous/ComfyUI/commit/a2d60aad0f8e03657d501842460123f6eaaf6791 __auto-added__
+- 2025-11-27T00:25:32+00:00: Make lora training work on Z Image and remove some redundant nodes. (… - https://github.com/comfyanonymous/ComfyUI/commit/eaf68c9b5bbfbcdac8988741f3948678c9465c1d __auto-added__
+- 2025-11-27T00:32:19+00:00: cloud/v1.33.9: [backport cloud/1.33] feat: open template via URL in linear mode (#6968) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.33.9 __auto-added__
+- 2025-11-27T00:20:57+00:00: Topaz's Flagship Upscale Models in ComfyUI - https://blog.comfy.org/p/topazs-flagship-upscale-models-in __auto-added__
