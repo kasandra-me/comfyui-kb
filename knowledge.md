@@ -640,3 +640,4 @@ _Last updated: 2025-08-12_
 - 2025-11-27T06:03:03+00:00: Account for the VRAM cost of weight offloading (#10733) - https://github.com/comfyanonymous/ComfyUI/commit/f17251bec65b5760cfedec29eace7d77f4b35130 __auto-added__
 - 2025-11-27T16:06:30+00:00: quant ops: Dequantize weight in-place (#10935) - https://github.com/comfyanonymous/ComfyUI/commit/3f382a4f9884f7b672557028adb9bb85d075820d __auto-added__
 - 2025-11-27T20:09:08+00:00: v1.34.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.1 __auto-added__
+- 2025-11-27T20:27:27+00:00: Z-Image Turbo in ComfyUI: Realism at Lightning Speed - https://blog.comfy.org/p/z-image-turbo-in-comfyui-realism __auto-added__
