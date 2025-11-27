@@ -636,3 +636,4 @@ _Last updated: 2025-08-12_
 - 2025-11-27T00:25:32+00:00: Make lora training work on Z Image and remove some redundant nodes. (… - https://github.com/comfyanonymous/ComfyUI/commit/eaf68c9b5bbfbcdac8988741f3948678c9465c1d __auto-added__
 - 2025-11-27T00:32:19+00:00: cloud/v1.33.9: [backport cloud/1.33] feat: open template via URL in linear mode (#6968) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.33.9 __auto-added__
 - 2025-11-27T00:20:57+00:00: Topaz's Flagship Upscale Models in ComfyUI - https://blog.comfy.org/p/topazs-flagship-upscale-models-in __auto-added__
+- 2025-11-27T04:28:44+00:00: block info (#10841) - https://github.com/comfyanonymous/ComfyUI/commit/c38e7d6599be1bdce580ccfdbb20b928315af05e __auto-added__
