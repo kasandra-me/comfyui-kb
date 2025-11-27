@@ -638,3 +638,4 @@ _Last updated: 2025-08-12_
 - 2025-11-27T00:20:57+00:00: Topaz's Flagship Upscale Models in ComfyUI - https://blog.comfy.org/p/topazs-flagship-upscale-models-in __auto-added__
 - 2025-11-27T04:28:44+00:00: block info (#10841) - https://github.com/comfyanonymous/ComfyUI/commit/c38e7d6599be1bdce580ccfdbb20b928315af05e __auto-added__
 - 2025-11-27T06:03:03+00:00: Account for the VRAM cost of weight offloading (#10733) - https://github.com/comfyanonymous/ComfyUI/commit/f17251bec65b5760cfedec29eace7d77f4b35130 __auto-added__
+- 2025-11-27T16:06:30+00:00: quant ops: Dequantize weight in-place (#10935) - https://github.com/comfyanonymous/ComfyUI/commit/3f382a4f9884f7b672557028adb9bb85d075820d __auto-added__
