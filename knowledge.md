@@ -648,3 +648,4 @@ _Last updated: 2025-08-12_
 - 2025-11-28T20:43:17+00:00: fix(user_manager): fix typo in move_userdata dest validation (#10967) - https://github.com/comfyanonymous/ComfyUI/commit/ca7808f240d4d53e594d3b95753240313864c992 __auto-added__
 - 🔥 2025-11-28T21:16:46+00:00: Disable offload stream when torch compile. (#10961) - https://github.com/comfyanonymous/ComfyUI/commit/f55c98a89f76fc06c435a728bc2e76b6b4051463 __priority-auto-added__
 - 2025-11-28T21:33:07+00:00: fix QuantizedTensor.is_contiguous (#10956) (#10959) - https://github.com/comfyanonymous/ComfyUI/commit/6484ac89dc683b178d9ef3f7406800f7132147ba __auto-added__
+- 2025-11-28T21:38:12+00:00: mm: wrap the raw stream in context manager (#10958) - https://github.com/comfyanonymous/ComfyUI/commit/0ff0457892467ef8a6ea235dcd0618c10ca44ee3 __auto-added__
