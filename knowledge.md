@@ -644,3 +644,4 @@ _Last updated: 2025-08-12_
 - 2025-11-27T22:12:56+00:00: Update template to 0.7.23 (#10949) - https://github.com/comfyanonymous/ComfyUI/commit/b59750a86a4687056528f1d59470e207063a73a3 __auto-added__
 - 2025-11-27T22:46:12+00:00: Enable async offloading by default on Nvidia. (#10953) - https://github.com/comfyanonymous/ComfyUI/commit/9d8a817985bb069685e440b38762f95dc834d242 __auto-added__
 - 2025-11-27T23:40:30+00:00: v1.34.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.2 __auto-added__
+- 2025-11-28T10:52:59+00:00: feat(Kling-API-Nodes): add v2-5-turbo model to FirstLastFrame node (#… - https://github.com/comfyanonymous/ComfyUI/commit/52e778fff3c1d6f32c8d14cba9864faddba8475d __auto-added__
