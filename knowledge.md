@@ -646,3 +646,4 @@ _Last updated: 2025-08-12_
 - 2025-11-27T23:40:30+00:00: v1.34.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.2 __auto-added__
 - 2025-11-28T10:52:59+00:00: feat(Kling-API-Nodes): add v2-5-turbo model to FirstLastFrame node (#… - https://github.com/comfyanonymous/ComfyUI/commit/52e778fff3c1d6f32c8d14cba9864faddba8475d __auto-added__
 - 2025-11-28T20:43:17+00:00: fix(user_manager): fix typo in move_userdata dest validation (#10967) - https://github.com/comfyanonymous/ComfyUI/commit/ca7808f240d4d53e594d3b95753240313864c992 __auto-added__
+- 🔥 2025-11-28T21:16:46+00:00: Disable offload stream when torch compile. (#10961) - https://github.com/comfyanonymous/ComfyUI/commit/f55c98a89f76fc06c435a728bc2e76b6b4051463 __priority-auto-added__
