@@ -649,3 +649,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-11-28T21:16:46+00:00: Disable offload stream when torch compile. (#10961) - https://github.com/comfyanonymous/ComfyUI/commit/f55c98a89f76fc06c435a728bc2e76b6b4051463 __priority-auto-added__
 - 2025-11-28T21:33:07+00:00: fix QuantizedTensor.is_contiguous (#10956) (#10959) - https://github.com/comfyanonymous/ComfyUI/commit/6484ac89dc683b178d9ef3f7406800f7132147ba __auto-added__
 - 2025-11-28T21:38:12+00:00: mm: wrap the raw stream in context manager (#10958) - https://github.com/comfyanonymous/ComfyUI/commit/0ff0457892467ef8a6ea235dcd0618c10ca44ee3 __auto-added__
+- 2025-11-29T00:40:19+00:00: Support video tiny VAEs (#10884) - https://github.com/comfyanonymous/ComfyUI/commit/b9070857092a78cc952d70025fdcc0ff540d96ec __auto-added__
