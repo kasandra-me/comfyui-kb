@@ -651,3 +651,4 @@ _Last updated: 2025-08-12_
 - 2025-11-28T21:38:12+00:00: mm: wrap the raw stream in context manager (#10958) - https://github.com/comfyanonymous/ComfyUI/commit/0ff0457892467ef8a6ea235dcd0618c10ca44ee3 __auto-added__
 - 2025-11-29T00:40:19+00:00: Support video tiny VAEs (#10884) - https://github.com/comfyanonymous/ComfyUI/commit/b9070857092a78cc952d70025fdcc0ff540d96ec __auto-added__
 - 2025-11-29T02:12:42+00:00: Support some z image lora formats. (#10978) - https://github.com/comfyanonymous/ComfyUI/commit/52a32e2b323b90295ab05a8c299590c890f2ecb6 __auto-added__
+- 🔥 2025-11-29T02:28:42+00:00: feat(security): add System User protection with `__` prefix (#10966) - https://github.com/comfyanonymous/ComfyUI/commit/af96d9812de3e420abd43275d9a5960535b6333c __priority-auto-added__
