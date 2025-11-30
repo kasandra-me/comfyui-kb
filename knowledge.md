@@ -654,3 +654,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-11-29T02:28:42+00:00: feat(security): add System User protection with `__` prefix (#10966) - https://github.com/comfyanonymous/ComfyUI/commit/af96d9812de3e420abd43275d9a5960535b6333c __priority-auto-added__
 - 2025-11-29T04:55:00+00:00: Add some missing z image lora layers. (#10980) - https://github.com/comfyanonymous/ComfyUI/commit/5151cff293607c2191981fd16c62c1b1a6939695 __auto-added__
 - 2025-11-29T23:00:55+00:00: Make the ScaleRope node work on Z Image and Lumina. (#10994) - https://github.com/comfyanonymous/ComfyUI/commit/0a6746898d6864d65e2fc7504e5e875f8c19c0ba __auto-added__
+- 2025-11-30T02:07:26+00:00: update template to 0.7.25 (#10996) - https://github.com/comfyanonymous/ComfyUI/commit/4967f81778f84b41acc40ed03536dd71dd88e5f2 __auto-added__
