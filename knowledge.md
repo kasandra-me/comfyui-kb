@@ -655,3 +655,4 @@ _Last updated: 2025-08-12_
 - 2025-11-29T04:55:00+00:00: Add some missing z image lora layers. (#10980) - https://github.com/comfyanonymous/ComfyUI/commit/5151cff293607c2191981fd16c62c1b1a6939695 __auto-added__
 - 2025-11-29T23:00:55+00:00: Make the ScaleRope node work on Z Image and Lumina. (#10994) - https://github.com/comfyanonymous/ComfyUI/commit/0a6746898d6864d65e2fc7504e5e875f8c19c0ba __auto-added__
 - 2025-11-30T02:07:26+00:00: update template to 0.7.25 (#10996) - https://github.com/comfyanonymous/ComfyUI/commit/4967f81778f84b41acc40ed03536dd71dd88e5f2 __auto-added__
+- 2025-11-30T03:28:42+00:00: Echoes of Time: Lighting Up a Historic Fortress with ComfyUI - https://blog.comfy.org/p/echoes-of-time-lighting-up-a-historic __auto-added__
