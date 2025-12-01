@@ -658,3 +658,4 @@ _Last updated: 2025-08-12_
 - 2025-11-30T03:28:42+00:00: Echoes of Time: Lighting Up a Historic Fortress with ComfyUI - https://blog.comfy.org/p/echoes-of-time-lighting-up-a-historic __auto-added__
 - 🔥 2025-11-30T09:21:31+00:00: Next AMD portable will have pytorch with ROCm 7.1.1 (#11002) - https://github.com/comfyanonymous/ComfyUI/commit/f8b981ae9a5676311624bbafa636a1874db79459 __priority-auto-added__
 - 2025-12-01T06:50:42+00:00: v1.34.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.3 __auto-added__
+- 2025-12-01T18:27:17+00:00: bump comfyui-frontend-package to 1.32.10 (#11018) - https://github.com/comfyanonymous/ComfyUI/commit/7dbd5dfe91f057b83dcba0c127f712f6d71f7def __auto-added__
