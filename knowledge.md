@@ -667,3 +667,4 @@ _Last updated: 2025-08-12_
 - 2025-12-02T04:10:54+00:00: v0.5.12 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.12 __auto-added__
 - 2025-12-02T19:46:29+00:00: Fix CODEOWNERS formatting to have all on the same line, otherwise onl… - https://github.com/comfyanonymous/ComfyUI/commit/44baa0b7f32dd0c2ff0a9898aeb6c7929d855cd3 __auto-added__
 - 2025-12-02T19:50:13+00:00: add check for the format arg type in VideoFromComponents.save_to func… - https://github.com/comfyanonymous/ComfyUI/commit/33d6aec3b70bc6f3e5bba26c85bd8f3bb1380d08 __auto-added__
+- 2025-12-02T22:24:19+00:00: attention: use flag based OOM fallback (#11038) - https://github.com/comfyanonymous/ComfyUI/commit/277237ccc1499bac7fcd221a666dfe7a32ac4206 __auto-added__
