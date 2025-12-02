@@ -664,3 +664,4 @@ _Last updated: 2025-08-12_
 - 2025-12-02T01:56:38+00:00: bump comfyui-frontend-package to 1.33.10 (#11028) - https://github.com/comfyanonymous/ComfyUI/commit/c55dc857d5da5af203caf720ed7056047d382544 __auto-added__
 - 2025-12-02T01:25:35+00:00: v0.3.76 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.76 __auto-added__
 - 2025-12-02T03:40:44+00:00: Add @guill as a code owner (#11031) - https://github.com/comfyanonymous/ComfyUI/commit/a17cf1c3871ad582c85c2bb6fddb63ec9c6df0ce __auto-added__
+- 2025-12-02T04:10:54+00:00: v0.5.12 - https://github.com/Comfy-Org/desktop/releases/tag/v0.5.12 __auto-added__
