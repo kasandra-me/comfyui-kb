@@ -660,3 +660,4 @@ _Last updated: 2025-08-12_
 - 2025-12-01T06:50:42+00:00: v1.34.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.3 __auto-added__
 - 2025-12-01T18:27:17+00:00: bump comfyui-frontend-package to 1.32.10 (#11018) - https://github.com/comfyanonymous/ComfyUI/commit/7dbd5dfe91f057b83dcba0c127f712f6d71f7def __auto-added__
 - 2025-12-01T22:13:48+00:00: Update qwen tokenizer to add qwen 3 tokens. (#11029) - https://github.com/comfyanonymous/ComfyUI/commit/2640acb31ccfddee57ba22d5245bf456e8dffe53 __auto-added__
+- 2025-12-02T00:11:52+00:00: [API Nodes] add Kling O1 model support (#11025) - https://github.com/comfyanonymous/ComfyUI/commit/1cb7e22a95701f2619d1ddf5683ea221b58a0c13 __auto-added__
