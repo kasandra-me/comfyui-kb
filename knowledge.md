@@ -670,3 +670,5 @@ _Last updated: 2025-08-12_
 - 2025-12-02T22:24:19+00:00: attention: use flag based OOM fallback (#11038) - https://github.com/comfyanonymous/ComfyUI/commit/277237ccc1499bac7fcd221a666dfe7a32ac4206 __auto-added__
 - 2025-12-03T02:38:31+00:00: Support Z Image alibaba pai fun controlnets. (#11062) - https://github.com/comfyanonymous/ComfyUI/commit/b94d394a64dd0af06bca44b96c66549bb463331d __auto-added__
 - 2025-12-03T02:28:20+00:00: v1.34.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.4 __auto-added__
+- 2025-12-03T03:29:27+00:00: Added PATCH method to CORS headers (#11066) - https://github.com/comfyanonymous/ComfyUI/commit/3f512f5659cfbb3c53999cde6ff557591740252b __auto-added__
+- 2025-12-03T03:31:27+00:00: v1.34.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.5 __auto-added__
