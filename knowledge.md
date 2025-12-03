@@ -680,3 +680,4 @@ _Last updated: 2025-08-12_
 - 2025-12-03T11:02:23+00:00: 5.6.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.6.0 __auto-added__
 - 2025-12-03T16:37:35+00:00: fix(V3-Schema): use empty list defaults for Schema.inputs/outputs/hid… - https://github.com/comfyanonymous/ComfyUI/commit/19f2192d69d13445131b72ad1d87167f59b66fc4 __auto-added__
 - 2025-12-03T16:55:44+00:00: add support for "@image" reference format in Kling Omni API nodes (#1… - https://github.com/comfyanonymous/ComfyUI/commit/87c104bfc1928f0b018a50f5867f425e10482929 __auto-added__
+- 2025-12-03T21:52:31+00:00: convert nodes_load_3d.py to V3 schema (#10990) - https://github.com/comfyanonymous/ComfyUI/commit/440268d3940eb14a01595439bbc05c4aacde9c72 __auto-added__
