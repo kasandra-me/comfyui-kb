@@ -678,3 +678,4 @@ _Last updated: 2025-08-12_
 - 2025-12-03T05:47:51+00:00: Fix issue with portable updater. (#11070) - https://github.com/comfyanonymous/ComfyUI/commit/861817d22d2659099811b56005c9eaea18d64c73 __auto-added__
 - 2025-12-03T07:28:45+00:00: Prs/lora reservations (reduce massive Lora reservations especially on… - https://github.com/comfyanonymous/ComfyUI/commit/519c9411653df99761053c30e101816e0ca3c24b __auto-added__
 - 2025-12-03T11:02:23+00:00: 5.6.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.6.0 __auto-added__
+- 2025-12-03T16:37:35+00:00: fix(V3-Schema): use empty list defaults for Schema.inputs/outputs/hid… - https://github.com/comfyanonymous/ComfyUI/commit/19f2192d69d13445131b72ad1d87167f59b66fc4 __auto-added__
