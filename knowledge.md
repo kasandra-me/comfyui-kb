@@ -672,3 +672,4 @@ _Last updated: 2025-08-12_
 - 2025-12-03T02:28:20+00:00: v1.34.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.4 __auto-added__
 - 2025-12-03T03:29:27+00:00: Added PATCH method to CORS headers (#11066) - https://github.com/comfyanonymous/ComfyUI/commit/3f512f5659cfbb3c53999cde6ff557591740252b __auto-added__
 - 2025-12-03T03:31:27+00:00: v1.34.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.5 __auto-added__
+- 2025-12-03T03:49:29+00:00: Implement temporal rolling VAE (Major VRAM reductions in Hunyuan and … - https://github.com/comfyanonymous/ComfyUI/commit/73f5649196f472d3719e2e7513e0a9d029cc3e38 __auto-added__
