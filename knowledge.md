@@ -675,3 +675,4 @@ _Last updated: 2025-08-12_
 - 2025-12-03T03:49:29+00:00: Implement temporal rolling VAE (Major VRAM reductions in Hunyuan and … - https://github.com/comfyanonymous/ComfyUI/commit/73f5649196f472d3719e2e7513e0a9d029cc3e38 __auto-added__
 - 2025-12-03T05:02:09+00:00: v0.3.77 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.3.77 __auto-added__
 - 2025-12-03T05:17:13+00:00: Add MatchType, DynamicCombo, and Autogrow support to V3 Schema (#10832) - https://github.com/comfyanonymous/ComfyUI/commit/c120eee5bacca643062657d2a7efad83c7d4d828 __auto-added__
+- 2025-12-03T05:47:51+00:00: Fix issue with portable updater. (#11070) - https://github.com/comfyanonymous/ComfyUI/commit/861817d22d2659099811b56005c9eaea18d64c73 __auto-added__
