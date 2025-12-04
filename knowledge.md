@@ -686,3 +686,4 @@ _Last updated: 2025-08-12_
 - 2025-12-04T04:28:44+00:00: mp: use look-ahead actuals for stream offload VRAM calculation (#11096) - https://github.com/comfyanonymous/ComfyUI/commit/6be85c7920224b45bbc6417e00147815e78c12a9 __auto-added__
 - 2025-12-04T08:33:08+00:00: v1.34.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.6 __auto-added__
 - 2025-12-04T17:50:36+00:00: sd: bump HY1.5 VAE estimate (#11107) - https://github.com/comfyanonymous/ComfyUI/commit/9bc893c5bbd2838bdd15ebd40e3a3e548ce3e4f0 __auto-added__
+- 2025-12-04T22:05:28+00:00: [API Nodes]: fixes and refactor (#11104) - https://github.com/comfyanonymous/ComfyUI/commit/3c8456223c5f6a41af7d99219b391c8c58acb552 __auto-added__
