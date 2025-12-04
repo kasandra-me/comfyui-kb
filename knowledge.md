@@ -682,3 +682,4 @@ _Last updated: 2025-08-12_
 - 2025-12-03T16:55:44+00:00: add support for "@image" reference format in Kling Omni API nodes (#1… - https://github.com/comfyanonymous/ComfyUI/commit/87c104bfc1928f0b018a50f5867f425e10482929 __auto-added__
 - 2025-12-03T21:52:31+00:00: convert nodes_load_3d.py to V3 schema (#10990) - https://github.com/comfyanonymous/ComfyUI/commit/440268d3940eb14a01595439bbc05c4aacde9c72 __auto-added__
 - 2025-12-04T01:35:04+00:00: convert nodes_audio.py to V3 schema (#10798) - https://github.com/comfyanonymous/ComfyUI/commit/dce518c2b4f99634b5fdde1924d9b0bd468fe1ce __auto-added__
+- 2025-12-04T04:15:15+00:00: Fix case where text encoders where running on the CPU instead of GPU.… - https://github.com/comfyanonymous/ComfyUI/commit/ea17add3c62197b10fd0b71d9169d339adc55c47 __auto-added__
