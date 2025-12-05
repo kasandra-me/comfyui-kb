@@ -689,3 +689,4 @@ _Last updated: 2025-08-12_
 - 2025-12-04T22:05:28+00:00: [API Nodes]: fixes and refactor (#11104) - https://github.com/comfyanonymous/ComfyUI/commit/3c8456223c5f6a41af7d99219b391c8c58acb552 __auto-added__
 - 2025-12-05T00:22:06+00:00: Try Nodes 2.0 And Help Us Improve ComfyUI! - https://blog.comfy.org/p/comfyui-node-2-0 __auto-added__
 - 2025-12-05T03:52:09+00:00: Forgot to put this in README. (#11112) - https://github.com/comfyanonymous/ComfyUI/commit/35fa091340c60612dfb71cb6822dc23b99a5dac2 __auto-added__
+- 2025-12-05T19:05:38+00:00: Remove line made unnecessary (and wrong) after transformer_options wa… - https://github.com/comfyanonymous/ComfyUI/commit/0ec05b1481d12b299bc945dbd407b773cfb66483 __auto-added__
