@@ -693,3 +693,4 @@ _Last updated: 2025-08-12_
 - 2025-12-05T19:35:42+00:00: Make old scaled fp8 format use the new mixed quant ops system. (#11000) - https://github.com/comfyanonymous/ComfyUI/commit/43071e3de3780f984a46549e90935a0bf405e9df __auto-added__
 - 2025-12-05T20:33:16+00:00: Fix regression when text encoder loaded directly on GPU. (#11129) - https://github.com/comfyanonymous/ComfyUI/commit/6fd463aec958f02be79a264eafd6c8fe7e52762a __auto-added__
 - 2025-12-05T20:42:46+00:00: Context windows fixes and features (#10975) - https://github.com/comfyanonymous/ComfyUI/commit/79d17ba2339aaf4f3422673b3dad24ba4dbd7552 __auto-added__
+- 2025-12-05T23:25:31+00:00: Fix some custom nodes. (#11134) - https://github.com/comfyanonymous/ComfyUI/commit/092ee8a5008c8d558b0a72cc7961a31d9cc5400b __auto-added__
