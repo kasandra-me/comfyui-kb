@@ -688,3 +688,4 @@ _Last updated: 2025-08-12_
 - 2025-12-04T17:50:36+00:00: sd: bump HY1.5 VAE estimate (#11107) - https://github.com/comfyanonymous/ComfyUI/commit/9bc893c5bbd2838bdd15ebd40e3a3e548ce3e4f0 __auto-added__
 - 2025-12-04T22:05:28+00:00: [API Nodes]: fixes and refactor (#11104) - https://github.com/comfyanonymous/ComfyUI/commit/3c8456223c5f6a41af7d99219b391c8c58acb552 __auto-added__
 - 2025-12-05T00:22:06+00:00: Try Nodes 2.0 And Help Us Improve ComfyUI! - https://blog.comfy.org/p/comfyui-node-2-0 __auto-added__
+- 2025-12-05T03:52:09+00:00: Forgot to put this in README. (#11112) - https://github.com/comfyanonymous/ComfyUI/commit/35fa091340c60612dfb71cb6822dc23b99a5dac2 __auto-added__
