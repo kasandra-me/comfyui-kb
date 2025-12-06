@@ -698,3 +698,4 @@ _Last updated: 2025-08-12_
 - 2025-12-06T03:20:22+00:00: Kandinsky5 model support (#10988) - https://github.com/comfyanonymous/ComfyUI/commit/fd109325db7126f92c2dfb7e6b25310eded8c1f8 __auto-added__
 - 2025-12-06T04:01:19+00:00: Fix regression. (#11137) - https://github.com/comfyanonymous/ComfyUI/commit/ae676ed105663bb225153c8bca406f00edf738b4 __auto-added__
 - 2025-12-06T04:24:10+00:00: [V3] convert nodes_mask.py to V3 schema (#10669) - https://github.com/comfyanonymous/ComfyUI/commit/913f86b72740f84f759786a698108840a09b6498 __auto-added__
+- 2025-12-06T05:15:21+00:00: Set OCL_SET_SVM_SIZE on AMD. (#11139) - https://github.com/comfyanonymous/ComfyUI/commit/d7a0aef65033bf0fe56e521577a44fac1830b8b3 __auto-added__
