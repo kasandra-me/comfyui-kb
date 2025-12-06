@@ -696,3 +696,4 @@ _Last updated: 2025-08-12_
 - 2025-12-05T23:25:31+00:00: Fix some custom nodes. (#11134) - https://github.com/comfyanonymous/ComfyUI/commit/092ee8a5008c8d558b0a72cc7961a31d9cc5400b __auto-added__
 - 2025-12-05T23:45:38+00:00: docs: add ComfyUI-Manager documentation and update to v4.0.3b4 (#11133) - https://github.com/comfyanonymous/ComfyUI/commit/bed12674a1d2c4bfdfbdd098686390f807996c90 __auto-added__
 - 2025-12-06T03:20:22+00:00: Kandinsky5 model support (#10988) - https://github.com/comfyanonymous/ComfyUI/commit/fd109325db7126f92c2dfb7e6b25310eded8c1f8 __auto-added__
+- 2025-12-06T04:01:19+00:00: Fix regression. (#11137) - https://github.com/comfyanonymous/ComfyUI/commit/ae676ed105663bb225153c8bca406f00edf738b4 __auto-added__
