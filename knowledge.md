@@ -702,3 +702,4 @@ _Last updated: 2025-08-12_
 - 2025-12-06T11:28:08+00:00: marked all Pika API nodes a deprecated (#11146) - https://github.com/comfyanonymous/ComfyUI/commit/76f18e955dcbc88ed13d6802194fd897927f93e5 __auto-added__
 - 2025-12-06T18:09:44+00:00: Fix EmptyAudio node input types (#11149) - https://github.com/comfyanonymous/ComfyUI/commit/7ac7d69d948e75c3a230d1262daab84d75aff895 __auto-added__
 - 2025-12-06T23:36:20+00:00: Speed up lora compute and lower memory usage by doing it in fp16. (#1… - https://github.com/comfyanonymous/ComfyUI/commit/50ca97e7765d9bbdbeec31a75f1f6c747d76948c __auto-added__
+- 2025-12-06T23:42:09+00:00: Fix on-load VRAM OOM (#11144) - https://github.com/comfyanonymous/ComfyUI/commit/4086acf3c2f0ca3a8861b04f6179fa9f908e3e25 __auto-added__
