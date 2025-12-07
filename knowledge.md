@@ -704,3 +704,4 @@ _Last updated: 2025-08-12_
 - 2025-12-06T23:36:20+00:00: Speed up lora compute and lower memory usage by doing it in fp16. (#1… - https://github.com/comfyanonymous/ComfyUI/commit/50ca97e7765d9bbdbeec31a75f1f6c747d76948c __auto-added__
 - 2025-12-06T23:42:09+00:00: Fix on-load VRAM OOM (#11144) - https://github.com/comfyanonymous/ComfyUI/commit/4086acf3c2f0ca3a8861b04f6179fa9f908e3e25 __auto-added__
 - 2025-12-07T01:50:10+00:00: Fix qwen scaled fp8 not working with kandinsky. Make basic t2i wf wor… - https://github.com/comfyanonymous/ComfyUI/commit/329480da5ab32949a411548f821ea60ab3e90dc7 __auto-added__
+- 2025-12-07T12:44:55+00:00: Properly load the newbie diffusion model. (#11172) - https://github.com/comfyanonymous/ComfyUI/commit/56fa7dbe380cb5591c5542f8aa51ce2fc26beedf __auto-added__
