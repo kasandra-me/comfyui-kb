@@ -705,3 +705,4 @@ _Last updated: 2025-08-12_
 - 2025-12-06T23:42:09+00:00: Fix on-load VRAM OOM (#11144) - https://github.com/comfyanonymous/ComfyUI/commit/4086acf3c2f0ca3a8861b04f6179fa9f908e3e25 __auto-added__
 - 2025-12-07T01:50:10+00:00: Fix qwen scaled fp8 not working with kandinsky. Make basic t2i wf wor… - https://github.com/comfyanonymous/ComfyUI/commit/329480da5ab32949a411548f821ea60ab3e90dc7 __auto-added__
 - 2025-12-07T12:44:55+00:00: Properly load the newbie diffusion model. (#11172) - https://github.com/comfyanonymous/ComfyUI/commit/56fa7dbe380cb5591c5542f8aa51ce2fc26beedf __auto-added__
+- 2025-12-07T15:45:44+00:00: Kling O1 in ComfyUI: The Video Editing Era - https://blog.comfy.org/p/kling-o1-in-comfyui-the-video-editing __auto-added__
