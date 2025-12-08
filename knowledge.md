@@ -709,3 +709,4 @@ _Last updated: 2025-08-12_
 - 2025-12-08T09:33:46+00:00: [API Nodes] add support for seedance-1-0-pro-fast model (#10947) - https://github.com/comfyanonymous/ComfyUI/commit/fd271dedfde6e192a1f1a025521070876e89e04a __auto-added__
 - 2025-12-08T20:18:53+00:00: chore: update workflow templates to v0.7.54 (#11192) - https://github.com/comfyanonymous/ComfyUI/commit/935493f6c186de8808508713a465d6bda75e5ce4 __auto-added__
 - 2025-12-08T22:38:36+00:00: Fix regression. (#11194) - https://github.com/comfyanonymous/ComfyUI/commit/3b0368aa34182fc7c97de92d59b609c77138def2 __auto-added__
+- 2025-12-08T23:27:45+00:00: v1.34.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.7 __auto-added__
