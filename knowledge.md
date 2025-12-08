@@ -707,3 +707,4 @@ _Last updated: 2025-08-12_
 - 2025-12-07T12:44:55+00:00: Properly load the newbie diffusion model. (#11172) - https://github.com/comfyanonymous/ComfyUI/commit/56fa7dbe380cb5591c5542f8aa51ce2fc26beedf __auto-added__
 - 2025-12-07T15:45:44+00:00: Kling O1 in ComfyUI: The Video Editing Era - https://blog.comfy.org/p/kling-o1-in-comfyui-the-video-editing __auto-added__
 - 2025-12-08T09:33:46+00:00: [API Nodes] add support for seedance-1-0-pro-fast model (#10947) - https://github.com/comfyanonymous/ComfyUI/commit/fd271dedfde6e192a1f1a025521070876e89e04a __auto-added__
+- 2025-12-08T20:18:53+00:00: chore: update workflow templates to v0.7.54 (#11192) - https://github.com/comfyanonymous/ComfyUI/commit/935493f6c186de8808508713a465d6bda75e5ce4 __auto-added__
