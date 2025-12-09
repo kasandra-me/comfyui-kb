@@ -716,3 +716,5 @@ _Last updated: 2025-08-12_
 - 2025-12-09T05:55:13+00:00: ops: delete dead code (#11204) - https://github.com/comfyanonymous/ComfyUI/commit/9d252f3b70c0e89cbb581e28bb1862593c4e5ceb __auto-added__
 - 2025-12-09T18:29:05+00:00: Ubisoft Open-Sources the CHORD Model and ComfyUI Nodes for End-to-End PBR Material Generation - https://blog.comfy.org/p/ubisoft-open-sources-the-chord-model __auto-added__
 - 2025-12-09T22:03:21+00:00: Fix nan issue when quantizing fp16 tensor. (#11213) - https://github.com/comfyanonymous/ComfyUI/commit/791e30ff5037fa5e7aa4e1396099ea8d6bfb020b __auto-added__
+- 2025-12-09T23:26:49+00:00: ComfyUI version v0.4.0 - https://github.com/comfyanonymous/ComfyUI/commit/fc657f471a29d07696ca16b566000e8e555d67d1 __auto-added__
+- 2025-12-09T23:26:49+00:00: ComfyUI version v0.4.0 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.4.0 __auto-added__
