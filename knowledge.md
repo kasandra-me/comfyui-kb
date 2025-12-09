@@ -711,3 +711,4 @@ _Last updated: 2025-08-12_
 - 2025-12-08T22:38:36+00:00: Fix regression. (#11194) - https://github.com/comfyanonymous/ComfyUI/commit/3b0368aa34182fc7c97de92d59b609c77138def2 __auto-added__
 - 2025-12-08T23:27:45+00:00: v1.34.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.7 __auto-added__
 - 2025-12-09T03:24:23+00:00: v1.35.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.0 __auto-added__
+- 2025-12-09T04:21:31+00:00: dequantization offload accounting (fixes Flux2 OOMs - incl TEs) (#11171) - https://github.com/comfyanonymous/ComfyUI/commit/e136b6dbb0b08341388f5bf9a00b1fca29992eb3 __auto-added__
