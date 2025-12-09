@@ -714,3 +714,4 @@ _Last updated: 2025-08-12_
 - 2025-12-09T04:21:31+00:00: dequantization offload accounting (fixes Flux2 OOMs - incl TEs) (#11171) - https://github.com/comfyanonymous/ComfyUI/commit/e136b6dbb0b08341388f5bf9a00b1fca29992eb3 __auto-added__
 - 2025-12-09T04:33:29+00:00: add chroma-radiance-x0 mode (#11197) - https://github.com/comfyanonymous/ComfyUI/commit/b9fb542703085c58f082b4a822329fb6670e8016 __auto-added__
 - 2025-12-09T05:55:13+00:00: ops: delete dead code (#11204) - https://github.com/comfyanonymous/ComfyUI/commit/9d252f3b70c0e89cbb581e28bb1862593c4e5ceb __auto-added__
+- 2025-12-09T18:29:05+00:00: Ubisoft Open-Sources the CHORD Model and ComfyUI Nodes for End-to-End PBR Material Generation - https://blog.comfy.org/p/ubisoft-open-sources-the-chord-model __auto-added__
