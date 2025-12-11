@@ -731,3 +731,4 @@ _Last updated: 2025-08-12_
 - 2025-12-11T06:30:31+00:00: Adjust memory usage factor. (#11257) - https://github.com/comfyanonymous/ComfyUI/commit/f8321eb57b29a4b34cecd27d5d6365adf5e6e601 __auto-added__
 - 2025-12-11T11:15:34+00:00: v1.35.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.2 __auto-added__
 - 2025-12-11T22:09:35+00:00: Fix regular chroma radiance (#11276) - https://github.com/comfyanonymous/ComfyUI/commit/fdebe182966d1dd9bee3138264937137bd2302d8 __auto-added__
+- 2025-12-11T22:33:09+00:00: Better chroma radiance and other models vram estimation. (#11278) - https://github.com/comfyanonymous/ComfyUI/commit/eeb020b9b77e1f3c0c2806bc1e38c7ba9576439e __auto-added__
