@@ -724,3 +724,4 @@ _Last updated: 2025-08-12_
 - 2025-12-10T10:01:35+00:00: v1.34.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.34.8 __auto-added__
 - 2025-12-10T10:44:23+00:00: v1.35.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.1 __auto-added__
 - 2025-12-10T19:55:09+00:00: process the NodeV1 dict results correctly (#11237) - https://github.com/comfyanonymous/ComfyUI/commit/36357bbcc3c515e37a742457a2b2ab4b7ccc17a8 __auto-added__
+- 2025-12-11T00:59:48+00:00: Tweak Z Image memory estimation. (#11254) - https://github.com/comfyanonymous/ComfyUI/commit/17c92a9f2843d7b9b727531066be2378b350a6ae __auto-added__
