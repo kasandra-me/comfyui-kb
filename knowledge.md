@@ -726,3 +726,4 @@ _Last updated: 2025-08-12_
 - 2025-12-10T19:55:09+00:00: process the NodeV1 dict results correctly (#11237) - https://github.com/comfyanonymous/ComfyUI/commit/36357bbcc3c515e37a742457a2b2ab4b7ccc17a8 __auto-added__
 - 2025-12-11T00:59:48+00:00: Tweak Z Image memory estimation. (#11254) - https://github.com/comfyanonymous/ComfyUI/commit/17c92a9f2843d7b9b727531066be2378b350a6ae __auto-added__
 - 2025-12-11T02:49:49+00:00: Fix: filter hidden files from /internal/files endpoint (#11191) - https://github.com/comfyanonymous/ComfyUI/commit/57ddb7fd13d817e7259c2c992a852832b6b0f07a __auto-added__
+- 2025-12-11T03:02:26+00:00: Lower VAE loading requirements：Create a new branch for GPU memory cal… - https://github.com/comfyanonymous/ComfyUI/commit/e711aaf1a75120195c56ebd1f1ce829c6b7b84db __auto-added__
