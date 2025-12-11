@@ -727,3 +727,4 @@ _Last updated: 2025-08-12_
 - 2025-12-11T00:59:48+00:00: Tweak Z Image memory estimation. (#11254) - https://github.com/comfyanonymous/ComfyUI/commit/17c92a9f2843d7b9b727531066be2378b350a6ae __auto-added__
 - 2025-12-11T02:49:49+00:00: Fix: filter hidden files from /internal/files endpoint (#11191) - https://github.com/comfyanonymous/ComfyUI/commit/57ddb7fd13d817e7259c2c992a852832b6b0f07a __auto-added__
 - 2025-12-11T03:02:26+00:00: Lower VAE loading requirements：Create a new branch for GPU memory cal… - https://github.com/comfyanonymous/ComfyUI/commit/e711aaf1a75120195c56ebd1f1ce829c6b7b84db __auto-added__
+- 2025-12-11T06:11:12+00:00: feat(api-nodes): enable Kling Omni O1 node (#11229) - https://github.com/comfyanonymous/ComfyUI/commit/93948e3fc598c14082f744fe82fae056b64ff481 __auto-added__
