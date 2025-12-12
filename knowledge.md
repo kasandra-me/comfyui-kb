@@ -738,3 +738,4 @@ _Last updated: 2025-08-12_
 - 2025-12-12T04:32:27+00:00: Respect the dtype the op was initialized in for non quant mixed op. (… - https://github.com/comfyanonymous/ComfyUI/commit/5495589db38409353a85b06df7d10f8de2f9c78d __auto-added__
 - 2025-12-12T08:18:31+00:00: feat(api-nodes): new TextToVideoWithAudio and ImageToVideoWithAudio n… - https://github.com/comfyanonymous/ComfyUI/commit/908fd7d7496f6de88722263e1e00fcd3d22e584f __auto-added__
 - 2025-12-12T07:50:41+00:00: v1.35.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.3 __auto-added__
+- 2025-12-12T16:49:35+00:00: Fix bias dtype issue in mixed ops. (#11293) - https://github.com/comfyanonymous/ComfyUI/commit/c5a47a16924e1be96241553a1448b298e57e50a1 __auto-added__
