@@ -735,3 +735,4 @@ _Last updated: 2025-08-12_
 - 2025-12-11T23:56:33+00:00: Make portable updater work with repos in unmerged state. (#11281) - https://github.com/comfyanonymous/ComfyUI/commit/338d9ae3bbf24a9a06996cdf1c2f228acc65fd96 __auto-added__
 - 2025-12-12T00:00:14+00:00: Comfy Cloud Update: Bring Your Own LoRAs, Unified Credits, and New Plans - https://blog.comfy.org/p/comfy-cloud-update-unified-credit-system __auto-added__
 - 2025-12-12T03:29:34+00:00: WanMove support (#11247) - https://github.com/comfyanonymous/ComfyUI/commit/982876d59a659adb085be5e236aacc4f2c54c19c __auto-added__
+- 2025-12-12T04:32:27+00:00: Respect the dtype the op was initialized in for non quant mixed op. (… - https://github.com/comfyanonymous/ComfyUI/commit/5495589db38409353a85b06df7d10f8de2f9c78d __auto-added__
