@@ -734,3 +734,4 @@ _Last updated: 2025-08-12_
 - 2025-12-11T22:33:09+00:00: Better chroma radiance and other models vram estimation. (#11278) - https://github.com/comfyanonymous/ComfyUI/commit/eeb020b9b77e1f3c0c2806bc1e38c7ba9576439e __auto-added__
 - 2025-12-11T23:56:33+00:00: Make portable updater work with repos in unmerged state. (#11281) - https://github.com/comfyanonymous/ComfyUI/commit/338d9ae3bbf24a9a06996cdf1c2f228acc65fd96 __auto-added__
 - 2025-12-12T00:00:14+00:00: Comfy Cloud Update: Bring Your Own LoRAs, Unified Credits, and New Plans - https://blog.comfy.org/p/comfy-cloud-update-unified-credit-system __auto-added__
+- 2025-12-12T03:29:34+00:00: WanMove support (#11247) - https://github.com/comfyanonymous/ComfyUI/commit/982876d59a659adb085be5e236aacc4f2c54c19c __auto-added__
