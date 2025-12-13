@@ -740,3 +740,4 @@ _Last updated: 2025-08-12_
 - 2025-12-12T07:50:41+00:00: v1.35.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.3 __auto-added__
 - 2025-12-12T16:49:35+00:00: Fix bias dtype issue in mixed ops. (#11293) - https://github.com/comfyanonymous/ComfyUI/commit/c5a47a16924e1be96241553a1448b298e57e50a1 __auto-added__
 - 2025-12-12T22:42:47+00:00: v1.35.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.4 __auto-added__
+- 2025-12-13T00:22:10+00:00: ComfyUI User Survey - https://blog.comfy.org/p/comfyui-user-survey __auto-added__
