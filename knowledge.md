@@ -742,3 +742,4 @@ _Last updated: 2025-08-12_
 - 2025-12-12T22:42:47+00:00: v1.35.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.4 __auto-added__
 - 2025-12-13T00:22:10+00:00: ComfyUI User Survey - https://blog.comfy.org/p/comfyui-user-survey __auto-added__
 - 2025-12-13T06:39:11+00:00: Basic implementation of z image fun control union 2.0 (#11304) - https://github.com/comfyanonymous/ComfyUI/commit/da2bfb5b0af26c7a1c44ec951dbd0fffe413c793 __auto-added__
+- 2025-12-13T06:58:35+00:00: v1.35.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.5 __auto-added__
