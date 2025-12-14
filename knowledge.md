@@ -746,3 +746,4 @@ _Last updated: 2025-08-12_
 - 2025-12-13T12:53:08+00:00: v1.35.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.6 __auto-added__
 - 🔥 2025-12-13T23:45:23+00:00: Fix pytorch warnings. (#11314) - https://github.com/comfyanonymous/ComfyUI/commit/971cefe7d4ca15c949d5d901a663cb66562a4f10 __priority-auto-added__
 - 2025-12-14T00:44:36+00:00: v1.35.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.35.7 __auto-added__
+- 2025-12-14T03:39:06+00:00: v1.36.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.0 __auto-added__
