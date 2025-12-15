@@ -750,3 +750,4 @@ _Last updated: 2025-08-12_
 - 2025-12-14T05:03:29+00:00: seeds_2: add phi_2 variant and sampler node (#11309) - https://github.com/comfyanonymous/ComfyUI/commit/6592bffc609da4738b111dbffca1f473972f3574 __auto-added__
 - 🔥 2025-12-14T09:02:50+00:00: Update warning for old pytorch version. (#11319) - https://github.com/comfyanonymous/ComfyUI/commit/5ac3b26a7dedb9b13c681abe8733c54f13353273 __priority-auto-added__
 - 2025-12-15T02:37:38+00:00: v1.36.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.1 __auto-added__
+- 2025-12-15T19:24:01+00:00: bump manager requirments to the 4.0.3b5 (#11324) - https://github.com/comfyanonymous/ComfyUI/commit/a5e85017d8574cb99024d320f7a53a77a9e6aa5a __auto-added__
