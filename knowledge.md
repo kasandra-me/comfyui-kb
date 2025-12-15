@@ -752,3 +752,4 @@ _Last updated: 2025-08-12_
 - 2025-12-15T02:37:38+00:00: v1.36.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.1 __auto-added__
 - 2025-12-15T19:24:01+00:00: bump manager requirments to the 4.0.3b5 (#11324) - https://github.com/comfyanonymous/ComfyUI/commit/a5e85017d8574cb99024d320f7a53a77a9e6aa5a __auto-added__
 - 2025-12-15T21:28:55+00:00: chore: update workflow templates to v0.7.59 (#11337) - https://github.com/comfyanonymous/ComfyUI/commit/51347f9fb8a8e60d3add049c6f241822c84c8a87 __auto-added__
+- 🔥 2025-12-15T21:49:29+00:00: Disable guards on transformer_options when torch.compile (#11317) - https://github.com/comfyanonymous/ComfyUI/commit/5cb1e0c9a0439f1f95a0b372474bd4845e38009c __priority-auto-added__
