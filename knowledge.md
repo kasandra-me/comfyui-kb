@@ -754,3 +754,4 @@ _Last updated: 2025-08-12_
 - 2025-12-15T21:28:55+00:00: chore: update workflow templates to v0.7.59 (#11337) - https://github.com/comfyanonymous/ComfyUI/commit/51347f9fb8a8e60d3add049c6f241822c84c8a87 __auto-added__
 - 🔥 2025-12-15T21:49:29+00:00: Disable guards on transformer_options when torch.compile (#11317) - https://github.com/comfyanonymous/ComfyUI/commit/5cb1e0c9a0439f1f95a0b372474bd4845e38009c __priority-auto-added__
 - 2025-12-15T23:30:24+00:00: api-nodes: drop Kling v1 model (#11307) - https://github.com/comfyanonymous/ComfyUI/commit/af91eb6c9931d0a2c99cf8a6d4974a6abf9a09fa __auto-added__
+- 2025-12-15T23:32:29+00:00: drop Pika API nodes (#11306) - https://github.com/comfyanonymous/ComfyUI/commit/33c7f1179d4a961e4ca1dd78188c5134e0ee8e8c __auto-added__
