@@ -755,3 +755,5 @@ _Last updated: 2025-08-12_
 - 🔥 2025-12-15T21:49:29+00:00: Disable guards on transformer_options when torch.compile (#11317) - https://github.com/comfyanonymous/ComfyUI/commit/5cb1e0c9a0439f1f95a0b372474bd4845e38009c __priority-auto-added__
 - 2025-12-15T23:30:24+00:00: api-nodes: drop Kling v1 model (#11307) - https://github.com/comfyanonymous/ComfyUI/commit/af91eb6c9931d0a2c99cf8a6d4974a6abf9a09fa __auto-added__
 - 2025-12-15T23:32:29+00:00: drop Pika API nodes (#11306) - https://github.com/comfyanonymous/ComfyUI/commit/33c7f1179d4a961e4ca1dd78188c5134e0ee8e8c __auto-added__
+- 2025-12-16T00:20:34+00:00: Support the new qwen edit 2511 reference method. (#11340) - https://github.com/comfyanonymous/ComfyUI/commit/70541d4e7769c6c40eae6594e677355eacd181fe __auto-added__
+- 2025-12-16T00:26:32+00:00: v1.36.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.2 __auto-added__
