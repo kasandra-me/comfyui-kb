@@ -760,3 +760,4 @@ _Last updated: 2025-08-12_
 - 2025-12-16T01:59:16+00:00: [BlockInfo] Wan (#10845) - https://github.com/comfyanonymous/ComfyUI/commit/ea2c117bc3c9d3b38d68e651905ed0d6dd682f92 __auto-added__
 - 🔥 2025-12-16T03:33:27+00:00: Only enable fp16 on ZImage on newer pytorch. (#11344) - https://github.com/comfyanonymous/ComfyUI/commit/683569de5527379d9a095af88a9e1349fb7e46b5 __priority-auto-added__
 - 2025-12-16T04:38:12+00:00: Inpainting for z image fun control. Use the ZImageFunControlnet node.… - https://github.com/comfyanonymous/ComfyUI/commit/645ee1881e739b3013eeb26dbb335280bfbf443e __auto-added__
+- 2025-12-16T06:26:55+00:00: Add a way to set the default ref method in the qwen image code. (#11349) - https://github.com/comfyanonymous/ComfyUI/commit/bc606d7d645f9edfcac7cca3558210d3ee391d94 __auto-added__
