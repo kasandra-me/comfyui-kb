@@ -762,3 +762,4 @@ _Last updated: 2025-08-12_
 - 2025-12-16T04:38:12+00:00: Inpainting for z image fun control. Use the ZImageFunControlnet node.… - https://github.com/comfyanonymous/ComfyUI/commit/645ee1881e739b3013eeb26dbb335280bfbf443e __auto-added__
 - 2025-12-16T06:26:55+00:00: Add a way to set the default ref method in the qwen image code. (#11349) - https://github.com/comfyanonymous/ComfyUI/commit/bc606d7d645f9edfcac7cca3558210d3ee391d94 __auto-added__
 - 2025-12-16T07:24:18+00:00: Update workflows for new release process (#11064) - https://github.com/comfyanonymous/ComfyUI/commit/9304e47351be8d178a093b30bcaf5d72c3a2baf5 __auto-added__
+- 2025-12-16T22:03:17+00:00: Check state dict key to auto enable the index_timestep_zero ref metho… - https://github.com/comfyanonymous/ComfyUI/commit/ffdd53b327f7ebd48cf81a1c8b06d846cf354a66 __auto-added__
