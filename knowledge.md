@@ -769,3 +769,4 @@ _Last updated: 2025-08-12_
 - 2025-12-17T08:46:11+00:00: v0.5.0 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.5.0 __auto-added__
 - 2025-12-17T17:43:41+00:00: feat(api-nodes): add GPT-Image-1.5 (#11368) - https://github.com/comfyanonymous/ComfyUI/commit/887143854bb2ae1e0f975e4461f376844a1628c8 __auto-added__
 - 2025-12-17T18:24:25+00:00: fix regression in V3 nodes processing (#11375) - https://github.com/comfyanonymous/ComfyUI/commit/c08f97f34407a1bc6cc8d1447d6c12893399acba __auto-added__
+- 2025-12-17T18:57:40+00:00: Fix the last step with non-zero sigma in sa_solver (#11380) - https://github.com/comfyanonymous/ComfyUI/commit/5d9ad0c6bf177095aea5026cd872b1faf873669b __auto-added__
