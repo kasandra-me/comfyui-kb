@@ -771,3 +771,4 @@ _Last updated: 2025-08-12_
 - 2025-12-17T18:24:25+00:00: fix regression in V3 nodes processing (#11375) - https://github.com/comfyanonymous/ComfyUI/commit/c08f97f34407a1bc6cc8d1447d6c12893399acba __auto-added__
 - 2025-12-17T18:57:40+00:00: Fix the last step with non-zero sigma in sa_solver (#11380) - https://github.com/comfyanonymous/ComfyUI/commit/5d9ad0c6bf177095aea5026cd872b1faf873669b __auto-added__
 - 2025-12-17T21:11:42+00:00: v0.6.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.6.1 __auto-added__
+- 🔥 2025-12-18T00:43:18+00:00: Better handle torch being imported by prestartup nodes. (#11383) - https://github.com/comfyanonymous/ComfyUI/commit/16d85ea13342cebc8349a95236c94bde5ac3cb2a __priority-auto-added__
