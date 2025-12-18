@@ -779,3 +779,4 @@ _Last updated: 2025-08-12_
 - 2025-12-18T04:28:55+00:00: Meet the New ComfyUI-Manager - https://blog.comfy.org/p/meet-the-new-comfyui-manager __auto-added__
 - 2025-12-18T05:44:31+00:00: Add unified jobs API with /api/jobs endpoints (#11054) - https://github.com/comfyanonymous/ComfyUI/commit/1ca89b810e921efce95fb4d254a8c6c93180450b __auto-added__
 - 2025-12-18T21:20:29+00:00: v1.36.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.4 __auto-added__
+- 2025-12-18T22:09:29+00:00: chore: update workflow templates to v0.7.60 (#11403) - https://github.com/comfyanonymous/ComfyUI/commit/e8ebbe668e82ab0f3c0842afa79d255329eb76ac __auto-added__
