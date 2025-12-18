@@ -774,3 +774,4 @@ _Last updated: 2025-08-12_
 - 🔥 2025-12-18T00:43:18+00:00: Better handle torch being imported by prestartup nodes. (#11383) - https://github.com/comfyanonymous/ComfyUI/commit/16d85ea13342cebc8349a95236c94bde5ac3cb2a __priority-auto-added__
 - 2025-12-18T02:04:50+00:00: ComfyUI v0.5.1 - https://github.com/comfyanonymous/ComfyUI/commit/ba6080bbab070934ea6e870c5fc30dbf702eb445 __auto-added__
 - 2025-12-18T02:04:50+00:00: v0.5.1 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.5.1 __auto-added__
+- 2025-12-18T03:15:27+00:00: Resolution bucketing and Trainer implementation refactoring (#11117) - https://github.com/comfyanonymous/ComfyUI/commit/86dbb89fc95f0cb652ae5d6cb923f641a58e295d __auto-added__
