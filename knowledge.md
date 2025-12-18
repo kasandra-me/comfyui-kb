@@ -777,3 +777,4 @@ _Last updated: 2025-08-12_
 - 2025-12-18T03:15:27+00:00: Resolution bucketing and Trainer implementation refactoring (#11117) - https://github.com/comfyanonymous/ComfyUI/commit/86dbb89fc95f0cb652ae5d6cb923f641a58e295d __auto-added__
 - 2025-12-18T04:29:32+00:00: skip_load_model -> force_full_load (#11390) - https://github.com/comfyanonymous/ComfyUI/commit/bf7dc63bd6acdedca67598856e05080d90eeec90 __auto-added__
 - 2025-12-18T04:28:55+00:00: Meet the New ComfyUI-Manager - https://blog.comfy.org/p/meet-the-new-comfyui-manager __auto-added__
+- 2025-12-18T05:44:31+00:00: Add unified jobs API with /api/jobs endpoints (#11054) - https://github.com/comfyanonymous/ComfyUI/commit/1ca89b810e921efce95fb4d254a8c6c93180450b __auto-added__
