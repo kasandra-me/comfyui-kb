@@ -782,3 +782,5 @@ _Last updated: 2025-08-12_
 - 2025-12-18T22:09:29+00:00: chore: update workflow templates to v0.7.60 (#11403) - https://github.com/comfyanonymous/ComfyUI/commit/e8ebbe668e82ab0f3c0842afa79d255329eb76ac __auto-added__
 - 2025-12-18T22:45:33+00:00: Support loading Wan/Qwen VAEs with different in/out channels. (#11405) - https://github.com/comfyanonymous/ComfyUI/commit/e4fb3a3572c94d8f2ef73ddd18d2a6966ed5a1e5 __auto-added__
 - 2025-12-18T23:22:38+00:00: Trim/pad channels in VAE code. (#11406) - https://github.com/comfyanonymous/ComfyUI/commit/6a2678ac65ff690e24771a4c64ce96f7a9824fa4 __auto-added__
+- 2025-12-19T01:21:14+00:00: Diffusion model part of Qwen Image Layered. (#11408) - https://github.com/comfyanonymous/ComfyUI/commit/28eaab608bc34c4e3b1886b1bddbb429453249d8 __auto-added__
+- 2025-12-19T01:16:39+00:00: v1.36.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.5 __auto-added__
