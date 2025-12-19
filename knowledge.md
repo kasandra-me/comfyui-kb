@@ -788,3 +788,4 @@ _Last updated: 2025-08-12_
 - 2025-12-19T18:02:49+00:00: add Flux2MaxImage API Node (#11420) - https://github.com/comfyanonymous/ComfyUI/commit/5b4d0664c87dc62a8361fe292b0bdac42681aef8 __auto-added__
 - 2025-12-19T18:41:56+00:00: bump comfyui_manager version to the 4.0.3b7 (#11422) - https://github.com/comfyanonymous/ComfyUI/commit/8376ff6831b145eadc3339e1901ffe02386ab86a __auto-added__
 - 2025-12-19T19:17:59+00:00: New Template Library and Partner Node Updates - https://blog.comfy.org/p/new-template-library-and-partner __auto-added__
+- 2025-12-19T22:01:50+00:00: Allow enabling use of MIOpen by setting COMFYUI_ENABLE_MIOPEN=1 as an… - https://github.com/comfyanonymous/ComfyUI/commit/cc4ddba1b68abdc64ef5a701fd0571fcf2faf98d __auto-added__
