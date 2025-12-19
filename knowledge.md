@@ -784,3 +784,4 @@ _Last updated: 2025-08-12_
 - 2025-12-18T23:22:38+00:00: Trim/pad channels in VAE code. (#11406) - https://github.com/comfyanonymous/ComfyUI/commit/6a2678ac65ff690e24771a4c64ce96f7a9824fa4 __auto-added__
 - 2025-12-19T01:21:14+00:00: Diffusion model part of Qwen Image Layered. (#11408) - https://github.com/comfyanonymous/ComfyUI/commit/28eaab608bc34c4e3b1886b1bddbb429453249d8 __auto-added__
 - 2025-12-19T01:16:39+00:00: v1.36.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.5 __auto-added__
+- 2025-12-19T03:21:40+00:00: Add LatentCutToBatch node. (#11411) - https://github.com/comfyanonymous/ComfyUI/commit/894802b0f9c3a247f5609db89ec3be24eac7fd2b __auto-added__
