@@ -794,3 +794,4 @@ _Last updated: 2025-08-12_
 - 2025-12-20T04:22:45+00:00: Fix error from logging line (#11423) - https://github.com/comfyanonymous/ComfyUI/commit/514c24d756997c3131c57aa21578a09429096eca __auto-added__
 - 2025-12-20T05:23:51+00:00: Fix issue with batches and newbie. (#11435) - https://github.com/comfyanonymous/ComfyUI/commit/31e961736a476851e2579d5d9202ed4177a71720 __auto-added__
 - 2025-12-20T06:02:43+00:00: Only apply gemma quant config to gemma model for newbie. (#11436) - https://github.com/comfyanonymous/ComfyUI/commit/fb478f679a2998c4f2e955bcb895cc4c55f119a4 __auto-added__
+- 2025-12-20T06:24:37+00:00: chore(api-nodes): by default set Watermark generation to False (#11437) - https://github.com/comfyanonymous/ComfyUI/commit/0899012ad60db23cbc5990d164fbd22195bafcb2 __auto-added__
