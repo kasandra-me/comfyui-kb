@@ -790,3 +790,4 @@ _Last updated: 2025-08-12_
 - 2025-12-19T19:17:59+00:00: New Template Library and Partner Node Updates - https://blog.comfy.org/p/new-template-library-and-partner __auto-added__
 - 2025-12-19T22:01:50+00:00: Allow enabling use of MIOpen by setting COMFYUI_ENABLE_MIOPEN=1 as an… - https://github.com/comfyanonymous/ComfyUI/commit/cc4ddba1b68abdc64ef5a701fd0571fcf2faf98d __auto-added__
 - 2025-12-20T00:22:16+00:00: v1.36.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.6 __auto-added__
+- 2025-12-20T00:59:25+00:00: Support nested tensor denoise masks. (#11431) - https://github.com/comfyanonymous/ComfyUI/commit/809ce687493db84f6743639adf9b600753b6188e __auto-added__
