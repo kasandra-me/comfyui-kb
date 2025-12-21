@@ -796,3 +796,5 @@ _Last updated: 2025-08-12_
 - 2025-12-20T06:02:43+00:00: Only apply gemma quant config to gemma model for newbie. (#11436) - https://github.com/comfyanonymous/ComfyUI/commit/fb478f679a2998c4f2e955bcb895cc4c55f119a4 __auto-added__
 - 2025-12-20T06:24:37+00:00: chore(api-nodes): by default set Watermark generation to False (#11437) - https://github.com/comfyanonymous/ComfyUI/commit/0899012ad60db23cbc5990d164fbd22195bafcb2 __auto-added__
 - 2025-12-20T16:48:28+00:00: fix(api-nodes): Topaz 4k video upscaling (#11438) - https://github.com/comfyanonymous/ComfyUI/commit/bbb11e26081977474eec72ce36d12ec778b5a9ea __auto-added__
+- 2025-12-21T01:02:02+00:00: Core release process. (#11447) - https://github.com/comfyanonymous/ComfyUI/commit/807538fe6c66bca8c91edbad14414fb4e109cbde __auto-added__
+- 2025-12-21T00:39:32+00:00: v1.36.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.7 __auto-added__
