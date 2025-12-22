@@ -801,3 +801,4 @@ _Last updated: 2025-08-12_
 - 2025-12-22T00:59:40+00:00: Add node to create empty latents for qwen image layered model. (#11460) - https://github.com/comfyanonymous/ComfyUI/commit/91bf6b6aa3d5134c1569375a34ff483d3e32e03f __auto-added__
 - 2025-12-22T06:44:49+00:00: extend possible duration range for Kling O1 StartEndFrame node (#11451) - https://github.com/comfyanonymous/ComfyUI/commit/c176b214cc768d41892add4d4f51c5c5627cbf7b __auto-added__
 - 2025-12-22T09:39:54+00:00: v1.36.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.8 __auto-added__
+- 2025-12-22T21:02:41+00:00: Update workflow templates to v0.7.62 (#11467) - https://github.com/comfyanonymous/ComfyUI/commit/eb0e10aec449eed2bbcda82ae5b56070e61ed86f __auto-added__
