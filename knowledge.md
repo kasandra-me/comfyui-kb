@@ -798,3 +798,4 @@ _Last updated: 2025-08-12_
 - 2025-12-20T16:48:28+00:00: fix(api-nodes): Topaz 4k video upscaling (#11438) - https://github.com/comfyanonymous/ComfyUI/commit/bbb11e26081977474eec72ce36d12ec778b5a9ea __auto-added__
 - 2025-12-21T01:02:02+00:00: Core release process. (#11447) - https://github.com/comfyanonymous/ComfyUI/commit/807538fe6c66bca8c91edbad14414fb4e109cbde __auto-added__
 - 2025-12-21T00:39:32+00:00: v1.36.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.7 __auto-added__
+- 2025-12-22T00:59:40+00:00: Add node to create empty latents for qwen image layered model. (#11460) - https://github.com/comfyanonymous/ComfyUI/commit/91bf6b6aa3d5134c1569375a34ff483d3e32e03f __auto-added__
