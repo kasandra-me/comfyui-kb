@@ -803,3 +803,4 @@ _Last updated: 2025-08-12_
 - 2025-12-22T09:39:54+00:00: v1.36.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.8 __auto-added__
 - 2025-12-22T21:02:41+00:00: Update workflow templates to v0.7.62 (#11467) - https://github.com/comfyanonymous/ComfyUI/commit/eb0e10aec449eed2bbcda82ae5b56070e61ed86f __auto-added__
 - 2025-12-22T21:43:24+00:00: Make denoised output on custom sampler nodes work with nested tensors… - https://github.com/comfyanonymous/ComfyUI/commit/33aa808713f7c36cd9476c53b8b67c745e9bc107 __auto-added__
+- 2025-12-23T01:15:48+00:00: v1.36.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.9 __auto-added__
