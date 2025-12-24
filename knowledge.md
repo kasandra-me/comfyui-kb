@@ -805,3 +805,4 @@ _Last updated: 2025-08-12_
 - 2025-12-22T21:43:24+00:00: Make denoised output on custom sampler nodes work with nested tensors… - https://github.com/comfyanonymous/ComfyUI/commit/33aa808713f7c36cd9476c53b8b67c745e9bc107 __auto-added__
 - 2025-12-23T01:15:48+00:00: v1.36.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.9 __auto-added__
 - 2025-12-23T20:10:27+00:00: api-nodes: use new custom endpoint for Nano Banana (#11311) - https://github.com/comfyanonymous/ComfyUI/commit/f4f44bb8073d02597aca61193fec6143292a0b88 __auto-added__
+- 2025-12-24T00:48:11+00:00: v1.36.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.10 __auto-added__
