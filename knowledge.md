@@ -810,3 +810,4 @@ _Last updated: 2025-08-12_
 - 2025-12-24T01:50:02+00:00: v0.6.0 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.6.0 __auto-added__
 - 2025-12-24T05:29:41+00:00: Bump comfyui-frontend-package to 1.35.9 (#11470) - https://github.com/comfyanonymous/ComfyUI/commit/650e716dda0a966a083f0efe299f3e83336f920e __auto-added__
 - 2025-12-24T06:48:35+00:00: v0.6.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.6.2 __auto-added__
+- 2025-12-24T10:43:44+00:00: 5.7.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.7.0 __auto-added__
