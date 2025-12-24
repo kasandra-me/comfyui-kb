@@ -806,3 +806,5 @@ _Last updated: 2025-08-12_
 - 2025-12-23T01:15:48+00:00: v1.36.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.9 __auto-added__
 - 2025-12-23T20:10:27+00:00: api-nodes: use new custom endpoint for Nano Banana (#11311) - https://github.com/comfyanonymous/ComfyUI/commit/f4f44bb8073d02597aca61193fec6143292a0b88 __auto-added__
 - 2025-12-24T00:48:11+00:00: v1.36.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.10 __auto-added__
+- 2025-12-24T01:50:02+00:00: ComfyUI v0.6.0 - https://github.com/comfyanonymous/ComfyUI/commit/e4c61d75555036fa28b6bb34e5fd67b007c9f391 __auto-added__
+- 2025-12-24T01:50:02+00:00: v0.6.0 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.6.0 __auto-added__
