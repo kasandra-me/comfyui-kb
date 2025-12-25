@@ -813,3 +813,5 @@ _Last updated: 2025-08-12_
 - 2025-12-24T10:43:44+00:00: 5.7.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.7.0 __auto-added__
 - 2025-12-24T11:24:20+00:00: 5.7.1 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.7.1 __auto-added__
 - 2025-12-24T20:39:20+00:00: Qwen Image Edit 2511 & Qwen Image Layered in ComfyUI - https://blog.comfy.org/p/qwen-image-edit-2511-and-qwen-image __auto-added__
+- 2025-12-25T00:09:37+00:00: Add a ManualSigmas node. (#11499) - https://github.com/comfyanonymous/ComfyUI/commit/532e2850794c7b497174a0a42ac0cb1fe5b62499 __auto-added__
+- 2025-12-25T00:41:52+00:00: v1.36.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.11 __auto-added__
