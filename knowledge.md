@@ -816,3 +816,4 @@ _Last updated: 2025-08-12_
 - 2025-12-25T00:09:37+00:00: Add a ManualSigmas node. (#11499) - https://github.com/comfyanonymous/ComfyUI/commit/532e2850794c7b497174a0a42ac0cb1fe5b62499 __auto-added__
 - 2025-12-25T00:41:52+00:00: v1.36.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.11 __auto-added__
 - 2025-12-25T15:58:47+00:00: Generate High-Fidelity 3D Models with Tripo v3.0 in ComfyUI - https://blog.comfy.org/p/generate-high-fidelity-3d-models __auto-added__
+- 🔥 2025-12-26T04:46:51+00:00: Specify in readme that we only support pytorch 2.4 and up. (#11512) - https://github.com/comfyanonymous/ComfyUI/commit/d9a76cf66e3fc6b0047692a07bc1d24f20e16e20 __priority-auto-added__
