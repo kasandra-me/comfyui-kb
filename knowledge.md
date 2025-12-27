@@ -817,3 +817,4 @@ _Last updated: 2025-08-12_
 - 2025-12-25T00:41:52+00:00: v1.36.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.11 __auto-added__
 - 2025-12-25T15:58:47+00:00: Generate High-Fidelity 3D Models with Tripo v3.0 in ComfyUI - https://blog.comfy.org/p/generate-high-fidelity-3d-models __auto-added__
 - 🔥 2025-12-26T04:46:51+00:00: Specify in readme that we only support pytorch 2.4 and up. (#11512) - https://github.com/comfyanonymous/ComfyUI/commit/d9a76cf66e3fc6b0047692a07bc1d24f20e16e20 __priority-auto-added__
+- 2025-12-26T23:55:59+00:00: bump comfyui_manager version to the 4.0.4 (#11521) - https://github.com/comfyanonymous/ComfyUI/commit/16fb6849d296259fd2bf106a6f894650d9a12072 __auto-added__
