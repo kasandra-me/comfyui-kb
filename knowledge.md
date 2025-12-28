@@ -820,3 +820,5 @@ _Last updated: 2025-08-12_
 - 2025-12-26T23:55:59+00:00: bump comfyui_manager version to the 4.0.4 (#11521) - https://github.com/comfyanonymous/ComfyUI/commit/16fb6849d296259fd2bf106a6f894650d9a12072 __auto-added__
 - 2025-12-27T03:39:02+00:00: [V3] converted nodes_images.py to V3 schema (#11206) - https://github.com/comfyanonymous/ComfyUI/commit/eff4ea0b625e851d641b8f6532ff7afe2df16b9d __auto-added__
 - 2025-12-27T03:56:52+00:00: chore(api-nodes): switch to credits instead of $ (#11489) - https://github.com/comfyanonymous/ComfyUI/commit/36deef2c57eacb5d847bd709c5f3068190630612 __auto-added__
+- 2025-12-27T23:54:15+00:00: Enable async offload by default for AMD. (#11534) - https://github.com/comfyanonymous/ComfyUI/commit/2943093a5310fc96aa010a3c68c04f7c16f58a9e __auto-added__
+- 2025-12-28T01:07:32+00:00: v1.36.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.12 __auto-added__
