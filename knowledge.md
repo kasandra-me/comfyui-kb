@@ -822,3 +822,4 @@ _Last updated: 2025-08-12_
 - 2025-12-27T03:56:52+00:00: chore(api-nodes): switch to credits instead of $ (#11489) - https://github.com/comfyanonymous/ComfyUI/commit/36deef2c57eacb5d847bd709c5f3068190630612 __auto-added__
 - 2025-12-27T23:54:15+00:00: Enable async offload by default for AMD. (#11534) - https://github.com/comfyanonymous/ComfyUI/commit/2943093a5310fc96aa010a3c68c04f7c16f58a9e __auto-added__
 - 2025-12-28T01:07:32+00:00: v1.36.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.36.12 __auto-added__
+- 2025-12-29T03:07:25+00:00: Comment out unused norm_final in lumina/z image model. (#11545) - https://github.com/comfyanonymous/ComfyUI/commit/8fd07170f1b0a7eaaf5a62020cd1926dd3b5092c __auto-added__
