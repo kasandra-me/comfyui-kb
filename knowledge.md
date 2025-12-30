@@ -828,3 +828,4 @@ _Last updated: 2025-08-12_
 - 2025-12-30T00:40:40+00:00: v1.37.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.0 __auto-added__
 - 2025-12-30T01:07:29+00:00: ResizeByLongerSide: support video (#11555) - https://github.com/comfyanonymous/ComfyUI/commit/d7111e426a48127a97922227b03d31391eb4eba2 __auto-added__
 - 2025-12-30T16:33:34+00:00: chore(api-nodes-bytedance): mark "seededit" as deprecated, adjust dis… - https://github.com/comfyanonymous/ComfyUI/commit/25a1bfab4e19b541c2bd6f253a3b83886fb660a1 __auto-added__
+- 2025-12-30T22:40:42+00:00: Add handling for vace_context in context windows (#11386) - https://github.com/comfyanonymous/ComfyUI/commit/178bdc5e14ec0a55e401c509719e33773cc9b565 __auto-added__
