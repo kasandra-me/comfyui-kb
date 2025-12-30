@@ -825,3 +825,4 @@ _Last updated: 2025-08-12_
 - 2025-12-29T03:07:25+00:00: Comment out unused norm_final in lumina/z image model. (#11545) - https://github.com/comfyanonymous/ComfyUI/commit/8fd07170f1b0a7eaaf5a62020cd1926dd3b5092c __auto-added__
 - 2025-12-29T22:18:01+00:00: ComfyUI repo will move to Comfy Org account by Jan 6 - https://blog.comfy.org/p/comfyui-repo-will-moved-to-comfy __auto-added__
 - 2025-12-29T23:26:42+00:00: Add some warnings for pin and unpin errors. (#11561) - https://github.com/comfyanonymous/ComfyUI/commit/0e6221cc79a3f3cbf0e15a8321bfe75fcffbe667 __auto-added__
+- 2025-12-30T00:40:40+00:00: v1.37.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.0 __auto-added__
