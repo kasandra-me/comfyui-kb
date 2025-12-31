@@ -833,3 +833,4 @@ _Last updated: 2025-08-12_
 - 2025-12-31T03:41:22+00:00: v0.7.0 - https://github.com/comfyanonymous/ComfyUI/releases/tag/v0.7.0 __auto-added__
 - 2025-12-31T03:16:15+00:00: v1.37.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.1 __auto-added__
 - 2025-12-31T04:12:38+00:00: fix(api-nodes-vidu): preserve percent-encoding for signed URLs (#11564) - https://github.com/comfyanonymous/ComfyUI/commit/6ca3d5c011bc15737131eb665939ae0a39a74254 __auto-added__
+- 2025-12-31T21:38:39+00:00: chore: update workflow templates to v0.7.65 (#11579) - https://github.com/comfyanonymous/ComfyUI/commit/236b9e211d5093b33acbe1918f56a6bfb4a5cf17 __auto-added__
