@@ -835,3 +835,4 @@ _Last updated: 2025-08-12_
 - 2025-12-31T04:12:38+00:00: fix(api-nodes-vidu): preserve percent-encoding for signed URLs (#11564) - https://github.com/comfyanonymous/ComfyUI/commit/6ca3d5c011bc15737131eb665939ae0a39a74254 __auto-added__
 - 2025-12-31T21:38:39+00:00: chore: update workflow templates to v0.7.65 (#11579) - https://github.com/comfyanonymous/ComfyUI/commit/236b9e211d5093b33acbe1918f56a6bfb4a5cf17 __auto-added__
 - 2025-12-31T22:38:36+00:00: Refactor: move clip_preprocess to comfy.clip_model (#11586) - https://github.com/comfyanonymous/ComfyUI/commit/d622a618749b603531b753cef286a6051dd85565 __auto-added__
+- 2026-01-01T00:29:55+00:00: Remove duplicate import of model_management (#11587) - https://github.com/comfyanonymous/ComfyUI/commit/1bdc9a947f578733f81c9ae894a5acd5809c7a66 __auto-added__
