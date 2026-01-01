@@ -836,3 +836,4 @@ _Last updated: 2025-08-12_
 - 2025-12-31T21:38:39+00:00: chore: update workflow templates to v0.7.65 (#11579) - https://github.com/comfyanonymous/ComfyUI/commit/236b9e211d5093b33acbe1918f56a6bfb4a5cf17 __auto-added__
 - 2025-12-31T22:38:36+00:00: Refactor: move clip_preprocess to comfy.clip_model (#11586) - https://github.com/comfyanonymous/ComfyUI/commit/d622a618749b603531b753cef286a6051dd85565 __auto-added__
 - 2026-01-01T00:29:55+00:00: Remove duplicate import of model_management (#11587) - https://github.com/comfyanonymous/ComfyUI/commit/1bdc9a947f578733f81c9ae894a5acd5809c7a66 __auto-added__
+- 2026-01-01T02:51:44+00:00: v1.37.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.2 __auto-added__
