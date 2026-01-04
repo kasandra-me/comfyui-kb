@@ -842,3 +842,4 @@ _Last updated: 2025-08-12_
 - 2026-01-02T11:18:43+00:00: Tripo3D: pass face_limit parameter only when it differs from default … - https://github.com/comfyanonymous/ComfyUI/commit/f2fda021ab179ba31d9175698b82474a5dd14359 __auto-added__
 - 2026-01-03T01:28:10+00:00: Remove leftover scaled_fp8 key. (#11603) - https://github.com/comfyanonymous/ComfyUI/commit/9a552df898ec57f066784cc1f7c475644099b3c1 __auto-added__
 - 2026-01-04T03:28:38+00:00: Print memory summary on OOM to help with debugging. (#11613) - https://github.com/comfyanonymous/ComfyUI/commit/53e762a3af9502ebe61a60eb2d39d783fe8d012b __auto-added__
+- 2026-01-04T07:05:02+00:00: feat(api-nodes): add support for 720p resolution for Kling Omni nodes… - https://github.com/comfyanonymous/ComfyUI/commit/acbf08cd60fade74b2e9e5009fa0dcad9538356b __auto-added__
