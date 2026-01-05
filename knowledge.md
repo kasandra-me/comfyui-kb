@@ -844,3 +844,4 @@ _Last updated: 2025-08-12_
 - 2026-01-04T03:28:38+00:00: Print memory summary on OOM to help with debugging. (#11613) - https://github.com/comfyanonymous/ComfyUI/commit/53e762a3af9502ebe61a60eb2d39d783fe8d012b __auto-added__
 - 2026-01-04T07:05:02+00:00: feat(api-nodes): add support for 720p resolution for Kling Omni nodes… - https://github.com/comfyanonymous/ComfyUI/commit/acbf08cd60fade74b2e9e5009fa0dcad9538356b __auto-added__
 - 2026-01-05T00:13:50+00:00: Fix case where upscale model wouldn't be moved to cpu. (#11633) - https://github.com/comfyanonymous/ComfyUI/commit/38d049382533c6662d815b08ca3395e96cca9f57 __auto-added__
+- 2026-01-05T06:58:59+00:00: Support the LTXV 2 model. (#11632) - https://github.com/comfyanonymous/ComfyUI/commit/f2b002372b71cf0671a4cf1fa539e1c386d727e4 __auto-added__
