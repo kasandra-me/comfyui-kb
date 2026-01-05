@@ -848,3 +848,4 @@ _Last updated: 2025-08-12_
 - 2026-01-05T07:27:31+00:00: Add LTXAVTextEncoderLoader node. (#11634) - https://github.com/comfyanonymous/ComfyUI/commit/d1b9822f741843c64b2cbd8e1bcdd49794b182ce __auto-added__
 - 2026-01-05T08:48:31+00:00: Refactor module_size function. (#11637) - https://github.com/comfyanonymous/ComfyUI/commit/d157c3299d6f9e1b57981bdb4931f1d7129e4e8d __auto-added__
 - 2026-01-05T10:41:23+00:00: Fix name. (#11638) - https://github.com/comfyanonymous/ComfyUI/commit/4f3f9e72a9d0c15d00c0c362b8e90f1db5af6cfb __auto-added__
+- 2026-01-05T20:02:20+00:00: v0.7.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.0 __auto-added__
