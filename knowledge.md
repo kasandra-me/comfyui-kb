@@ -858,3 +858,4 @@ _Last updated: 2025-08-12_
 - 2026-01-06T19:43:24+00:00: Add helpful message to portable. (#11671) - https://github.com/comfyanonymous/ComfyUI/commit/96e0d0924e027248733bc6e0b8102dcdc8acde33 __auto-added__
 - 2026-01-06T20:53:43+00:00: Update comfy-kitchen version to 0.2.1 (#11672) - https://github.com/comfyanonymous/ComfyUI/commit/6ffc159bdd56d1ad73e954081def6a7f163e7a7f __auto-added__
 - 2026-01-06T21:57:50+00:00: Use rope functions from comfy kitchen. (#11674) - https://github.com/comfyanonymous/ComfyUI/commit/c3c3e93c5bb3034175c17ef8beeb8fe8626c66ab __auto-added__
+- 2026-01-06T22:33:03+00:00: Fix lowvram issue with ltxv2 text encoder. (#11675) - https://github.com/comfyanonymous/ComfyUI/commit/023cf13721cac256c323e2226319b766d07b1f36 __auto-added__
