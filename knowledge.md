@@ -851,3 +851,5 @@ _Last updated: 2025-08-12_
 - 2026-01-05T20:02:20+00:00: v0.7.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.0 __auto-added__
 - 2026-01-05T21:04:10+00:00: v1.37.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.3 __auto-added__
 - 2026-01-06T02:48:58+00:00: Initial ops changes to use comfy_kitchen: Initial nvfp4 checkpoint su… - https://github.com/comfyanonymous/ComfyUI/commit/6da00dd899e3ee6f2a0a8163b080a9f373395025 __auto-added__
+- 2026-01-06T04:07:39+00:00: Revert "Use rope functions from comfy kitchen. (#11647)" (#11648) - https://github.com/comfyanonymous/ComfyUI/commit/161800241117fae7af90e0c938d0cf8cb2f2ddb1 __auto-added__
+- 2026-01-06T03:28:15+00:00: Official AMD ROCm™ Support Arrives on Windows for ComfyUI Desktop - https://blog.comfy.org/p/official-amd-rocm-support-arrives __auto-added__
