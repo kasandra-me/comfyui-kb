@@ -854,3 +854,4 @@ _Last updated: 2025-08-12_
 - 2026-01-06T04:07:39+00:00: Revert "Use rope functions from comfy kitchen. (#11647)" (#11648) - https://github.com/comfyanonymous/ComfyUI/commit/161800241117fae7af90e0c938d0cf8cb2f2ddb1 __auto-added__
 - 2026-01-06T03:28:15+00:00: Official AMD ROCm™ Support Arrives on Windows for ComfyUI Desktop - https://blog.comfy.org/p/official-amd-rocm-support-arrives __auto-added__
 - 2026-01-06T06:37:11+00:00: chore: update workflow templates to v0.7.66 (#11652) - https://github.com/comfyanonymous/ComfyUI/commit/e14f3b661069971163ddc56036b0f486933b9162 __auto-added__
+- 2026-01-06T07:46:58+00:00: LTX-2 is natively supported in ComfyUI on Day 0 - https://blog.comfy.org/p/ltx-2-open-source-audio-video-ai __auto-added__
