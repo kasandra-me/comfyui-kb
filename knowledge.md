@@ -863,3 +863,4 @@ _Last updated: 2025-08-12_
 - 2026-01-06T22:51:40+00:00: v1.37.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.4 __auto-added__
 - 2026-01-06T23:07:26+00:00: Skip fp4 matrix mult on devices that don't support it. (#11677) - https://github.com/comfyanonymous/ComfyUI/commit/2c03884f5fb7fa213161dfe1e9a09a8e8c4b6062 __auto-added__
 - 2026-01-07T02:17:44+00:00: v1.37.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.5 __auto-added__
+- 🔥 2026-01-07T03:13:43+00:00: Disable comfy kitchen cuda if pytorch cuda less than 13 (#11681) - https://github.com/comfyanonymous/ComfyUI/commit/edee33f55ea27a1931475d3ea788fd6e9a81677b __priority-auto-added__
