@@ -867,3 +867,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-01-07T03:13:43+00:00: Disable comfy kitchen cuda if pytorch cuda less than 13 (#11681) - https://github.com/Comfy-Org/ComfyUI/commit/edee33f55ea27a1931475d3ea788fd6e9a81677b __priority-auto-added__
 - 2025-12-31T07:50:55+00:00: v0.7.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.7.0 __auto-added__
 - 2026-01-07T04:51:45+00:00: Update comfy-kitchen version to 0.2.3 (#11685) - https://github.com/Comfy-Org/ComfyUI/commit/c5cfb34c07048350f472a9a4f1ccbf75a56ed38f __auto-added__
+- 2026-01-07T06:04:50+00:00: feat(api-nodes): add WAN2.6 ReferenceToVideo (#11644) - https://github.com/Comfy-Org/ComfyUI/commit/79e94544bd7ec0cc7a4e5e6167907e7d781c4b76 __auto-added__
