@@ -871,3 +871,4 @@ _Last updated: 2025-08-12_
 - 2026-01-07T06:39:06+00:00: Fix fp8 fast issue. (#11688) - https://github.com/Comfy-Org/ComfyUI/commit/b7d7cc1d496afe3c82279eec74c4d47399aab8ea __auto-added__
 - 2026-01-07T09:07:31+00:00: ComfyUI v0.8.0 - https://github.com/Comfy-Org/ComfyUI/commit/fc0cb10bcbee6e73ed3caf34c27f7bde4559a07f __auto-added__
 - 2026-01-07T09:07:31+00:00: v0.8.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.8.0 __auto-added__
+- 2026-01-07T10:15:14+00:00: Support gemma 12B with quant weights. (#11696) - https://github.com/Comfy-Org/ComfyUI/commit/3cd7b32f1b7e7e90395cefe7d9f9b1f89276d8ce __auto-added__
