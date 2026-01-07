@@ -872,3 +872,4 @@ _Last updated: 2025-08-12_
 - 2026-01-07T09:07:31+00:00: ComfyUI v0.8.0 - https://github.com/Comfy-Org/ComfyUI/commit/fc0cb10bcbee6e73ed3caf34c27f7bde4559a07f __auto-added__
 - 2026-01-07T09:07:31+00:00: v0.8.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.8.0 __auto-added__
 - 2026-01-07T10:15:14+00:00: Support gemma 12B with quant weights. (#11696) - https://github.com/Comfy-Org/ComfyUI/commit/3cd7b32f1b7e7e90395cefe7d9f9b1f89276d8ce __auto-added__
+- 2026-01-07T23:39:59+00:00: Add device selection for LTXAVTextEncoderLoader (#11700) - https://github.com/Comfy-Org/ComfyUI/commit/1c705f7bfb0fb59f6213dfb85ec5d5dc2ce4300e __auto-added__
