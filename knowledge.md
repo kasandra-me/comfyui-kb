@@ -875,3 +875,5 @@ _Last updated: 2025-08-12_
 - 2026-01-07T23:39:59+00:00: Add device selection for LTXAVTextEncoderLoader (#11700) - https://github.com/Comfy-Org/ComfyUI/commit/1c705f7bfb0fb59f6213dfb85ec5d5dc2ce4300e __auto-added__
 - 2026-01-08T00:48:47+00:00: Bump required comfy-kitchen version. (#11714) - https://github.com/Comfy-Org/ComfyUI/commit/007b87e7ac29e55ce0ad2c436f5ae68f3a078080 __auto-added__
 - 2026-01-08T02:22:23+00:00: Update template to 0.7.69 (#11719) - https://github.com/Comfy-Org/ComfyUI/commit/fcd9a236b091bd4e77b177134ddfcf7d7dbd71fd __auto-added__
+- 2026-01-08T04:07:05+00:00: Tweak ltxv vae mem estimation. (#11722) - https://github.com/Comfy-Org/ComfyUI/commit/50d6e1caf401bf72dca1e9df7e194e722e1bd98b __auto-added__
+- 2026-01-08T04:01:53+00:00: v0.8.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.8.1 __auto-added__
