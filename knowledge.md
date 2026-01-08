@@ -877,3 +877,5 @@ _Last updated: 2025-08-12_
 - 2026-01-08T02:22:23+00:00: Update template to 0.7.69 (#11719) - https://github.com/Comfy-Org/ComfyUI/commit/fcd9a236b091bd4e77b177134ddfcf7d7dbd71fd __auto-added__
 - 2026-01-08T04:07:05+00:00: Tweak ltxv vae mem estimation. (#11722) - https://github.com/Comfy-Org/ComfyUI/commit/50d6e1caf401bf72dca1e9df7e194e722e1bd98b __auto-added__
 - 2026-01-08T04:01:53+00:00: v0.8.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.8.1 __auto-added__
+- 2026-01-08T04:50:02+00:00: ComfyUI version v0.8.2 - https://github.com/Comfy-Org/ComfyUI/commit/2e9d51680a90bca9cc375ba7767f7bf3ed27d563 __auto-added__
+- 2026-01-08T04:50:02+00:00: v0.8.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.8.2 __auto-added__
