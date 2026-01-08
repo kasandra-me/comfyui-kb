@@ -884,3 +884,4 @@ _Last updated: 2025-08-12_
 - 2026-01-08T13:51:07+00:00: v0.7.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.2 __auto-added__
 - 2026-01-08T16:15:42+00:00: bump comfyui_manager version to the 4.0.5 (#11732) - https://github.com/Comfy-Org/ComfyUI/commit/5943fbf457d78becbb924a74780e0efc68505a17 __auto-added__
 - 2026-01-08T21:39:33+00:00: v1.37.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.6 __auto-added__
+- 2026-01-08T22:23:59+00:00: Fix import issue. (#11746) - https://github.com/Comfy-Org/ComfyUI/commit/1a206564487d672561d83ce3eb007517bf018995 __auto-added__
