@@ -882,3 +882,4 @@ _Last updated: 2025-08-12_
 - 2026-01-08T05:41:57+00:00: Revert "Force sequential execution in CI test jobs (#11687)" (#11725) - https://github.com/Comfy-Org/ComfyUI/commit/a60b7b86c54ea1498e9c5a5c3d6018c0714654d9 __auto-added__
 - 2026-01-08T12:18:57+00:00: v0.7.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.1 __auto-added__
 - 2026-01-08T13:51:07+00:00: v0.7.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.2 __auto-added__
+- 2026-01-08T16:15:42+00:00: bump comfyui_manager version to the 4.0.5 (#11732) - https://github.com/Comfy-Org/ComfyUI/commit/5943fbf457d78becbb924a74780e0efc68505a17 __auto-added__
