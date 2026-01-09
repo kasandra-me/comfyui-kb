@@ -892,3 +892,4 @@ _Last updated: 2025-08-12_
 - 2026-01-09T05:57:36+00:00: feat: add cancelled filter to /jobs (#11680) - https://github.com/Comfy-Org/ComfyUI/commit/04c49a29b493f3f9037b83cec45f6369b5c4816b __auto-added__
 - 2026-01-09T06:49:12+00:00: Add workaround for hacky nodepack(s) that edit folder_names_and_paths… - https://github.com/Comfy-Org/ComfyUI/commit/ec0a832acb25fbe53bd4fc25d286a9ee442a3bcf __auto-added__
 - 2026-01-09T18:53:15+00:00: Made with ComfyUI 2025: From Open Source to the World Stage - https://blog.comfy.org/p/made-with-comfyui-2025-from-open __auto-added__
+- 2026-01-09T19:21:06+00:00: Be less strict when loading mixed ops weights. (#11769) - https://github.com/Comfy-Org/ComfyUI/commit/bd0e6825e84606e0706bbb5645e9ea1f4ad8154d __auto-added__
