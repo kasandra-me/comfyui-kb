@@ -894,3 +894,4 @@ _Last updated: 2025-08-12_
 - 2026-01-09T18:53:15+00:00: Made with ComfyUI 2025: From Open Source to the World Stage - https://blog.comfy.org/p/made-with-comfyui-2025-from-open __auto-added__
 - 2026-01-09T19:21:06+00:00: Be less strict when loading mixed ops weights. (#11769) - https://github.com/Comfy-Org/ComfyUI/commit/bd0e6825e84606e0706bbb5645e9ea1f4ad8154d __auto-added__
 - 2026-01-09T20:25:56+00:00: fix(api-nodes): do not downscale the input image for Topaz Enhance (#… - https://github.com/Comfy-Org/ComfyUI/commit/4484b93d615059012d3a5ce91d1dbbb0cbaa2d76 __auto-added__
+- 2026-01-09T20:59:38+00:00: feat(api-nodes): added nodes for Vidu2 (#11760) - https://github.com/Comfy-Org/ComfyUI/commit/393d2880ddc6e57c0fa3b878bb50fa2901bd57e6 __auto-added__
