@@ -890,3 +890,4 @@ _Last updated: 2025-08-12_
 - 2026-01-09T04:34:48+00:00: Fix VAEEncodeForInpaint to support WAN VAE tuple downscale_ratio (#11… - https://github.com/Comfy-Org/ComfyUI/commit/6207f86c18d2cf2d70ab059987b62d4b38466e77 __auto-added__
 - 2026-01-09T05:31:19+00:00: add node - image compare (#11343) - https://github.com/Comfy-Org/ComfyUI/commit/4609fcd26081156eef921bd9f43726f670ee6f51 __auto-added__
 - 2026-01-09T05:57:36+00:00: feat: add cancelled filter to /jobs (#11680) - https://github.com/Comfy-Org/ComfyUI/commit/04c49a29b493f3f9037b83cec45f6369b5c4816b __auto-added__
+- 2026-01-09T06:49:12+00:00: Add workaround for hacky nodepack(s) that edit folder_names_and_paths… - https://github.com/Comfy-Org/ComfyUI/commit/ec0a832acb25fbe53bd4fc25d286a9ee442a3bcf __auto-added__
