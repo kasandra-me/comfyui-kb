@@ -889,3 +889,4 @@ _Last updated: 2025-08-12_
 - 2026-01-09T03:21:51+00:00: Add most basic Asset support for models (#11315) - https://github.com/Comfy-Org/ComfyUI/commit/1dc3da631423b776669a6a9128bb1aeaf5592c55 __auto-added__
 - 2026-01-09T04:34:48+00:00: Fix VAEEncodeForInpaint to support WAN VAE tuple downscale_ratio (#11… - https://github.com/Comfy-Org/ComfyUI/commit/6207f86c18d2cf2d70ab059987b62d4b38466e77 __auto-added__
 - 2026-01-09T05:31:19+00:00: add node - image compare (#11343) - https://github.com/Comfy-Org/ComfyUI/commit/4609fcd26081156eef921bd9f43726f670ee6f51 __auto-added__
+- 2026-01-09T05:57:36+00:00: feat: add cancelled filter to /jobs (#11680) - https://github.com/Comfy-Org/ComfyUI/commit/04c49a29b493f3f9037b83cec45f6369b5c4816b __auto-added__
