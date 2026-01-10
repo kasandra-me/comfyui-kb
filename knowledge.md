@@ -899,3 +899,4 @@ _Last updated: 2025-08-12_
 - 2026-01-10T01:51:56+00:00: v1.37.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.8 __auto-added__
 - 2026-01-10T06:29:30+00:00: chore: update embedded docs to v0.4.0 (#11776) - https://github.com/Comfy-Org/ComfyUI/commit/153bc524bf9db76d723289f6420f418f63966972 __auto-added__
 - 2026-01-10T07:03:57+00:00: Properly save mixed ops. (#11772) - https://github.com/Comfy-Org/ComfyUI/commit/dc202a2e51bf7a6cd00e606b2d2941bc223f2ad2 __auto-added__
+- 2026-01-10T21:51:05+00:00: pythorch_attn_by_def_on_gfx1200 (#11793) - https://github.com/Comfy-Org/ComfyUI/commit/6e4b1f9d00306fe14d7ca5adf2c7468d631b23d5 __auto-added__
