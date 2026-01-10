@@ -901,3 +901,4 @@ _Last updated: 2025-08-12_
 - 2026-01-10T07:03:57+00:00: Properly save mixed ops. (#11772) - https://github.com/Comfy-Org/ComfyUI/commit/dc202a2e51bf7a6cd00e606b2d2941bc223f2ad2 __auto-added__
 - 2026-01-10T21:51:05+00:00: pythorch_attn_by_def_on_gfx1200 (#11793) - https://github.com/Comfy-Org/ComfyUI/commit/6e4b1f9d00306fe14d7ca5adf2c7468d631b23d5 __auto-added__
 - 2026-01-10T22:31:31+00:00: Fix issue with t5 text encoder in fp4. (#11794) - https://github.com/Comfy-Org/ComfyUI/commit/cd912963f17c9ae00ec12e1869293edb78720831 __auto-added__
+- 2026-01-10T22:40:42+00:00: Fix chroma fp8 te being treated as fp16. (#11795) - https://github.com/Comfy-Org/ComfyUI/commit/2f642d5d9b48ad7cad13bbdd5f8adcf506f565a7 __auto-added__
