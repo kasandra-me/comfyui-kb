@@ -897,3 +897,4 @@ _Last updated: 2025-08-12_
 - 2026-01-09T20:59:38+00:00: feat(api-nodes): added nodes for Vidu2 (#11760) - https://github.com/Comfy-Org/ComfyUI/commit/393d2880ddc6e57c0fa3b878bb50fa2901bd57e6 __auto-added__
 - 2026-01-09T23:44:56+00:00: v1.37.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.7 __auto-added__
 - 2026-01-10T01:51:56+00:00: v1.37.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.8 __auto-added__
+- 2026-01-10T06:29:30+00:00: chore: update embedded docs to v0.4.0 (#11776) - https://github.com/Comfy-Org/ComfyUI/commit/153bc524bf9db76d723289f6420f418f63966972 __auto-added__
