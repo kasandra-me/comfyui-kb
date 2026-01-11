@@ -904,3 +904,4 @@ _Last updated: 2025-08-12_
 - 2026-01-10T22:40:42+00:00: Fix chroma fp8 te being treated as fp16. (#11795) - https://github.com/Comfy-Org/ComfyUI/commit/2f642d5d9b48ad7cad13bbdd5f8adcf506f565a7 __auto-added__
 - 2026-01-11T00:29:11+00:00: v1.37.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.9 __auto-added__
 - 2026-01-11T01:03:44+00:00: Upscaler-4K Malicious Node Pack Post Mortem - https://blog.comfy.org/p/upscaler-4k-malicious-node-pack-post __auto-added__
+- 2026-01-11T11:07:11+00:00: fix(api-nodes): use a unique name for uploading audio files (#11778) - https://github.com/Comfy-Org/ComfyUI/commit/5cd1113236b0fb032a51bf9d63ba196a2510b0d4 __auto-added__
