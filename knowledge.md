@@ -907,3 +907,4 @@ _Last updated: 2025-08-12_
 - 2026-01-11T11:07:11+00:00: fix(api-nodes): use a unique name for uploading audio files (#11778) - https://github.com/Comfy-Org/ComfyUI/commit/5cd1113236b0fb032a51bf9d63ba196a2510b0d4 __auto-added__
 - 2026-01-12T02:11:53+00:00: Put more details about portable in readme. (#11816) - https://github.com/Comfy-Org/ComfyUI/commit/c6238047ee1ffd87eade7c3ab5a8e53c11d4ce39 __auto-added__
 - 2026-01-12T19:15:42+00:00: v1.37.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.10 __auto-added__
+- 2026-01-12T20:38:46+00:00: Support ModelScope-Trainer DiffSynth lora for Z Image. (#11805) - https://github.com/Comfy-Org/ComfyUI/commit/a3b5d4996abcd906c7c99f15b69fde051afcb4be __auto-added__
