@@ -908,3 +908,4 @@ _Last updated: 2025-08-12_
 - 2026-01-12T02:11:53+00:00: Put more details about portable in readme. (#11816) - https://github.com/Comfy-Org/ComfyUI/commit/c6238047ee1ffd87eade7c3ab5a8e53c11d4ce39 __auto-added__
 - 2026-01-12T19:15:42+00:00: v1.37.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.37.10 __auto-added__
 - 2026-01-12T20:38:46+00:00: Support ModelScope-Trainer DiffSynth lora for Z Image. (#11805) - https://github.com/Comfy-Org/ComfyUI/commit/a3b5d4996abcd906c7c99f15b69fde051afcb4be __auto-added__
+- 2026-01-12T22:05:54+00:00: Support the siglip 2 naflex model as a clip vision model. (#11831) - https://github.com/Comfy-Org/ComfyUI/commit/c881a1d6897d8fee84559a8e3e49b9116efdb959 __auto-added__
