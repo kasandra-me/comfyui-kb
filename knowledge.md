@@ -918,3 +918,4 @@ _Last updated: 2025-08-12_
 - 2026-01-13T16:30:13+00:00: fix(api-nodes-gemini): raise exception when no candidates due to safe… - https://github.com/Comfy-Org/ComfyUI/commit/c543ad81c382c8450d2c8de62644c197c3c7416d __auto-added__
 - 2026-01-13T17:18:02+00:00: Kling 2.6 Motion Control in ComfyUI - https://blog.comfy.org/p/kling-26-motion-control __auto-added__
 - 2026-01-13T20:03:53+00:00: Support "lite" version of alibaba-pai Z-Image Controlnet (#11849) - https://github.com/Comfy-Org/ComfyUI/commit/d9dc02a7d602a1918b9dabfc91890e6689f6f16d __auto-added__
+- 2026-01-13T22:37:21+00:00: Load metadata on VAELoader (#11846) - https://github.com/Comfy-Org/ComfyUI/commit/e4b4fb34798a4710f670c81ae905ec24d58b6373 __auto-added__
