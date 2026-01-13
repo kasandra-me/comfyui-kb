@@ -910,3 +910,4 @@ _Last updated: 2025-08-12_
 - 2026-01-12T20:38:46+00:00: Support ModelScope-Trainer DiffSynth lora for Z Image. (#11805) - https://github.com/Comfy-Org/ComfyUI/commit/a3b5d4996abcd906c7c99f15b69fde051afcb4be __auto-added__
 - 2026-01-12T22:05:54+00:00: Support the siglip 2 naflex model as a clip vision model. (#11831) - https://github.com/Comfy-Org/ComfyUI/commit/c881a1d6897d8fee84559a8e3e49b9116efdb959 __auto-added__
 - 2026-01-12T22:29:25+00:00: Update workflow templates to v0.8.0 (#11828) - https://github.com/Comfy-Org/ComfyUI/commit/c2b65e2fceea821276c143ad52478552633922bf __auto-added__
+- 2026-01-13T03:33:54+00:00: Make loras work on nvfp4 models. (#11837) - https://github.com/Comfy-Org/ComfyUI/commit/b3c0e4de57bfd27e3dd94bd9723bb4c714668a09 __auto-added__
