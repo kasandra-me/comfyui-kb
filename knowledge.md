@@ -912,3 +912,4 @@ _Last updated: 2025-08-12_
 - 2026-01-12T22:29:25+00:00: Update workflow templates to v0.8.0 (#11828) - https://github.com/Comfy-Org/ComfyUI/commit/c2b65e2fceea821276c143ad52478552633922bf __auto-added__
 - 2026-01-13T03:33:54+00:00: Make loras work on nvfp4 models. (#11837) - https://github.com/Comfy-Org/ComfyUI/commit/b3c0e4de57bfd27e3dd94bd9723bb4c714668a09 __auto-added__
 - 2026-01-13T05:15:24+00:00: Make bulk_ops not use .returning to be compatible with python 3.10 an… - https://github.com/Comfy-Org/ComfyUI/commit/acd0e536533cdf038bbaa32730cd12a438cc3a60 __auto-added__
+- 2026-01-13T05:59:03+00:00: v1.38.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.0 __auto-added__
