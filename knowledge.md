@@ -913,3 +913,5 @@ _Last updated: 2025-08-12_
 - 2026-01-13T03:33:54+00:00: Make loras work on nvfp4 models. (#11837) - https://github.com/Comfy-Org/ComfyUI/commit/b3c0e4de57bfd27e3dd94bd9723bb4c714668a09 __auto-added__
 - 2026-01-13T05:15:24+00:00: Make bulk_ops not use .returning to be compatible with python 3.10 an… - https://github.com/Comfy-Org/ComfyUI/commit/acd0e536533cdf038bbaa32730cd12a438cc3a60 __auto-added__
 - 2026-01-13T05:59:03+00:00: v1.38.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.0 __auto-added__
+- 2026-01-13T06:44:06+00:00: ComfyUI v0.9.1 - https://github.com/Comfy-Org/ComfyUI/commit/5ac13725331c1dfdf7aab977d4588b0a06a3debd __auto-added__
+- 2026-01-13T06:44:06+00:00: v0.9.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.9.1 __auto-added__
