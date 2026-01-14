@@ -925,3 +925,5 @@ _Last updated: 2025-08-12_
 - 2026-01-14T03:41:44+00:00: feat: throttle ProgressBar updates to reduce WebSocket flooding (#11504) - https://github.com/Comfy-Org/ComfyUI/commit/712cca36a13db93a9fa1fde9b7b5f9a5b961209a __auto-added__
 - 2026-01-14T05:40:57+00:00: v0.7.3 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.3 __auto-added__
 - 2026-01-14T05:49:38+00:00: Optimize nvfp4 lora applying. (#11866) - https://github.com/Comfy-Org/ComfyUI/commit/6165c38cb58c40b15ade879b80051b6c9148587f __auto-added__
+- 2026-01-14T18:54:50+00:00: Fix VAELoader (#11880) - https://github.com/Comfy-Org/ComfyUI/commit/d1504404662dfce6e401422701c2a7e24057b1b5 __auto-added__
+- 2026-01-14T18:51:31+00:00: Preprocessor and Frame Interpolation Workflows in ComfyUI - https://blog.comfy.org/p/preprocessor-and-frame-interpolation __auto-added__
