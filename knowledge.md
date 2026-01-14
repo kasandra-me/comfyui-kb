@@ -919,3 +919,5 @@ _Last updated: 2025-08-12_
 - 2026-01-13T17:18:02+00:00: Kling 2.6 Motion Control in ComfyUI - https://blog.comfy.org/p/kling-26-motion-control __auto-added__
 - 2026-01-13T20:03:53+00:00: Support "lite" version of alibaba-pai Z-Image Controlnet (#11849) - https://github.com/Comfy-Org/ComfyUI/commit/d9dc02a7d602a1918b9dabfc91890e6689f6f16d __auto-added__
 - 2026-01-13T22:37:21+00:00: Load metadata on VAELoader (#11846) - https://github.com/Comfy-Org/ComfyUI/commit/e4b4fb34798a4710f670c81ae905ec24d58b6373 __auto-added__
+- 2026-01-14T00:48:10+00:00: Adds crop to multiple mode to ResizeImageMaskNode. (#11838) - https://github.com/Comfy-Org/ComfyUI/commit/469dd9c16ad88765ffe4e7bfa57dd80faafbaddf __auto-added__
+- 2026-01-14T00:46:36+00:00: v1.38.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.1 __auto-added__
