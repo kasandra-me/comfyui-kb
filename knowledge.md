@@ -928,3 +928,4 @@ _Last updated: 2025-08-12_
 - 2026-01-14T18:54:50+00:00: Fix VAELoader (#11880) - https://github.com/Comfy-Org/ComfyUI/commit/d1504404662dfce6e401422701c2a7e24057b1b5 __auto-added__
 - 2026-01-14T18:51:31+00:00: Preprocessor and Frame Interpolation Workflows in ComfyUI - https://blog.comfy.org/p/preprocessor-and-frame-interpolation __auto-added__
 - 2026-01-14T19:25:38+00:00: feat(api-nodes): add Meshy 3D nodes (#11843) - https://github.com/Comfy-Org/ComfyUI/commit/07f2462eae7fa2daa34971dd1b15fd525686e958 __auto-added__
+- 2026-01-14T22:53:16+00:00: utils: fix lanczos grayscale upscaling (#11873) - https://github.com/Comfy-Org/ComfyUI/commit/80441eb15e807aa280fb462cbb43d14191344ba4 __auto-added__
