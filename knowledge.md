@@ -922,3 +922,4 @@ _Last updated: 2025-08-12_
 - 2026-01-14T00:48:10+00:00: Adds crop to multiple mode to ResizeImageMaskNode. (#11838) - https://github.com/Comfy-Org/ComfyUI/commit/469dd9c16ad88765ffe4e7bfa57dd80faafbaddf __auto-added__
 - 2026-01-14T00:46:36+00:00: v1.38.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.1 __auto-added__
 - 2026-01-14T02:25:09+00:00: Fix scale_shorter_dimension portrait check (#11862) - https://github.com/Comfy-Org/ComfyUI/commit/c9196f355ef5832daf55c4bbe8c6279dec509331 __auto-added__
+- 2026-01-14T03:41:44+00:00: feat: throttle ProgressBar updates to reduce WebSocket flooding (#11504) - https://github.com/Comfy-Org/ComfyUI/commit/712cca36a13db93a9fa1fde9b7b5f9a5b961209a __auto-added__
