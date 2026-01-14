@@ -923,3 +923,4 @@ _Last updated: 2025-08-12_
 - 2026-01-14T00:46:36+00:00: v1.38.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.1 __auto-added__
 - 2026-01-14T02:25:09+00:00: Fix scale_shorter_dimension portrait check (#11862) - https://github.com/Comfy-Org/ComfyUI/commit/c9196f355ef5832daf55c4bbe8c6279dec509331 __auto-added__
 - 2026-01-14T03:41:44+00:00: feat: throttle ProgressBar updates to reduce WebSocket flooding (#11504) - https://github.com/Comfy-Org/ComfyUI/commit/712cca36a13db93a9fa1fde9b7b5f9a5b961209a __auto-added__
+- 2026-01-14T05:40:57+00:00: v0.7.3 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.3 __auto-added__
