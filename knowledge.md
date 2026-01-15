@@ -935,3 +935,4 @@ _Last updated: 2025-08-12_
 - 2026-01-15T15:57:35+00:00: ComfyUI v0.9.2 - https://github.com/Comfy-Org/ComfyUI/commit/8f40b43e0204d5b9780f3e9618e140e929e80594 __auto-added__
 - 2026-01-15T15:57:35+00:00: v0.9.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.9.2 __auto-added__
 - 2026-01-15T15:56:58+00:00: FLUX.2 [klein] 4B & 9B - Fast local image editing and generation - https://blog.comfy.org/p/flux2-klein-4b-fast-local-image-editing __auto-added__
+- 2026-01-15T19:08:21+00:00: chore: update workflow templates to v0.8.7 (#11896) - https://github.com/Comfy-Org/ComfyUI/commit/12918a5f789d11c7d3c9d9f732891337740fe96f __auto-added__
