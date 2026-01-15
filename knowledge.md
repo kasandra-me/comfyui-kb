@@ -932,3 +932,6 @@ _Last updated: 2025-08-12_
 - 2026-01-14T22:54:04+00:00: Remove extraneous clip missing warnings when loading LTX2 embeddings_… - https://github.com/Comfy-Org/ComfyUI/commit/be518db5a7daa6010fb1c312c0832b9833a71d10 __auto-added__
 - 2026-01-15T05:02:29+00:00: v1.38.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.2 __auto-added__
 - 2026-01-15T15:33:15+00:00: Flux2 Klein support. (#11890) - https://github.com/Comfy-Org/ComfyUI/commit/3b832231bb81024d80bbe31b7d7e51e07b633beb __auto-added__
+- 2026-01-15T15:57:35+00:00: ComfyUI v0.9.2 - https://github.com/Comfy-Org/ComfyUI/commit/8f40b43e0204d5b9780f3e9618e140e929e80594 __auto-added__
+- 2026-01-15T15:57:35+00:00: v0.9.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.9.2 __auto-added__
+- 2026-01-15T15:56:58+00:00: FLUX.2 [klein] 4B & 9B - Fast local image editing and generation - https://blog.comfy.org/p/flux2-klein-4b-fast-local-image-editing __auto-added__
