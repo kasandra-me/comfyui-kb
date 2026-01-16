@@ -940,3 +940,4 @@ _Last updated: 2025-08-12_
 - 2026-01-16T01:06:40+00:00: Adjust memory usage factor calculation for flux2 klein. (#11900) - https://github.com/Comfy-Org/ComfyUI/commit/4c816d5c698dafaa31f8fc2c08ab1d81f9bc3239 __auto-added__
 - 2026-01-16T02:16:49+00:00: v1.38.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.3 __auto-added__
 - 2026-01-16T04:15:15+00:00: Added try-except around seed_assets call in get_object_info with a lo… - https://github.com/Comfy-Org/ComfyUI/commit/732b707397922dbbec5ed04ecca3c773c878c64e __auto-added__
+- 2026-01-16T06:09:07+00:00: feat(api-nodes): extend ByteDance nodes with seedance-1-5-pro model (… - https://github.com/Comfy-Org/ComfyUI/commit/9125613b53fc6af219d5a3db1d5b202ccc3f41b3 __auto-added__
