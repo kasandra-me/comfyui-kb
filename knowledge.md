@@ -939,3 +939,4 @@ _Last updated: 2025-08-12_
 - 2026-01-15T21:12:13+00:00: Update workflow templates to v0.8.10 (#11899) - https://github.com/Comfy-Org/ComfyUI/commit/6125b3a5e7215bf01874e402525552a7f5657a41 __auto-added__
 - 2026-01-16T01:06:40+00:00: Adjust memory usage factor calculation for flux2 klein. (#11900) - https://github.com/Comfy-Org/ComfyUI/commit/4c816d5c698dafaa31f8fc2c08ab1d81f9bc3239 __auto-added__
 - 2026-01-16T02:16:49+00:00: v1.38.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.3 __auto-added__
+- 2026-01-16T04:15:15+00:00: Added try-except around seed_assets call in get_object_info with a lo… - https://github.com/Comfy-Org/ComfyUI/commit/732b707397922dbbec5ed04ecca3c773c878c64e __auto-added__
