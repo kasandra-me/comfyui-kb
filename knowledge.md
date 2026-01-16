@@ -942,3 +942,4 @@ _Last updated: 2025-08-12_
 - 2026-01-16T04:15:15+00:00: Added try-except around seed_assets call in get_object_info with a lo… - https://github.com/Comfy-Org/ComfyUI/commit/732b707397922dbbec5ed04ecca3c773c878c64e __auto-added__
 - 2026-01-16T06:09:07+00:00: feat(api-nodes): extend ByteDance nodes with seedance-1-5-pro model (… - https://github.com/Comfy-Org/ComfyUI/commit/9125613b53fc6af219d5a3db1d5b202ccc3f41b3 __auto-added__
 - 2026-01-16T20:15:34+00:00: WAN 2.6 Reference-to-Video is available in ComfyUI - https://blog.comfy.org/p/wan26-reference-to-video __auto-added__
+- 2026-01-16T22:22:50+00:00: chore: update workflow templates to v0.8.11 (#11918) - https://github.com/Comfy-Org/ComfyUI/commit/0c6b36c6ac1c34515cdf28f777a63074cd6d563d __auto-added__
