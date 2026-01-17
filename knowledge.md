@@ -944,3 +944,4 @@ _Last updated: 2025-08-12_
 - 2026-01-16T20:15:34+00:00: WAN 2.6 Reference-to-Video is available in ComfyUI - https://blog.comfy.org/p/wan26-reference-to-video __auto-added__
 - 2026-01-16T22:22:50+00:00: chore: update workflow templates to v0.8.11 (#11918) - https://github.com/Comfy-Org/ComfyUI/commit/0c6b36c6ac1c34515cdf28f777a63074cd6d563d __auto-added__
 - 2026-01-17T04:02:28+00:00: Add image sizes to clip vision outputs. (#11923) - https://github.com/Comfy-Org/ComfyUI/commit/7ac999bf3069b06648a749212f59237080a75591 __auto-added__
+- 2026-01-17T05:29:41+00:00: v1.38.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.4 __auto-added__
