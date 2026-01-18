@@ -946,3 +946,4 @@ _Last updated: 2025-08-12_
 - 2026-01-17T04:02:28+00:00: Add image sizes to clip vision outputs. (#11923) - https://github.com/Comfy-Org/ComfyUI/commit/7ac999bf3069b06648a749212f59237080a75591 __auto-added__
 - 2026-01-17T05:29:41+00:00: v1.38.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.4 __auto-added__
 - 2026-01-18T03:06:03+00:00: feat: add advanced parameter to Input classes for advanced widgets su… - https://github.com/Comfy-Org/ComfyUI/commit/a498556d0dcde3d7a7c19e1f5c733c8c2a2ffb10 __auto-added__
+- 2026-01-18T03:57:23+00:00: v1.38.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.5 __auto-added__
