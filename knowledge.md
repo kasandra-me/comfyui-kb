@@ -948,3 +948,5 @@ _Last updated: 2025-08-12_
 - 2026-01-18T03:06:03+00:00: feat: add advanced parameter to Input classes for advanced widgets su… - https://github.com/Comfy-Org/ComfyUI/commit/a498556d0dcde3d7a7c19e1f5c733c8c2a2ffb10 __auto-added__
 - 2026-01-18T03:57:23+00:00: v1.38.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.5 __auto-added__
 - 2026-01-18T06:40:39+00:00: chore(api-nodes): auto-discover all nodes_*.py files to avoid merge c… - https://github.com/Comfy-Org/ComfyUI/commit/034fac70549dd9c35b155b80a3ff627ad07b1015 __auto-added__
+- 2026-01-19T03:53:43+00:00: Readme update. (#11957) - https://github.com/Comfy-Org/ComfyUI/commit/1a72bf20469dee31ad156f819c14f0172cbad222 __auto-added__
+- 2026-01-19T03:17:20+00:00: v1.38.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.6 __auto-added__
