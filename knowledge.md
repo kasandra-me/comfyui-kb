@@ -963,3 +963,4 @@ _Last updated: 2025-08-12_
 - 2026-01-20T15:50:27+00:00: Meshy 6 Now Available in ComfyUI: High-Quality 3D Model Generation - https://blog.comfy.org/p/meshy-6-now-available-in-comfyui __auto-added__
 - 2026-01-20T21:05:40+00:00: feat(api-nodes): add WaveSpeed nodes (#11945) - https://github.com/Comfy-Org/ComfyUI/commit/ddc541ffdae0fe626de5a33192001f31c6ab93c6 __auto-added__
 - 2026-01-20T23:17:55+00:00: v0.7.4 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.4 __auto-added__
+- 2026-01-20T23:46:11+00:00: Dynamically detect chroma radiance patch size (#11991) - https://github.com/Comfy-Org/ComfyUI/commit/c4a14df9a35336dbfff096683c5015ce726c269d __auto-added__
