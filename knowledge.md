@@ -960,3 +960,4 @@ _Last updated: 2025-08-12_
 - 2026-01-20T04:57:50+00:00: Bump comfyui-frontend-package to 1.37.11 (#11976) - https://github.com/Comfy-Org/ComfyUI/commit/4edb87aa50190139a38a2ccd6b6ee35ba9df4da1 __auto-added__
 - 2026-01-20T05:32:00+00:00: Make omni stuff work on regular z image for easier testing. (#11985) - https://github.com/Comfy-Org/ComfyUI/commit/8ccc0c94fa0d8e43fffe7190e6a36551a53df54a __auto-added__
 - 2026-01-20T14:03:15+00:00: Introducing FIBO Edit: Precision Image Editing, Safe For Commercial Use - https://blog.comfy.org/p/introducing-bria-fibo-edit-precision-image __auto-added__
+- 2026-01-20T15:50:27+00:00: Meshy 6 Now Available in ComfyUI: High-Quality 3D Model Generation - https://blog.comfy.org/p/meshy-6-now-available-in-comfyui __auto-added__
