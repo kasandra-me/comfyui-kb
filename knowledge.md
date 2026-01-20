@@ -958,3 +958,4 @@ _Last updated: 2025-08-12_
 - 2026-01-20T03:40:18+00:00: v0.10.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.10.0 __auto-added__
 - 2026-01-20T04:17:56+00:00: chore: update workflow templates to v0.8.15 (#11984) - https://github.com/Comfy-Org/ComfyUI/commit/0fc3b6e3a6f1d8fdffca3a51cb4d10a06f4e079d __auto-added__
 - 2026-01-20T04:57:50+00:00: Bump comfyui-frontend-package to 1.37.11 (#11976) - https://github.com/Comfy-Org/ComfyUI/commit/4edb87aa50190139a38a2ccd6b6ee35ba9df4da1 __auto-added__
+- 2026-01-20T05:32:00+00:00: Make omni stuff work on regular z image for easier testing. (#11985) - https://github.com/Comfy-Org/ComfyUI/commit/8ccc0c94fa0d8e43fffe7190e6a36551a53df54a __auto-added__
