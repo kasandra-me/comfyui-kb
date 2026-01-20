@@ -951,3 +951,4 @@ _Last updated: 2025-08-12_
 - 2026-01-19T03:53:43+00:00: Readme update. (#11957) - https://github.com/Comfy-Org/ComfyUI/commit/1a72bf20469dee31ad156f819c14f0172cbad222 __auto-added__
 - 2026-01-19T03:17:20+00:00: v1.38.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.6 __auto-added__
 - 2026-01-19T22:21:35+00:00: chore: update workflow templates to v0.8.14 (#11974) - https://github.com/Comfy-Org/ComfyUI/commit/866a4619db2db56c77a86e5fc9968a2454928627 __auto-added__
+- 2026-01-20T00:58:30+00:00: Make Autogrow validation work properly (#11977) - https://github.com/Comfy-Org/ComfyUI/commit/7458e20465a0efcf91eafc0c65d1929ab7b2238d __auto-added__
