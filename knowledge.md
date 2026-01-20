@@ -961,3 +961,4 @@ _Last updated: 2025-08-12_
 - 2026-01-20T05:32:00+00:00: Make omni stuff work on regular z image for easier testing. (#11985) - https://github.com/Comfy-Org/ComfyUI/commit/8ccc0c94fa0d8e43fffe7190e6a36551a53df54a __auto-added__
 - 2026-01-20T14:03:15+00:00: Introducing FIBO Edit: Precision Image Editing, Safe For Commercial Use - https://blog.comfy.org/p/introducing-bria-fibo-edit-precision-image __auto-added__
 - 2026-01-20T15:50:27+00:00: Meshy 6 Now Available in ComfyUI: High-Quality 3D Model Generation - https://blog.comfy.org/p/meshy-6-now-available-in-comfyui __auto-added__
+- 2026-01-20T21:05:40+00:00: feat(api-nodes): add WaveSpeed nodes (#11945) - https://github.com/Comfy-Org/ComfyUI/commit/ddc541ffdae0fe626de5a33192001f31c6ab93c6 __auto-added__
