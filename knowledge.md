@@ -968,3 +968,4 @@ _Last updated: 2025-08-12_
 - 2026-01-21T04:08:45+00:00: v1.38.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.8 __auto-added__
 - 2026-01-21T04:18:33+00:00: Add LyCoris LoKr MLP layer support for Flux2 (#11997) - https://github.com/Comfy-Org/ComfyUI/commit/0fc15700be9b555f351034942b5bd7243bdf6bcc __auto-added__
 - 2026-01-21T12:03:45+00:00: fix(api-nodes-Vidu): allow passing up to 7 subjects in Vidu Reference… - https://github.com/Comfy-Org/ComfyUI/commit/451af7015435df22e6313ae79f25fe2ef336a96d __auto-added__
+- 2026-01-21T18:15:42+00:00: Seedance 1.5 Pro Now Available in ComfyUI: Professional Audio-Visual Co-Generation - https://blog.comfy.org/p/seedance-1-5-pro-now-in-comfyui __auto-added__
