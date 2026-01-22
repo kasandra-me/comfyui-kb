@@ -975,3 +975,4 @@ _Last updated: 2025-08-12_
 - 2026-01-22T04:12:55+00:00: v1.38.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.9 __auto-added__
 - 2026-01-22T07:42:04+00:00: chore(api-nodes): rename BriaImage and OpenAIGImage nodes (#12022) - https://github.com/Comfy-Org/ComfyUI/commit/72f6be1690868af852a624084a949b785fc056ea __auto-added__
 - 2026-01-22T15:25:33+00:00: Vidu Q2 now live in ComfyUI: Consistency, Motion & Camera Control - https://blog.comfy.org/p/vidu-q2-now-live-in-comfyui __auto-added__
+- 2026-01-22T17:46:56+00:00: add ply & 3dgs format in 3d node (#11474) - https://github.com/Comfy-Org/ComfyUI/commit/8490eedadfc0ab00cb131bab681059163c2ebbcd __auto-added__
