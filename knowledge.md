@@ -970,3 +970,4 @@ _Last updated: 2025-08-12_
 - 2026-01-21T12:03:45+00:00: fix(api-nodes-Vidu): allow passing up to 7 subjects in Vidu Reference… - https://github.com/Comfy-Org/ComfyUI/commit/451af7015435df22e6313ae79f25fe2ef336a96d __auto-added__
 - 2026-01-21T18:15:42+00:00: Seedance 1.5 Pro Now Available in ComfyUI: Professional Audio-Visual Co-Generation - https://blog.comfy.org/p/seedance-1-5-pro-now-in-comfyui __auto-added__
 - 2026-01-21T23:36:02+00:00: feat: Add search_aliases field to node schema (#12010) - https://github.com/Comfy-Org/ComfyUI/commit/bdeac8897e522b9637a6a427fdc8a50a6abd6b20 __auto-added__
+- 2026-01-22T00:44:28+00:00: Support the Anima model. (#12012) - https://github.com/Comfy-Org/ComfyUI/commit/abe2ec26a61ff670b9c0e71e4821c873368c8728 __auto-added__
