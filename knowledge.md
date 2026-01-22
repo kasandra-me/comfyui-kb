@@ -977,3 +977,4 @@ _Last updated: 2025-08-12_
 - 2026-01-22T15:25:33+00:00: Vidu Q2 now live in ComfyUI: Consistency, Motion & Camera Control - https://blog.comfy.org/p/vidu-q2-now-live-in-comfyui __auto-added__
 - 2026-01-22T17:46:56+00:00: add ply & 3dgs format in 3d node (#11474) - https://github.com/Comfy-Org/ComfyUI/commit/8490eedadfc0ab00cb131bab681059163c2ebbcd __auto-added__
 - 2026-01-22T21:54:18+00:00: Reduce LTX2 VAE VRAM consumption (#12028) - https://github.com/Comfy-Org/ComfyUI/commit/0fd1b787360a70dd37aa14089ccb5fc1820f9e17 __auto-added__
+- 2026-01-22T23:20:48+00:00: Support loading flux 2 klein checkpoints saved with SaveCheckpoint. (… - https://github.com/Comfy-Org/ComfyUI/commit/09a2e67151c6753a0038f6e01f3c3d93fcc3ec98 __auto-added__
