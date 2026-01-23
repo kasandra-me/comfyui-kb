@@ -981,3 +981,4 @@ _Last updated: 2025-08-12_
 - 2026-01-23T01:02:31+00:00: qwen_image: propagate attention mask. (#11966) - https://github.com/Comfy-Org/ComfyUI/commit/d7f3241bf6b11f67ada34c51097fbaad0c01124a __auto-added__
 - 2026-01-23T02:46:55+00:00: feat: Improve ResizeImageMaskNode UX with tooltips and search aliases… - https://github.com/Comfy-Org/ComfyUI/commit/4e3038114a725d15166a726860a29cbab0dda4e3 __auto-added__
 - 2026-01-23T04:02:37+00:00: Revert "feat: Improve ResizeImageMaskNode UX with tooltips and search… - https://github.com/Comfy-Org/ComfyUI/commit/f443b9f2ca3109f7e3ef6c5de3cdd22330fbf34c __auto-added__
+- 2026-01-23T06:04:27+00:00: feat: Improve ResizeImageMaskNode UX with tooltips and search aliases… - https://github.com/Comfy-Org/ComfyUI/commit/79cdbc81cb552b363430d1e88c98c4b4b4b4cf62 __auto-added__
