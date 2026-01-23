@@ -983,3 +983,4 @@ _Last updated: 2025-08-12_
 - 2026-01-23T04:02:37+00:00: Revert "feat: Improve ResizeImageMaskNode UX with tooltips and search… - https://github.com/Comfy-Org/ComfyUI/commit/f443b9f2ca3109f7e3ef6c5de3cdd22330fbf34c __auto-added__
 - 2026-01-23T06:04:27+00:00: feat: Improve ResizeImageMaskNode UX with tooltips and search aliases… - https://github.com/Comfy-Org/ComfyUI/commit/79cdbc81cb552b363430d1e88c98c4b4b4b4cf62 __auto-added__
 - 2026-01-23T20:27:49+00:00: Support ModelScope-Trainer/DiffSynth LoRA format for Flux.2 Klein mod… - https://github.com/Comfy-Org/ComfyUI/commit/e89b22993aa2e2b27f4ab1585754cee3a7ca1ff5 __auto-added__
+- 2026-01-23T23:02:31+00:00: v1.38.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.10 __auto-added__
