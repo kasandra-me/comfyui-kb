@@ -986,3 +986,4 @@ _Last updated: 2025-08-12_
 - 2026-01-23T23:02:31+00:00: v1.38.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.10 __auto-added__
 - 2026-01-24T00:56:14+00:00: speed up and reduce VRAM of QWEN VAE and WAN (less so) (#12036) - https://github.com/Comfy-Org/ComfyUI/commit/4e6a1b66a93ef91848bc4bbf2a84e0ea98efcfc9 __auto-added__
 - 2026-01-25T01:10:09+00:00: [API Nodes] add TencentHunyuan3D nodes (#12026) - https://github.com/Comfy-Org/ComfyUI/commit/bc72d7f8d11a664bc59941affc05a3f515239171 __auto-added__
+- 2026-01-25T01:30:40+00:00: add support for kwargs inputs to allow arbitrary inputs from frontend… - https://github.com/Comfy-Org/ComfyUI/commit/ed6002cb60e0709a493d4d8f56793ce0bce12e7e __auto-added__
