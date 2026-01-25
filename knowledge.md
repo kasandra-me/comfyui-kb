@@ -985,3 +985,4 @@ _Last updated: 2025-08-12_
 - 2026-01-23T20:27:49+00:00: Support ModelScope-Trainer/DiffSynth LoRA format for Flux.2 Klein mod… - https://github.com/Comfy-Org/ComfyUI/commit/e89b22993aa2e2b27f4ab1585754cee3a7ca1ff5 __auto-added__
 - 2026-01-23T23:02:31+00:00: v1.38.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.10 __auto-added__
 - 2026-01-24T00:56:14+00:00: speed up and reduce VRAM of QWEN VAE and WAN (less so) (#12036) - https://github.com/Comfy-Org/ComfyUI/commit/4e6a1b66a93ef91848bc4bbf2a84e0ea98efcfc9 __auto-added__
+- 2026-01-25T01:10:09+00:00: [API Nodes] add TencentHunyuan3D nodes (#12026) - https://github.com/Comfy-Org/ComfyUI/commit/bc72d7f8d11a664bc59941affc05a3f515239171 __auto-added__
