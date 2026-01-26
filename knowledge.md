@@ -989,3 +989,4 @@ _Last updated: 2025-08-12_
 - 2026-01-25T01:30:40+00:00: add support for kwargs inputs to allow arbitrary inputs from frontend… - https://github.com/Comfy-Org/ComfyUI/commit/ed6002cb60e0709a493d4d8f56793ce0bce12e7e __auto-added__
 - 2026-01-25T04:02:32+00:00: Move nodes from previous PR into their own file. (#12066) - https://github.com/Comfy-Org/ComfyUI/commit/26c5bbb8751071cb499b65d48e218b54e856572d __auto-added__
 - 2026-01-25T09:51:17+00:00: v1.38.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.11 __auto-added__
+- 2026-01-26T02:01:55+00:00: Add name to LoraLoaderModelOnly. (#12078) - https://github.com/Comfy-Org/ComfyUI/commit/7ee77ff038937bdfdbea5d603ad8d4c487c14fd6 __auto-added__
