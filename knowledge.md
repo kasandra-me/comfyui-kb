@@ -993,3 +993,4 @@ _Last updated: 2025-08-12_
 - 2026-01-26T16:39:00+00:00: Fix mistral 3 tokenizer code failing on latest transformers version a… - https://github.com/Comfy-Org/ComfyUI/commit/2129e7d27854057737808438ec5b9db195bb81bb __auto-added__
 - 2026-01-26T20:33:19+00:00: IC-LoRA: support small grid (#12074) - https://github.com/Comfy-Org/ComfyUI/commit/bfe31d0b9dce106cbb3bc073660d4ab1d7d9e992 __auto-added__
 - 2026-01-26T22:10:09+00:00: [API Nodes] add Magnific nodes (#11986) - https://github.com/Comfy-Org/ComfyUI/commit/29011ba87eb2131c7943bf0eaf9ac8c0a6ff3c7f __auto-added__
+- 2026-01-27T00:49:31+00:00: Update amd portable for rocm 7.2 (#12101) - https://github.com/Comfy-Org/ComfyUI/commit/2db3b0ff90032564e8a4d45a5d68cbf9f6c41af7 __auto-added__
