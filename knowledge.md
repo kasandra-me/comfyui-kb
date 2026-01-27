@@ -998,3 +998,4 @@ _Last updated: 2025-08-12_
 - 2026-01-27T04:08:01+00:00: ComfyUI version v0.11.0 - https://github.com/Comfy-Org/ComfyUI/commit/09725967cf76304371c390ca1d6483e04061da48 __auto-added__
 - 2026-01-27T04:08:01+00:00: v0.11.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.11.0 __auto-added__
 - 2026-01-27T04:46:39+00:00: v1.38.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.38.12 __auto-added__
+- 2026-01-27T16:38:04+00:00: Z-Image Day-0 support in ComfyUI: Non-distilled, Flexible, High-Quality Image Generation - https://blog.comfy.org/p/z-image-day-0-support-in-comfyui __auto-added__
