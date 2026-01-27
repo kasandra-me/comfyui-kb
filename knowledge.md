@@ -995,3 +995,5 @@ _Last updated: 2025-08-12_
 - 2026-01-26T22:10:09+00:00: [API Nodes] add Magnific nodes (#11986) - https://github.com/Comfy-Org/ComfyUI/commit/29011ba87eb2131c7943bf0eaf9ac8c0a6ff3c7f __auto-added__
 - 2026-01-27T00:49:31+00:00: Update amd portable for rocm 7.2 (#12101) - https://github.com/Comfy-Org/ComfyUI/commit/2db3b0ff90032564e8a4d45a5d68cbf9f6c41af7 __auto-added__
 - 2026-01-27T02:39:39+00:00: Update workflow templates to v0.8.23 (#12102) - https://github.com/Comfy-Org/ComfyUI/commit/ac91c340f4f58b1503276599c9b32f437eecc62a __auto-added__
+- 2026-01-27T04:08:01+00:00: ComfyUI version v0.11.0 - https://github.com/Comfy-Org/ComfyUI/commit/09725967cf76304371c390ca1d6483e04061da48 __auto-added__
+- 2026-01-27T04:08:01+00:00: v0.11.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.11.0 __auto-added__
