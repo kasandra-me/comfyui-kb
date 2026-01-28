@@ -1001,3 +1001,4 @@ _Last updated: 2025-08-12_
 - 2026-01-27T16:38:04+00:00: Z-Image Day-0 support in ComfyUI: Non-distilled, Flexible, High-Quality Image Generation - https://blog.comfy.org/p/z-image-day-0-support-in-comfyui __auto-added__
 - 2026-01-27T21:03:29+00:00: Add support for dev-only nodes. (#12106) - https://github.com/Comfy-Org/ComfyUI/commit/dcff27fe3fca80b610de5c648eb55c68e6154c57 __auto-added__
 - 2026-01-27T22:30:41+00:00: v0.7.5 - https://github.com/Comfy-Org/desktop/releases/tag/v0.7.5 __auto-added__
+- 2026-01-28T00:58:48+00:00: Update Python 3.14 compatibility notes in README (#12127) - https://github.com/Comfy-Org/ComfyUI/commit/4f5bd39b1c81cc9b71fa3ada2e4910dfa62a8692 __auto-added__
