@@ -1004,3 +1004,4 @@ _Last updated: 2025-08-12_
 - 2026-01-28T00:58:48+00:00: Update Python 3.14 compatibility notes in README (#12127) - https://github.com/Comfy-Org/ComfyUI/commit/4f5bd39b1c81cc9b71fa3ada2e4910dfa62a8692 __auto-added__
 - 2026-01-28T05:58:33+00:00: v1.39.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.0 __auto-added__
 - 2026-01-28T17:48:02+00:00: chore: update workflow templates to v0.8.27 (#12141) - https://github.com/Comfy-Org/ComfyUI/commit/1711020904edd33bad7556bb70ef3ec15d4f8e5a __auto-added__
+- 2026-01-29T01:52:51+00:00: Add missing spacial downscale ratios. (#12146) - https://github.com/Comfy-Org/ComfyUI/commit/c9b633d84f1dd9c2e6fb5dbc733a0687e5a9764b __auto-added__
