@@ -1009,3 +1009,5 @@ _Last updated: 2025-08-12_
 - 2026-01-29T05:27:23+00:00: v0.11.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.11.1 __auto-added__
 - 2026-01-29T08:33:54+00:00: v1.39.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.1 __auto-added__
 - 2026-01-29T08:36:14+00:00: Grok Imagine Now Available in ComfyUI - https://blog.comfy.org/p/grok-imagine-now-available-in-comfyui __auto-added__
+- 2026-01-30T01:10:08+00:00: fix: count non-dict items in outputs_count (#12166) - https://github.com/Comfy-Org/ComfyUI/commit/3aace5c8dc81d7bf1c3020edcbc4e6d37caa0a29 __auto-added__
+- 2026-01-30T00:14:38+00:00: v1.39.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.2 __auto-added__
