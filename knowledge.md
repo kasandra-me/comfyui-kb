@@ -1011,3 +1011,4 @@ _Last updated: 2025-08-12_
 - 2026-01-29T08:36:14+00:00: Grok Imagine Now Available in ComfyUI - https://blog.comfy.org/p/grok-imagine-now-available-in-comfyui __auto-added__
 - 2026-01-30T01:10:08+00:00: fix: count non-dict items in outputs_count (#12166) - https://github.com/Comfy-Org/ComfyUI/commit/3aace5c8dc81d7bf1c3020edcbc4e6d37caa0a29 __auto-added__
 - 2026-01-30T00:14:38+00:00: v1.39.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.2 __auto-added__
+- 2026-01-30T04:52:22+00:00: Make empty hunyuan latent 1.0 work with the 1.5 model. (#12171) - https://github.com/Comfy-Org/ComfyUI/commit/bbe2c13a7075bcf4de3b6744f96d84d12c334350 __auto-added__
