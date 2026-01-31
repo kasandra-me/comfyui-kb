@@ -1020,3 +1020,4 @@ _Last updated: 2025-08-12_
 - 2026-01-31T05:01:40+00:00: v0.8.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.0 __auto-added__
 - 2026-01-31T05:12:48+00:00: Fix model not working with any res. (#12186) - https://github.com/Comfy-Org/ComfyUI/commit/b8f848bfe38be79b9dba693bc7a214c9aefd597a __auto-added__
 - 2026-01-31T06:44:08+00:00: feat(api-nodes): add Q3 models and support for Extend and MultiFrame … - https://github.com/Comfy-Org/ComfyUI/commit/6e469a3f355782067b80fa072448a1b5d1322719 __auto-added__
+- 2026-01-31T07:22:05+00:00: Assets Part 2 - add more endpoints (#12125) - https://github.com/Comfy-Org/ComfyUI/commit/6ea8c128a3770763f150e97aca4b29bd2aec60ad __auto-added__
