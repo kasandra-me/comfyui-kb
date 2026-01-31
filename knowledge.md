@@ -1015,3 +1015,4 @@ _Last updated: 2025-08-12_
 - 2026-01-30T18:21:48+00:00: Remove NodeInfoV3-related code; we are almost 100% guaranteed to stic… - https://github.com/Comfy-Org/ComfyUI/commit/0a7993729c70933e6fe19e26c2d7f60f6ebaf46a __auto-added__
 - 2026-01-30T22:04:43+00:00: feat(api-nodes): add RecraftCreateStyleNode node (#12055) - https://github.com/Comfy-Org/ComfyUI/commit/016765378178cf2a565d4e87a99d2dabd4150d22 __auto-added__
 - 2026-01-30T23:01:33+00:00: Add color type and Color to RGB Int node (#12145) - https://github.com/Comfy-Org/ComfyUI/commit/8aabe2403eb2a182e936d6b9514751ab075a623b __auto-added__
+- 2026-01-31T01:20:06+00:00: Update python patch version in dep workflow. (#12184) - https://github.com/Comfy-Org/ComfyUI/commit/4064062e7d2d5abdca6767b6944e331b70065ee8 __auto-added__
