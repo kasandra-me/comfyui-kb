@@ -1024,3 +1024,4 @@ _Last updated: 2025-08-12_
 - 2026-02-01T01:05:11+00:00: Send is_input_list on v1 and v3 schema to frontend (#12188) - https://github.com/Comfy-Org/ComfyUI/commit/aa6f7a83bb313f121ee032a8b21aa72ea32cfee1 __auto-added__
 - 2026-02-01T02:11:11+00:00: KV cache implementation for using llama models for text generation. (… - https://github.com/Comfy-Org/ComfyUI/commit/873de5f37a1f4c39c0203b2989e6736b0cb12b98 __auto-added__
 - 2026-02-01T02:20:42+00:00: v1.39.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.4 __auto-added__
+- 2026-02-01T06:13:48+00:00: fix: improve error message when node type is missing (#12194) - https://github.com/Comfy-Org/ComfyUI/commit/32621c6a11f6ce1c0dd46aeb08e35dd64ec804f0 __auto-added__
