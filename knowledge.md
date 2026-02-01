@@ -1025,3 +1025,4 @@ _Last updated: 2025-08-12_
 - 2026-02-01T02:11:11+00:00: KV cache implementation for using llama models for text generation. (… - https://github.com/Comfy-Org/ComfyUI/commit/873de5f37a1f4c39c0203b2989e6736b0cb12b98 __auto-added__
 - 2026-02-01T02:20:42+00:00: v1.39.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.4 __auto-added__
 - 2026-02-01T06:13:48+00:00: fix: improve error message when node type is missing (#12194) - https://github.com/Comfy-Org/ComfyUI/commit/32621c6a11f6ce1c0dd46aeb08e35dd64ec804f0 __auto-added__
+- 🔥 2026-02-01T06:55:18+00:00: Fix some custom nodes breaking. (#12203) - https://github.com/Comfy-Org/ComfyUI/commit/667a1b8878187f7a5c8955b272e33c16e4c46bb7 __priority-auto-added__
