@@ -1028,3 +1028,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-02-01T06:55:18+00:00: Fix some custom nodes breaking. (#12203) - https://github.com/Comfy-Org/ComfyUI/commit/667a1b8878187f7a5c8955b272e33c16e4c46bb7 __priority-auto-added__
 - 2026-02-01T16:42:32+00:00: fix pinning with model defined dtype (#12208) - https://github.com/Comfy-Org/ComfyUI/commit/361b9a82a3e2445fc22e352df187138b0c8f67fb __auto-added__
 - 2026-02-02T01:12:52+00:00: Fix issue with parameters on root model object. (#12216) - https://github.com/Comfy-Org/ComfyUI/commit/021ba2071985f9e3b2984f396a238095c4a64832 __auto-added__
+- 2026-02-02T08:51:09+00:00: Enable embeddings for some qwen 3 models. (#12218) - https://github.com/Comfy-Org/ComfyUI/commit/dd86b155210df9b34f479d70dad675aa782a30ef __auto-added__
