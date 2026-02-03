@@ -1033,3 +1033,4 @@ _Last updated: 2025-08-12_
 - 2026-02-03T00:52:07+00:00: Add back function. (#12234) - https://github.com/Comfy-Org/ComfyUI/commit/c05a08ae66d8114c30f8d3606b9de3117cb61ef8 __auto-added__
 - 2026-02-03T00:22:45+00:00: v1.39.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.5 __auto-added__
 - 2026-02-03T03:17:59+00:00: [API Nodes] HitPaw API nodes (#12117) - https://github.com/Comfy-Org/ComfyUI/commit/ba5bf3f1a801c6d4c24f015215314b6a653f8752 __auto-added__
+- 2026-02-03T05:06:18+00:00: Basic support for the ace step 1.5 model. (#12237) - https://github.com/Comfy-Org/ComfyUI/commit/3c1a1a2df82fc6c7aa20a3c8301d1c632e1a1d87 __auto-added__
