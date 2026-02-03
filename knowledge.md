@@ -1037,3 +1037,4 @@ _Last updated: 2025-08-12_
 - 2026-02-03T07:08:43+00:00: chore: update workflow templates to v0.8.31 (#12239) - https://github.com/Comfy-Org/ComfyUI/commit/be4345d1c9327c7a9292bc8f4153d35717020ef3 __auto-added__
 - 2026-02-03T07:20:59+00:00: ComfyUI v0.12.0 - https://github.com/Comfy-Org/ComfyUI/commit/66e1b07402a84363b174c35d09acfcab0af7b0e5 __auto-added__
 - 2026-02-03T07:20:59+00:00: v0.12.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.12.0 __auto-added__
+- 2026-02-03T09:09:30+00:00: Add progress bar to ace step. (#12242) - https://github.com/Comfy-Org/ComfyUI/commit/f5030e26fd72bdf19ab2b6463dc502fa0b2e34ba __auto-added__
