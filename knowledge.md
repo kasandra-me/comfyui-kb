@@ -1035,3 +1035,5 @@ _Last updated: 2025-08-12_
 - 2026-02-03T03:17:59+00:00: [API Nodes] HitPaw API nodes (#12117) - https://github.com/Comfy-Org/ComfyUI/commit/ba5bf3f1a801c6d4c24f015215314b6a653f8752 __auto-added__
 - 2026-02-03T05:06:18+00:00: Basic support for the ace step 1.5 model. (#12237) - https://github.com/Comfy-Org/ComfyUI/commit/3c1a1a2df82fc6c7aa20a3c8301d1c632e1a1d87 __auto-added__
 - 2026-02-03T07:08:43+00:00: chore: update workflow templates to v0.8.31 (#12239) - https://github.com/Comfy-Org/ComfyUI/commit/be4345d1c9327c7a9292bc8f4153d35717020ef3 __auto-added__
+- 2026-02-03T07:20:59+00:00: ComfyUI v0.12.0 - https://github.com/Comfy-Org/ComfyUI/commit/66e1b07402a84363b174c35d09acfcab0af7b0e5 __auto-added__
+- 2026-02-03T07:20:59+00:00: v0.12.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.12.0 __auto-added__
