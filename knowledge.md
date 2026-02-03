@@ -1042,3 +1042,4 @@ _Last updated: 2025-08-12_
 - 2026-02-03T17:19:39+00:00: Fix mac issue. (#12250) - https://github.com/Comfy-Org/ComfyUI/commit/85fc35e8fa44c6174425acb4f9167792bcc903a8 __auto-added__
 - 2026-02-03T17:05:42+00:00: ACE-Step 1.5 is Now Available in ComfyUI - https://blog.comfy.org/p/ace-step-15-is-now-available-in-comfyui __auto-added__
 - 2026-02-03T18:31:46+00:00: feat(comfy_api): add basic 3D Model file types (#12129) - https://github.com/Comfy-Org/ComfyUI/commit/fb23935c1139875d47e7b6e239f657bae73bda5b __auto-added__
+- 2026-02-03T18:54:23+00:00: Support ace step 1.5 base model loras. (#12252) - https://github.com/Comfy-Org/ComfyUI/commit/ab1050bec3ecb89d1bc06c13e67626805bd8e1ee __auto-added__
