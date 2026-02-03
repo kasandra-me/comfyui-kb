@@ -1038,3 +1038,4 @@ _Last updated: 2025-08-12_
 - 2026-02-03T07:20:59+00:00: ComfyUI v0.12.0 - https://github.com/Comfy-Org/ComfyUI/commit/66e1b07402a84363b174c35d09acfcab0af7b0e5 __auto-added__
 - 2026-02-03T07:20:59+00:00: v0.12.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.12.0 __auto-added__
 - 2026-02-03T09:09:30+00:00: Add progress bar to ace step. (#12242) - https://github.com/Comfy-Org/ComfyUI/commit/f5030e26fd72bdf19ab2b6463dc502fa0b2e34ba __auto-added__
+- 2026-02-03T16:31:36+00:00: llama: cast logits as a comfy-weight (#12248) - https://github.com/Comfy-Org/ComfyUI/commit/223364743c35d6e1dc4f5ebc3796234d0f8484cf __auto-added__
