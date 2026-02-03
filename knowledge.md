@@ -1030,3 +1030,5 @@ _Last updated: 2025-08-12_
 - 2026-02-02T01:12:52+00:00: Fix issue with parameters on root model object. (#12216) - https://github.com/Comfy-Org/ComfyUI/commit/021ba2071985f9e3b2984f396a238095c4a64832 __auto-added__
 - 2026-02-02T08:51:09+00:00: Enable embeddings for some qwen 3 models. (#12218) - https://github.com/Comfy-Org/ComfyUI/commit/dd86b155210df9b34f479d70dad675aa782a30ef __auto-added__
 - 2026-02-02T22:35:20+00:00: Dynamic VRAM unloading fix (#12227) - https://github.com/Comfy-Org/ComfyUI/commit/de9ada6a4147f4626f903cd975a5d2c134af3915 __auto-added__
+- 2026-02-03T00:52:07+00:00: Add back function. (#12234) - https://github.com/Comfy-Org/ComfyUI/commit/c05a08ae66d8114c30f8d3606b9de3117cb61ef8 __auto-added__
+- 2026-02-03T00:22:45+00:00: v1.39.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.5 __auto-added__
