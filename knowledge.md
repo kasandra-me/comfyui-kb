@@ -1046,3 +1046,6 @@ _Last updated: 2025-08-12_
 - 2026-02-03T20:01:46+00:00: ComfyUI v0.12.1 - https://github.com/Comfy-Org/ComfyUI/commit/3be017516643d9a8d8ed85904512ed4b240ef8c6 __auto-added__
 - 2026-02-03T20:01:46+00:00: v0.12.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.12.1 __auto-added__
 - 2026-02-04T00:01:38+00:00: Support the 4B ace step 1.5 lm model. (#12257) - https://github.com/Comfy-Org/ComfyUI/commit/fe2511468d6b3f7a1581a711ae480f3313f2b39d __auto-added__
+- 2026-02-04T02:39:19+00:00: mm: Remove Aimdo exemption for empty_cache (#12260) - https://github.com/Comfy-Org/ComfyUI/commit/855849c6588180fec88186127aae1a3299387fa6 __auto-added__
+- 2026-02-04T01:29:51+00:00: v1.39.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.6 __auto-added__
+- 2026-02-04T02:45:07+00:00: v0.8.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.1 __auto-added__
