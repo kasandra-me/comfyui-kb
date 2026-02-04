@@ -1051,3 +1051,5 @@ _Last updated: 2025-08-12_
 - 2026-02-04T02:45:07+00:00: v0.8.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.1 __auto-added__
 - 2026-02-04T05:08:59+00:00: ComfyUI v0.12.2 - https://github.com/Comfy-Org/ComfyUI/commit/5087f1d497c5b615fbb5d1ff03fcc1df308bd025 __auto-added__
 - 2026-02-04T05:08:59+00:00: v0.12.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.12.2 __auto-added__
+- 2026-02-04T07:08:45+00:00: mp: Fix checkpoint saving (#12268) - https://github.com/Comfy-Org/ComfyUI/commit/ef73070ea422fde3daa0887b87e7ea6c94280abb __auto-added__
+- 2026-02-04T07:02:45+00:00: v0.8.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.2 __auto-added__
