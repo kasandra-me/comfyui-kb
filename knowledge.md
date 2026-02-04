@@ -1054,3 +1054,4 @@ _Last updated: 2025-08-12_
 - 2026-02-04T07:08:45+00:00: mp: Fix checkpoint saving (#12268) - https://github.com/Comfy-Org/ComfyUI/commit/ef73070ea422fde3daa0887b87e7ea6c94280abb __auto-added__
 - 2026-02-04T07:02:45+00:00: v0.8.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.2 __auto-added__
 - 2026-02-04T19:35:38+00:00: add File3DAny output to Load3D node; extend SaveGLB to accept File3DA… - https://github.com/Comfy-Org/ComfyUI/commit/e77b34dfead9758cf5e32b4cffeada0d0c56ab7d __auto-added__
+- 🔥 2026-02-04T23:25:06+00:00: Fix ace step nan issue on some hardware/pytorch configs. (#12289) - https://github.com/Comfy-Org/ComfyUI/commit/26dd7eb42180fb57c9da47e60d0a2bac659e47ad __priority-auto-added__
