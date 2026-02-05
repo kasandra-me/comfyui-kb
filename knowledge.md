@@ -1061,3 +1061,4 @@ _Last updated: 2025-08-12_
 - 2026-02-05T05:17:37+00:00: Improvements to ACE-Steps 1.5 text encoding (#12283) - https://github.com/Comfy-Org/ComfyUI/commit/a246cc02b274104d5f656b68ce505354c164aef8 __auto-added__
 - 2026-02-05T06:18:21+00:00: Add a Create List node (#12173) - https://github.com/Comfy-Org/ComfyUI/commit/2b70ab9ad0fd6a38b11546a18c546ce40cc176a1 __auto-added__
 - 2026-02-05T07:04:08+00:00: v0.12.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.12.3 __auto-added__
+- 2026-02-05T21:43:45+00:00: Make ace step 1.5 work without the llm. (#12311) - https://github.com/Comfy-Org/ComfyUI/commit/6555dc65b82c5f072dcad87f0dbccb4fc5f85e6b __auto-added__
