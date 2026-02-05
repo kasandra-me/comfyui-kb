@@ -1058,3 +1058,4 @@ _Last updated: 2025-08-12_
 - 2026-02-05T00:37:05+00:00: Try to fix ace text encoder slowness on some configs. (#12290) - https://github.com/Comfy-Org/ComfyUI/commit/c8fcbd66eef0ab48d9fe7e4ee35c683a193af46b __auto-added__
 - 2026-02-05T03:15:30+00:00: Disable sage attention on ace step 1.5 (#12297) - https://github.com/Comfy-Org/ComfyUI/commit/a50c32d63fe55d073edd7af2242f0536f50b362e __auto-added__
 - 2026-02-05T02:40:00+00:00: v1.39.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.7 __auto-added__
+- 2026-02-05T05:17:37+00:00: Improvements to ACE-Steps 1.5 text encoding (#12283) - https://github.com/Comfy-Org/ComfyUI/commit/a246cc02b274104d5f656b68ce505354c164aef8 __auto-added__
