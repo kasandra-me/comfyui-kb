@@ -1056,3 +1056,5 @@ _Last updated: 2025-08-12_
 - 2026-02-04T19:35:38+00:00: add File3DAny output to Load3D node; extend SaveGLB to accept File3DA… - https://github.com/Comfy-Org/ComfyUI/commit/e77b34dfead9758cf5e32b4cffeada0d0c56ab7d __auto-added__
 - 🔥 2026-02-04T23:25:06+00:00: Fix ace step nan issue on some hardware/pytorch configs. (#12289) - https://github.com/Comfy-Org/ComfyUI/commit/26dd7eb42180fb57c9da47e60d0a2bac659e47ad __priority-auto-added__
 - 2026-02-05T00:37:05+00:00: Try to fix ace text encoder slowness on some configs. (#12290) - https://github.com/Comfy-Org/ComfyUI/commit/c8fcbd66eef0ab48d9fe7e4ee35c683a193af46b __auto-added__
+- 2026-02-05T03:15:30+00:00: Disable sage attention on ace step 1.5 (#12297) - https://github.com/Comfy-Org/ComfyUI/commit/a50c32d63fe55d073edd7af2242f0536f50b362e __auto-added__
+- 2026-02-05T02:40:00+00:00: v1.39.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.7 __auto-added__
