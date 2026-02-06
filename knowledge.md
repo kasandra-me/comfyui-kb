@@ -1064,3 +1064,4 @@ _Last updated: 2025-08-12_
 - 2026-02-05T21:43:45+00:00: Make ace step 1.5 work without the llm. (#12311) - https://github.com/Comfy-Org/ComfyUI/commit/6555dc65b82c5f072dcad87f0dbccb4fc5f85e6b __auto-added__
 - 2026-02-06T00:24:09+00:00: Fix issue when using disable_unet_model_creation (#12315) - https://github.com/Comfy-Org/ComfyUI/commit/c2d7f07dbf312ef9034c65102f1a45c4a3355c1a __auto-added__
 - 2026-02-06T03:32:39+00:00: v1.39.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.8 __auto-added__
+- 2026-02-06T05:43:09+00:00: EasyCache: Support LTX2 (#12231) - https://github.com/Comfy-Org/ComfyUI/commit/a1c101f861681ff18df5bdb0605e63c1ba9e8a96 __auto-added__
