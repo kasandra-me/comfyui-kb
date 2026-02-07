@@ -1066,3 +1066,5 @@ _Last updated: 2025-08-12_
 - 2026-02-06T03:32:39+00:00: v1.39.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.8 __auto-added__
 - 2026-02-06T05:43:09+00:00: EasyCache: Support LTX2 (#12231) - https://github.com/Comfy-Org/ComfyUI/commit/a1c101f861681ff18df5bdb0605e63c1ba9e8a96 __auto-added__
 - 2026-02-06T18:01:50+00:00: The Complete AI Upscaling Handbook: All in ComfyUI - https://blog.comfy.org/p/upscaling-in-comfyui __auto-added__
+- 2026-02-07T01:12:15+00:00: Support fp16 for Cosmos-Predict2 and Anima (#12249) - https://github.com/Comfy-Org/ComfyUI/commit/6a263288427a9998086603db0e7078ebcb56f0c4 __auto-added__
+- 2026-02-07T01:10:50+00:00: v0.8.3 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.3 __auto-added__
