@@ -1071,3 +1071,4 @@ _Last updated: 2025-08-12_
 - 2026-02-07T01:14:52+00:00: Some fixes to previous pr. (#12339) - https://github.com/Comfy-Org/ComfyUI/commit/039955c52744909107dc68ade0698a55d81a8886 __auto-added__
 - 2026-02-07T05:02:11+00:00: Pad ace step 1.5 ref audio if not long enough. (#12341) - https://github.com/Comfy-Org/ComfyUI/commit/17e7df43d19bde49efa46a32b89f5153b9cb0ded __auto-added__
 - 2026-02-07T19:25:30+00:00: Fix LazyCache (#12344) - https://github.com/Comfy-Org/ComfyUI/commit/5ff4fdedba2e72ffabf2948799a1c656d9002b52 __auto-added__
+- 2026-02-07T22:38:51+00:00: Add search_aliases to sa-solver and seeds-2 node (#12327) - https://github.com/Comfy-Org/ComfyUI/commit/9bf5aa54dbda5b5de36812cfc10b123ae0930283 __auto-added__
