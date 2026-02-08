@@ -1074,3 +1074,4 @@ _Last updated: 2025-08-12_
 - 2026-02-07T22:38:51+00:00: Add search_aliases to sa-solver and seeds-2 node (#12327) - https://github.com/Comfy-Org/ComfyUI/commit/9bf5aa54dbda5b5de36812cfc10b123ae0930283 __auto-added__
 - 2026-02-07T23:34:52+00:00: chore: update embedded docs to v0.4.1 (#12346) - https://github.com/Comfy-Org/ComfyUI/commit/3760d74005a6954f54657dc59d9e57fd4c44b3fd __auto-added__
 - 2026-02-08T00:16:28+00:00: Disable prompt weights for ltxv2. (#12354) - https://github.com/Comfy-Org/ComfyUI/commit/f350a842611f4d75da7104c2d2965f45989089b9 __auto-added__
+- 2026-02-08T04:19:25+00:00: v1.39.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.9 __auto-added__
