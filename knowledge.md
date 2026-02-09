@@ -1075,3 +1075,5 @@ _Last updated: 2025-08-12_
 - 2026-02-07T23:34:52+00:00: chore: update embedded docs to v0.4.1 (#12346) - https://github.com/Comfy-Org/ComfyUI/commit/3760d74005a6954f54657dc59d9e57fd4c44b3fd __auto-added__
 - 2026-02-08T00:16:28+00:00: Disable prompt weights for ltxv2. (#12354) - https://github.com/Comfy-Org/ComfyUI/commit/f350a842611f4d75da7104c2d2965f45989089b9 __auto-added__
 - 2026-02-08T04:19:25+00:00: v1.39.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.9 __auto-added__
+- 2026-02-09T02:16:40+00:00: Make tonemap latent work on any dim latents. (#12363) - https://github.com/Comfy-Org/ComfyUI/commit/a0302cc6a85dcb950a7308f7a31a224ef54f3d58 __auto-added__
+- 2026-02-09T01:31:54+00:00: v1.39.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.10 __auto-added__
