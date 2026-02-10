@@ -1081,3 +1081,4 @@ _Last updated: 2025-08-12_
 - 2026-02-10T00:45:56+00:00: Ace step prompts match now. (#12376) - https://github.com/Comfy-Org/ComfyUI/commit/a4be04c5d750cc5d62256f7f86bb5a7c0a78e28d __auto-added__
 - 2026-02-10T02:58:27+00:00: fix(Moonvalley-API-Nodes): adjust "steps" parameter to not raise exce… - https://github.com/Comfy-Org/ComfyUI/commit/c1b63a7e78b606bc14cd49a02e9338274db28a60 __auto-added__
 - 2026-02-10T05:29:55+00:00: v1.39.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.11 __auto-added__
+- 2026-02-10T17:34:54+00:00: feat(api-nodes-Kling): add new models (V3, O3) (#12389) - https://github.com/Comfy-Org/ComfyUI/commit/8ca842a8edb26006e730e631ec1153cd42f46d3b __auto-added__
