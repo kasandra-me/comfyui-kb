@@ -1085,3 +1085,4 @@ _Last updated: 2025-08-12_
 - 2026-02-10T18:38:28+00:00: ops: Fix vanilla-fp8 loaded lora quality (#12390) - https://github.com/Comfy-Org/ComfyUI/commit/123a7874a97c4a8b8f06d4b7c2b1a566b8f0d057 __auto-added__
 - 2026-02-10T18:26:29+00:00: v0.13.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.13.0 __auto-added__
 - 2026-02-10T21:06:32+00:00: Kling 3.0 Models Are Now Available in ComfyUI! - https://blog.comfy.org/p/kling-30-models-are-now-available __auto-added__
+- 2026-02-10T22:42:21+00:00: Add a VideoSlice node (#12107) - https://github.com/Comfy-Org/ComfyUI/commit/dbe70b6821994ce92d9cf211cc685862d0b6c0ca __auto-added__
