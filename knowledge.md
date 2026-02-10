@@ -1078,3 +1078,4 @@ _Last updated: 2025-08-12_
 - 2026-02-09T02:16:40+00:00: Make tonemap latent work on any dim latents. (#12363) - https://github.com/Comfy-Org/ComfyUI/commit/a0302cc6a85dcb950a7308f7a31a224ef54f3d58 __auto-added__
 - 2026-02-09T01:31:54+00:00: v1.39.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.10 __auto-added__
 - 🔥 2026-02-09T21:16:08+00:00: Dynamic VRAM fixes - Ace 1.5 performance + a VRAM leak (#12368) - https://github.com/Comfy-Org/ComfyUI/commit/62315fbb15861e64b917d0a072dad5dc9a15173c __priority-auto-added__
+- 2026-02-10T00:45:56+00:00: Ace step prompts match now. (#12376) - https://github.com/Comfy-Org/ComfyUI/commit/a4be04c5d750cc5d62256f7f86bb5a7c0a78e28d __auto-added__
