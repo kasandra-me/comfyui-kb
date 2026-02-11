@@ -1089,3 +1089,4 @@ _Last updated: 2025-08-12_
 - 2026-02-11T03:04:32+00:00: Make built in lora training work on anima. (#12402) - https://github.com/Comfy-Org/ComfyUI/commit/76a7fa96dbdc2eda89218601fe3aed5997df055f __auto-added__
 - 2026-02-11T03:08:39+00:00: v1.40.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.0 __auto-added__
 - 2026-02-11T05:05:02+00:00: v0.8.4 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.4 __auto-added__
+- 2026-02-11T19:15:13+00:00: Dispatch desktop auto-bump when a ComfyUI release is published (#12398) - https://github.com/Comfy-Org/ComfyUI/commit/4993411fd9a43d642971925272c3748d9e058131 __auto-added__
