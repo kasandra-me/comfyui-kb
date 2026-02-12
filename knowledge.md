@@ -1091,3 +1091,4 @@ _Last updated: 2025-08-12_
 - 2026-02-11T05:05:02+00:00: v0.8.4 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.4 __auto-added__
 - 2026-02-11T19:15:13+00:00: Dispatch desktop auto-bump when a ComfyUI release is published (#12398) - https://github.com/Comfy-Org/ComfyUI/commit/4993411fd9a43d642971925272c3748d9e058131 __auto-added__
 - 2026-02-11T19:54:02+00:00: model_patcher: guard against none model_dtype (#12410) - https://github.com/Comfy-Org/ComfyUI/commit/3fe61cedda090c744dcf6f579ed48744fa66ef5f __auto-added__
+- 2026-02-12T03:12:16+00:00: Add a tip for common error. (#12414) - https://github.com/Comfy-Org/ComfyUI/commit/66c18522fbcde5b62731e3fb080a84b14e3dacfc __auto-added__
