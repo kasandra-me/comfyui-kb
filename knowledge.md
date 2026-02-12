@@ -1094,3 +1094,4 @@ _Last updated: 2025-08-12_
 - 2026-02-12T03:12:16+00:00: Add a tip for common error. (#12414) - https://github.com/Comfy-Org/ComfyUI/commit/66c18522fbcde5b62731e3fb080a84b14e3dacfc __auto-added__
 - 2026-02-12T08:09:38+00:00: cloud/v1.39.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.39.12 __auto-added__
 - 2026-02-12T09:38:51+00:00: fix(api-nodes): add separate retry budget for 429 rate limit response… - https://github.com/Comfy-Org/ComfyUI/commit/4a93a62371b64f9d11a140a09faf985c48902d2e __auto-added__
+- 2026-02-12T10:50:26+00:00: v1.40.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.1 __auto-added__
