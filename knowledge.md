@@ -1093,3 +1093,4 @@ _Last updated: 2025-08-12_
 - 2026-02-11T19:54:02+00:00: model_patcher: guard against none model_dtype (#12410) - https://github.com/Comfy-Org/ComfyUI/commit/3fe61cedda090c744dcf6f579ed48744fa66ef5f __auto-added__
 - 2026-02-12T03:12:16+00:00: Add a tip for common error. (#12414) - https://github.com/Comfy-Org/ComfyUI/commit/66c18522fbcde5b62731e3fb080a84b14e3dacfc __auto-added__
 - 2026-02-12T08:09:38+00:00: cloud/v1.39.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.39.12 __auto-added__
+- 2026-02-12T09:38:51+00:00: fix(api-nodes): add separate retry budget for 429 rate limit response… - https://github.com/Comfy-Org/ComfyUI/commit/4a93a62371b64f9d11a140a09faf985c48902d2e __auto-added__
