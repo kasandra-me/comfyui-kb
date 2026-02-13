@@ -1098,3 +1098,4 @@ _Last updated: 2025-08-12_
 - 2026-02-13T00:56:42+00:00: llama: use a more efficient rope implementation (#12434) - https://github.com/Comfy-Org/ComfyUI/commit/ae79e33345dc893f8e0632c380c0e91dc09ac6e8 __auto-added__
 - 🔥 2026-02-13T04:29:12+00:00: Update command to install AMD stable linux pytorch. (#12437) - https://github.com/Comfy-Org/ComfyUI/commit/e03fe8b5919a23a473cea6e53f916f7403c082a5 __priority-auto-added__
 - 2026-02-13T16:14:40+00:00: v1.40.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.2 __auto-added__
+- 🔥 2026-02-13T20:35:13+00:00: Use torch RMSNorm for flux models and refactor hunyuan video code. (#… - https://github.com/Comfy-Org/ComfyUI/commit/e1add563f9e89026e8c4e8825a2b279fbd67d23a __priority-auto-added__
