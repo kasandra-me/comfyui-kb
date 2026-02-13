@@ -1095,3 +1095,4 @@ _Last updated: 2025-08-12_
 - 2026-02-12T08:09:38+00:00: cloud/v1.39.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.39.12 __auto-added__
 - 2026-02-12T09:38:51+00:00: fix(api-nodes): add separate retry budget for 429 rate limit response… - https://github.com/Comfy-Org/ComfyUI/commit/4a93a62371b64f9d11a140a09faf985c48902d2e __auto-added__
 - 2026-02-12T10:50:26+00:00: v1.40.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.1 __auto-added__
+- 2026-02-13T00:56:42+00:00: llama: use a more efficient rope implementation (#12434) - https://github.com/Comfy-Org/ComfyUI/commit/ae79e33345dc893f8e0632c380c0e91dc09ac6e8 __auto-added__
