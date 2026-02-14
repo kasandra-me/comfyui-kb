@@ -1102,3 +1102,4 @@ _Last updated: 2025-08-12_
 - 2026-02-13T22:39:00+00:00: Hunyuan 3D 3.0 in ComfyUI: State-of-the-Art 3D Asset Generation - https://blog.comfy.org/p/hunyuan-3d-30-in-comfyui-state-of __auto-added__
 - 2026-02-14T01:21:10+00:00: Fix some custom nodes. (#12455) - https://github.com/Comfy-Org/ComfyUI/commit/726af73867c18c5ca8b980a2c28401d77e5b365a __auto-added__
 - 2026-02-14T03:23:52+00:00: Add working Qwen 2512 ControlNet (Fun ControlNet) support (#12359) - https://github.com/Comfy-Org/ComfyUI/commit/dc9822b7df4785e77690e93b0e09feaff01e2e12 __auto-added__
+- 2026-02-14T10:43:35+00:00: v1.40.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.3 __auto-added__
