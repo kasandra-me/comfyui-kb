@@ -1104,3 +1104,4 @@ _Last updated: 2025-08-12_
 - 2026-02-14T03:23:52+00:00: Add working Qwen 2512 ControlNet (Fun ControlNet) support (#12359) - https://github.com/Comfy-Org/ComfyUI/commit/dc9822b7df4785e77690e93b0e09feaff01e2e12 __auto-added__
 - 2026-02-14T10:43:35+00:00: v1.40.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.3 __auto-added__
 - 2026-02-14T19:01:10+00:00: Update frontend package to 1.38.14 (#12469) - https://github.com/Comfy-Org/ComfyUI/commit/df1e5e85142746a745a56572b705406b273a594c __auto-added__
+- 🔥 2026-02-15T03:53:52+00:00: Remove unsafe pickle loading code that was used on pytorch older than… - https://github.com/Comfy-Org/ComfyUI/commit/e1ede29d827d573262caede8aeb6cbc98c323c81 __priority-auto-added__
