@@ -1111,3 +1111,4 @@ _Last updated: 2025-08-12_
 - 2026-02-15T13:33:18+00:00: feat(api-nodes-Tencent): add ModelTo3DUV, 3DTextureEdit, 3DParts node… - https://github.com/Comfy-Org/ComfyUI/commit/e2c71ceb0004da0d8a33dc9e79b31c2324241173 __auto-added__
 - 🔥 2026-02-16T01:43:53+00:00: Remove workaround for old pytorch. (#12480) - https://github.com/Comfy-Org/ComfyUI/commit/88e6370527dbd602851de07d957a8f17b3ca9447 __priority-auto-added__
 - 2026-02-16T18:07:58+00:00: v1.40.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.5 __auto-added__
+- 2026-02-16T22:33:43+00:00: chore: update workflow templates to v0.8.42 (#12491) - https://github.com/Comfy-Org/ComfyUI/commit/1978f59ffdf242389ded3eec76274a4cbed9cc3d __auto-added__
