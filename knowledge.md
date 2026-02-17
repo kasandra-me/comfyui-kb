@@ -1119,3 +1119,4 @@ _Last updated: 2025-08-12_
 - 2026-02-17T05:39:54+00:00: v0.14.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.14.0 __auto-added__
 - 2026-02-17T06:06:45+00:00: v1.39.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.13 __auto-added__
 - 2026-02-17T10:24:01+00:00: v1.40.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.6 __auto-added__
+- 2026-02-17T15:56:44+00:00: Fix anima LLM adapter forward when manual cast (#12504) - https://github.com/Comfy-Org/ComfyUI/commit/44f85985215b4d819665e4cec84c00ef87aa9a7a __auto-added__
