@@ -1114,3 +1114,4 @@ _Last updated: 2025-08-12_
 - 2026-02-16T22:33:43+00:00: chore: update workflow templates to v0.8.42 (#12491) - https://github.com/Comfy-Org/ComfyUI/commit/1978f59ffdf242389ded3eec76274a4cbed9cc3d __auto-added__
 - 🔥 2026-02-17T01:09:24+00:00: Remove code to support RMSNorm on old pytorch. (#12499) - https://github.com/Comfy-Org/ComfyUI/commit/4454fab7f003c655e07f059c315e2aae0e5fb087 __priority-auto-added__
 - 2026-02-17T03:20:21+00:00: Allow control_after_generate to be type ControlAfterGenerate in v3 sc… - https://github.com/Comfy-Org/ComfyUI/commit/8a6fbc2dc29d0b15c1e9655c24e7501829249995 __auto-added__
+- 2026-02-17T04:30:34+00:00: Implement NAG on all the models based on the Flux code. (#12500) - https://github.com/Comfy-Org/ComfyUI/commit/18927538a15d44c734653513e9fdbbe1e79a9f0c __auto-added__
