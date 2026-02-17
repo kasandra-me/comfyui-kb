@@ -1123,3 +1123,5 @@ _Last updated: 2025-08-12_
 - 2026-02-17T18:28:06+00:00: ComfyUI v0.14.1 - https://github.com/Comfy-Org/ComfyUI/commit/19236edfa4d2f66070d66a6b3aee592c9c2ad574 __auto-added__
 - 2026-02-17T18:28:06+00:00: v0.14.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.14.1 __auto-added__
 - 2026-02-17T20:32:27+00:00: ops: limit return of requants (#12506) - https://github.com/Comfy-Org/ComfyUI/commit/58dcc97dcfadc548ac8d8d5e80741ddfb807d213 __auto-added__
+- 2026-02-17T21:41:34+00:00: Bump comfyui-frontend-package to 1.39.14 (#12494) - https://github.com/Comfy-Org/ComfyUI/commit/6c14f129af4fd94c4197644e6950bddbba0c9e51 __auto-added__
+- 2026-02-17T21:49:41+00:00: Recraft V4 Now Available in ComfyUI - https://blog.comfy.org/p/recraft-v4-now-available-in-comfyui __auto-added__
