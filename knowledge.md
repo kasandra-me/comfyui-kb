@@ -1127,3 +1127,5 @@ _Last updated: 2025-08-12_
 - 2026-02-17T21:49:41+00:00: Recraft V4 Now Available in ComfyUI - https://blog.comfy.org/p/recraft-v4-now-available-in-comfyui __auto-added__
 - 2026-02-18T01:13:39+00:00: BBox widget (#11594) - https://github.com/Comfy-Org/ComfyUI/commit/8ad38d2073b019a204f730182dcf5456fb260858 __auto-added__
 - 2026-02-18T01:09:31+00:00: v0.8.5 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.5 __auto-added__
+- 2026-02-18T05:03:54+00:00: fix: use glob matching for Gemini image MIME types (#12511) - https://github.com/Comfy-Org/ComfyUI/commit/83dd65f23ae78186df5be7f579af5c0cdb61f0f9 __auto-added__
+- 2026-02-18T05:07:37+00:00: v0.14.2: fix: use glob matching for Gemini image MIME types (#12511) - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.14.2 __auto-added__
