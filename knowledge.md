@@ -1129,3 +1129,4 @@ _Last updated: 2025-08-12_
 - 2026-02-18T01:09:31+00:00: v0.8.5 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.5 __auto-added__
 - 2026-02-18T05:03:54+00:00: fix: use glob matching for Gemini image MIME types (#12511) - https://github.com/Comfy-Org/ComfyUI/commit/83dd65f23ae78186df5be7f579af5c0cdb61f0f9 __auto-added__
 - 2026-02-18T05:07:37+00:00: v0.14.2: fix: use glob matching for Gemini image MIME types (#12511) - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.14.2 __auto-added__
+- 2026-02-18T07:15:23+00:00: fix(api-nodes): add price badge for Rodin Gen-2 node (#12512) - https://github.com/Comfy-Org/ComfyUI/commit/239ddd332724c63934bf517cfc6d0026214d8aee __auto-added__
