@@ -1131,3 +1131,4 @@ _Last updated: 2025-08-12_
 - 2026-02-18T05:07:37+00:00: v0.14.2: fix: use glob matching for Gemini image MIME types (#12511) - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.14.2 __auto-added__
 - 2026-02-18T07:15:23+00:00: fix(api-nodes): add price badge for Rodin Gen-2 node (#12512) - https://github.com/Comfy-Org/ComfyUI/commit/239ddd332724c63934bf517cfc6d0026214d8aee __auto-added__
 - 2026-02-18T10:25:22+00:00: v1.40.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.7 __auto-added__
+- 2026-02-18T23:36:35+00:00: Add simple 3 band equalizer node for audio. (#12519) - https://github.com/Comfy-Org/ComfyUI/commit/f262444dd4818b6acdbc1350856679dd6245f7f5 __auto-added__
