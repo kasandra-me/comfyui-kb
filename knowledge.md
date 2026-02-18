@@ -1125,3 +1125,5 @@ _Last updated: 2025-08-12_
 - 2026-02-17T20:32:27+00:00: ops: limit return of requants (#12506) - https://github.com/Comfy-Org/ComfyUI/commit/58dcc97dcfadc548ac8d8d5e80741ddfb807d213 __auto-added__
 - 2026-02-17T21:41:34+00:00: Bump comfyui-frontend-package to 1.39.14 (#12494) - https://github.com/Comfy-Org/ComfyUI/commit/6c14f129af4fd94c4197644e6950bddbba0c9e51 __auto-added__
 - 2026-02-17T21:49:41+00:00: Recraft V4 Now Available in ComfyUI - https://blog.comfy.org/p/recraft-v4-now-available-in-comfyui __auto-added__
+- 2026-02-18T01:13:39+00:00: BBox widget (#11594) - https://github.com/Comfy-Org/ComfyUI/commit/8ad38d2073b019a204f730182dcf5456fb260858 __auto-added__
+- 2026-02-18T01:09:31+00:00: v0.8.5 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.5 __auto-added__
