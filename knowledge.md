@@ -1135,3 +1135,4 @@ _Last updated: 2025-08-12_
 - 2026-02-19T01:49:43+00:00: feat: Add basic text generation support with native models, initially… - https://github.com/Comfy-Org/ComfyUI/commit/6d11cc73549e14a0a31e9ff8c90bfd71b380fe2c __auto-added__
 - 2026-02-19T10:36:07+00:00: v1.40.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.8 __auto-added__
 - 2026-02-19T12:10:39+00:00: fix(api-nodes): force Gemini to return uncompressed images (#12516) - https://github.com/Comfy-Org/ComfyUI/commit/2687652530128435d5cdcfe2600751c8c4b75b88 __auto-added__
+- 2026-02-19T22:26:18+00:00: Case Study: How Series Entertainment Rebuilt Game and Video Production with ComfyUI - https://blog.comfy.org/p/case-study-how-series-entertainment __auto-added__
