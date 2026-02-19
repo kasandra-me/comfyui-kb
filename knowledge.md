@@ -1133,3 +1133,4 @@ _Last updated: 2025-08-12_
 - 2026-02-18T10:25:22+00:00: v1.40.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.7 __auto-added__
 - 2026-02-18T23:36:35+00:00: Add simple 3 band equalizer node for audio. (#12519) - https://github.com/Comfy-Org/ComfyUI/commit/f262444dd4818b6acdbc1350856679dd6245f7f5 __auto-added__
 - 2026-02-19T01:49:43+00:00: feat: Add basic text generation support with native models, initially… - https://github.com/Comfy-Org/ComfyUI/commit/6d11cc73549e14a0a31e9ff8c90bfd71b380fe2c __auto-added__
+- 2026-02-19T10:36:07+00:00: v1.40.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.8 __auto-added__
