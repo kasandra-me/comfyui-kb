@@ -1140,3 +1140,4 @@ _Last updated: 2025-08-12_
 - 2026-02-20T03:20:02+00:00: feat: mark 429 widgets as advanced for collapsible UI (#12197) - https://github.com/Comfy-Org/ComfyUI/commit/4d172e9ad7c50d08f21df48b04cca9b5f551d0e7 __auto-added__
 - 2026-02-20T04:22:13+00:00: Add GLSL shader node using PyOpenGL (#12148) - https://github.com/Comfy-Org/ComfyUI/commit/96d6bd1a4ad3d308542bd68c537e971b5ee8e0a5 __auto-added__
 - 2026-02-20T06:12:28+00:00: [API Nodes] add ElevenLabs nodes (#12207) - https://github.com/Comfy-Org/ComfyUI/commit/1bb956fb66c7e5296beab3dfcef10af0b690a29b __auto-added__
+- 2026-02-20T08:25:54+00:00: chore: add CodeRabbit configuration for automated code review (#12539) - https://github.com/Comfy-Org/ComfyUI/commit/b254cecd032e872766965415d120973811e9e360 __auto-added__
