@@ -1146,3 +1146,4 @@ _Last updated: 2025-08-12_
 - 2026-02-21T04:18:34+00:00: v1.40.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.9 __auto-added__
 - 2026-02-21T06:52:32+00:00: feat: add gradient-slider display mode for FLOAT inputs (#12536) - https://github.com/Comfy-Org/ComfyUI/commit/f394af8d0fd03ec1aad6049e4a40344cd09aba4e __auto-added__
 - 2026-02-21T07:02:36+00:00: update glsl blueprint with gradient (#12548) - https://github.com/Comfy-Org/ComfyUI/commit/5a182bfaf18a841a4991b63bf5aaead622ad9e16 __auto-added__
+- 2026-02-21T07:46:46+00:00: fix: swap essentials_category from CLIPTextEncode to PrimitiveStringM… - https://github.com/Comfy-Org/ComfyUI/commit/04a55d5019fcd142614652a50914f197a73f1ea9 __auto-added__
