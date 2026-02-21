@@ -1144,3 +1144,4 @@ _Last updated: 2025-08-12_
 - 2026-02-21T02:32:05+00:00: Update nightly installation command for ROCm (#12547) - https://github.com/Comfy-Org/ComfyUI/commit/64953bda0a4565ea13f55f01ae636a2b3d3d2ba6 __auto-added__
 - 2026-02-21T04:37:55+00:00: Fix non-contiguous audio waveform crash in video save (#12550) - https://github.com/Comfy-Org/ComfyUI/commit/aeb5bdc8f65f9c1471c16a00857bdccb91166f15 __auto-added__
 - 2026-02-21T04:18:34+00:00: v1.40.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.40.9 __auto-added__
+- 2026-02-21T06:52:32+00:00: feat: add gradient-slider display mode for FLOAT inputs (#12536) - https://github.com/Comfy-Org/ComfyUI/commit/f394af8d0fd03ec1aad6049e4a40344cd09aba4e __auto-added__
