@@ -1148,3 +1148,4 @@ _Last updated: 2025-08-12_
 - 2026-02-21T07:02:36+00:00: update glsl blueprint with gradient (#12548) - https://github.com/Comfy-Org/ComfyUI/commit/5a182bfaf18a841a4991b63bf5aaead622ad9e16 __auto-added__
 - 2026-02-21T07:46:46+00:00: fix: swap essentials_category from CLIPTextEncode to PrimitiveStringM… - https://github.com/Comfy-Org/ComfyUI/commit/04a55d5019fcd142614652a50914f197a73f1ea9 __auto-added__
 - 2026-02-21T09:15:54+00:00: v1.41.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.0 __auto-added__
+- 2026-02-21T14:14:57+00:00: add support for pyopengl < 3.1.4 where the size parameter does not ex… - https://github.com/Comfy-Org/ComfyUI/commit/602b2505a4ffeff4a732b8727ce27d3c2a1ef752 __auto-added__
