@@ -1151,3 +1151,5 @@ _Last updated: 2025-08-12_
 - 2026-02-21T14:14:57+00:00: add support for pyopengl < 3.1.4 where the size parameter does not ex… - https://github.com/Comfy-Org/ComfyUI/commit/602b2505a4ffeff4a732b8727ce27d3c2a1ef752 __auto-added__
 - 🔥 2026-02-21T18:52:57+00:00: comfy-aimdo 0.2 - Improved pytorch allocator integration (#12557) - https://github.com/Comfy-Org/ComfyUI/commit/0bfb936ab46377d1d5faf8c46ff19d0c6f91a04e __priority-auto-added__
 - 2026-02-21T23:05:00+00:00: fix: specify UTF-8 encoding when reading subgraph files (#12563) - https://github.com/Comfy-Org/ComfyUI/commit/7591d781a7a1cdfd6f8f0a9ec6ecd692495e14b5 __auto-added__
+- 2026-02-22T00:51:21+00:00: Add category to Normalized Attention Guidance node (#12565) - https://github.com/Comfy-Org/ComfyUI/commit/ee72752162fb8b56b8165aa93633c57f0d85002c __auto-added__
+- 2026-02-22T01:21:32+00:00: v1.41.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.1 __auto-added__
