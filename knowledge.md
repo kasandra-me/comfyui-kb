@@ -1154,3 +1154,4 @@ _Last updated: 2025-08-12_
 - 2026-02-22T00:51:21+00:00: Add category to Normalized Attention Guidance node (#12565) - https://github.com/Comfy-Org/ComfyUI/commit/ee72752162fb8b56b8165aa93633c57f0d85002c __auto-added__
 - 2026-02-22T01:21:32+00:00: v1.41.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.1 __auto-added__
 - 2026-02-22T03:29:58+00:00: Move LTXAV av embedding connectors to diffusion model. (#12569) - https://github.com/Comfy-Org/ComfyUI/commit/f266b8d352607799afb4adf339cdfa854025185e __auto-added__
+- 2026-02-22T08:18:20+00:00: Fix dtype issue in embeddings connector. (#12570) - https://github.com/Comfy-Org/ComfyUI/commit/07ca6852e8dc332f98531f0b51735eff66469755 __auto-added__
