@@ -1157,3 +1157,4 @@ _Last updated: 2025-08-12_
 - 2026-02-22T08:18:20+00:00: Fix dtype issue in embeddings connector. (#12570) - https://github.com/Comfy-Org/ComfyUI/commit/07ca6852e8dc332f98531f0b51735eff66469755 __auto-added__
 - 2026-02-22T09:07:20+00:00: v1.41.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.2 __auto-added__
 - 2026-02-22T21:00:02+00:00: Fix issue loading fp8 ltxav checkpoints. (#12582) - https://github.com/Comfy-Org/ComfyUI/commit/caa43d2395a69e93e52fe903da515fb2adbbb677 __auto-added__
+- 2026-02-23T02:16:49+00:00: v1.41.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.3 __auto-added__
