@@ -1159,3 +1159,4 @@ _Last updated: 2025-08-12_
 - 2026-02-22T21:00:02+00:00: Fix issue loading fp8 ltxav checkpoints. (#12582) - https://github.com/Comfy-Org/ComfyUI/commit/caa43d2395a69e93e52fe903da515fb2adbbb677 __auto-added__
 - 2026-02-23T02:16:49+00:00: v1.41.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.3 __auto-added__
 - 2026-02-23T19:27:16+00:00: feat(api-nodes): add KlingAvatar node (#12591) - https://github.com/Comfy-Org/ComfyUI/commit/dba2766e5354a4b5ec957bd4e005550d83214a34 __auto-added__
+- 2026-02-23T23:27:20+00:00: chore: update workflow templates to v0.9.2 (#12596) - https://github.com/Comfy-Org/ComfyUI/commit/7a7debcaf11bf55257e667f33c447268ea76d412 __auto-added__
