@@ -1163,3 +1163,4 @@ _Last updated: 2025-08-12_
 - 2026-02-24T02:01:17+00:00: Add SplitImageToTileList and ImageMergeTileList nodes. (#12599) - https://github.com/Comfy-Org/ComfyUI/commit/9b1c63eb6927e42b36de8af7c3f58b2a554564ad __auto-added__
 - 2026-02-24T05:50:03+00:00: Temporality unbreak some LTXAV workflows to give people time to migra… - https://github.com/Comfy-Org/ComfyUI/commit/84aba95e03c6498f9e73df100cbcde9d14128ea9 __auto-added__
 - 2026-02-24T06:19:05+00:00: v1.39.16 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.16 __auto-added__
+- 2026-02-24T08:44:40+00:00: Patch frontend to 1.39.16 (from 1.39.14) (#12604) - https://github.com/Comfy-Org/ComfyUI/commit/048dd2f3219523202e19081f776536ea1e62ad4a __auto-added__
