@@ -1168,3 +1168,4 @@ _Last updated: 2025-08-12_
 - 2026-02-24T17:42:15+00:00: ComfyUI v0.15.0 - https://github.com/Comfy-Org/ComfyUI/commit/b874bd2b8c324d58cfc37bff0754dd16815a8f3c __auto-added__
 - 2026-02-24T17:42:15+00:00: v0.15.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.15.0 __auto-added__
 - 2026-02-24T18:56:05+00:00: Seedream 5.0 Lite Now Available in ComfyUI - https://blog.comfy.org/p/seedream-50-lite-now-available-in __auto-added__
+- 2026-02-24T21:02:26+00:00: comfy aimdo 0.2.1 (#12620) - https://github.com/Comfy-Org/ComfyUI/commit/befa83d43448c3dc64f72aa3eb771159d20f89f1 __auto-added__
