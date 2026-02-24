@@ -1161,3 +1161,5 @@ _Last updated: 2025-08-12_
 - 2026-02-23T19:27:16+00:00: feat(api-nodes): add KlingAvatar node (#12591) - https://github.com/Comfy-Org/ComfyUI/commit/dba2766e5354a4b5ec957bd4e005550d83214a34 __auto-added__
 - 2026-02-23T23:27:20+00:00: chore: update workflow templates to v0.9.2 (#12596) - https://github.com/Comfy-Org/ComfyUI/commit/7a7debcaf11bf55257e667f33c447268ea76d412 __auto-added__
 - 2026-02-24T02:01:17+00:00: Add SplitImageToTileList and ImageMergeTileList nodes. (#12599) - https://github.com/Comfy-Org/ComfyUI/commit/9b1c63eb6927e42b36de8af7c3f58b2a554564ad __auto-added__
+- 2026-02-24T05:50:03+00:00: Temporality unbreak some LTXAV workflows to give people time to migra… - https://github.com/Comfy-Org/ComfyUI/commit/84aba95e03c6498f9e73df100cbcde9d14128ea9 __auto-added__
+- 2026-02-24T06:19:05+00:00: v1.39.16 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.39.16 __auto-added__
