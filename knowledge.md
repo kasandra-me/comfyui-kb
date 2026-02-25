@@ -1169,3 +1169,5 @@ _Last updated: 2025-08-12_
 - 2026-02-24T17:42:15+00:00: v0.15.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.15.0 __auto-added__
 - 2026-02-24T18:56:05+00:00: Seedream 5.0 Lite Now Available in ComfyUI - https://blog.comfy.org/p/seedream-50-lite-now-available-in __auto-added__
 - 2026-02-24T21:02:26+00:00: comfy aimdo 0.2.1 (#12620) - https://github.com/Comfy-Org/ComfyUI/commit/befa83d43448c3dc64f72aa3eb771159d20f89f1 __auto-added__
+- 🔥 2026-02-25T00:13:46+00:00: Disable dynamic_vram when using torch compiler (#12612) - https://github.com/Comfy-Org/ComfyUI/commit/3ebe1ac22e090c10ecf4c478fe6f89dc8b398fa0 __priority-auto-added__
+- 2026-02-25T01:19:27+00:00: v0.8.7 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.7 __auto-added__
