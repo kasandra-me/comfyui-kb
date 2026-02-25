@@ -1173,3 +1173,4 @@ _Last updated: 2025-08-12_
 - 2026-02-25T01:19:27+00:00: v0.8.7 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.7 __auto-added__
 - 2026-02-25T04:44:44+00:00: v1.41.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.5 __auto-added__
 - 2026-02-25T05:45:49+00:00: v0.8.8 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.8 __auto-added__
+- 2026-02-25T20:17:46+00:00: Case Study: How Moment Factory Reimagined 3D Projection Mapping with ComfyUI - https://blog.comfy.org/p/case-study-how-moment-factory-reimagined __auto-added__
