@@ -1175,3 +1175,4 @@ _Last updated: 2025-08-12_
 - 2026-02-25T05:45:49+00:00: v0.8.8 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.8 __auto-added__
 - 2026-02-25T20:17:46+00:00: Case Study: How Moment Factory Reimagined 3D Projection Mapping with ComfyUI - https://blog.comfy.org/p/case-study-how-moment-factory-reimagined __auto-added__
 - 2026-02-25T21:50:05+00:00: comfy aimdo 0.2.2 (#12635) - https://github.com/Comfy-Org/ComfyUI/commit/0467f690a85400c8bfa6dcb6bcc848914b57562a __auto-added__
+- 2026-02-26T01:47:47+00:00: v1.41.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.6 __auto-added__
