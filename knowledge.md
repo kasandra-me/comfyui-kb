@@ -1186,3 +1186,5 @@ _Last updated: 2025-08-12_
 - 2026-02-26T20:19:38+00:00: main: load aimdo earlier (#12655) - https://github.com/Comfy-Org/ComfyUI/commit/420e900f692f72a4e0108594a80a3465c036bebe __auto-added__
 - 2026-02-26T20:59:22+00:00: ComfyUI v0.15.1 - https://github.com/Comfy-Org/ComfyUI/commit/3dd10a59c00248d00f0cb0ab794ff1bb9fb00a5f __auto-added__
 - 2026-02-26T20:59:22+00:00: v0.15.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.15.1 __auto-added__
+- 2026-02-26T22:12:29+00:00: Portable with cu128 isn't useful anymore. (#12666) - https://github.com/Comfy-Org/ComfyUI/commit/3811780e4f73f9dbace01a85e6d97502406f8ccb __auto-added__
+- 2026-02-26T22:06:07+00:00: 🍌 Nano Banana 2 in ComfyUI - https://blog.comfy.org/p/nano-banana-2-in-comfyui __auto-added__
