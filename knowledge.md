@@ -1178,3 +1178,4 @@ _Last updated: 2025-08-12_
 - 2026-02-26T01:47:47+00:00: v1.41.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.6 __auto-added__
 - 2026-02-26T04:13:47+00:00: Fix ltxav te mem estimation. (#12643) - https://github.com/Comfy-Org/ComfyUI/commit/72535316701ea8074b99755194f149a26e88b4c8 __auto-added__
 - 2026-02-26T04:07:53+00:00: v0.8.9 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.9 __auto-added__
+- 2026-02-26T04:38:46+00:00: initial FlowRVS support (#12637) - https://github.com/Comfy-Org/ComfyUI/commit/907e5dcbbffab5e7011346af280a428dc40f3136 __auto-added__
