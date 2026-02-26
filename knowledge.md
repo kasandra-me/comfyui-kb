@@ -1182,3 +1182,4 @@ _Last updated: 2025-08-12_
 - 2026-02-26T06:30:31+00:00: Cleanups to the last PR. (#12646) - https://github.com/Comfy-Org/ComfyUI/commit/8a4d85c708435b47d0570637fdf1e89199702c48 __auto-added__
 - 2026-02-26T08:17:25+00:00: v0.8.10 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.10 __auto-added__
 - 2026-02-26T09:00:32+00:00: fix: move essentials_category to correct replacement nodes (#12568) - https://github.com/Comfy-Org/ComfyUI/commit/74b5a337dcc4d6b276e4af45aa8a654c82569072 __auto-added__
+- 2026-02-26T11:07:35+00:00: pyopengl-accelerate can cause object to be numpy ints instead of bare… - https://github.com/Comfy-Org/ComfyUI/commit/38ca94599f7444f55589308d1cf611fb77f6ca16 __auto-added__
