@@ -1184,3 +1184,5 @@ _Last updated: 2025-08-12_
 - 2026-02-26T09:00:32+00:00: fix: move essentials_category to correct replacement nodes (#12568) - https://github.com/Comfy-Org/ComfyUI/commit/74b5a337dcc4d6b276e4af45aa8a654c82569072 __auto-added__
 - 2026-02-26T11:07:35+00:00: pyopengl-accelerate can cause object to be numpy ints instead of bare… - https://github.com/Comfy-Org/ComfyUI/commit/38ca94599f7444f55589308d1cf611fb77f6ca16 __auto-added__
 - 2026-02-26T20:19:38+00:00: main: load aimdo earlier (#12655) - https://github.com/Comfy-Org/ComfyUI/commit/420e900f692f72a4e0108594a80a3465c036bebe __auto-added__
+- 2026-02-26T20:59:22+00:00: ComfyUI v0.15.1 - https://github.com/Comfy-Org/ComfyUI/commit/3dd10a59c00248d00f0cb0ab794ff1bb9fb00a5f __auto-added__
+- 2026-02-26T20:59:22+00:00: v0.15.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.15.1 __auto-added__
