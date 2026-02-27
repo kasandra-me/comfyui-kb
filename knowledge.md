@@ -1189,3 +1189,5 @@ _Last updated: 2025-08-12_
 - 2026-02-26T22:12:29+00:00: Portable with cu128 isn't useful anymore. (#12666) - https://github.com/Comfy-Org/ComfyUI/commit/3811780e4f73f9dbace01a85e6d97502406f8ccb __auto-added__
 - 2026-02-26T22:06:07+00:00: 🍌 Nano Banana 2 in ComfyUI - https://blog.comfy.org/p/nano-banana-2-in-comfyui __auto-added__
 - 2026-02-26T23:19:19+00:00: feat(ace-step): add ACE-Step 1.5 lycoris key alias mapping for LoKR #… - https://github.com/Comfy-Org/ComfyUI/commit/b233dbe0bc179847b81680e0b59c493a8dc8d9a6 __auto-added__
+- 2026-02-27T00:59:05+00:00: feat: Support SDPose-OOD (#12661) - https://github.com/Comfy-Org/ComfyUI/commit/c7f7d52b684f661d911f1747bb6954978fa1d1b9 __auto-added__
+- 2026-02-27T01:12:24+00:00: v0.8.11 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.11 __auto-added__
