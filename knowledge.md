@@ -1191,3 +1191,5 @@ _Last updated: 2025-08-12_
 - 2026-02-26T23:19:19+00:00: feat(ace-step): add ACE-Step 1.5 lycoris key alias mapping for LoKR #… - https://github.com/Comfy-Org/ComfyUI/commit/b233dbe0bc179847b81680e0b59c493a8dc8d9a6 __auto-added__
 - 2026-02-27T00:59:05+00:00: feat: Support SDPose-OOD (#12661) - https://github.com/Comfy-Org/ComfyUI/commit/c7f7d52b684f661d911f1747bb6954978fa1d1b9 __auto-added__
 - 2026-02-27T01:12:24+00:00: v0.8.11 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.11 __auto-added__
+- 🔥 2026-02-27T01:16:12+00:00: Enable Pytorch Attention for gfx950 (#12641) - https://github.com/Comfy-Org/ComfyUI/commit/35e9fce7756604050f07a05d090e697b81322c44 __priority-auto-added__
+- 2026-02-27T03:34:38+00:00: v1.41.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.7 __auto-added__
