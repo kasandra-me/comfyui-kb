@@ -1193,3 +1193,4 @@ _Last updated: 2025-08-12_
 - 2026-02-27T01:12:24+00:00: v0.8.11 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.11 __auto-added__
 - 🔥 2026-02-27T01:16:12+00:00: Enable Pytorch Attention for gfx950 (#12641) - https://github.com/Comfy-Org/ComfyUI/commit/35e9fce7756604050f07a05d090e697b81322c44 __priority-auto-added__
 - 2026-02-27T03:34:38+00:00: v1.41.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.7 __auto-added__
+- 🔥 2026-02-27T16:13:24+00:00: fix torch.cat requiring inputs to all be same dimensions (#12673) - https://github.com/Comfy-Org/ComfyUI/commit/0a7f8e11b6f280b1b574f5dd642e0b46b8f0e045 __priority-auto-added__
