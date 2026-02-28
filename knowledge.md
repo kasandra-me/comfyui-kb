@@ -1195,3 +1195,4 @@ _Last updated: 2025-08-12_
 - 2026-02-27T03:34:38+00:00: v1.41.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.7 __auto-added__
 - 🔥 2026-02-27T16:13:24+00:00: fix torch.cat requiring inputs to all be same dimensions (#12673) - https://github.com/Comfy-Org/ComfyUI/commit/0a7f8e11b6f280b1b574f5dd642e0b46b8f0e045 __priority-auto-added__
 - 2026-02-27T17:13:57+00:00: feat: add ResolutionSelector node for aspect ratio and megapixel-base… - https://github.com/Comfy-Org/ComfyUI/commit/1f1ec377ce9d4c525d1615099524231756a69e5e __auto-added__
+- 2026-02-28T01:16:24+00:00: Limit overlap in image tile and combine nodes to prevent issues. (#12… - https://github.com/Comfy-Org/ComfyUI/commit/94f1a1cc9df69cbc75fe6d0f78a4de5d1d857d9d __auto-added__
