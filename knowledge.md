@@ -1198,3 +1198,4 @@ _Last updated: 2025-08-12_
 - 2026-02-28T01:16:24+00:00: Limit overlap in image tile and combine nodes to prevent issues. (#12… - https://github.com/Comfy-Org/ComfyUI/commit/94f1a1cc9df69cbc75fe6d0f78a4de5d1d857d9d __auto-added__
 - 2026-02-28T04:34:58+00:00: PyOpenGL-accelerate is not necessary. (#12692) - https://github.com/Comfy-Org/ComfyUI/commit/9d0e114ee380d3eac8aeb00260a9df1212b6046a __auto-added__
 - 2026-02-28T04:53:46+00:00: refactor: use AspectRatio enum members as ASPECT_RATIOS dict keys (#1… - https://github.com/Comfy-Org/ComfyUI/commit/80d49441e5e255f8d91d2f335f930e74ba85cbe8 __auto-added__
+- 2026-02-28T06:18:40+00:00: fix(ace15): handle missing lm_metadata in memory estimation during ch… - https://github.com/Comfy-Org/ComfyUI/commit/95e1059661f7a1584b5f84a6ece72ed8d8992b73 __auto-added__
