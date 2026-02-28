@@ -1200,3 +1200,4 @@ _Last updated: 2025-08-12_
 - 2026-02-28T04:53:46+00:00: refactor: use AspectRatio enum members as ASPECT_RATIOS dict keys (#1… - https://github.com/Comfy-Org/ComfyUI/commit/80d49441e5e255f8d91d2f335f930e74ba85cbe8 __auto-added__
 - 2026-02-28T06:18:40+00:00: fix(ace15): handle missing lm_metadata in memory estimation during ch… - https://github.com/Comfy-Org/ComfyUI/commit/95e1059661f7a1584b5f84a6ece72ed8d8992b73 __auto-added__
 - 2026-02-28T09:10:22+00:00: v1.41.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.8 __auto-added__
+- 2026-02-28T21:50:18+00:00: Disable dynamic_vram when weight hooks applied (#12653) - https://github.com/Comfy-Org/ComfyUI/commit/5f41584e960d3ad90f6581278e57f7b52e771db4 __auto-added__
