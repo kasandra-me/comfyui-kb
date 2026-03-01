@@ -1203,3 +1203,4 @@ _Last updated: 2025-08-12_
 - 2026-02-28T21:50:18+00:00: Disable dynamic_vram when weight hooks applied (#12653) - https://github.com/Comfy-Org/ComfyUI/commit/5f41584e960d3ad90f6581278e57f7b52e771db4 __auto-added__
 - 2026-02-28T21:52:30+00:00: cli_args: Default comfy to DynamicVram mode (#12658) - https://github.com/Comfy-Org/ComfyUI/commit/48bb0bd18aa90bba0eac7b4c1a1400c4f7110046 __auto-added__
 - 2026-03-01T03:23:28+00:00: Disable dynamic vram on wsl. (#12706) - https://github.com/Comfy-Org/ComfyUI/commit/1080bd442a7509d29bfe0b29cac9222de406c994 __auto-added__
+- 2026-03-01T04:59:24+00:00: refactor: rename Mahiro CFG to Similarity-Adaptive Guidance (#12172) - https://github.com/Comfy-Org/ComfyUI/commit/d159142615e0a1a7ae4eb711a6ae9f66a5f2d76e __auto-added__
