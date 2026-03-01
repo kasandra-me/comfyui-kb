@@ -1205,3 +1205,4 @@ _Last updated: 2025-08-12_
 - 2026-03-01T03:23:28+00:00: Disable dynamic vram on wsl. (#12706) - https://github.com/Comfy-Org/ComfyUI/commit/1080bd442a7509d29bfe0b29cac9222de406c994 __auto-added__
 - 2026-03-01T04:59:24+00:00: refactor: rename Mahiro CFG to Similarity-Adaptive Guidance (#12172) - https://github.com/Comfy-Org/ComfyUI/commit/d159142615e0a1a7ae4eb711a6ae9f66a5f2d76e __auto-added__
 - 2026-03-01T05:38:19+00:00: feat: add text preview support to jobs API (#12169) - https://github.com/Comfy-Org/ComfyUI/commit/850e8b42ff67cec295edb686c4b85dc7811f5e7f __auto-added__
+- 2026-03-01T17:38:30+00:00: fix: handle substep sigmas in context window set_step (#12719) - https://github.com/Comfy-Org/ComfyUI/commit/4d79f4f0280da6c0a0e37123b9c80f24e2403536 __auto-added__
