@@ -1212,3 +1212,5 @@ _Last updated: 2025-08-12_
 - 2026-03-02T04:22:07+00:00: v1.41.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.9 __auto-added__
 - 2026-03-02T06:21:41+00:00: comfy aimdo 0.2.4 (#12727) - https://github.com/Comfy-Org/ComfyUI/commit/7175c11a4ed41278c9cb9e6961b8d8776ef69f00 __auto-added__
 - 2026-03-02T07:24:33+00:00: feat(api-nodes): allow to use "IMAGE+TEXT" in NanoBanana2 (#12729) - https://github.com/Comfy-Org/ComfyUI/commit/afb54219fac341fa8614fdab090fe8096d0aec1e __auto-added__
+- 2026-03-02T17:13:42+00:00: chore: update workflow templates to v0.9.5 (#12732) - https://github.com/Comfy-Org/ComfyUI/commit/f1f8996e1562c3753666d1c568b2ff629edb9e36 __auto-added__
+- 2026-03-02T17:38:38+00:00: Free Tier Arrives in Comfy Cloud - https://blog.comfy.org/p/free-tier-arrives-in-comfy-cloud __auto-added__
