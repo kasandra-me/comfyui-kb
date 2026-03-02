@@ -1211,3 +1211,4 @@ _Last updated: 2025-08-12_
 - 2026-03-02T03:18:56+00:00: model_mangament: make dynamic --disable-smart-memory work (#12724) - https://github.com/Comfy-Org/ComfyUI/commit/dfbf99a06172a5c54002d80abf3e74c0d82c10b9 __auto-added__
 - 2026-03-02T04:22:07+00:00: v1.41.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.9 __auto-added__
 - 2026-03-02T06:21:41+00:00: comfy aimdo 0.2.4 (#12727) - https://github.com/Comfy-Org/ComfyUI/commit/7175c11a4ed41278c9cb9e6961b8d8776ef69f00 __auto-added__
+- 2026-03-02T07:24:33+00:00: feat(api-nodes): allow to use "IMAGE+TEXT" in NanoBanana2 (#12729) - https://github.com/Comfy-Org/ComfyUI/commit/afb54219fac341fa8614fdab090fe8096d0aec1e __auto-added__
