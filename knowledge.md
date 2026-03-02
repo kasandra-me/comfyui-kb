@@ -1209,3 +1209,4 @@ _Last updated: 2025-08-12_
 - 2026-03-01T19:14:56+00:00: comfy-aimdo 0.2.3 (#12720) - https://github.com/Comfy-Org/ComfyUI/commit/c0d472e5b9b256d9e802ecac703bb6a8ca5f9eb8 __auto-added__
 - 2026-03-01T20:28:39+00:00: Make --disable-smart-memory disable dynamic vram. (#12722) - https://github.com/Comfy-Org/ComfyUI/commit/602f6bd82c1f8b31d1b10b5f9ae4aa9637772ad5 __auto-added__
 - 2026-03-02T03:18:56+00:00: model_mangament: make dynamic --disable-smart-memory work (#12724) - https://github.com/Comfy-Org/ComfyUI/commit/dfbf99a06172a5c54002d80abf3e74c0d82c10b9 __auto-added__
+- 2026-03-02T04:22:07+00:00: v1.41.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.9 __auto-added__
