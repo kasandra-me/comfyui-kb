@@ -1216,3 +1216,4 @@ _Last updated: 2025-08-12_
 - 2026-03-02T17:38:38+00:00: Free Tier Arrives in Comfy Cloud - https://blog.comfy.org/p/free-tier-arrives-in-comfy-cloud __auto-added__
 - 2026-03-03T01:17:51+00:00: Fix VAEDecodeAudioTiled ignoring tile_size input (#12735) (#12738) - https://github.com/Comfy-Org/ComfyUI/commit/dff0a4a15887383c90a031e3fd48ebc41f6928e7 __auto-added__
 - 2026-03-03T00:29:07+00:00: v1.41.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.10 __auto-added__
+- 2026-03-03T16:51:15+00:00: main: Load aimdo after logger is setup (#12743) - https://github.com/Comfy-Org/ComfyUI/commit/174fd6759deee5ea73e4cde4ba2936e8d62d8d66 __auto-added__
