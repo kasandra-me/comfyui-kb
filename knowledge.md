@@ -1218,3 +1218,4 @@ _Last updated: 2025-08-12_
 - 2026-03-03T00:29:07+00:00: v1.41.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.10 __auto-added__
 - 2026-03-03T16:51:15+00:00: main: Load aimdo after logger is setup (#12743) - https://github.com/Comfy-Org/ComfyUI/commit/174fd6759deee5ea73e4cde4ba2936e8d62d8d66 __auto-added__
 - 2026-03-03T22:35:22+00:00: Adjust memory usage factor of zeta model. (#12746) - https://github.com/Comfy-Org/ComfyUI/commit/f719a9d928049f85b07b8ecc2259fba4832d37bb __auto-added__
+- 2026-03-04T00:58:53+00:00: CURVE type (#12581) - https://github.com/Comfy-Org/ComfyUI/commit/b6ddc590ed8dafd50df8aad1e626b78276a690c0 __auto-added__
