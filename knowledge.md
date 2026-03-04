@@ -1220,3 +1220,4 @@ _Last updated: 2025-08-12_
 - 2026-03-03T22:35:22+00:00: Adjust memory usage factor of zeta model. (#12746) - https://github.com/Comfy-Org/ComfyUI/commit/f719a9d928049f85b07b8ecc2259fba4832d37bb __auto-added__
 - 2026-03-04T00:58:53+00:00: CURVE type (#12581) - https://github.com/Comfy-Org/ComfyUI/commit/b6ddc590ed8dafd50df8aad1e626b78276a690c0 __auto-added__
 - 🔥 2026-03-04T02:19:40+00:00: DynamicVram: Add casting / fix torch Buffer weights (#12749) - https://github.com/Comfy-Org/ComfyUI/commit/ac6513e142f881202c40eacc5e337982b777ccd0 __priority-auto-added__
+- 2026-03-04T05:29:00+00:00: Fix VideoFromComponents.save_to crash when writing to BytesIO (#12683) - https://github.com/Comfy-Org/ComfyUI/commit/eb011733b6e4d8a9f7b67a1787d817bfc8c0a5b4 __auto-added__
