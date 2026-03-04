@@ -1224,3 +1224,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-03-04T15:49:13+00:00: Comfy Aimdo 0.2.5 + Fix offload performance in DynamicVram (#12754) - https://github.com/Comfy-Org/ComfyUI/commit/9b85cf955858b0aca6b7b30c30b404470ea0c964 __priority-auto-added__
 - 2026-03-04T16:59:56+00:00: Pass tokens when loading text gen model for text generation (#12755) - https://github.com/Comfy-Org/ComfyUI/commit/0a7446ade4bbeecfaf36e9a70eeabbeb0f6e59ea __auto-added__
 - 2026-03-04T20:12:37+00:00: comfy-aimdo 0.2.6 (#12764) - https://github.com/Comfy-Org/ComfyUI/commit/8811db52db5d0aea49c1dbedd733a6b9304b83a9 __auto-added__
+- 2026-03-04T21:21:15+00:00: Comfy Cloud Is Out of Beta — and It's Just Getting Started - https://blog.comfy.org/p/comfy-cloud-is-out-of-beta-and-its __auto-added__
