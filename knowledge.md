@@ -1222,3 +1222,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-03-04T02:19:40+00:00: DynamicVram: Add casting / fix torch Buffer weights (#12749) - https://github.com/Comfy-Org/ComfyUI/commit/ac6513e142f881202c40eacc5e337982b777ccd0 __priority-auto-added__
 - 2026-03-04T05:29:00+00:00: Fix VideoFromComponents.save_to crash when writing to BytesIO (#12683) - https://github.com/Comfy-Org/ComfyUI/commit/eb011733b6e4d8a9f7b67a1787d817bfc8c0a5b4 __auto-added__
 - 🔥 2026-03-04T15:49:13+00:00: Comfy Aimdo 0.2.5 + Fix offload performance in DynamicVram (#12754) - https://github.com/Comfy-Org/ComfyUI/commit/9b85cf955858b0aca6b7b30c30b404470ea0c964 __priority-auto-added__
+- 2026-03-04T16:59:56+00:00: Pass tokens when loading text gen model for text generation (#12755) - https://github.com/Comfy-Org/ComfyUI/commit/0a7446ade4bbeecfaf36e9a70eeabbeb0f6e59ea __auto-added__
