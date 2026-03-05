@@ -1232,3 +1232,5 @@ _Last updated: 2025-08-12_
 - 2026-03-05T06:21:55+00:00: Fix cublas ops on dynamic vram. (#12776) - https://github.com/Comfy-Org/ComfyUI/commit/f2ee7f2d367f98bb8a33bcb4a224bda441eb8a07 __auto-added__
 - 🔥 2026-03-05T07:39:51+00:00: Fix cuda getting initialized in cpu mode. (#12779) - https://github.com/Comfy-Org/ComfyUI/commit/4941671b5a5c65fea48be922caa76b7f6a0a4595 __priority-auto-added__
 - 2026-03-05T08:58:25+00:00: chore: update workflow templates to v0.9.7 (#12780) - https://github.com/Comfy-Org/ComfyUI/commit/c8428541a6b6e4b1e0fbd685e9c846efcb60179e __auto-added__
+- 2026-03-05T09:06:29+00:00: ComfyUI v0.16.0 - https://github.com/Comfy-Org/ComfyUI/commit/e04d0dbeb8266aa9262b5a4c3934ba4e4a371e37 __auto-added__
+- 2026-03-05T09:06:29+00:00: v0.16.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.0 __auto-added__
