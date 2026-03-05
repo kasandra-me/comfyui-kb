@@ -1246,3 +1246,6 @@ _Last updated: 2025-08-12_
 - 2026-03-05T20:37:25+00:00: Add manual cast to LTX2 vocoder conv_transpose1d (#12795) - https://github.com/Comfy-Org/ComfyUI/commit/8befce5c7b84ff3451a6bd3bcbae1355ad322855 __auto-added__
 - 2026-03-05T21:31:28+00:00: LTX audio vae novram fixes. (#12796) - https://github.com/Comfy-Org/ComfyUI/commit/17b43c2b87eba43f0f071471b855e0ed659a2627 __auto-added__
 - 2026-03-05T21:51:20+00:00: feat: add causal_fix parameter to add_keyframe_index and append_keyfr… - https://github.com/Comfy-Org/ComfyUI/commit/58017e8726bdddae89704b1e0123bedc29994424 __auto-added__
+- 2026-03-05T22:25:49+00:00: ComfyUI v0.16.3 - https://github.com/Comfy-Org/ComfyUI/commit/1c218282369a6cc80651d878fc51fa33d7bf34e2 __auto-added__
+- 2026-03-05T23:18:26+00:00: v0.16.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.3 __auto-added__
+- 2026-03-05T22:39:57+00:00: v0.8.15 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.15 __auto-added__
