@@ -1243,3 +1243,4 @@ _Last updated: 2025-08-12_
 - 2026-03-05T18:41:06+00:00: v0.16.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.2 __auto-added__
 - 2026-03-05T18:49:46+00:00: v0.18.13 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.13 __auto-added__
 - 2026-03-05T19:22:38+00:00: v0.8.14 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.14 __auto-added__
+- 2026-03-05T20:37:25+00:00: Add manual cast to LTX2 vocoder conv_transpose1d (#12795) - https://github.com/Comfy-Org/ComfyUI/commit/8befce5c7b84ff3451a6bd3bcbae1355ad322855 __auto-added__
