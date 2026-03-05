@@ -1239,3 +1239,6 @@ _Last updated: 2025-08-12_
 - 2026-03-05T17:04:24+00:00: comfy-aimdo 0.2.7 (#12791) - https://github.com/Comfy-Org/ComfyUI/commit/6481569ad4c3606bc50e9de39ce810651690ae79 __auto-added__
 - 2026-03-05T17:07:29+00:00: v0.16.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.1 __auto-added__
 - 2026-03-05T17:00:40+00:00: LTX-2.3 Day-0 support in ComfyUI: Enhanced Quality for Audio‑Video Generation - https://blog.comfy.org/p/ltx-23-day-0-supporte-in-comfyui __auto-added__
+- 2026-03-05T18:41:06+00:00: ComfyUI v0.16.2 - https://github.com/Comfy-Org/ComfyUI/commit/50549aa252903b936b2ed00b5de418c8b47f0841 __auto-added__
+- 2026-03-05T18:41:06+00:00: v0.16.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.2 __auto-added__
+- 2026-03-05T18:49:46+00:00: v0.18.13 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.13 __auto-added__
