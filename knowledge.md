@@ -1236,3 +1236,6 @@ _Last updated: 2025-08-12_
 - 2026-03-05T09:06:29+00:00: v0.16.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.0 __auto-added__
 - 2026-03-05T12:29:39+00:00: feat(api-nodes-xAI): updated models, pricing, added features (#12756) - https://github.com/Comfy-Org/ComfyUI/commit/bd21363563ce8e312c9271a0c64a0145335df8a9 __auto-added__
 - 2026-03-05T15:23:23+00:00: Update workflow templates to v0.9.8 (#12788) - https://github.com/Comfy-Org/ComfyUI/commit/da29b797ce00b491c269e864cc3b8fceb279e530 __auto-added__
+- 2026-03-05T17:04:24+00:00: comfy-aimdo 0.2.7 (#12791) - https://github.com/Comfy-Org/ComfyUI/commit/6481569ad4c3606bc50e9de39ce810651690ae79 __auto-added__
+- 2026-03-05T17:07:29+00:00: v0.16.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.1 __auto-added__
+- 2026-03-05T17:00:40+00:00: LTX-2.3 Day-0 support in ComfyUI: Enhanced Quality for Audio‑Video Generation - https://blog.comfy.org/p/ltx-23-day-0-supporte-in-comfyui __auto-added__
