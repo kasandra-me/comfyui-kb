@@ -1228,3 +1228,4 @@ _Last updated: 2025-08-12_
 - 2026-03-04T21:33:14+00:00: Initial load device should be cpu when using dynamic vram. (#12766) - https://github.com/Comfy-Org/ComfyUI/commit/ac4a943ff364885166def5d418582db971554caf __auto-added__
 - 2026-03-04T22:25:36+00:00: v1.41.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.11 __auto-added__
 - 2026-03-05T01:06:20+00:00: Support the LTXAV 2.3 model. (#12773) - https://github.com/Comfy-Org/ComfyUI/commit/43c64b6308f93c331f057e12799bad0a68be5117 __auto-added__
+- 2026-03-05T01:22:46+00:00: v1.41.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.12 __auto-added__
