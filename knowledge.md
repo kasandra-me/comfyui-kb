@@ -1230,3 +1230,4 @@ _Last updated: 2025-08-12_
 - 2026-03-05T01:06:20+00:00: Support the LTXAV 2.3 model. (#12773) - https://github.com/Comfy-Org/ComfyUI/commit/43c64b6308f93c331f057e12799bad0a68be5117 __auto-added__
 - 2026-03-05T01:22:46+00:00: v1.41.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.12 __auto-added__
 - 2026-03-05T06:21:55+00:00: Fix cublas ops on dynamic vram. (#12776) - https://github.com/Comfy-Org/ComfyUI/commit/f2ee7f2d367f98bb8a33bcb4a224bda441eb8a07 __auto-added__
+- 🔥 2026-03-05T07:39:51+00:00: Fix cuda getting initialized in cpu mode. (#12779) - https://github.com/Comfy-Org/ComfyUI/commit/4941671b5a5c65fea48be922caa76b7f6a0a4595 __priority-auto-added__
