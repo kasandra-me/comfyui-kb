@@ -1255,3 +1255,4 @@ _Last updated: 2025-08-12_
 - 2026-03-06T09:04:48+00:00: feat(api-nodes): add TencentSmartTopology node (#12741) - https://github.com/Comfy-Org/ComfyUI/commit/3b93d5d571cb3e018da65f822cd11b60202b11c2 __auto-added__
 - 2026-03-06T15:03:46+00:00: Kling 3.0 Motion Control in ComfyUI - https://blog.comfy.org/p/kling-30-motion-control-in-comfyui __auto-added__
 - 2026-03-06T17:54:27+00:00: feat(api-nodes): add Gemini 3.1 Flash Lite model to LLM node (#12803) - https://github.com/Comfy-Org/ComfyUI/commit/34e55f006156801a6b5988d046d9041cb681f12d __auto-added__
+- 2026-03-06T23:20:07+00:00: Fix fp16 audio encoder models (#12811) - https://github.com/Comfy-Org/ComfyUI/commit/f466b066017b9ebe5df67decfcbd09f78c5c66fa __auto-added__
