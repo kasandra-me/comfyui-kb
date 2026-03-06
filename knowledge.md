@@ -1251,3 +1251,4 @@ _Last updated: 2025-08-12_
 - 2026-03-05T22:39:57+00:00: v0.8.15 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.15 __auto-added__
 - 2026-03-06T02:08:07+00:00: v1.41.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.13 __auto-added__
 - 2026-03-06T02:51:28+00:00: feat: add Math Expression node with simpleeval evaluation (#12687) - https://github.com/Comfy-Org/ComfyUI/commit/e544c65db91df5a070be69a0a9b922201fe79335 __auto-added__
+- 2026-03-06T06:32:03+00:00: v0.8.16 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.16 __auto-added__
