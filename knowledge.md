@@ -1261,3 +1261,5 @@ _Last updated: 2025-08-12_
 - 2026-03-07T07:54:09+00:00: chore: update workflow templates to v0.9.11 (#12821) - https://github.com/Comfy-Org/ComfyUI/commit/6ac8152fc80734b084d12865460e5e9a5d9a4e1b __auto-added__
 - 2026-03-07T17:38:08+00:00: mm: reset_cast_buffers: sync compute stream before free (#12822) - https://github.com/Comfy-Org/ComfyUI/commit/bcf1a1fab1e9efe0d4999ea14e9c0318409e0000 __auto-added__
 - 2026-03-07T18:00:37+00:00: ElevenLabs is now available in ComfyUI - https://blog.comfy.org/p/elevenlabs-is-now-available-in-comfyui __auto-added__
+- 2026-03-07T21:52:39+00:00: ComfyUI v0.16.4 - https://github.com/Comfy-Org/ComfyUI/commit/a7a6335be538f55faa2abf7404c9b8e970847d1f __auto-added__
+- 2026-03-07T21:52:39+00:00: v0.16.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.4 __auto-added__
