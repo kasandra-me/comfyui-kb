@@ -1257,3 +1257,4 @@ _Last updated: 2025-08-12_
 - 2026-03-06T17:54:27+00:00: feat(api-nodes): add Gemini 3.1 Flash Lite model to LLM node (#12803) - https://github.com/Comfy-Org/ComfyUI/commit/34e55f006156801a6b5988d046d9041cb681f12d __auto-added__
 - 2026-03-06T23:20:07+00:00: Fix fp16 audio encoder models (#12811) - https://github.com/Comfy-Org/ComfyUI/commit/f466b066017b9ebe5df67decfcbd09f78c5c66fa __auto-added__
 - 2026-03-07T01:10:53+00:00: Fix requirements version. (#12817) - https://github.com/Comfy-Org/ComfyUI/commit/afc00f00553885eeb96ded329878fe732f6b9f7a __auto-added__
+- 2026-03-07T07:14:11+00:00: v1.42.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.0 __auto-added__
