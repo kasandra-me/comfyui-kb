@@ -1259,3 +1259,4 @@ _Last updated: 2025-08-12_
 - 2026-03-07T01:10:53+00:00: Fix requirements version. (#12817) - https://github.com/Comfy-Org/ComfyUI/commit/afc00f00553885eeb96ded329878fe732f6b9f7a __auto-added__
 - 2026-03-07T07:14:11+00:00: v1.42.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.0 __auto-added__
 - 2026-03-07T07:54:09+00:00: chore: update workflow templates to v0.9.11 (#12821) - https://github.com/Comfy-Org/ComfyUI/commit/6ac8152fc80734b084d12865460e5e9a5d9a4e1b __auto-added__
+- 2026-03-07T17:38:08+00:00: mm: reset_cast_buffers: sync compute stream before free (#12822) - https://github.com/Comfy-Org/ComfyUI/commit/bcf1a1fab1e9efe0d4999ea14e9c0318409e0000 __auto-added__
