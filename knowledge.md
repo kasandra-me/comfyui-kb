@@ -1263,3 +1263,4 @@ _Last updated: 2025-08-12_
 - 2026-03-07T18:00:37+00:00: ElevenLabs is now available in ComfyUI - https://blog.comfy.org/p/elevenlabs-is-now-available-in-comfyui __auto-added__
 - 2026-03-07T21:52:39+00:00: ComfyUI v0.16.4 - https://github.com/Comfy-Org/ComfyUI/commit/a7a6335be538f55faa2abf7404c9b8e970847d1f __auto-added__
 - 2026-03-07T21:52:39+00:00: v0.16.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.4 __auto-added__
+- 2026-03-07T22:34:37+00:00: v0.8.18 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.18 __auto-added__
