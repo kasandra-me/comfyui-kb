@@ -1264,3 +1264,5 @@ _Last updated: 2025-08-12_
 - 2026-03-07T21:52:39+00:00: ComfyUI v0.16.4 - https://github.com/Comfy-Org/ComfyUI/commit/a7a6335be538f55faa2abf7404c9b8e970847d1f __auto-added__
 - 2026-03-07T21:52:39+00:00: v0.16.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.16.4 __auto-added__
 - 2026-03-07T22:34:37+00:00: v0.8.18 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.18 __auto-added__
+- 2026-03-08T01:37:25+00:00: refactor(assets): modular architecture + async two-phase scanner & ba… - https://github.com/Comfy-Org/ComfyUI/commit/29b24cb5177e9d5aa5b3d2e5869999efb4d538c7 __auto-added__
+- 2026-03-08T02:31:14+00:00: v1.42.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.1 __auto-added__
