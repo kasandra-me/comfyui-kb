@@ -1267,3 +1267,4 @@ _Last updated: 2025-08-12_
 - 2026-03-08T01:37:25+00:00: refactor(assets): modular architecture + async two-phase scanner & ba… - https://github.com/Comfy-Org/ComfyUI/commit/29b24cb5177e9d5aa5b3d2e5869999efb4d538c7 __auto-added__
 - 2026-03-08T02:31:14+00:00: v1.42.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.1 __auto-added__
 - 2026-03-08T20:25:30+00:00: Import assets seeder later, print some package versions. (#12841) - https://github.com/Comfy-Org/ComfyUI/commit/e4b0bb8305a4069ef7ff8396bfc6057c736ab95b __auto-added__
+- 2026-03-09T00:27:47+00:00: v1.42.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.2 __auto-added__
