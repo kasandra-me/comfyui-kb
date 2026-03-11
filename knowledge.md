@@ -1280,3 +1280,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-03-11T17:04:13+00:00: fix: guard torch.AcceleratorError for compatibility with torch < 2.8.… - https://github.com/Comfy-Org/ComfyUI/commit/4f4f8659c205069f74da8ac47378a5b1c0e142ca __priority-auto-added__
 - 2026-03-11T20:22:16+00:00: v1.41.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.15 __auto-added__
 - 2026-03-11T20:37:31+00:00: Fix issue with batch_size > 1 on some models. (#12892) - https://github.com/Comfy-Org/ComfyUI/commit/f6274c06b4e7bce8adbc1c60ae5a4c168825a614 __auto-added__
+- 2026-03-11T21:04:51+00:00: Bump comfyui-frontend-package to 1.41.15 (#12891) - https://github.com/Comfy-Org/ComfyUI/commit/abc87d36693b007bdbdab5ee753ccea6326acb34 __auto-added__
