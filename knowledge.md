@@ -1274,3 +1274,4 @@ _Last updated: 2025-08-12_
 - 2026-03-10T07:02:57+00:00: HY 3D Advanced Features Now Available in ComfyUI - https://blog.comfy.org/p/hunyuan-3d-advanced-features-now __auto-added__
 - 2026-03-10T16:05:31+00:00: main: switch on faulthandler (#12868) - https://github.com/Comfy-Org/ComfyUI/commit/8086468d2a1a5a6ed70fea3391e7fb9248ebc7da __auto-added__
 - 2026-03-10T15:59:43+00:00: From Workflow to App: Introducing App Mode, App Builder, and ComfyHub - https://blog.comfy.org/p/from-workflow-to-app-introducing __auto-added__
+- 2026-03-11T00:09:12+00:00: Allow model patches to have a cleanup function. (#12878) - https://github.com/Comfy-Org/ComfyUI/commit/3ad36d6be66b2af2a7c3dc9ab6936eebc6b98075 __auto-added__
