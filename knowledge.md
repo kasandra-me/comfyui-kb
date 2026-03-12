@@ -1284,3 +1284,4 @@ _Last updated: 2025-08-12_
 - 2026-03-12T01:16:30+00:00: Bump comfyui-frontend-package to 1.41.16 (#12894) - https://github.com/Comfy-Org/ComfyUI/commit/9ce4c3dd87c9c77dfe0371045fa920ce55e08973 __auto-added__
 - 2026-03-12T04:17:31+00:00: Bump comfy-kitchen version to 0.2.8 (#12895) - https://github.com/Comfy-Org/ComfyUI/commit/8f9ea495713d4565dfe564e0c06f362bd627f902 __auto-added__
 - 2026-03-12T15:30:50+00:00: Support flux 2 klein kv cache model: Use the FluxKVCache node. (#12905) - https://github.com/Comfy-Org/ComfyUI/commit/44f1246c899ed188759f799dbd00c31def289114 __auto-added__
+- 2026-03-12T16:11:30+00:00: v1.42.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.3 __auto-added__
