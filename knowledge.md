@@ -1286,3 +1286,4 @@ _Last updated: 2025-08-12_
 - 2026-03-12T15:30:50+00:00: Support flux 2 klein kv cache model: Use the FluxKVCache node. (#12905) - https://github.com/Comfy-Org/ComfyUI/commit/44f1246c899ed188759f799dbd00c31def289114 __auto-added__
 - 2026-03-12T16:11:30+00:00: v1.42.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.3 __auto-added__
 - 2026-03-12T17:14:28+00:00: fix: use frontend-compatible format for Float gradient_stops (#12789) - https://github.com/Comfy-Org/ComfyUI/commit/3fa8c5686dc86fe4e63ad3ca84d71524792a17b1 __auto-added__
+- 2026-03-12T19:16:54+00:00: chore: update workflow templates to v0.9.21 (#12908) - https://github.com/Comfy-Org/ComfyUI/commit/712411d53919350ae5050cbdf7ed60fcc2b52cda __auto-added__
