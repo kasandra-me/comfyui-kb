@@ -1288,3 +1288,4 @@ _Last updated: 2025-08-12_
 - 2026-03-12T17:14:28+00:00: fix: use frontend-compatible format for Float gradient_stops (#12789) - https://github.com/Comfy-Org/ComfyUI/commit/3fa8c5686dc86fe4e63ad3ca84d71524792a17b1 __auto-added__
 - 2026-03-12T19:16:54+00:00: chore: update workflow templates to v0.9.21 (#12908) - https://github.com/Comfy-Org/ComfyUI/commit/712411d53919350ae5050cbdf7ed60fcc2b52cda __auto-added__
 - 2026-03-12T20:54:38+00:00: Lower kv cache memory usage. (#12909) - https://github.com/Comfy-Org/ComfyUI/commit/47e1e316c580ce6bf264cb069bffc10a50d3f167 __auto-added__
+- 2026-03-12T22:14:59+00:00: Update requirements.txt (#12910) - https://github.com/Comfy-Org/ComfyUI/commit/8d9faaa181b9089cf8e4e00284443ef5c3405a12 __auto-added__
