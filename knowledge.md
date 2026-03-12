@@ -1282,3 +1282,4 @@ _Last updated: 2025-08-12_
 - 2026-03-11T20:37:31+00:00: Fix issue with batch_size > 1 on some models. (#12892) - https://github.com/Comfy-Org/ComfyUI/commit/f6274c06b4e7bce8adbc1c60ae5a4c168825a614 __auto-added__
 - 2026-03-11T21:04:51+00:00: Bump comfyui-frontend-package to 1.41.15 (#12891) - https://github.com/Comfy-Org/ComfyUI/commit/abc87d36693b007bdbdab5ee753ccea6326acb34 __auto-added__
 - 2026-03-12T01:16:30+00:00: Bump comfyui-frontend-package to 1.41.16 (#12894) - https://github.com/Comfy-Org/ComfyUI/commit/9ce4c3dd87c9c77dfe0371045fa920ce55e08973 __auto-added__
+- 2026-03-12T04:17:31+00:00: Bump comfy-kitchen version to 0.2.8 (#12895) - https://github.com/Comfy-Org/ComfyUI/commit/8f9ea495713d4565dfe564e0c06f362bd627f902 __auto-added__
