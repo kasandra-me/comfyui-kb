@@ -1297,3 +1297,4 @@ _Last updated: 2025-08-12_
 - 2026-03-13T05:48:54+00:00: v0.8.19 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.19 __auto-added__
 - 2026-03-13T17:10:40+00:00: fix(api-nodes): Tencent TextToModel and ImageToModel nodes (#12680) - https://github.com/Comfy-Org/ComfyUI/commit/f9ceed9eefe20f6b54b801096cb80f874316f5b2 __auto-added__
 - 2026-03-13T18:31:25+00:00: Bump comfyui-frontend-package to 1.41.19 (#12923) - https://github.com/Comfy-Org/ComfyUI/commit/6cd35a0c5fd7d22df858be175f6a6e6ee0212e55 __auto-added__
+- 2026-03-13T19:02:20+00:00: v0.17.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.17.1 __auto-added__
