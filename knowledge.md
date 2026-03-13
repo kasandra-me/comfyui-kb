@@ -1295,3 +1295,4 @@ _Last updated: 2025-08-12_
 - 2026-03-13T00:24:19+00:00: v1.42.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.4 __auto-added__
 - 2026-03-13T04:17:50+00:00: Revert "Revert "feat: Add CacheProvider API for external distributed … - https://github.com/Comfy-Org/ComfyUI/commit/4a8cf359fe596fc4c25a0d335d303e42c3f8605d __auto-added__
 - 2026-03-13T05:48:54+00:00: v0.8.19 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.19 __auto-added__
+- 2026-03-13T17:10:40+00:00: fix(api-nodes): Tencent TextToModel and ImageToModel nodes (#12680) - https://github.com/Comfy-Org/ComfyUI/commit/f9ceed9eefe20f6b54b801096cb80f874316f5b2 __auto-added__
