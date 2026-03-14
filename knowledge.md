@@ -1304,3 +1304,4 @@ _Last updated: 2025-08-12_
 - 2026-03-14T14:53:00+00:00: comfy-aimdo 0.2.12 (#12941) - https://github.com/Comfy-Org/ComfyUI/commit/4c4be1bba5ae714c6f455a49757bd7fc2e32c577 __auto-added__
 - 2026-03-14T15:18:53+00:00: v0.8.21 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.21 __auto-added__
 - 2026-03-14T22:36:29+00:00: feat: Support mxfp8 (#12907) - https://github.com/Comfy-Org/ComfyUI/commit/1c5db7397d59eace38acef078b618c2f04e4e7fe __auto-added__
+- 2026-03-14T23:18:19+00:00: Add --fp16-intermediates to use fp16 for intermediate values between … - https://github.com/Comfy-Org/ComfyUI/commit/c711b8f437923d9e732fa1d22ed101f81575683c __auto-added__
