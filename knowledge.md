@@ -1303,3 +1303,4 @@ _Last updated: 2025-08-12_
 - 2026-03-14T02:33:28+00:00: Update README. (#12931) - https://github.com/Comfy-Org/ComfyUI/commit/16cd8d8a8f5f16ce7e5f929fdba9f783990254ea __auto-added__
 - 2026-03-14T14:53:00+00:00: comfy-aimdo 0.2.12 (#12941) - https://github.com/Comfy-Org/ComfyUI/commit/4c4be1bba5ae714c6f455a49757bd7fc2e32c577 __auto-added__
 - 2026-03-14T15:18:53+00:00: v0.8.21 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.21 __auto-added__
+- 2026-03-14T22:36:29+00:00: feat: Support mxfp8 (#12907) - https://github.com/Comfy-Org/ComfyUI/commit/1c5db7397d59eace38acef078b618c2f04e4e7fe __auto-added__
