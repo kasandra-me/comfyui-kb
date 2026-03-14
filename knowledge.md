@@ -1299,3 +1299,4 @@ _Last updated: 2025-08-12_
 - 2026-03-13T18:31:25+00:00: Bump comfyui-frontend-package to 1.41.19 (#12923) - https://github.com/Comfy-Org/ComfyUI/commit/6cd35a0c5fd7d22df858be175f6a6e6ee0212e55 __auto-added__
 - 2026-03-13T19:02:20+00:00: v0.17.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.17.1 __auto-added__
 - 2026-03-13T21:36:00+00:00: v0.8.20: chore: bump ComfyUI to 0.17.1 and desktop to 0.8.20 (#1652) - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.20 __auto-added__
+- 2026-03-14T00:14:27+00:00: bump manager version to 4.1b4 (#12930) - https://github.com/Comfy-Org/ComfyUI/commit/e1f10ca0932faf289757e7ec27a54894e271fdde __auto-added__
