@@ -1312,3 +1312,4 @@ _Last updated: 2025-08-12_
 - 2026-03-15T15:42:32+00:00: v0.8.22 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.22 __auto-added__
 - 2026-03-15T18:49:49+00:00: ops: opt out of deferred weight init if subclassed (#12967) - https://github.com/Comfy-Org/ComfyUI/commit/e84a200a3c68044c2b5d6621ea80d27d1585703f __auto-added__
 - 2026-03-15T19:37:27+00:00: Make EmptyLatentImage follow intermediate dtype. (#12974) - https://github.com/Comfy-Org/ComfyUI/commit/d062becb336da8430052381111e952d6ab51d39c __auto-added__
+- 🔥 2026-03-15T19:45:30+00:00: Enable Pytorch Attention for gfx1150 (#12973) - https://github.com/Comfy-Org/ComfyUI/commit/3814bf4454ef3302fd7f91750d7a194dcf979630 __priority-auto-added__
