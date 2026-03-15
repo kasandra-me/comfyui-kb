@@ -1305,3 +1305,6 @@ _Last updated: 2025-08-12_
 - 2026-03-14T15:18:53+00:00: v0.8.21 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.21 __auto-added__
 - 2026-03-14T22:36:29+00:00: feat: Support mxfp8 (#12907) - https://github.com/Comfy-Org/ComfyUI/commit/1c5db7397d59eace38acef078b618c2f04e4e7fe __auto-added__
 - 2026-03-14T23:18:19+00:00: Add --fp16-intermediates to use fp16 for intermediate values between … - https://github.com/Comfy-Org/ComfyUI/commit/c711b8f437923d9e732fa1d22ed101f81575683c __auto-added__
+- 2026-03-15T01:09:09+00:00: LTXV: Accumulate VAE decode results on intermediate_device (#12955) - https://github.com/Comfy-Org/ComfyUI/commit/0904cc3fe5a551e3716851f12a568e481badd301 __auto-added__
+- 2026-03-15T00:06:14+00:00: v0.17.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.17.2 __auto-added__
+- 2026-03-15T00:09:21+00:00: v1.41.20 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.20 __auto-added__
