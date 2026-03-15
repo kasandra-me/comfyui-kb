@@ -1308,3 +1308,4 @@ _Last updated: 2025-08-12_
 - 2026-03-15T01:09:09+00:00: LTXV: Accumulate VAE decode results on intermediate_device (#12955) - https://github.com/Comfy-Org/ComfyUI/commit/0904cc3fe5a551e3716851f12a568e481badd301 __auto-added__
 - 2026-03-15T00:06:14+00:00: v0.17.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.17.2 __auto-added__
 - 2026-03-15T00:09:21+00:00: v1.41.20 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.20 __auto-added__
+- 2026-03-15T02:25:26+00:00: v1.42.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.5 __auto-added__
