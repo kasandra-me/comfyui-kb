@@ -1319,3 +1319,4 @@ _Last updated: 2025-08-12_
 - 2026-03-16T14:34:59+00:00: v1.43.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.1 __auto-added__
 - 2026-03-16T19:34:04+00:00: feat(assets): align local API with cloud spec (#12863) - https://github.com/Comfy-Org/ComfyUI/commit/2bd4d82b4f19c30dc979a3a16ddae97068e1bdc8 __auto-added__
 - 2026-03-16T20:00:42+00:00: Skip running model finalizers at exit (#12994) - https://github.com/Comfy-Org/ComfyUI/commit/b202f842af10824b62a3158f0887ee371e16beb6 __auto-added__
+- 2026-03-16T20:50:13+00:00: Add --enable-dynamic-vram options to force enable it. (#13002) - https://github.com/Comfy-Org/ComfyUI/commit/7a16e8aa4e4672733280887a38758be530ba13ea __auto-added__
