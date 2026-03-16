@@ -1315,3 +1315,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-03-15T19:45:30+00:00: Enable Pytorch Attention for gfx1150 (#12973) - https://github.com/Comfy-Org/ComfyUI/commit/3814bf4454ef3302fd7f91750d7a194dcf979630 __priority-auto-added__
 - 2026-03-15T23:18:04+00:00: feat: add essentials_category to nodes and blueprints for Essentials … - https://github.com/Comfy-Org/ComfyUI/commit/593be209a45a8a306c26de550e240a363de405a7 __auto-added__
 - 2026-03-16T00:32:52+00:00: v1.42.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.6 __auto-added__
+- 2026-03-16T11:01:38+00:00: v1.43.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.0 __auto-added__
