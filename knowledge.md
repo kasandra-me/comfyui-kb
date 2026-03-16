@@ -1318,3 +1318,4 @@ _Last updated: 2025-08-12_
 - 2026-03-16T11:01:38+00:00: v1.43.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.0 __auto-added__
 - 2026-03-16T14:34:59+00:00: v1.43.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.1 __auto-added__
 - 2026-03-16T19:34:04+00:00: feat(assets): align local API with cloud spec (#12863) - https://github.com/Comfy-Org/ComfyUI/commit/2bd4d82b4f19c30dc979a3a16ddae97068e1bdc8 __auto-added__
+- 2026-03-16T20:00:42+00:00: Skip running model finalizers at exit (#12994) - https://github.com/Comfy-Org/ComfyUI/commit/b202f842af10824b62a3158f0887ee371e16beb6 __auto-added__
