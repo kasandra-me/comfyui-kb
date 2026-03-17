@@ -1324,3 +1324,4 @@ _Last updated: 2025-08-12_
 - 2026-03-17T04:53:18+00:00: chore: update workflow templates to v0.9.26 (#13012) - https://github.com/Comfy-Org/ComfyUI/commit/379fbd1a827cd2ce97984a7e8ea8b7159780cd1c __auto-added__
 - 2026-03-17T11:04:05+00:00: v1.41.21 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.21 __auto-added__
 - 2026-03-17T13:08:42+00:00: v1.43.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.2 __auto-added__
+- 2026-03-17T14:24:00+00:00: Mark weight_dtype as advanced input in Load Diffusion Model node (#12… - https://github.com/Comfy-Org/ComfyUI/commit/ed7c2c65790c36871b90fff2bdd3de25a17a5431 __auto-added__
