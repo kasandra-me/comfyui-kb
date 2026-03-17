@@ -1323,3 +1323,4 @@ _Last updated: 2025-08-12_
 - 2026-03-17T02:27:27+00:00: fix: disable SageAttention for Hunyuan3D v2.1 DiT (#12772) - https://github.com/Comfy-Org/ComfyUI/commit/8cc746a86411bd7a08d42829dc805f39f8bced65 __auto-added__
 - 2026-03-17T04:53:18+00:00: chore: update workflow templates to v0.9.26 (#13012) - https://github.com/Comfy-Org/ComfyUI/commit/379fbd1a827cd2ce97984a7e8ea8b7159780cd1c __auto-added__
 - 2026-03-17T11:04:05+00:00: v1.41.21 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.41.21 __auto-added__
+- 2026-03-17T13:08:42+00:00: v1.43.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.2 __auto-added__
