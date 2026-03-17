@@ -1327,3 +1327,4 @@ _Last updated: 2025-08-12_
 - 2026-03-17T14:24:00+00:00: Mark weight_dtype as advanced input in Load Diffusion Model node (#12… - https://github.com/Comfy-Org/ComfyUI/commit/ed7c2c65790c36871b90fff2bdd3de25a17a5431 __auto-added__
 - 2026-03-17T17:30:34+00:00: Reve is now available in ComfyUI - https://blog.comfy.org/p/reve-is-now-available-in-comfyui __auto-added__
 - 2026-03-17T17:00:56+00:00: 5.8.3 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.3 __auto-added__
+- 2026-03-17T21:27:57+00:00: v0.8.23 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.23 __auto-added__
