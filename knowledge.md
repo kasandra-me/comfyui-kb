@@ -1329,3 +1329,4 @@ _Last updated: 2025-08-12_
 - 2026-03-17T17:00:56+00:00: 5.8.3 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.3 __auto-added__
 - 2026-03-17T21:27:57+00:00: v0.8.23 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.23 __auto-added__
 - 2026-03-17T21:34:39+00:00: Reduce WAN VAE VRAM, Save use cases for OOM/Tiler (#13014) - https://github.com/Comfy-Org/ComfyUI/commit/035414ede49c1b043ea6de054ca512bcbf0f6b35 __auto-added__
+- 2026-03-17T22:17:03+00:00: bump manager version to 4.1b6 (#13022) - https://github.com/Comfy-Org/ComfyUI/commit/8b9d039f26f5230ab3d3d6d9dd5d55590681b970 __auto-added__
