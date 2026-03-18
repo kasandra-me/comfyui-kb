@@ -1336,3 +1336,4 @@ _Last updated: 2025-08-12_
 - 2026-03-18T20:36:39+00:00: Update comfyui-frontend-package version to 1.41.21 (#13035) - https://github.com/Comfy-Org/ComfyUI/commit/b67ed2a45fad8322629289b3347ea15f8926cd45 __auto-added__
 - 2026-03-18T22:14:18+00:00: Make more intermediate values follow the intermediate dtype. (#13051) - https://github.com/Comfy-Org/ComfyUI/commit/dcd659590faac35a1ac36393077f4ab8aac3fea8 __auto-added__
 - 2026-03-18T22:35:25+00:00: Fix regression. (#13053) - https://github.com/Comfy-Org/ComfyUI/commit/56ff88f9511c4e25cd8ac08b2bfcd21c8ad83121 __auto-added__
+- 2026-03-18T23:42:28+00:00: fp16 intermediates doen't work for some text enc models. (#13056) - https://github.com/Comfy-Org/ComfyUI/commit/f6b869d7d35f7160bf2fdeabaed378d737834540 __auto-added__
