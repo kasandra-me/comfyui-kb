@@ -1332,3 +1332,4 @@ _Last updated: 2025-08-12_
 - 2026-03-17T22:17:03+00:00: bump manager version to 4.1b6 (#13022) - https://github.com/Comfy-Org/ComfyUI/commit/8b9d039f26f5230ab3d3d6d9dd5d55590681b970 __auto-added__
 - 2026-03-18T00:59:10+00:00: cascade: remove dead weight init code (#13026) - https://github.com/Comfy-Org/ComfyUI/commit/cad24ce26278a72095d33a2b4391572573201542 __auto-added__
 - 2026-03-18T01:21:32+00:00: fix: run text encoders on MPS GPU instead of CPU for Apple Silicon (#… - https://github.com/Comfy-Org/ComfyUI/commit/b941913f1d2d11dc69c098a375309b13c13bca23 __auto-added__
+- 2026-03-18T17:21:58+00:00: fix(api-nodes): add support for "thought_image" in Nano Banana 2 and … - https://github.com/Comfy-Org/ComfyUI/commit/06957022d4cc6f91e101cf5afdd421e462f820c0 __auto-added__
