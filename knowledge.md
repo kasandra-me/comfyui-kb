@@ -1340,3 +1340,4 @@ _Last updated: 2025-08-12_
 - 2026-03-19T15:35:58+00:00: How Open Source Is Fueling the Open Story Movement — and a Financially Successful Future for Artists in the Age of AI - https://blog.comfy.org/p/how-open-source-is-fueling-the-open __auto-added__
 - 2026-03-19T17:29:34+00:00: Reduce tiled decode peak memory (#13050) - https://github.com/Comfy-Org/ComfyUI/commit/fd0261d2bc0c32fa6c21d20994702f44fd927d4c __auto-added__
 - 2026-03-19T19:27:55+00:00: Revert "fix: run text encoders on MPS GPU instead of CPU for Apple Si… - https://github.com/Comfy-Org/ComfyUI/commit/8458ae2686a8d62ee206d3903123868425a4e6a7 __auto-added__
+- 2026-03-19T22:06:07+00:00: The Complete Style Transfer Handbook: All in ComfyUI - https://blog.comfy.org/p/the-complete-style-transfer-handbook __auto-added__
