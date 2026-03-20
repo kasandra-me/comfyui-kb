@@ -1341,3 +1341,4 @@ _Last updated: 2025-08-12_
 - 2026-03-19T17:29:34+00:00: Reduce tiled decode peak memory (#13050) - https://github.com/Comfy-Org/ComfyUI/commit/fd0261d2bc0c32fa6c21d20994702f44fd927d4c __auto-added__
 - 2026-03-19T19:27:55+00:00: Revert "fix: run text encoders on MPS GPU instead of CPU for Apple Si… - https://github.com/Comfy-Org/ComfyUI/commit/8458ae2686a8d62ee206d3903123868425a4e6a7 __auto-added__
 - 2026-03-19T22:06:07+00:00: The Complete Style Transfer Handbook: All in ComfyUI - https://blog.comfy.org/p/the-complete-style-transfer-handbook __auto-added__
+- 2026-03-20T03:05:01+00:00: [API Nodes] mark seedream-3-0-t2i and seedance-1-0-lite models as dep… - https://github.com/Comfy-Org/ComfyUI/commit/e4455fd43acd3f975905455ace7497136962968a __auto-added__
