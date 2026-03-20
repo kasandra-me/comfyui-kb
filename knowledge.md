@@ -1346,3 +1346,4 @@ _Last updated: 2025-08-12_
 - 2026-03-20T17:09:53+00:00: 5.8.4 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.4 __auto-added__
 - 2026-03-20T19:23:16+00:00: feat(api-nodes): add Quiver SVG nodes (#13047) - https://github.com/Comfy-Org/ComfyUI/commit/c646d211be359df56617ffabcdd43cb53e191e97 __auto-added__
 - 2026-03-20T20:08:26+00:00: Make EmptyImage node follow intermediate device/dtype. (#13079) - https://github.com/Comfy-Org/ComfyUI/commit/45d5c83a3005e7fc28ce9e4ff04b77875052eb51 __auto-added__
+- 2026-03-20T22:28:40+00:00: 5.8.5 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.5 __auto-added__
