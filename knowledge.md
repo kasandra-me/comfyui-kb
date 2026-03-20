@@ -1343,3 +1343,4 @@ _Last updated: 2025-08-12_
 - 2026-03-19T22:06:07+00:00: The Complete Style Transfer Handbook: All in ComfyUI - https://blog.comfy.org/p/the-complete-style-transfer-handbook __auto-added__
 - 2026-03-20T03:05:01+00:00: [API Nodes] mark seedream-3-0-t2i and seedance-1-0-lite models as dep… - https://github.com/Comfy-Org/ComfyUI/commit/e4455fd43acd3f975905455ace7497136962968a __auto-added__
 - 2026-03-20T03:42:42+00:00: Add slice_cond and per-model context window cond resizing (#12645) - https://github.com/Comfy-Org/ComfyUI/commit/589228e671e84518bf77919ee4e574749ab772c8 __auto-added__
+- 2026-03-20T17:09:53+00:00: 5.8.4 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.4 __auto-added__
