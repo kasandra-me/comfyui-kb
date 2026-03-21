@@ -1349,3 +1349,5 @@ _Last updated: 2025-08-12_
 - 2026-03-20T22:28:40+00:00: 5.8.5 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.5 __auto-added__
 - 2026-03-21T00:09:15+00:00: ComfyUI version 0.18.0 - https://github.com/Comfy-Org/ComfyUI/commit/dc719cde9c448c65242ae2d4ba400ba18c36846f __auto-added__
 - 2026-03-21T00:09:15+00:00: v0.18.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.18.0 __auto-added__
+- 2026-03-21T03:15:50+00:00: Fix canny node not working with fp16. (#13085) - https://github.com/Comfy-Org/ComfyUI/commit/a11f68dd3b5393b6afc37e01c91fa84963d2668a __auto-added__
+- 2026-03-21T02:55:51+00:00: v0.8.24 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.24 __auto-added__
