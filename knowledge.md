@@ -1353,3 +1353,6 @@ _Last updated: 2025-08-12_
 - 2026-03-21T02:55:51+00:00: v0.8.24 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.24 __auto-added__
 - 2026-03-21T21:53:25+00:00: Fix fp16 intermediates giving different results. (#13100) - https://github.com/Comfy-Org/ComfyUI/commit/11c15d8832ab8a95ebe31f85c131429978668c76 __auto-added__
 - 2026-03-21T22:44:35+00:00: wan: vae: Fix light/color change (#13101) - https://github.com/Comfy-Org/ComfyUI/commit/25b6d1d6298c380c1d4de90ff9f38484a84ada19 __auto-added__
+- 2026-03-22T03:51:05+00:00: LongCat-Image edit (#13003) - https://github.com/Comfy-Org/ComfyUI/commit/d49420b3c7daf86cae1d7419e37848a974e1b7be __auto-added__
+- 2026-03-22T02:32:16+00:00: v0.18.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.18.1 __auto-added__
+- 2026-03-22T04:08:42+00:00: v1.42.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.8 __auto-added__
