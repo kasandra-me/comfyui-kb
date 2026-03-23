@@ -1357,3 +1357,4 @@ _Last updated: 2025-08-12_
 - 2026-03-22T02:32:16+00:00: v0.18.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.18.1 __auto-added__
 - 2026-03-22T04:08:42+00:00: v1.42.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.8 __auto-added__
 - 2026-03-22T22:46:18+00:00: Add warning for users who disable dynamic vram. (#13113) - https://github.com/Comfy-Org/ComfyUI/commit/6265a239f379f1a5cf2bfdcd3a9631d4c11e50fb __auto-added__
+- 2026-03-23T07:58:50+00:00: v0.8.25 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.25 __auto-added__
