@@ -1359,3 +1359,4 @@ _Last updated: 2025-08-12_
 - 2026-03-22T22:46:18+00:00: Add warning for users who disable dynamic vram. (#13113) - https://github.com/Comfy-Org/ComfyUI/commit/6265a239f379f1a5cf2bfdcd3a9631d4c11e50fb __auto-added__
 - 2026-03-23T07:58:50+00:00: v0.8.25 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.25 __auto-added__
 - 2026-03-23T16:59:21+00:00: bump manager version to 4.1b8 (#13108) - https://github.com/Comfy-Org/ComfyUI/commit/da6edb5a4e5745869d64ae05b96263da42d5364e __auto-added__
+- 2026-03-23T21:27:59+00:00: v1.43.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.3 __auto-added__
