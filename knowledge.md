@@ -1363,3 +1363,4 @@ _Last updated: 2025-08-12_
 - 2026-03-23T22:22:24+00:00: feat: LTX2: Support reference audio (ID-LoRA) (#13111) - https://github.com/Comfy-Org/ComfyUI/commit/e87858e9743f92222cdb478f1f835135750b6a0b __auto-added__
 - 2026-03-24T00:43:41+00:00: Update frontend version to 1.42.8 (#13126) - https://github.com/Comfy-Org/ComfyUI/commit/2d4970ff677970fbca9f9f562296eda46de8aa4c __auto-added__
 - 2026-03-24T18:22:30+00:00: fix: set default values of Color Adjustment node to zero (#13084) - https://github.com/Comfy-Org/ComfyUI/commit/2d5fd3f5dde51574d77601dbe4c163a95a56121a __auto-added__
+- 2026-03-24T20:27:39+00:00: feat(api-nodes): update xAI Grok nodes (#13140) - https://github.com/Comfy-Org/ComfyUI/commit/f9ec85f739aeab3fbc0f89baaa1e0fc196f2ff2c __auto-added__
