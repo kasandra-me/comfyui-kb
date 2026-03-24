@@ -1366,3 +1366,5 @@ _Last updated: 2025-08-12_
 - 2026-03-24T20:27:39+00:00: feat(api-nodes): update xAI Grok nodes (#13140) - https://github.com/Comfy-Org/ComfyUI/commit/f9ec85f739aeab3fbc0f89baaa1e0fc196f2ff2c __auto-added__
 - 2026-03-24T21:47:28+00:00: CURVE node (#12757) - https://github.com/Comfy-Org/ComfyUI/commit/8e73678dae6e5763bc860d6f98566243a494f9c2 __auto-added__
 - 2026-03-24T21:41:52+00:00: v0.18.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.18.2 __auto-added__
+- 2026-03-24T22:38:08+00:00: Add Number Convert node (#13041) - https://github.com/Comfy-Org/ComfyUI/commit/a0a64c679fca700a087d0cdfa419912a3e8b3bf8 __auto-added__
+- 2026-03-24T22:44:03+00:00: v0.8.26 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.26 __auto-added__
