@@ -1361,3 +1361,4 @@ _Last updated: 2025-08-12_
 - 2026-03-23T16:59:21+00:00: bump manager version to 4.1b8 (#13108) - https://github.com/Comfy-Org/ComfyUI/commit/da6edb5a4e5745869d64ae05b96263da42d5364e __auto-added__
 - 2026-03-23T21:27:59+00:00: v1.43.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.3 __auto-added__
 - 2026-03-23T22:22:24+00:00: feat: LTX2: Support reference audio (ID-LoRA) (#13111) - https://github.com/Comfy-Org/ComfyUI/commit/e87858e9743f92222cdb478f1f835135750b6a0b __auto-added__
+- 2026-03-24T00:43:41+00:00: Update frontend version to 1.42.8 (#13126) - https://github.com/Comfy-Org/ComfyUI/commit/2d4970ff677970fbca9f9f562296eda46de8aa4c __auto-added__
