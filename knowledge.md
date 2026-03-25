@@ -1375,3 +1375,4 @@ _Last updated: 2025-08-12_
 - 2026-03-25T16:13:12+00:00: Dynamic VRAM in ComfyUI: Saving Local Models from RAMmageddon - https://blog.comfy.org/p/dynamic-vram-in-comfyui-saving-local __auto-added__
 - 2026-03-25T18:05:49+00:00: fix(api-nodes): made Reve node price badges more precise (#13154) - https://github.com/Comfy-Org/ComfyUI/commit/a55835f10c29c1acdc9158bf9e092656ae1a2188 __auto-added__
 - 2026-03-25T20:49:29+00:00: bump manager version to 4.1 (#13156) - https://github.com/Comfy-Org/ComfyUI/commit/3b15651bc6f94911de3a6ef18b1b3d05210a5d02 __auto-added__
+- 2026-03-25T21:58:15+00:00: v1.43.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.5 __auto-added__
