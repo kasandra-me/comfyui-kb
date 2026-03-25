@@ -1369,3 +1369,4 @@ _Last updated: 2025-08-12_
 - 2026-03-24T22:38:08+00:00: Add Number Convert node (#13041) - https://github.com/Comfy-Org/ComfyUI/commit/a0a64c679fca700a087d0cdfa419912a3e8b3bf8 __auto-added__
 - 2026-03-24T22:44:03+00:00: v0.8.26 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.26 __auto-added__
 - 2026-03-24T23:37:23+00:00: v1.43.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.4 __auto-added__
+- 2026-03-25T00:39:04+00:00: FP8 bwd training (#13121) - https://github.com/Comfy-Org/ComfyUI/commit/5ebb0c2e0b72945c271a2fb4db749585aa32a13c __auto-added__
