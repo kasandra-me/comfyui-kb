@@ -1379,3 +1379,4 @@ _Last updated: 2025-08-12_
 - 2026-03-25T22:06:34+00:00: fix(number-convert): preserve int precision for large numbers (#13147) - https://github.com/Comfy-Org/ComfyUI/commit/6580a6bc012ac43bba8d0ba9377a8d33184433ac __auto-added__
 - 2026-03-26T03:21:44+00:00: Make Qwen 8B work with TextGenerate node. (#13160) - https://github.com/Comfy-Org/ComfyUI/commit/2a1f4026018ff9791a51cc66175d06ece8706640 __auto-added__
 - 2026-03-26T03:34:47+00:00: v1.43.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.6 __auto-added__
+- 2026-03-26T16:55:05+00:00: fix: regression in text generate with LTXAV model (#13170) - https://github.com/Comfy-Org/ComfyUI/commit/b0fd65e88441073d2f79a1065a51d62b49cb0408 __auto-added__
