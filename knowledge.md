@@ -1381,3 +1381,4 @@ _Last updated: 2025-08-12_
 - 2026-03-26T03:34:47+00:00: v1.43.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.6 __auto-added__
 - 2026-03-26T16:55:05+00:00: fix: regression in text generate with LTXAV model (#13170) - https://github.com/Comfy-Org/ComfyUI/commit/b0fd65e88441073d2f79a1065a51d62b49cb0408 __auto-added__
 - 2026-03-26T19:07:38+00:00: chore: update workflow templates to v0.9.38 (#13176) - https://github.com/Comfy-Org/ComfyUI/commit/359559c9131899f7dc4788ff367dfe8e729a45bb __auto-added__
+- 2026-03-26T20:02:18+00:00: v0.18.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.18.3 __auto-added__
