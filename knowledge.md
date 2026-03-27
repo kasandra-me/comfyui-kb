@@ -1387,3 +1387,4 @@ _Last updated: 2025-08-12_
 - 2026-03-27T02:59:41+00:00: v1.43.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.7 __auto-added__
 - 2026-03-27T05:13:29+00:00: fix: register image/svg+xml MIME type for .svg files (#13186) - https://github.com/Comfy-Org/ComfyUI/commit/225c52f6a4fb4e4591ee1fa648bbb8d4266b324a __auto-added__
 - 2026-03-27T05:28:49+00:00: Topaz Starlight Precise 2.5 now available via Partner Nodes - https://blog.comfy.org/p/topaz-starlight-precise-25-now-available __auto-added__
+- 2026-03-27T17:13:02+00:00: chore: update workflow templates to v0.9.39 (#13196) - https://github.com/Comfy-Org/ComfyUI/commit/85b74951355d272d3da6c2eefe79b46c1d5619ca __auto-added__
