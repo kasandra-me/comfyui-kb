@@ -1385,3 +1385,5 @@ _Last updated: 2025-08-12_
 - 2026-03-26T22:15:56+00:00: v0.8.27 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.27 __auto-added__
 - 2026-03-27T02:18:16+00:00: Fix blur and sharpen nodes not working with fp16 intermediates. (#13181) - https://github.com/Comfy-Org/ComfyUI/commit/b1fdbeb9a71ca3b51e594ba457c1d5f001359c92 __auto-added__
 - 2026-03-27T02:59:41+00:00: v1.43.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.7 __auto-added__
+- 2026-03-27T05:13:29+00:00: fix: register image/svg+xml MIME type for .svg files (#13186) - https://github.com/Comfy-Org/ComfyUI/commit/225c52f6a4fb4e4591ee1fa648bbb8d4266b324a __auto-added__
+- 2026-03-27T05:28:49+00:00: Topaz Starlight Precise 2.5 now available via Partner Nodes - https://blog.comfy.org/p/topaz-starlight-precise-25-now-available __auto-added__
