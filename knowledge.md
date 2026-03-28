@@ -1391,3 +1391,4 @@ _Last updated: 2025-08-12_
 - 2026-03-27T19:11:41+00:00: fix(api-nodes-nanobana): raise error when not output image is present… - https://github.com/Comfy-Org/ComfyUI/commit/6a2cdb817dfee967c02f65eddd9fd85a1d7bf53e __auto-added__
 - 2026-03-28T01:34:16+00:00: Integrate RAM cache with model RAM management (#13173) - https://github.com/Comfy-Org/ComfyUI/commit/b353a7c863e0ada594c0779e227915fea2e8296f __auto-added__
 - 2026-03-28T02:22:21+00:00: v1.43.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.8 __auto-added__
+- 2026-03-28T17:13:05+00:00: fix: avoid nested sampler function calls in Color Curves shader (#13209) - https://github.com/Comfy-Org/ComfyUI/commit/fc1fdf3389aa3b6cfcc2946bb9284cae9cd15cc7 __auto-added__
