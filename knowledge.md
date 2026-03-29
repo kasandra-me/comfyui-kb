@@ -1395,3 +1395,4 @@ _Last updated: 2025-08-12_
 - 2026-03-29T03:34:10+00:00: CORE-13 feat: Support RT-DETRv4 detection model (#12748) - https://github.com/Comfy-Org/ComfyUI/commit/a500f1edacfa797ab457e2111b5aeb1fd980d1ca __auto-added__
 - 2026-03-29T05:21:56+00:00: v1.43.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.9 __auto-added__
 - 2026-03-29T21:11:30+00:00: feat(api-nodes-Tencent3D): allow smaller possible face_count; add uv_… - https://github.com/Comfy-Org/ComfyUI/commit/d113d1cc32bccd99a83ddfc5c1e22fd9e024a6b0 __auto-added__
+- 2026-03-29T23:43:24+00:00: Fix/tweak pinned memory accounting (#13221) - https://github.com/Comfy-Org/ComfyUI/commit/8d723d2caa959a8c4b14050c30dd83cf931e3dc1 __auto-added__
