@@ -1398,3 +1398,4 @@ _Last updated: 2025-08-12_
 - 2026-03-29T23:43:24+00:00: Fix/tweak pinned memory accounting (#13221) - https://github.com/Comfy-Org/ComfyUI/commit/8d723d2caa959a8c4b14050c30dd83cf931e3dc1 __auto-added__
 - 2026-03-30T00:50:54+00:00: v1.43.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.10 __auto-added__
 - 2026-03-30T04:02:44+00:00: Rename utils/string nodes with Text prefix and add search aliases (#1… - https://github.com/Comfy-Org/ComfyUI/commit/55e6478526590572b88272045b5014d9b60fa2a0 __auto-added__
+- 2026-03-31T00:54:47+00:00: v1.43.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.11 __auto-added__
