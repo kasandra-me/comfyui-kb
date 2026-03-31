@@ -1400,3 +1400,4 @@ _Last updated: 2025-08-12_
 - 2026-03-30T04:02:44+00:00: Rename utils/string nodes with Text prefix and add search aliases (#1… - https://github.com/Comfy-Org/ComfyUI/commit/55e6478526590572b88272045b5014d9b60fa2a0 __auto-added__
 - 2026-03-31T00:54:47+00:00: v1.43.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.11 __auto-added__
 - 2026-03-31T03:11:02+00:00: Update README with note on model support (#13235) - https://github.com/Comfy-Org/ComfyUI/commit/076639fed99742f43ffbf0b0df34bb8fd105b8e9 __auto-added__
+- 2026-03-31T21:27:17+00:00: Fix some fp8 scaled checkpoints no longer working. (#13239) - https://github.com/Comfy-Org/ComfyUI/commit/e2ddf28d78f190b27d136668a7dc15c7f0ec75dc __auto-added__
