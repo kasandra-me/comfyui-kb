@@ -1401,3 +1401,4 @@ _Last updated: 2025-08-12_
 - 2026-03-31T00:54:47+00:00: v1.43.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.11 __auto-added__
 - 2026-03-31T03:11:02+00:00: Update README with note on model support (#13235) - https://github.com/Comfy-Org/ComfyUI/commit/076639fed99742f43ffbf0b0df34bb8fd105b8e9 __auto-added__
 - 2026-03-31T21:27:17+00:00: Fix some fp8 scaled checkpoints no longer working. (#13239) - https://github.com/Comfy-Org/ComfyUI/commit/e2ddf28d78f190b27d136668a7dc15c7f0ec75dc __auto-added__
+- 2026-04-01T03:23:25+00:00: chore: update workflow templates to v0.9.41 (#13242) - https://github.com/Comfy-Org/ComfyUI/commit/7d437687c260df7772c603658111148e0e863e59 __auto-added__
