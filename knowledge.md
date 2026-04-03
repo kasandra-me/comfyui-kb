@@ -1406,3 +1406,4 @@ _Last updated: 2025-08-12_
 - 2026-04-02T20:39:34+00:00: Fix some issue with insecure browsers. (#13261) - https://github.com/Comfy-Org/ComfyUI/commit/76b75f3ad755ef5ff78b3670abbab549fb080243 __auto-added__
 - 2026-04-03T06:52:10+00:00: Update template to 0.9.43 (#13265) - https://github.com/Comfy-Org/ComfyUI/commit/eb0686bbb60c83e44c3a3e4f7defd0f589cfef10 __auto-added__
 - 2026-04-03T07:12:59+00:00: v0.18.5 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.18.5 __auto-added__
+- 2026-04-03T08:03:44+00:00: Wan2.7 Is Now Available in ComfyUI via Partner Nodes - https://blog.comfy.org/p/wan27-is-now-available-in-comfyui __auto-added__
