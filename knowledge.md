@@ -1409,3 +1409,4 @@ _Last updated: 2025-08-12_
 - 2026-04-03T08:03:44+00:00: Wan2.7 Is Now Available in ComfyUI via Partner Nodes - https://blog.comfy.org/p/wan27-is-now-available-in-comfyui __auto-added__
 - 2026-04-03T10:48:37+00:00: v0.8.28 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.28 __auto-added__
 - 2026-04-03T19:29:06+00:00: Add portable release for intel XPU. (#13272) - https://github.com/Comfy-Org/ComfyUI/commit/f21f6b22125a80d714be6f2a3a0f3a58850daee5 __auto-added__
+- 🔥 2026-04-04T23:02:47+00:00: Nightly Nvidia pytorch is now cu132 (#13288) - https://github.com/Comfy-Org/ComfyUI/commit/13917b388028aee922efce6b4714db96e8cfea36 __priority-auto-added__
