@@ -1412,3 +1412,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-04-04T23:02:47+00:00: Nightly Nvidia pytorch is now cu132 (#13288) - https://github.com/Comfy-Org/ComfyUI/commit/13917b388028aee922efce6b4714db96e8cfea36 __priority-auto-added__
 - 2026-04-05T05:31:11+00:00: chore: update workflow templates to v0.9.44 (#13290) - https://github.com/Comfy-Org/ComfyUI/commit/8cbbea8f6a571d8d2a859608bb9434103de769d7 __auto-added__
 - 2026-04-05T06:51:33+00:00: v1.43.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.12 __auto-added__
+- 2026-04-05T23:37:27+00:00: Update README.md with new frontend release cycle. (#13301) - https://github.com/Comfy-Org/ComfyUI/commit/4b1444fc7a7d1dc542020f509dab2e2b90a4f16a __auto-added__
