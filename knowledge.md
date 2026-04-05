@@ -1410,3 +1410,4 @@ _Last updated: 2025-08-12_
 - 2026-04-03T10:48:37+00:00: v0.8.28 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.28 __auto-added__
 - 2026-04-03T19:29:06+00:00: Add portable release for intel XPU. (#13272) - https://github.com/Comfy-Org/ComfyUI/commit/f21f6b22125a80d714be6f2a3a0f3a58850daee5 __auto-added__
 - 🔥 2026-04-04T23:02:47+00:00: Nightly Nvidia pytorch is now cu132 (#13288) - https://github.com/Comfy-Org/ComfyUI/commit/13917b388028aee922efce6b4714db96e8cfea36 __priority-auto-added__
+- 2026-04-05T05:31:11+00:00: chore: update workflow templates to v0.9.44 (#13290) - https://github.com/Comfy-Org/ComfyUI/commit/8cbbea8f6a571d8d2a859608bb9434103de769d7 __auto-added__
