@@ -1416,3 +1416,4 @@ _Last updated: 2025-08-12_
 - 2026-04-06T20:19:40+00:00: v1.43.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.13 __auto-added__
 - 2026-04-06T21:54:02+00:00: image histogram node (#13153) - https://github.com/Comfy-Org/ComfyUI/commit/7083484a48b97bdcf6263cd0b64c4994364debc3 __auto-added__
 - 2026-04-07T01:12:16+00:00: Ace step empty latent nodes follow intermediate dtype. (#13313) - https://github.com/Comfy-Org/ComfyUI/commit/61c23874363495c59a598cf1270809f1a6b2aa89 __auto-added__
+- 2026-04-07T03:33:55+00:00: format blueprint (#13315) - https://github.com/Comfy-Org/ComfyUI/commit/50076f34396fd2e5a875c60e42574e1756b4917b __auto-added__
