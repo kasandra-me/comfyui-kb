@@ -1420,3 +1420,4 @@ _Last updated: 2025-08-12_
 - 2026-04-07T07:44:18+00:00: Add support for small flux.2 decoder (#13314) - https://github.com/Comfy-Org/ComfyUI/commit/b615af1c65b674d6e4433b986792c69b5efda676 __auto-added__
 - 2026-04-07T06:22:14+00:00: v1.43.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.14 __auto-added__
 - 2026-04-08T00:27:36+00:00: v1.43.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.15 __auto-added__
+- 2026-04-09T01:16:35+00:00: v1.44.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.0 __auto-added__
