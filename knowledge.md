@@ -1421,3 +1421,4 @@ _Last updated: 2025-08-12_
 - 2026-04-07T06:22:14+00:00: v1.43.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.14 __auto-added__
 - 2026-04-08T00:27:36+00:00: v1.43.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.15 __auto-added__
 - 2026-04-09T01:16:35+00:00: v1.44.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.0 __auto-added__
+- 2026-04-09T01:39:29+00:00: Basic intel standalone package .bat (#13333) - https://github.com/Comfy-Org/ComfyUI/commit/2d861fb1462b7007e208aaa34363c7dcdbc3ed3b __auto-added__
