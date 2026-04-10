@@ -1422,3 +1422,4 @@ _Last updated: 2025-08-12_
 - 2026-04-08T00:27:36+00:00: v1.43.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.43.15 __auto-added__
 - 2026-04-09T01:16:35+00:00: v1.44.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.0 __auto-added__
 - 2026-04-09T01:39:29+00:00: Basic intel standalone package .bat (#13333) - https://github.com/Comfy-Org/ComfyUI/commit/2d861fb1462b7007e208aaa34363c7dcdbc3ed3b __auto-added__
+- 2026-04-10T01:58:05+00:00: should use 0 as defalut for brightness (#13345) - https://github.com/Comfy-Org/ComfyUI/commit/e6be419a30f666f5428eb0f7ae0918b6ea9bdac4 __auto-added__
