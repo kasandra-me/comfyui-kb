@@ -1425,3 +1425,4 @@ _Last updated: 2025-08-12_
 - 2026-04-10T01:58:05+00:00: should use 0 as defalut for brightness (#13345) - https://github.com/Comfy-Org/ComfyUI/commit/e6be419a30f666f5428eb0f7ae0918b6ea9bdac4 __auto-added__
 - 2026-04-10T18:01:15+00:00: fix(api-nodes): fix GrokVideoReferenceNode price badge (#13354) - https://github.com/Comfy-Org/ComfyUI/commit/5410ed34f52097b296341d116d3f432604930c21 __auto-added__
 - 2026-04-10T17:47:00+00:00: v1.44.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.1 __auto-added__
+- 2026-04-10T19:50:40+00:00: chore: update workflow templates to v0.9.45 (#13353) - https://github.com/Comfy-Org/ComfyUI/commit/b920bdd77defb6bdff2fec5b6bb10153493db9e3 __auto-added__
