@@ -1427,3 +1427,5 @@ _Last updated: 2025-08-12_
 - 2026-04-10T17:47:00+00:00: v1.44.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.1 __auto-added__
 - 2026-04-10T19:50:40+00:00: chore: update workflow templates to v0.9.45 (#13353) - https://github.com/Comfy-Org/ComfyUI/commit/b920bdd77defb6bdff2fec5b6bb10153493db9e3 __auto-added__
 - 2026-04-10T21:26:55+00:00: SDPose: resize input always (#13349) - https://github.com/Comfy-Org/ComfyUI/commit/a1344238901efc5ea199d8094cb16fca36ceb28b __auto-added__
+- 2026-04-11T01:48:26+00:00: Make ImageUpscaleWithModel node work with intermediate device and dty… - https://github.com/Comfy-Org/ComfyUI/commit/a2840e75520b7dc40958866b3c4da1345d5cfa9c __auto-added__
+- 2026-04-11T00:53:28+00:00: v1.44.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.2 __auto-added__
