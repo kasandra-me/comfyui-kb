@@ -1429,3 +1429,4 @@ _Last updated: 2025-08-12_
 - 2026-04-10T21:26:55+00:00: SDPose: resize input always (#13349) - https://github.com/Comfy-Org/ComfyUI/commit/a1344238901efc5ea199d8094cb16fca36ceb28b __auto-added__
 - 2026-04-11T01:48:26+00:00: Make ImageUpscaleWithModel node work with intermediate device and dty… - https://github.com/Comfy-Org/ComfyUI/commit/a2840e75520b7dc40958866b3c4da1345d5cfa9c __auto-added__
 - 2026-04-11T00:53:28+00:00: v1.44.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.2 __auto-added__
+- 2026-04-12T02:29:31+00:00: Implement Ernie Image model. (#13369) - https://github.com/Comfy-Org/ComfyUI/commit/31283d2892f54caf9bfdf6edb9c98cbfa88c5f0c __auto-added__
