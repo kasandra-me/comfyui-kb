@@ -1432,3 +1432,5 @@ _Last updated: 2025-08-12_
 - 2026-04-12T02:29:31+00:00: Implement Ernie Image model. (#13369) - https://github.com/Comfy-Org/ComfyUI/commit/31283d2892f54caf9bfdf6edb9c98cbfa88c5f0c __auto-added__
 - 2026-04-12T23:23:13+00:00: v1.44.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.3 __auto-added__
 - 2026-04-13T03:37:13+00:00: Fix typo. (#13382) - https://github.com/Comfy-Org/ComfyUI/commit/c2657d5fb9ccfae150c8e5d0e1b39780a0cc33e9 __auto-added__
+- 2026-04-13T07:02:36+00:00: ComfyUI v0.19.0 - https://github.com/Comfy-Org/ComfyUI/commit/acd718598eca0b944a1a7a82072a9dec40d3d4f7 __auto-added__
+- 2026-04-13T07:02:36+00:00: v0.19.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.0 __auto-added__
