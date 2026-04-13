@@ -1437,3 +1437,5 @@ _Last updated: 2025-08-12_
 - 2026-04-13T17:39:16+00:00: Seedance 2.0 is Now Available in ComfyUI - https://blog.comfy.org/p/seedance-20-is-now-available-in-comfyui __auto-added__
 - 2026-04-13T20:38:42+00:00: Fix issue with ernie image. (#13393) - https://github.com/Comfy-Org/ComfyUI/commit/402ff1cdb7a266eae58c696dfbce4a62d21070a3 __auto-added__
 - 2026-04-13T20:24:54+00:00: v0.8.29 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.29 __auto-added__
+- 2026-04-13T23:31:14+00:00: v1.44.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.4 __auto-added__
+- 2026-04-13T23:43:48+00:00: v0.8.30 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.30 __auto-added__
