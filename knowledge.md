@@ -1440,3 +1440,5 @@ _Last updated: 2025-08-12_
 - 2026-04-13T23:31:14+00:00: v1.44.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.4 __auto-added__
 - 2026-04-13T23:43:48+00:00: v0.8.30 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.30 __auto-added__
 - 2026-04-14T00:43:57+00:00: Make text generation work with ministral model. (#13395) - https://github.com/Comfy-Org/ComfyUI/commit/722bc733196bbeef5b7ccdc95bb0e7e4156bb591 __auto-added__
+- 2026-04-14T06:24:37+00:00: chore: update workflow templates to v0.9.50 (#13399) - https://github.com/Comfy-Org/ComfyUI/commit/fed4ac031a4a34ea5c76e41e80dddd9f048b22b6 __auto-added__
+- 2026-04-14T06:08:42+00:00: v1.42.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.11 __auto-added__
