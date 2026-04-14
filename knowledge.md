@@ -1444,3 +1444,4 @@ _Last updated: 2025-08-12_
 - 2026-04-14T06:08:42+00:00: v1.42.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.42.11 __auto-added__
 - 2026-04-14T17:02:13+00:00: ComfyUI Now Supports Sonilo via Partner Nodes - https://blog.comfy.org/p/comfyui-now-supports-sonilo-via-partner __auto-added__
 - 2026-04-14T18:13:35+00:00: Bump comfyui-frontend-package to 1.42.11 (#13398) - https://github.com/Comfy-Org/ComfyUI/commit/c16db7fd6978eee76fca65626c02e61eaedb5e72 __auto-added__
+- 2026-04-14T18:42:23+00:00: Add string output to preview text node. (#13406) - https://github.com/Comfy-Org/ComfyUI/commit/c5569e862794c419094ee5c9d5ad224634b9ddd6 __auto-added__
