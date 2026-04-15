@@ -1449,3 +1449,4 @@ _Last updated: 2025-08-12_
 - 2026-04-15T02:56:13+00:00: ComfyUI v0.19.1 - https://github.com/Comfy-Org/ComfyUI/commit/8f374716ee98d378d403ebc61250e091ecd3a25c __auto-added__
 - 2026-04-15T02:56:13+00:00: v0.19.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.1 __auto-added__
 - 2026-04-15T08:33:36+00:00: v0.8.31 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.31 __auto-added__
+- 2026-04-15T09:10:36+00:00: Fix OOM regression in _apply() for quantized models during inference … - https://github.com/Comfy-Org/ComfyUI/commit/1de83f91c34a3396c667d764224054ba87027e82 __auto-added__
