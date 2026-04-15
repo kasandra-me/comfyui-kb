@@ -1446,3 +1446,5 @@ _Last updated: 2025-08-12_
 - 2026-04-14T18:13:35+00:00: Bump comfyui-frontend-package to 1.42.11 (#13398) - https://github.com/Comfy-Org/ComfyUI/commit/c16db7fd6978eee76fca65626c02e61eaedb5e72 __auto-added__
 - 2026-04-14T18:42:23+00:00: Add string output to preview text node. (#13406) - https://github.com/Comfy-Org/ComfyUI/commit/c5569e862794c419094ee5c9d5ad224634b9ddd6 __auto-added__
 - 2026-04-15T00:35:27+00:00: Update workflow templates to v0.9.54 (#13412) - https://github.com/Comfy-Org/ComfyUI/commit/7ce3f64c784430e15731d344affffb48c55a0eaa __auto-added__
+- 2026-04-15T02:56:13+00:00: ComfyUI v0.19.1 - https://github.com/Comfy-Org/ComfyUI/commit/8f374716ee98d378d403ebc61250e091ecd3a25c __auto-added__
+- 2026-04-15T02:56:13+00:00: v0.19.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.1 __auto-added__
