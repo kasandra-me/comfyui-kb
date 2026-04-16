@@ -1451,3 +1451,4 @@ _Last updated: 2025-08-12_
 - 2026-04-15T08:33:36+00:00: v0.8.31 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.31 __auto-added__
 - 2026-04-15T09:10:36+00:00: Fix OOM regression in _apply() for quantized models during inference … - https://github.com/Comfy-Org/ComfyUI/commit/1de83f91c34a3396c667d764224054ba87027e82 __auto-added__
 - 2026-04-15T15:02:16+00:00: ERNIE-Image Support in ComfyUI: Precise Text Rendering and Structured Image Generation - https://blog.comfy.org/p/ernie-image-day-0-support __auto-added__
+- 2026-04-16T02:59:08+00:00: Add a way to disable default template in text gen node. (#13424) - https://github.com/Comfy-Org/ComfyUI/commit/e9a2d1e4cc34ade8a655b386a3919a6d05aa290a __auto-added__
