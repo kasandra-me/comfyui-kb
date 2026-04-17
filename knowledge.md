@@ -1454,3 +1454,5 @@ _Last updated: 2025-08-12_
 - 2026-04-16T02:59:08+00:00: Add a way to disable default template in text gen node. (#13424) - https://github.com/Comfy-Org/ComfyUI/commit/e9a2d1e4cc34ade8a655b386a3919a6d05aa290a __auto-added__
 - 2026-04-16T14:11:58+00:00: Use `ErnieTEModel_` not `ErnieTEModel`. (#13431) - https://github.com/Comfy-Org/ComfyUI/commit/b41ab53b6f289b4d7688ab96e0a06248ec1fd86b __auto-added__
 - 2026-04-17T01:32:04+00:00: feat(api-nodes): add 1080p resolution for SeeDance 2.0 model (#13437) - https://github.com/Comfy-Org/ComfyUI/commit/d0c53c50c2a1edf11aa63967d09aa3efbfd43cfe __auto-added__
+- 2026-04-17T04:26:35+00:00: ComfyUI v0.19.2 - https://github.com/Comfy-Org/ComfyUI/commit/c033bbf516ad8fcd079b45c318e73ee8b5e22962 __auto-added__
+- 2026-04-17T04:26:35+00:00: v0.19.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.2 __auto-added__
