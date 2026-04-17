@@ -1457,3 +1457,4 @@ _Last updated: 2025-08-12_
 - 2026-04-17T04:26:35+00:00: ComfyUI v0.19.2 - https://github.com/Comfy-Org/ComfyUI/commit/c033bbf516ad8fcd079b45c318e73ee8b5e22962 __auto-added__
 - 2026-04-17T04:26:35+00:00: v0.19.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.2 __auto-added__
 - 2026-04-17T16:20:09+00:00: nodes_textgen: Implement use_default_template for LTX (#13451) - https://github.com/Comfy-Org/ComfyUI/commit/05f75311489c94e905d958c2bc4b22db5be78699 __auto-added__
+- 2026-04-17T17:31:37+00:00: fix(api-nodes): make "obj" output optional in Hunyuan3D Text and Imag… - https://github.com/Comfy-Org/ComfyUI/commit/9635c2ec9b92f8fa1113660ace7660c1fea67e0e __auto-added__
