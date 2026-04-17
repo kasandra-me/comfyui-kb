@@ -1460,3 +1460,4 @@ _Last updated: 2025-08-12_
 - 2026-04-17T17:31:37+00:00: fix(api-nodes): make "obj" output optional in Hunyuan3D Text and Imag… - https://github.com/Comfy-Org/ComfyUI/commit/9635c2ec9b92f8fa1113660ace7660c1fea67e0e __auto-added__
 - 2026-04-17T17:35:01+00:00: ComfyUI v0.19.3 - https://github.com/Comfy-Org/ComfyUI/commit/3086026401180c9216bcb6ace442a4e3587d2c66 __auto-added__
 - 2026-04-17T17:35:01+00:00: v0.19.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.3 __auto-added__
+- 2026-04-17T19:11:39+00:00: v0.8.32 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.32 __auto-added__
