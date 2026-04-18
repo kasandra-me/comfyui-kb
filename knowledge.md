@@ -1461,3 +1461,4 @@ _Last updated: 2025-08-12_
 - 2026-04-17T17:35:01+00:00: ComfyUI v0.19.3 - https://github.com/Comfy-Org/ComfyUI/commit/3086026401180c9216bcb6ace442a4e3587d2c66 __auto-added__
 - 2026-04-17T17:35:01+00:00: v0.19.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.3 __auto-added__
 - 2026-04-17T19:11:39+00:00: v0.8.32 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.32 __auto-added__
+- 2026-04-17T23:56:41+00:00: ACE-Step 1.5 XL: Commercial-Grade Music Generation in ComfyUI - https://blog.comfy.org/p/ace-step-15-xl-commercial-grade-music __auto-added__
