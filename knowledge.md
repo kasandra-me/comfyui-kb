@@ -1463,3 +1463,4 @@ _Last updated: 2025-08-12_
 - 2026-04-17T19:11:39+00:00: v0.8.32 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.32 __auto-added__
 - 2026-04-17T23:56:41+00:00: ACE-Step 1.5 XL: Commercial-Grade Music Generation in ComfyUI - https://blog.comfy.org/p/ace-step-15-xl-commercial-grade-music __auto-added__
 - 2026-04-19T03:21:22+00:00: fix: append directory type annotation to internal files endpoint resp… - https://github.com/Comfy-Org/ComfyUI/commit/138571da955d85935baa09371ac2b67ea8b7a8ca __auto-added__
+- 2026-04-19T19:41:01+00:00: v1.44.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.5 __auto-added__
