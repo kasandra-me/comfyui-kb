@@ -1467,3 +1467,4 @@ _Last updated: 2025-08-12_
 - 2026-04-20T00:26:12+00:00: Add link to Intel portable to Readme. (#13477) - https://github.com/Comfy-Org/ComfyUI/commit/fc5f4a996b9c752a716badbbc11bacc396281466 __auto-added__
 - 2026-04-20T02:28:21+00:00: v1.44.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.6 __auto-added__
 - 2026-04-20T15:02:56+00:00: Quiver: Structured SVG generation in ComfyUI - https://blog.comfy.org/p/quiver-structured-svg-generation __auto-added__
+- 2026-04-20T22:30:23+00:00: fix: pin SQLAlchemy>=2.0 in requirements.txt (fixes #13036) (#13316) - https://github.com/Comfy-Org/ComfyUI/commit/543e9fba64e968426aa562baca1c0f4c5054b61c __auto-added__
