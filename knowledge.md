@@ -1474,3 +1474,4 @@ _Last updated: 2025-08-12_
 - 2026-04-21T15:02:42+00:00: Make the ltx audio vae more native. (#13486) - https://github.com/Comfy-Org/ComfyUI/commit/ad94d472216ba52ab2660536af44faa92cf4b5d0 __auto-added__
 - 2026-04-21T17:46:37+00:00: Support standalone LTXV audio VAEs (#13499) - https://github.com/Comfy-Org/ComfyUI/commit/eb2222538739c4ebd396cd0a40cb6d80befd04fb __auto-added__
 - 2026-04-21T18:35:45+00:00: Bump comfyui-frontend-package to 1.42.14 (#13493) - https://github.com/Comfy-Org/ComfyUI/commit/102773cd2c13bdbe8729fdc897031dfb61dea346 __auto-added__
+- 2026-04-21T22:34:27+00:00: v0.8.33 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.33 __auto-added__
