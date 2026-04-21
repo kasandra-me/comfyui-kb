@@ -1470,3 +1470,4 @@ _Last updated: 2025-08-12_
 - 2026-04-20T22:30:23+00:00: fix: pin SQLAlchemy>=2.0 in requirements.txt (fixes #13036) (#13316) - https://github.com/Comfy-Org/ComfyUI/commit/543e9fba64e968426aa562baca1c0f4c5054b61c __auto-added__
 - 2026-04-21T01:59:26+00:00: Refactor io to IO in nodes_ace.py (#13485) - https://github.com/Comfy-Org/ComfyUI/commit/c514890325b150c0a2a22732e3ae571afea189cb __auto-added__
 - 2026-04-21T04:58:26+00:00: v1.44.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.7 __auto-added__
+- 2026-04-21T07:43:11+00:00: Bump comfyui-frontend-package to 1.42.12 (#13489) - https://github.com/Comfy-Org/ComfyUI/commit/e75f775ae8e9b1a1fd2b78806c86338fd830bcd7 __auto-added__
