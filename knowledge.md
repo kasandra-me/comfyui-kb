@@ -1482,3 +1482,4 @@ _Last updated: 2025-08-12_
 - 2026-04-22T03:00:01+00:00: GPT Image 2 is now here via Partner Nodes - https://blog.comfy.org/p/gpt-image-2-is-now-here-via-partner __auto-added__
 - 2026-04-22T05:31:36+00:00: fix(veo): reject 4K resolution for veo-3.0 models in Veo3VideoGenerat… - https://github.com/Comfy-Org/ComfyUI/commit/91e1f45d80fba14d992269b0b98de7a4a14c81b9 __auto-added__
 - 2026-04-22T11:16:02+00:00: feat: RIFE and FILM frame interpolation model support (CORE-29) (#13258) - https://github.com/Comfy-Org/ComfyUI/commit/db85cf03ff33f5be09d02f2a52334971209d25d5 __auto-added__
+- 2026-04-22T22:13:38+00:00: ModelPatcherDynamic: force cast stray weights on comfy layers (#13487) - https://github.com/Comfy-Org/ComfyUI/commit/ec4b1659ab751b7da07bfff8fa28660c7e82c00b __auto-added__
