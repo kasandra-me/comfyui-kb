@@ -1480,3 +1480,4 @@ _Last updated: 2025-08-12_
 - 2026-04-22T01:57:20+00:00: v0.8.34 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.34 __auto-added__
 - 2026-04-22T03:45:25+00:00: chore: update workflow templates to v0.9.59 (#13507) - https://github.com/Comfy-Org/ComfyUI/commit/6045c11d8b32d5f761c555d6ca026e4d731ac8d5 __auto-added__
 - 2026-04-22T03:00:01+00:00: GPT Image 2 is now here via Partner Nodes - https://blog.comfy.org/p/gpt-image-2-is-now-here-via-partner __auto-added__
+- 2026-04-22T05:31:36+00:00: fix(veo): reject 4K resolution for veo-3.0 models in Veo3VideoGenerat… - https://github.com/Comfy-Org/ComfyUI/commit/91e1f45d80fba14d992269b0b98de7a4a14c81b9 __auto-added__
