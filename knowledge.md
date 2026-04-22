@@ -1475,3 +1475,6 @@ _Last updated: 2025-08-12_
 - 2026-04-21T17:46:37+00:00: Support standalone LTXV audio VAEs (#13499) - https://github.com/Comfy-Org/ComfyUI/commit/eb2222538739c4ebd396cd0a40cb6d80befd04fb __auto-added__
 - 2026-04-21T18:35:45+00:00: Bump comfyui-frontend-package to 1.42.14 (#13493) - https://github.com/Comfy-Org/ComfyUI/commit/102773cd2c13bdbe8729fdc897031dfb61dea346 __auto-added__
 - 2026-04-21T22:34:27+00:00: v0.8.33 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.33 __auto-added__
+- 2026-04-22T00:58:59+00:00: Add gpt-image-2 as version option (#13501) - https://github.com/Comfy-Org/ComfyUI/commit/43a1263b609b923b2f69a0510bcf7ac95097e41b __auto-added__
+- 2026-04-22T01:08:31+00:00: v0.19.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.4 __auto-added__
+- 2026-04-22T01:57:20+00:00: v0.8.34 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.34 __auto-added__
