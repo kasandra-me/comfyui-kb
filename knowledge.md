@@ -1478,3 +1478,5 @@ _Last updated: 2025-08-12_
 - 2026-04-22T00:58:59+00:00: Add gpt-image-2 as version option (#13501) - https://github.com/Comfy-Org/ComfyUI/commit/43a1263b609b923b2f69a0510bcf7ac95097e41b __auto-added__
 - 2026-04-22T01:08:31+00:00: v0.19.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.4 __auto-added__
 - 2026-04-22T01:57:20+00:00: v0.8.34 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.34 __auto-added__
+- 2026-04-22T03:45:25+00:00: chore: update workflow templates to v0.9.59 (#13507) - https://github.com/Comfy-Org/ComfyUI/commit/6045c11d8b32d5f761c555d6ca026e4d731ac8d5 __auto-added__
+- 2026-04-22T03:00:01+00:00: GPT Image 2 is now here via Partner Nodes - https://blog.comfy.org/p/gpt-image-2-is-now-here-via-partner __auto-added__
