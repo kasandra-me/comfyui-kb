@@ -1485,3 +1485,4 @@ _Last updated: 2025-08-12_
 - 2026-04-22T22:13:38+00:00: ModelPatcherDynamic: force cast stray weights on comfy layers (#13487) - https://github.com/Comfy-Org/ComfyUI/commit/ec4b1659ab751b7da07bfff8fa28660c7e82c00b __auto-added__
 - 2026-04-23T00:59:55+00:00: [Partner Nodes] add SD2 real human support (#13509) - https://github.com/Comfy-Org/ComfyUI/commit/e988df72f8828085c1671d49f96ec50382f11c80 __auto-added__
 - 2026-04-23T03:31:40+00:00: v1.44.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.8 __auto-added__
+- 2026-04-23T05:47:33+00:00: [Partner Nodes] GPTImage: fix price badges, add new resolutions (#13519) - https://github.com/Comfy-Org/ComfyUI/commit/3cdc0d523f080deb22fee24bfb0080180cde4f6e __auto-added__
