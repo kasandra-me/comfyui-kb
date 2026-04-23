@@ -1487,3 +1487,4 @@ _Last updated: 2025-08-12_
 - 2026-04-23T03:31:40+00:00: v1.44.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.8 __auto-added__
 - 2026-04-23T05:47:33+00:00: [Partner Nodes] GPTImage: fix price badges, add new resolutions (#13519) - https://github.com/Comfy-Org/ComfyUI/commit/3cdc0d523f080deb22fee24bfb0080180cde4f6e __auto-added__
 - 2026-04-23T14:51:20+00:00: chore: update workflow templates to v0.9.61 (#13533) - https://github.com/Comfy-Org/ComfyUI/commit/5edbdf4364c6c89c3c6a5c6630807b59cb7652ba __auto-added__
+- 2026-04-23T15:49:54+00:00: add 4K resolution to Kling nodes (#13536) - https://github.com/Comfy-Org/ComfyUI/commit/abf3d56f27948b122dbcba35847b59e5ff299030 __auto-added__
