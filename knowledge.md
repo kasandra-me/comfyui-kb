@@ -1483,3 +1483,5 @@ _Last updated: 2025-08-12_
 - 2026-04-22T05:31:36+00:00: fix(veo): reject 4K resolution for veo-3.0 models in Veo3VideoGenerat… - https://github.com/Comfy-Org/ComfyUI/commit/91e1f45d80fba14d992269b0b98de7a4a14c81b9 __auto-added__
 - 2026-04-22T11:16:02+00:00: feat: RIFE and FILM frame interpolation model support (CORE-29) (#13258) - https://github.com/Comfy-Org/ComfyUI/commit/db85cf03ff33f5be09d02f2a52334971209d25d5 __auto-added__
 - 2026-04-22T22:13:38+00:00: ModelPatcherDynamic: force cast stray weights on comfy layers (#13487) - https://github.com/Comfy-Org/ComfyUI/commit/ec4b1659ab751b7da07bfff8fa28660c7e82c00b __auto-added__
+- 2026-04-23T00:59:55+00:00: [Partner Nodes] add SD2 real human support (#13509) - https://github.com/Comfy-Org/ComfyUI/commit/e988df72f8828085c1671d49f96ec50382f11c80 __auto-added__
+- 2026-04-23T03:31:40+00:00: v1.44.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.8 __auto-added__
