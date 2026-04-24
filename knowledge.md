@@ -1498,3 +1498,4 @@ _Last updated: 2025-08-12_
 - 2026-04-24T02:31:38+00:00: Unlock Real Human Video Generation with Seedance 2.0 in ComfyUI - https://blog.comfy.org/p/unlock-seedance20-real-human-video-generation __auto-added__
 - 2026-04-24T04:00:25+00:00: Add OpenAPI 3.1 specification for ComfyUI API (#13397) - https://github.com/Comfy-Org/ComfyUI/commit/443074eee92fb0f41b38b83404010069fdb25860 __auto-added__
 - 2026-04-24T13:54:10+00:00: chore(api-nodes): add upcoming-deprecation notice to Sora nodes (#13549) - https://github.com/Comfy-Org/ComfyUI/commit/7636599389a6798e813d6036fb0dcf08295e7971 __auto-added__
+- 2026-04-24T17:31:39+00:00: ComfyUI raises $30M to scale open-source AI for creative production - https://blog.comfy.org/p/comfyui-raises-30m-to-scale-open __auto-added__
