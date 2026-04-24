@@ -1496,3 +1496,4 @@ _Last updated: 2025-08-12_
 - 2026-04-24T03:42:22+00:00: fix: use textureSize instead of u_resolution for texel size in blur/s… - https://github.com/Comfy-Org/ComfyUI/commit/00d2f4047db3de6c14f965f6f34354d5ed5d0ccc __auto-added__
 - 2026-04-24T03:40:31+00:00: v1.44.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.9 __auto-added__
 - 2026-04-24T02:31:38+00:00: Unlock Real Human Video Generation with Seedance 2.0 in ComfyUI - https://blog.comfy.org/p/unlock-seedance20-real-human-video-generation __auto-added__
+- 2026-04-24T04:00:25+00:00: Add OpenAPI 3.1 specification for ComfyUI API (#13397) - https://github.com/Comfy-Org/ComfyUI/commit/443074eee92fb0f41b38b83404010069fdb25860 __auto-added__
