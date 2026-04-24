@@ -1492,3 +1492,4 @@ _Last updated: 2025-08-12_
 - 2026-04-23T21:27:01+00:00: v0.19.5 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.19.5 __auto-added__
 - 2026-04-23T22:20:24+00:00: execution: Add anti-cycle validation (#13169) - https://github.com/Comfy-Org/ComfyUI/commit/2327fa1c908602076318e5ffca02a45d4a7e6af8 __auto-added__
 - 2026-04-23T23:00:05+00:00: v0.8.35 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.35 __auto-added__
+- 2026-04-23T23:56:13+00:00: chore: update workflow templates to v0.9.62 (#13539) - https://github.com/Comfy-Org/ComfyUI/commit/47ccecaee009cce148e8c2a5bdc2ecb302cc52ee __auto-added__
