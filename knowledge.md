@@ -1502,3 +1502,4 @@ _Last updated: 2025-08-12_
 - 2026-04-24T20:46:10+00:00: Properly load higher bit depth videos. (#13542) - https://github.com/Comfy-Org/ComfyUI/commit/4304c15e9b4acb45fa9241e8e1723f8ce6397550 __auto-added__
 - 2026-04-25T00:21:39+00:00: Bump comfyui-frontend-package to 1.42.15 (#13556) - https://github.com/Comfy-Org/ComfyUI/commit/5e3f15a830ff27d3563ef4b43e9f6a0321ea36cd __auto-added__
 - 2026-04-26T01:02:58+00:00: Support loading the alpha channel of videos. (#13564) - https://github.com/Comfy-Org/ComfyUI/commit/df22bcd5e192ce0b1ae09eaf2e423d0a12cf6638 __auto-added__
+- 2026-04-26T05:53:08+00:00: v1.44.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.10 __auto-added__
