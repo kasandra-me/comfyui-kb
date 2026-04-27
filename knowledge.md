@@ -1504,3 +1504,5 @@ _Last updated: 2025-08-12_
 - 2026-04-26T01:02:58+00:00: Support loading the alpha channel of videos. (#13564) - https://github.com/Comfy-Org/ComfyUI/commit/df22bcd5e192ce0b1ae09eaf2e423d0a12cf6638 __auto-added__
 - 2026-04-26T05:53:08+00:00: v1.44.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.10 __auto-added__
 - 2026-04-26T14:59:16+00:00: Add new ComfyUI blueprints and fix subgraph naming (#13371) - https://github.com/Comfy-Org/ComfyUI/commit/7385eb28004a45c723345b132cd4dcd327aabf9a __auto-added__
+- 2026-04-27T03:23:57+00:00: Make EmptySD3LatentImage node use intermediate dtype. (#13577) - https://github.com/Comfy-Org/ComfyUI/commit/115f418b64e0c62251f81aa181b41ed7e933c339 __auto-added__
+- 2026-04-27T02:30:20+00:00: v1.44.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.11 __auto-added__
