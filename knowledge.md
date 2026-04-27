@@ -1509,3 +1509,5 @@ _Last updated: 2025-08-12_
 - 2026-04-27T16:53:08+00:00: [Partner Nodes] HappyHorse model (#13582) - https://github.com/Comfy-Org/ComfyUI/commit/6968a70e603a0d2c80387aa139b06276635b36e3 __auto-added__
 - 2026-04-27T17:24:36+00:00: ComfyUI v0.20.0 - https://github.com/Comfy-Org/ComfyUI/commit/75143eeb06b14bc93db71de207945f6f888be4e0 __auto-added__
 - 2026-04-27T17:24:36+00:00: v0.20.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.0 __auto-added__
+- 2026-04-27T20:10:14+00:00: ComfyUI v0.20.1 because github is broken again and messed up my release. - https://github.com/Comfy-Org/ComfyUI/commit/64b8457f55cd7fb54ca7a956d9c73b505e903e0c __auto-added__
+- 2026-04-27T20:10:14+00:00: v0.20.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.1 __auto-added__
