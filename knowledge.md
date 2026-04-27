@@ -1507,3 +1507,5 @@ _Last updated: 2025-08-12_
 - 2026-04-27T03:23:57+00:00: Make EmptySD3LatentImage node use intermediate dtype. (#13577) - https://github.com/Comfy-Org/ComfyUI/commit/115f418b64e0c62251f81aa181b41ed7e933c339 __auto-added__
 - 2026-04-27T02:30:20+00:00: v1.44.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.11 __auto-added__
 - 2026-04-27T16:53:08+00:00: [Partner Nodes] HappyHorse model (#13582) - https://github.com/Comfy-Org/ComfyUI/commit/6968a70e603a0d2c80387aa139b06276635b36e3 __auto-added__
+- 2026-04-27T17:24:36+00:00: ComfyUI v0.20.0 - https://github.com/Comfy-Org/ComfyUI/commit/75143eeb06b14bc93db71de207945f6f888be4e0 __auto-added__
+- 2026-04-27T17:24:36+00:00: v0.20.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.0 __auto-added__
