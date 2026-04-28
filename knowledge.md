@@ -1512,3 +1512,6 @@ _Last updated: 2025-08-12_
 - 2026-04-27T20:10:14+00:00: ComfyUI v0.20.1 because github is broken again and messed up my release. - https://github.com/Comfy-Org/ComfyUI/commit/64b8457f55cd7fb54ca7a956d9c73b505e903e0c __auto-added__
 - 2026-04-27T20:10:14+00:00: v0.20.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.1 __auto-added__
 - 2026-04-27T21:19:01+00:00: v0.8.36 - https://github.com/Comfy-Org/desktop/releases/tag/v0.8.36 __auto-added__
+- 2026-04-27T23:44:12+00:00: Read audio and video at the same time in video loader node. (#13591) - https://github.com/Comfy-Org/ComfyUI/commit/3cbf015578ac04c30b10078887a774a4b4e45fe4 __auto-added__
+- 2026-04-28T00:54:56+00:00: v1.44.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.12 __auto-added__
+- 2026-04-27T23:51:43+00:00: HappyHorse 1.0 is Now Available in ComfyUI - https://blog.comfy.org/p/happyhorse-10-is-now-available __auto-added__
