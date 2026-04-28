@@ -1517,3 +1517,5 @@ _Last updated: 2025-08-12_
 - 2026-04-27T23:51:43+00:00: HappyHorse 1.0 is Now Available in ComfyUI - https://blog.comfy.org/p/happyhorse-10-is-now-available __auto-added__
 - 2026-04-28T02:51:33+00:00: ci: dispatch tag push to Comfy-Org/cloud (#13541) - https://github.com/Comfy-Org/ComfyUI/commit/ed201fff08fbbd3dbcc500b252a9f41e8051c256 __auto-added__
 - 2026-04-28T08:18:19+00:00: Fix SolidMask and MaskComposite device mismatch with --gpu-only (#13296) - https://github.com/Comfy-Org/ComfyUI/commit/24de8dc01bc6c857be12f25ba24fb753a48cb0c2 __auto-added__
+- 2026-04-28T20:34:37+00:00: comfy-aimdo v0.3.0 (#13604) - https://github.com/Comfy-Org/ComfyUI/commit/e514119e1e3b73d5f4190295f3847f07ba228ea8 __auto-added__
+- 2026-04-28T20:42:50+00:00: ComfyStudio has arrived. - https://blog.comfy.org/p/comfystudio-has-arrived __auto-added__
