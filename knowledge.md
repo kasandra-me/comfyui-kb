@@ -1515,3 +1515,4 @@ _Last updated: 2025-08-12_
 - 2026-04-27T23:44:12+00:00: Read audio and video at the same time in video loader node. (#13591) - https://github.com/Comfy-Org/ComfyUI/commit/3cbf015578ac04c30b10078887a774a4b4e45fe4 __auto-added__
 - 2026-04-28T00:54:56+00:00: v1.44.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.12 __auto-added__
 - 2026-04-27T23:51:43+00:00: HappyHorse 1.0 is Now Available in ComfyUI - https://blog.comfy.org/p/happyhorse-10-is-now-available __auto-added__
+- 2026-04-28T02:51:33+00:00: ci: dispatch tag push to Comfy-Org/cloud (#13541) - https://github.com/Comfy-Org/ComfyUI/commit/ed201fff08fbbd3dbcc500b252a9f41e8051c256 __auto-added__
