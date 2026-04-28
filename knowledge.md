@@ -1519,3 +1519,4 @@ _Last updated: 2025-08-12_
 - 2026-04-28T08:18:19+00:00: Fix SolidMask and MaskComposite device mismatch with --gpu-only (#13296) - https://github.com/Comfy-Org/ComfyUI/commit/24de8dc01bc6c857be12f25ba24fb753a48cb0c2 __auto-added__
 - 2026-04-28T20:34:37+00:00: comfy-aimdo v0.3.0 (#13604) - https://github.com/Comfy-Org/ComfyUI/commit/e514119e1e3b73d5f4190295f3847f07ba228ea8 __auto-added__
 - 2026-04-28T20:42:50+00:00: ComfyStudio has arrived. - https://blog.comfy.org/p/comfystudio-has-arrived __auto-added__
+- 2026-04-28T22:15:06+00:00: Use pyav to load images instead of pillow. (#13594) - https://github.com/Comfy-Org/ComfyUI/commit/dae3d3475179fd796e2901e7d1f9e00aeb515a2f __auto-added__
