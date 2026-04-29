@@ -1521,3 +1521,4 @@ _Last updated: 2025-08-12_
 - 2026-04-28T20:42:50+00:00: ComfyStudio has arrived. - https://blog.comfy.org/p/comfystudio-has-arrived __auto-added__
 - 2026-04-28T22:15:06+00:00: Use pyav to load images instead of pillow. (#13594) - https://github.com/Comfy-Org/ComfyUI/commit/dae3d3475179fd796e2901e7d1f9e00aeb515a2f __auto-added__
 - 2026-04-28T23:15:02+00:00: dynamicVRAM + --cache-ram 2 (CORE-117) (#13603) - https://github.com/Comfy-Org/ComfyUI/commit/fce0398470fe3ecdb7ab4c5c69555ad0fcbdc09e __auto-added__
+- 2026-04-29T01:40:51+00:00: v1.44.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.13 __auto-added__
