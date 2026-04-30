@@ -1526,3 +1526,4 @@ _Last updated: 2025-08-12_
 - 2026-04-29T23:37:30+00:00: Add high quality preview support for Flux2 latents (#13496) - https://github.com/Comfy-Org/ComfyUI/commit/a164c82913d3e04d92d0f6630fc4c850ec184ef3 __auto-added__
 - 2026-04-30T03:30:01+00:00: Fix SQLAlchemy version format in requirements.txt (#13547) - https://github.com/Comfy-Org/ComfyUI/commit/a7d82baa06e6b2e3d19c38c244118909fe270d49 __auto-added__
 - 2026-04-30T06:26:50+00:00: v1.44.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.14 __auto-added__
+- 2026-04-30T08:09:33+00:00: feat(api-nodes): allow custom resolutions for GPTImage2 node (#13631) - https://github.com/Comfy-Org/ComfyUI/commit/38ecad8f8af30965eb1017b0eb6a552c751b84a4 __auto-added__
