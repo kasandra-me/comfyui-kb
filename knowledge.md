@@ -1524,3 +1524,4 @@ _Last updated: 2025-08-12_
 - 2026-04-29T01:40:51+00:00: v1.44.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.13 __auto-added__
 - 2026-04-29T19:15:10+00:00: Reduce video tiny VAE peak VRAM and decode time (CORE-127) (#13617) - https://github.com/Comfy-Org/ComfyUI/commit/0e25a6936ef41a56af87a4af174fa519da73b37c __auto-added__
 - 2026-04-29T23:37:30+00:00: Add high quality preview support for Flux2 latents (#13496) - https://github.com/Comfy-Org/ComfyUI/commit/a164c82913d3e04d92d0f6630fc4c850ec184ef3 __auto-added__
+- 2026-04-30T03:30:01+00:00: Fix SQLAlchemy version format in requirements.txt (#13547) - https://github.com/Comfy-Org/ComfyUI/commit/a7d82baa06e6b2e3d19c38c244118909fe270d49 __auto-added__
