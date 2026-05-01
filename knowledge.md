@@ -1534,3 +1534,4 @@ _Last updated: 2025-08-12_
 - 2026-05-01T01:50:16+00:00: v1.44.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.15 __auto-added__
 - 2026-05-01T06:15:11+00:00: chore(api-nodes): always display the custom width and height in GPTIm… - https://github.com/Comfy-Org/ComfyUI/commit/96f1cee9f5304c1f4e3a176ed02a44cf0a0116ad __auto-added__
 - 2026-05-01T09:20:11+00:00: Reformat models variable into multiline array CORE-59 (#13513) - https://github.com/Comfy-Org/ComfyUI/commit/cf9cbec5960e38368393137419637f6b9ca7691b __auto-added__
+- 2026-05-01T18:09:25+00:00: chore(api-nodes): remove Moonvalley API nodes (#13659) - https://github.com/Comfy-Org/ComfyUI/commit/fa7553138e3c75befe6aaf988048d4a0a95c1a32 __auto-added__
