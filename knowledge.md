@@ -1536,3 +1536,4 @@ _Last updated: 2025-08-12_
 - 2026-05-01T09:20:11+00:00: Reformat models variable into multiline array CORE-59 (#13513) - https://github.com/Comfy-Org/ComfyUI/commit/cf9cbec5960e38368393137419637f6b9ca7691b __auto-added__
 - 2026-05-01T18:09:25+00:00: chore(api-nodes): remove Moonvalley API nodes (#13659) - https://github.com/Comfy-Org/ComfyUI/commit/fa7553138e3c75befe6aaf988048d4a0a95c1a32 __auto-added__
 - 2026-05-01T19:48:41+00:00: chore(api-nodes): increase default timeout for partner API node tasks… - https://github.com/Comfy-Org/ComfyUI/commit/cf758bd2566a04a156496fa77ec2c7fa76ff8873 __auto-added__
+- 2026-05-01T21:17:25+00:00: SDPose: resize fix (#13656) - https://github.com/Comfy-Org/ComfyUI/commit/b5921c8ac2d3cd1171bb33245f4343b1471224ff __auto-added__
