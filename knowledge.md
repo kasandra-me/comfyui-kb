@@ -1530,3 +1530,5 @@ _Last updated: 2025-08-12_
 - 2026-04-30T18:49:08+00:00: [Partner Nodes] ByteDance: virtual portrait library for regular image… - https://github.com/Comfy-Org/ComfyUI/commit/b633244635e577e199944cd4f027df79afa16dbf __auto-added__
 - 2026-04-30T23:33:41+00:00: OneTainer ERNIE LoRA support (#13640) - https://github.com/Comfy-Org/ComfyUI/commit/e9c311b2458a327585a7e387558377c8190eebb0 __auto-added__
 - 2026-05-01T01:14:28+00:00: chore: update workflow templates to v0.9.65 (#13644) - https://github.com/Comfy-Org/ComfyUI/commit/e8e8fee22476a926090df9f719acd0a553ff8165 __auto-added__
+- 2026-05-01T01:49:31+00:00: Add alexisrolland and rattus128 as code owners (#13648) - https://github.com/Comfy-Org/ComfyUI/commit/97f58baaaf89e2232b735fab2a3f2d4e24d134c3 __auto-added__
+- 2026-05-01T01:50:16+00:00: v1.44.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.15 __auto-added__
