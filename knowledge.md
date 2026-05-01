@@ -1529,3 +1529,4 @@ _Last updated: 2025-08-12_
 - 2026-04-30T08:09:33+00:00: feat(api-nodes): allow custom resolutions for GPTImage2 node (#13631) - https://github.com/Comfy-Org/ComfyUI/commit/38ecad8f8af30965eb1017b0eb6a552c751b84a4 __auto-added__
 - 2026-04-30T18:49:08+00:00: [Partner Nodes] ByteDance: virtual portrait library for regular image… - https://github.com/Comfy-Org/ComfyUI/commit/b633244635e577e199944cd4f027df79afa16dbf __auto-added__
 - 2026-04-30T23:33:41+00:00: OneTainer ERNIE LoRA support (#13640) - https://github.com/Comfy-Org/ComfyUI/commit/e9c311b2458a327585a7e387558377c8190eebb0 __auto-added__
+- 2026-05-01T01:14:28+00:00: chore: update workflow templates to v0.9.65 (#13644) - https://github.com/Comfy-Org/ComfyUI/commit/e8e8fee22476a926090df9f719acd0a553ff8165 __auto-added__
