@@ -1542,3 +1542,4 @@ _Last updated: 2025-08-12_
 - 2026-05-02T23:23:24+00:00: Implement block prefetch + Lora Async load + and adopt in LTX (Speedu… - https://github.com/Comfy-Org/ComfyUI/commit/783782d5d742a7bc38dd0b661e030813bc50839a __auto-added__
 - 2026-05-03T02:46:15+00:00: feat: Gemma4 text generation support (CORE-30) (#13376) - https://github.com/Comfy-Org/ComfyUI/commit/be95871adccfac92a91ebdc06e52a85511f7b85c __auto-added__
 - 2026-05-03T04:20:17+00:00: Update README (#13679) - https://github.com/Comfy-Org/ComfyUI/commit/f6d5068ac0163e7f626c9cec2e7c663cf6fa64a8 __auto-added__
+- 2026-05-03T06:48:52+00:00: v0.20.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.2 __auto-added__
