@@ -1540,3 +1540,4 @@ _Last updated: 2025-08-12_
 - 2026-05-01T22:37:18+00:00: Adding kijai (#13664) - https://github.com/Comfy-Org/ComfyUI/commit/0230e0e7cc389979e509cd6237a7b9244798e69c __auto-added__
 - 2026-05-02T00:19:46+00:00: Add script in AMD portable to launch with dynamic vram. (#13667) - https://github.com/Comfy-Org/ComfyUI/commit/3e3ed8cc2aaa142711e89e1e799956e1e57af62f __auto-added__
 - 2026-05-02T23:23:24+00:00: Implement block prefetch + Lora Async load + and adopt in LTX (Speedu… - https://github.com/Comfy-Org/ComfyUI/commit/783782d5d742a7bc38dd0b661e030813bc50839a __auto-added__
+- 2026-05-03T02:46:15+00:00: feat: Gemma4 text generation support (CORE-30) (#13376) - https://github.com/Comfy-Org/ComfyUI/commit/be95871adccfac92a91ebdc06e52a85511f7b85c __auto-added__
