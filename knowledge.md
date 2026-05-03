@@ -1546,3 +1546,4 @@ _Last updated: 2025-08-12_
 - 2026-05-03T10:17:08+00:00: Fix issue blend images with alpha (#13615) - https://github.com/Comfy-Org/ComfyUI/commit/b5bb83c964519b7574ce9229b2314e04c17592c0 __auto-added__
 - 2026-05-03T10:48:58+00:00: Update ComfyUI screenshot in README (#13683) - https://github.com/Comfy-Org/ComfyUI/commit/d0f0b15cf5d1fbff67390c8d90ec8654c2582f7a __auto-added__
 - 2026-05-03T13:30:00+00:00: Batch broadcasting in JoinImageWithAlpha node (#13686) - https://github.com/Comfy-Org/ComfyUI/commit/025e6792ee64181ddce8a84411e0c7311e00b179 __auto-added__
+- 2026-05-03T18:07:21+00:00: Enable triton comfy kitchen via cli-arg (#12730) - https://github.com/Comfy-Org/ComfyUI/commit/b138133ffa43541c85b5f9ca57f449c8345ca005 __auto-added__
