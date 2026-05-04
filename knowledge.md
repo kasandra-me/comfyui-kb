@@ -1550,3 +1550,4 @@ _Last updated: 2025-08-12_
 - 2026-05-03T20:18:27+00:00: Refactor LoadImageMask to use LoadImage code. (#13687) - https://github.com/Comfy-Org/ComfyUI/commit/cea8d0925febb4dd32e400bbbf94243f55af3371 __auto-added__
 - 2026-05-03T23:21:34+00:00: Default control_after_generate to fixed in PrimitiveInt node (#13690) - https://github.com/Comfy-Org/ComfyUI/commit/2806163f6e06465bacb1b16906cd17a8b78c9610 __auto-added__
 - 2026-05-04T04:33:11+00:00: fix: Update ColorTransfer node ref_image to be mandatory (#13691) - https://github.com/Comfy-Org/ComfyUI/commit/5538f62b0b81102c382849fd90469283c725b212 __auto-added__
+- 2026-05-04T08:01:46+00:00: Fix a1111 typo in extra_model_paths.yaml (#2720) - https://github.com/Comfy-Org/ComfyUI/commit/f3ea976cba8743a87efeb9fbca717309e3d65c47 __auto-added__
