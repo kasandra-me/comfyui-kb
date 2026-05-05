@@ -1556,3 +1556,4 @@ _Last updated: 2025-08-12_
 - 2026-05-04T19:58:06+00:00: make control-net load order deterministic (#13701) - https://github.com/Comfy-Org/ComfyUI/commit/1ac78180b3f797f09f5805e5a923debe77638889 __auto-added__
 - 2026-05-04T21:47:39+00:00: v1.44.16 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.16 __auto-added__
 - 2026-05-05T00:37:25+00:00: chore: Update display names and categories (CORE-151) (#13693) - https://github.com/Comfy-Org/ComfyUI/commit/15a4494a4e5299e1210ccad6d49d3253555ef3e6 __auto-added__
+- 2026-05-05T04:01:22+00:00: feat: Auto-regressive video generation (CORE-25) (#13082) - https://github.com/Comfy-Org/ComfyUI/commit/fed8d5efa6b70d5b24c4c33cb643bfccc39d45b5 __auto-added__
