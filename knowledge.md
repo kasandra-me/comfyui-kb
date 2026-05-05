@@ -1558,3 +1558,4 @@ _Last updated: 2025-08-12_
 - 2026-05-05T00:37:25+00:00: chore: Update display names and categories (CORE-151) (#13693) - https://github.com/Comfy-Org/ComfyUI/commit/15a4494a4e5299e1210ccad6d49d3253555ef3e6 __auto-added__
 - 2026-05-05T04:01:22+00:00: feat: Auto-regressive video generation (CORE-25) (#13082) - https://github.com/Comfy-Org/ComfyUI/commit/fed8d5efa6b70d5b24c4c33cb643bfccc39d45b5 __auto-added__
 - 2026-05-05T08:14:39+00:00: v1.44.17 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.17 __auto-added__
+- 2026-05-05T14:31:24+00:00: chore: Update display names and categories for text nodes (CORE-155) … - https://github.com/Comfy-Org/ComfyUI/commit/639f631a0848f27497c6a29d2fb7d06c921c744d __auto-added__
