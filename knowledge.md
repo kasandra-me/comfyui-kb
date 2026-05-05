@@ -1562,3 +1562,4 @@ _Last updated: 2025-08-12_
 - 2026-05-05T16:04:52+00:00: Luma Uni-1 is now available via Partner Nodes - https://blog.comfy.org/p/luma-uni-1-is-now-available-via-partner __auto-added__
 - 2026-05-05T18:33:16+00:00: fix(audio): drop sample_rate key from LTXVEmptyLatentAudio (CORE-157)… - https://github.com/Comfy-Org/ComfyUI/commit/41d73ad18094ddf9c91e40f548a52d013d07e894 __auto-added__
 - 2026-05-05T20:58:32+00:00: fix(api-io): serialize MultiCombo multi_select as object config (#13484) - https://github.com/Comfy-Org/ComfyUI/commit/431fadb520bbd2d18cbbd4067e06222301f1b4fe __auto-added__
+- 2026-05-05T21:20:09+00:00: feat: add cloud-specific fields to OSS openapi.yaml as nullable (#13623) - https://github.com/Comfy-Org/ComfyUI/commit/89014792c966b04bf18f7ba62aee5169f9094e84 __auto-added__
