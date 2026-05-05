@@ -1560,3 +1560,4 @@ _Last updated: 2025-08-12_
 - 2026-05-05T08:14:39+00:00: v1.44.17 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.17 __auto-added__
 - 2026-05-05T14:31:24+00:00: chore: Update display names and categories for text nodes (CORE-155) … - https://github.com/Comfy-Org/ComfyUI/commit/639f631a0848f27497c6a29d2fb7d06c921c744d __auto-added__
 - 2026-05-05T16:04:52+00:00: Luma Uni-1 is now available via Partner Nodes - https://blog.comfy.org/p/luma-uni-1-is-now-available-via-partner __auto-added__
+- 2026-05-05T18:33:16+00:00: fix(audio): drop sample_rate key from LTXVEmptyLatentAudio (CORE-157)… - https://github.com/Comfy-Org/ComfyUI/commit/41d73ad18094ddf9c91e40f548a52d013d07e894 __auto-added__
