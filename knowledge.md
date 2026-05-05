@@ -1555,3 +1555,4 @@ _Last updated: 2025-08-12_
 - 2026-05-04T17:20:40+00:00: fix: Proper memory estimation for frame interpolation when not using … - https://github.com/Comfy-Org/ComfyUI/commit/c33d26c283ea53b8ba3e42ef3dca1f03ddf4d7b1 __auto-added__
 - 2026-05-04T19:58:06+00:00: make control-net load order deterministic (#13701) - https://github.com/Comfy-Org/ComfyUI/commit/1ac78180b3f797f09f5805e5a923debe77638889 __auto-added__
 - 2026-05-04T21:47:39+00:00: v1.44.16 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.16 __auto-added__
+- 2026-05-05T00:37:25+00:00: chore: Update display names and categories (CORE-151) (#13693) - https://github.com/Comfy-Org/ComfyUI/commit/15a4494a4e5299e1210ccad6d49d3253555ef3e6 __auto-added__
