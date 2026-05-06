@@ -1566,3 +1566,4 @@ _Last updated: 2025-08-12_
 - 2026-05-06T00:00:11+00:00: First step of supporting save filenames without trailing _ (#13722) - https://github.com/Comfy-Org/ComfyUI/commit/c168960a12213df8123a2f234f04a4cf55bbe30d __auto-added__
 - 2026-05-06T02:59:04+00:00: Void model - pass 1 & 2 (CORE-38) (#13403) - https://github.com/Comfy-Org/ComfyUI/commit/78b3096bf36ef32378a3d4299473b820211f1601 __auto-added__
 - 2026-05-06T02:57:40+00:00: v1.44.18 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.18 __auto-added__
+- 2026-05-06T05:22:48+00:00: Bump comfyui-frontend-package to 1.43.17 (#13723) - https://github.com/Comfy-Org/ComfyUI/commit/9c34f5f36a3815af7d21d8b42b0a5776b7406685 __auto-added__
