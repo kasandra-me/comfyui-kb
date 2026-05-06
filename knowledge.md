@@ -1564,3 +1564,5 @@ _Last updated: 2025-08-12_
 - 2026-05-05T20:58:32+00:00: fix(api-io): serialize MultiCombo multi_select as object config (#13484) - https://github.com/Comfy-Org/ComfyUI/commit/431fadb520bbd2d18cbbd4067e06222301f1b4fe __auto-added__
 - 2026-05-05T21:20:09+00:00: feat: add cloud-specific fields to OSS openapi.yaml as nullable (#13623) - https://github.com/Comfy-Org/ComfyUI/commit/89014792c966b04bf18f7ba62aee5169f9094e84 __auto-added__
 - 2026-05-06T00:00:11+00:00: First step of supporting save filenames without trailing _ (#13722) - https://github.com/Comfy-Org/ComfyUI/commit/c168960a12213df8123a2f234f04a4cf55bbe30d __auto-added__
+- 2026-05-06T02:59:04+00:00: Void model - pass 1 & 2 (CORE-38) (#13403) - https://github.com/Comfy-Org/ComfyUI/commit/78b3096bf36ef32378a3d4299473b820211f1601 __auto-added__
+- 2026-05-06T02:57:40+00:00: v1.44.18 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.18 __auto-added__
