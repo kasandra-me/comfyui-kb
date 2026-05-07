@@ -1568,3 +1568,4 @@ _Last updated: 2025-08-12_
 - 2026-05-06T02:57:40+00:00: v1.44.18 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.44.18 __auto-added__
 - 2026-05-06T05:22:48+00:00: Bump comfyui-frontend-package to 1.43.17 (#13723) - https://github.com/Comfy-Org/ComfyUI/commit/9c34f5f36a3815af7d21d8b42b0a5776b7406685 __auto-added__
 - 2026-05-06T17:08:35+00:00: Revert "Fix Content-Disposition header missing 'attachment;' prefix (… - https://github.com/Comfy-Org/ComfyUI/commit/6bcd8b96ab4650db6e834dcbb54357ebf72edfe6 __auto-added__
+- 2026-05-07T02:51:01+00:00: Add .comfy_environment to portable. (#13746) - https://github.com/Comfy-Org/ComfyUI/commit/e35348aa53563cabdcd9e5f67d0cb77b5259c903 __auto-added__
