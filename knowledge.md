@@ -1571,3 +1571,4 @@ _Last updated: 2025-08-12_
 - 2026-05-07T02:51:01+00:00: Add .comfy_environment to portable. (#13746) - https://github.com/Comfy-Org/ComfyUI/commit/e35348aa53563cabdcd9e5f67d0cb77b5259c903 __auto-added__
 - 2026-05-07T06:45:59+00:00: [Partner Nodes] add grok-imagine-image-quality model (#13725) - https://github.com/Comfy-Org/ComfyUI/commit/1b25f1289e6f48081b727083425791876ed0f39b __auto-added__
 - 2026-05-07T06:21:30+00:00: v1.45.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.0 __auto-added__
+- 2026-05-07T07:28:18+00:00: chore: update workflow templates to v0.9.72 (#13732) - https://github.com/Comfy-Org/ComfyUI/commit/25757a53c93281e8e2462ced8795373f09e675bf __auto-added__
