@@ -1579,3 +1579,4 @@ _Last updated: 2025-08-12_
 - 2026-05-08T01:29:26+00:00: v1.45.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.1 __auto-added__
 - 2026-05-08T05:02:55+00:00: Update nodes categories and display names (CORE-89) (#13786) - https://github.com/Comfy-Org/ComfyUI/commit/594de378fe1d2e32128338f5cc57864ee1d9d96f __auto-added__
 - 2026-05-08T05:14:52+00:00: v0.20.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.3 __auto-added__
+- 2026-05-08T06:39:13+00:00: [Partner Nodes] use "adaptive" aspect ratio for SD2 nodes (#13800) - https://github.com/Comfy-Org/ComfyUI/commit/56c74094c7c2ccbcf23f2aca1e4000199934da13 __auto-added__
