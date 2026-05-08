@@ -1581,3 +1581,4 @@ _Last updated: 2025-08-12_
 - 2026-05-08T05:14:52+00:00: v0.20.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.3 __auto-added__
 - 2026-05-08T06:39:13+00:00: [Partner Nodes] use "adaptive" aspect ratio for SD2 nodes (#13800) - https://github.com/Comfy-Org/ComfyUI/commit/56c74094c7c2ccbcf23f2aca1e4000199934da13 __auto-added__
 - 2026-05-08T09:14:45+00:00: Fix typos (#10986) - https://github.com/Comfy-Org/ComfyUI/commit/bac6fc35fbf3fb2a6fc7e54fce17203215bcfff5 __auto-added__
+- 2026-05-08T09:59:24+00:00: Add support for BiRefNet background remove model (CORE-46) (#12747) - https://github.com/Comfy-Org/ComfyUI/commit/d3c18c163665a6f94e7dc56823aabcb93ebf7e5e __auto-added__
