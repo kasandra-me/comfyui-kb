@@ -1577,3 +1577,5 @@ _Last updated: 2025-08-12_
 - 2026-05-08T00:18:28+00:00: Improve SAM3 large input handling (#13767) - https://github.com/Comfy-Org/ComfyUI/commit/8dc3f3f2094121c0a013e21d89136ebc331d2974 __auto-added__
 - 2026-05-08T02:21:12+00:00: fix: make NodeReplaceManager.register() idempotent (#13596) - https://github.com/Comfy-Org/ComfyUI/commit/c8673542f762910766691345401e09caef2bc9a6 __auto-added__
 - 2026-05-08T01:29:26+00:00: v1.45.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.1 __auto-added__
+- 2026-05-08T05:02:55+00:00: Update nodes categories and display names (CORE-89) (#13786) - https://github.com/Comfy-Org/ComfyUI/commit/594de378fe1d2e32128338f5cc57864ee1d9d96f __auto-added__
+- 2026-05-08T05:14:52+00:00: v0.20.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.20.3 __auto-added__
