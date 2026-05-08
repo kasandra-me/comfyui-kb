@@ -1584,3 +1584,4 @@ _Last updated: 2025-08-12_
 - 2026-05-08T09:59:24+00:00: Add support for BiRefNet background remove model (CORE-46) (#12747) - https://github.com/Comfy-Org/ComfyUI/commit/d3c18c163665a6f94e7dc56823aabcb93ebf7e5e __auto-added__
 - 2026-05-08T15:06:29+00:00: fix: Fix bug when mask not on same device (CORE-181) (#13801) - https://github.com/Comfy-Org/ComfyUI/commit/c5ecd231a2aa41124ec6a958416d166d7dcb81fb __auto-added__
 - 2026-05-08T19:39:16+00:00: Add cloud-runtime FE-facing operations to spec (#13734) - https://github.com/Comfy-Org/ComfyUI/commit/87878f354f4d49446ed81b5ebfb98b12dda37c7c __auto-added__
+- 2026-05-08T20:11:52+00:00: [Partner Nodes] additionally use Baidu server to detect the accessibi… - https://github.com/Comfy-Org/ComfyUI/commit/65045730a60af0bf75cec2a738555a952da2ea4e __auto-added__
