@@ -1575,3 +1575,5 @@ _Last updated: 2025-08-12_
 - 2026-05-07T18:55:09+00:00: fix(api-nodes): fixed price badge for Kling V3 model in the Motion Co… - https://github.com/Comfy-Org/ComfyUI/commit/c945a433ae09423f7a2a6e9631538e55b9375f78 __auto-added__
 - 2026-05-07T19:19:44+00:00: [Partner Nodes] new NanoBanana2 node with  DynamicCombo/Autogrow (#13… - https://github.com/Comfy-Org/ComfyUI/commit/c011fb520c79b9dfbe7f885d613771774f746eef __auto-added__
 - 2026-05-08T00:18:28+00:00: Improve SAM3 large input handling (#13767) - https://github.com/Comfy-Org/ComfyUI/commit/8dc3f3f2094121c0a013e21d89136ebc331d2974 __auto-added__
+- 2026-05-08T02:21:12+00:00: fix: make NodeReplaceManager.register() idempotent (#13596) - https://github.com/Comfy-Org/ComfyUI/commit/c8673542f762910766691345401e09caef2bc9a6 __auto-added__
+- 2026-05-08T01:29:26+00:00: v1.45.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.1 __auto-added__
