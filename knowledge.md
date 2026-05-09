@@ -1588,3 +1588,4 @@ _Last updated: 2025-08-12_
 - 2026-05-09T00:32:14+00:00: I don't think there was any because nobody complained. (#13807) - https://github.com/Comfy-Org/ComfyUI/commit/66669b2ded7d8f362fdf64bb1c77a8df0f684e2f __auto-added__
 - 2026-05-09T04:38:17+00:00: [Partner Nodes] Tripo3D 3.1 model (#13788) - https://github.com/Comfy-Org/ComfyUI/commit/7bbf1e8169fa3080841b83914fa9901793b66b71 __auto-added__
 - 2026-05-09T02:26:04+00:00: v1.45.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.2 __auto-added__
+- 2026-05-09T14:53:10+00:00: Bump comfyui-frontend-package to 1.43.18 (#13809) - https://github.com/Comfy-Org/ComfyUI/commit/a4b7e3beedda4180cd6a2b319c9805990357ee96 __auto-added__
