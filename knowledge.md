@@ -1586,3 +1586,5 @@ _Last updated: 2025-08-12_
 - 2026-05-08T19:39:16+00:00: Add cloud-runtime FE-facing operations to spec (#13734) - https://github.com/Comfy-Org/ComfyUI/commit/87878f354f4d49446ed81b5ebfb98b12dda37c7c __auto-added__
 - 2026-05-08T20:11:52+00:00: [Partner Nodes] additionally use Baidu server to detect the accessibi… - https://github.com/Comfy-Org/ComfyUI/commit/65045730a60af0bf75cec2a738555a952da2ea4e __auto-added__
 - 2026-05-09T00:32:14+00:00: I don't think there was any because nobody complained. (#13807) - https://github.com/Comfy-Org/ComfyUI/commit/66669b2ded7d8f362fdf64bb1c77a8df0f684e2f __auto-added__
+- 2026-05-09T04:38:17+00:00: [Partner Nodes] Tripo3D 3.1 model (#13788) - https://github.com/Comfy-Org/ComfyUI/commit/7bbf1e8169fa3080841b83914fa9901793b66b71 __auto-added__
+- 2026-05-09T02:26:04+00:00: v1.45.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.2 __auto-added__
