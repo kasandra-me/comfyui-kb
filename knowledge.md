@@ -1591,3 +1591,4 @@ _Last updated: 2025-08-12_
 - 2026-05-09T14:53:10+00:00: Bump comfyui-frontend-package to 1.43.18 (#13809) - https://github.com/Comfy-Org/ComfyUI/commit/a4b7e3beedda4180cd6a2b319c9805990357ee96 __auto-added__
 - 2026-05-09T21:02:56+00:00: Support Wan-Dancer (#13813) - https://github.com/Comfy-Org/ComfyUI/commit/3200f28e3a8663f18b9a9568472ad912ea5c6396 __auto-added__
 - 2026-05-09T21:17:00+00:00: Use LatentCutToBatch instead. (#13815) - https://github.com/Comfy-Org/ComfyUI/commit/20f5e474da28bd4225ab61b3d5d791e1b32ba069 __auto-added__
+- 2026-05-10T07:33:47+00:00: Add Boolean support to Math Expression Node (#13224) - https://github.com/Comfy-Org/ComfyUI/commit/95f6652ef5e931af004d23966533aab43a604ed6 __auto-added__
