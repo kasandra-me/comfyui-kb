@@ -1593,3 +1593,4 @@ _Last updated: 2025-08-12_
 - 2026-05-09T21:17:00+00:00: Use LatentCutToBatch instead. (#13815) - https://github.com/Comfy-Org/ComfyUI/commit/20f5e474da28bd4225ab61b3d5d791e1b32ba069 __auto-added__
 - 2026-05-10T07:33:47+00:00: Add Boolean support to Math Expression Node (#13224) - https://github.com/Comfy-Org/ComfyUI/commit/95f6652ef5e931af004d23966533aab43a604ed6 __auto-added__
 - 2026-05-10T11:10:13+00:00: chore: update workflow templates to v0.9.73 (#13822) - https://github.com/Comfy-Org/ComfyUI/commit/aa9d2fc713664e9ffe37763f4c9240c0c3eda667 __auto-added__
+- 2026-05-10T17:23:04+00:00: Remove advanced flag from layers input in EmptyQwenImageLayeredLatent… - https://github.com/Comfy-Org/ComfyUI/commit/1eeaf23f207e733e87d0cfe95fe7d6d1a8892c23 __auto-added__
