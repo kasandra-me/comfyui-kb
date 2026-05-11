@@ -1595,3 +1595,6 @@ _Last updated: 2025-08-12_
 - 2026-05-10T11:10:13+00:00: chore: update workflow templates to v0.9.73 (#13822) - https://github.com/Comfy-Org/ComfyUI/commit/aa9d2fc713664e9ffe37763f4c9240c0c3eda667 __auto-added__
 - 2026-05-10T17:23:04+00:00: Remove advanced flag from layers input in EmptyQwenImageLayeredLatent… - https://github.com/Comfy-Org/ComfyUI/commit/1eeaf23f207e733e87d0cfe95fe7d6d1a8892c23 __auto-added__
 - 2026-05-10T20:50:41+00:00: Add New Blueprints (#13570) - https://github.com/Comfy-Org/ComfyUI/commit/dabfe73dc0e954554fe9632216149964bb9b295f __auto-added__
+- 2026-05-11T03:32:00+00:00: ComfyUI v0.21.0 - https://github.com/Comfy-Org/ComfyUI/commit/52976f3ea33cc2312c7b5a32e1c7510b203eefb6 __auto-added__
+- 2026-05-11T03:32:00+00:00: v0.21.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.21.0 __auto-added__
+- 2026-05-11T00:19:49+00:00: v1.45.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.3 __auto-added__
