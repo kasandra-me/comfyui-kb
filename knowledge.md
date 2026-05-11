@@ -1601,3 +1601,5 @@ _Last updated: 2025-08-12_
 - 2026-05-11T05:02:46+00:00: v1.45.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.4 __auto-added__
 - 2026-05-11T09:53:00+00:00: [Partner Nodes] new ByteDanceSeedreamNodeV2 node with DynamicCombo an… - https://github.com/Comfy-Org/ComfyUI/commit/46063aa9279d0192e6517073ab787330aaa53939 __auto-added__
 - 2026-05-11T13:19:35+00:00: [Partner Nodes] new OpenAI Image node with DynamicCombo and Autogrow … - https://github.com/Comfy-Org/ComfyUI/commit/428c323780a7549a4da03b8d282d0064c8e24180 __auto-added__
+- 2026-05-11T19:48:10+00:00: model_patcher: Fix safetensors saving of fp8 (#13835) - https://github.com/Comfy-Org/ComfyUI/commit/20e439419c298e8fef6b4dcba2c62831dcf7722f __auto-added__
+- 2026-05-11T20:10:18+00:00: v0.9.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.0 __auto-added__
