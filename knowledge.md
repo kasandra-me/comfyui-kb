@@ -1598,3 +1598,4 @@ _Last updated: 2025-08-12_
 - 2026-05-11T03:32:00+00:00: ComfyUI v0.21.0 - https://github.com/Comfy-Org/ComfyUI/commit/52976f3ea33cc2312c7b5a32e1c7510b203eefb6 __auto-added__
 - 2026-05-11T03:32:00+00:00: v0.21.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.21.0 __auto-added__
 - 2026-05-11T00:19:49+00:00: v1.45.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.3 __auto-added__
+- 2026-05-11T05:02:46+00:00: v1.45.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.4 __auto-added__
