@@ -1607,3 +1607,4 @@ _Last updated: 2025-08-12_
 - 2026-05-12T01:02:46+00:00: v1.45.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.5 __auto-added__
 - 2026-05-12T03:53:13+00:00: Fix dtype issue with hidream o1 (#13849) - https://github.com/Comfy-Org/ComfyUI/commit/0155ddcbe32b29cdc3284ec3fbd39edc47d3925e __auto-added__
 - 2026-05-12T08:40:15+00:00: [Partner Nodes] fix Quiver nodes (#13851) - https://github.com/Comfy-Org/ComfyUI/commit/c9589f29b21fc5f73b6eb9d5c98d29a68cf8c392 __auto-added__
+- 2026-05-12T18:06:28+00:00: Mark deprecated cloud-runtime endpoints in spec (#13789) - https://github.com/Comfy-Org/ComfyUI/commit/fb097bedc2af8cc7499fba8ab6da8811ecc40491 __auto-added__
