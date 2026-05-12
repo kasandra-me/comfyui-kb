@@ -1604,3 +1604,4 @@ _Last updated: 2025-08-12_
 - 2026-05-11T19:48:10+00:00: model_patcher: Fix safetensors saving of fp8 (#13835) - https://github.com/Comfy-Org/ComfyUI/commit/20e439419c298e8fef6b4dcba2c62831dcf7722f __auto-added__
 - 2026-05-11T20:10:18+00:00: v0.9.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.0 __auto-added__
 - 2026-05-11T23:34:01+00:00: Tripo 3.1 in ComfyUI: production-ready, high-detail 3D asset generation. - https://blog.comfy.org/p/tripo-31-in-comfyui __auto-added__
+- 2026-05-12T01:02:46+00:00: v1.45.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.5 __auto-added__
