@@ -1605,3 +1605,4 @@ _Last updated: 2025-08-12_
 - 2026-05-11T20:10:18+00:00: v0.9.0 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.0 __auto-added__
 - 2026-05-11T23:34:01+00:00: Tripo 3.1 in ComfyUI: production-ready, high-detail 3D asset generation. - https://blog.comfy.org/p/tripo-31-in-comfyui __auto-added__
 - 2026-05-12T01:02:46+00:00: v1.45.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.5 __auto-added__
+- 2026-05-12T03:53:13+00:00: Fix dtype issue with hidream o1 (#13849) - https://github.com/Comfy-Org/ComfyUI/commit/0155ddcbe32b29cdc3284ec3fbd39edc47d3925e __auto-added__
