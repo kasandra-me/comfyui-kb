@@ -1609,3 +1609,4 @@ _Last updated: 2025-08-12_
 - 2026-05-12T08:40:15+00:00: [Partner Nodes] fix Quiver nodes (#13851) - https://github.com/Comfy-Org/ComfyUI/commit/c9589f29b21fc5f73b6eb9d5c98d29a68cf8c392 __auto-added__
 - 2026-05-12T18:06:28+00:00: Mark deprecated cloud-runtime endpoints in spec (#13789) - https://github.com/Comfy-Org/ComfyUI/commit/fb097bedc2af8cc7499fba8ab6da8811ecc40491 __auto-added__
 - 2026-05-12T20:14:50+00:00: Suppress false-positive Spectral lint on WebSocket endpoint (#13842) - https://github.com/Comfy-Org/ComfyUI/commit/a5f7bc5658fdc97de7478882b3a0f5aa2d765506 __auto-added__
+- 2026-05-12T22:57:31+00:00: Fix LTXV mid-video multi-frame guide alignment (CORE-129) (#13625) - https://github.com/Comfy-Org/ComfyUI/commit/1d95ed211e0d971a1bfa76330a079d03eff9c802 __auto-added__
