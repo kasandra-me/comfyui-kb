@@ -1611,3 +1611,5 @@ _Last updated: 2025-08-12_
 - 2026-05-12T20:14:50+00:00: Suppress false-positive Spectral lint on WebSocket endpoint (#13842) - https://github.com/Comfy-Org/ComfyUI/commit/a5f7bc5658fdc97de7478882b3a0f5aa2d765506 __auto-added__
 - 2026-05-12T22:57:31+00:00: Fix LTXV mid-video multi-frame guide alignment (CORE-129) (#13625) - https://github.com/Comfy-Org/ComfyUI/commit/1d95ed211e0d971a1bfa76330a079d03eff9c802 __auto-added__
 - 🔥 2026-05-13T00:28:20+00:00: Revert some breaking changes. (#13861) - https://github.com/Comfy-Org/ComfyUI/commit/300b6c8c9186cfcd4b2b2c51ec0afd4449e7fbb7 __priority-auto-added__
+- 2026-05-13T03:55:38+00:00: Better Hidream O1 mem usage factor for non dynamic vram. (#13864) - https://github.com/Comfy-Org/ComfyUI/commit/2bd65f2091f0276e9ff6e18380d452d4f505fc27 __auto-added__
+- 2026-05-13T02:19:40+00:00: v1.45.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.6 __auto-added__
