@@ -1613,3 +1613,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-05-13T00:28:20+00:00: Revert some breaking changes. (#13861) - https://github.com/Comfy-Org/ComfyUI/commit/300b6c8c9186cfcd4b2b2c51ec0afd4449e7fbb7 __priority-auto-added__
 - 2026-05-13T03:55:38+00:00: Better Hidream O1 mem usage factor for non dynamic vram. (#13864) - https://github.com/Comfy-Org/ComfyUI/commit/2bd65f2091f0276e9ff6e18380d452d4f505fc27 __auto-added__
 - 2026-05-13T02:19:40+00:00: v1.45.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.6 __auto-added__
+- 2026-05-13T06:42:31+00:00: Add Create Video to the essentials tab (#13863) - https://github.com/Comfy-Org/ComfyUI/commit/a5189fed515a96b71cf2b743fb93eaa3d42bc881 __auto-added__
