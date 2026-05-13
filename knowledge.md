@@ -1614,3 +1614,4 @@ _Last updated: 2025-08-12_
 - 2026-05-13T03:55:38+00:00: Better Hidream O1 mem usage factor for non dynamic vram. (#13864) - https://github.com/Comfy-Org/ComfyUI/commit/2bd65f2091f0276e9ff6e18380d452d4f505fc27 __auto-added__
 - 2026-05-13T02:19:40+00:00: v1.45.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.6 __auto-added__
 - 2026-05-13T06:42:31+00:00: Add Create Video to the essentials tab (#13863) - https://github.com/Comfy-Org/ComfyUI/commit/a5189fed515a96b71cf2b743fb93eaa3d42bc881 __auto-added__
+- 2026-05-13T15:33:53+00:00: feat: Extend Save3D to save vertex colors and textures (CORE-189) (#1… - https://github.com/Comfy-Org/ComfyUI/commit/8505abf52e42f4441d9d53baf4c31a2ec7123400 __auto-added__
