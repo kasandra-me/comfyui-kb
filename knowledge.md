@@ -1624,3 +1624,4 @@ _Last updated: 2025-08-12_
 - 2026-05-14T17:32:40+00:00: Add careers link to README and startup log (#13897) - https://github.com/Comfy-Org/ComfyUI/commit/3f9bdc70ee39f07894a2353abdb0926d9f31ce40 __auto-added__
 - 2026-05-14T18:11:09+00:00: New Open-Source Models Now in ComfyUI: VOID, BiRefNet & Gemma 4 - https://blog.comfy.org/p/new-open-source-models-now-in-comfyui __auto-added__
 - 2026-05-14T19:26:13+00:00: Remove annoying message. (#13899) - https://github.com/Comfy-Org/ComfyUI/commit/7a063e83a7fd2c9d8770bb20e0a7547af7ec080b __auto-added__
+- 2026-05-14T22:35:42+00:00: Revert "Include workflow_id in all execution WebSocket messages (CORE… - https://github.com/Comfy-Org/ComfyUI/commit/616cab4f979381d60d40400c9b3c07da0fa8eae0 __auto-added__
