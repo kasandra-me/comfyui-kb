@@ -1618,3 +1618,4 @@ _Last updated: 2025-08-12_
 - 2026-05-13T19:37:30+00:00: Fix void failing with RuntimeError: start (0) + length (464) exceeds … - https://github.com/Comfy-Org/ComfyUI/commit/74c17a25e5d6889059810ef8a381d83b3e78b82a __auto-added__
 - 2026-05-13T20:25:01+00:00: ComfyUI v0.21.1 - https://github.com/Comfy-Org/ComfyUI/commit/26515acd23fa291a8f5ab53c5997258598de0701 __auto-added__
 - 2026-05-13T21:08:45+00:00: v0.21.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.21.1 __auto-added__
+- 2026-05-14T00:43:47+00:00: v0.9.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.1 __auto-added__
