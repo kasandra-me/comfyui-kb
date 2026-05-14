@@ -1619,3 +1619,5 @@ _Last updated: 2025-08-12_
 - 2026-05-13T20:25:01+00:00: ComfyUI v0.21.1 - https://github.com/Comfy-Org/ComfyUI/commit/26515acd23fa291a8f5ab53c5997258598de0701 __auto-added__
 - 2026-05-13T21:08:45+00:00: v0.21.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.21.1 __auto-added__
 - 2026-05-14T00:43:47+00:00: v0.9.1 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.1 __auto-added__
+- 2026-05-14T02:51:35+00:00: Make audio processing nodes handle None -inputs (#13879) - https://github.com/Comfy-Org/ComfyUI/commit/1f28908d6e4cfc1a8c4b26daf275e4d7d3d449a6 __auto-added__
+- 2026-05-14T02:40:00+00:00: v1.45.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.7 __auto-added__
