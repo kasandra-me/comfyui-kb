@@ -1630,3 +1630,4 @@ _Last updated: 2025-08-12_
 - 2026-05-15T02:34:56+00:00: feat: Support MoGe (CORE-168) (#13878) - https://github.com/Comfy-Org/ComfyUI/commit/77e2ed5e01bcb5eb82e05760f4091d67f7d85a71 __auto-added__
 - 2026-05-15T02:24:45+00:00: v1.45.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.8 __auto-added__
 - 2026-05-15T14:30:02+00:00: Allow negative `batch_index` on `ImageFromBatch` and `LatentFromBatch… - https://github.com/Comfy-Org/ComfyUI/commit/04856acc699f1559a11e00a9f68d2f9f9b9b8e96 __auto-added__
+- 2026-05-15T21:02:27+00:00: Reduce LTX2.3 peak VRAM when guide_mask is in use (CORE-166) (#13735) - https://github.com/Comfy-Org/ComfyUI/commit/33ce449c8bdbb4b47935cd7d67ad90bc0c648d83 __auto-added__
