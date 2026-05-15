@@ -1629,3 +1629,4 @@ _Last updated: 2025-08-12_
 - 2026-05-15T01:36:17+00:00: Persists ModelNoiseScale when also patching shift (#13892) - https://github.com/Comfy-Org/ComfyUI/commit/b2000029c8290207720a95c0aff5b71b2c80d91f __auto-added__
 - 2026-05-15T02:34:56+00:00: feat: Support MoGe (CORE-168) (#13878) - https://github.com/Comfy-Org/ComfyUI/commit/77e2ed5e01bcb5eb82e05760f4091d67f7d85a71 __auto-added__
 - 2026-05-15T02:24:45+00:00: v1.45.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.8 __auto-added__
+- 2026-05-15T14:30:02+00:00: Allow negative `batch_index` on `ImageFromBatch` and `LatentFromBatch… - https://github.com/Comfy-Org/ComfyUI/commit/04856acc699f1559a11e00a9f68d2f9f9b9b8e96 __auto-added__
