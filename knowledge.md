@@ -1627,3 +1627,5 @@ _Last updated: 2025-08-12_
 - 2026-05-14T22:35:42+00:00: Revert "Include workflow_id in all execution WebSocket messages (CORE… - https://github.com/Comfy-Org/ComfyUI/commit/616cab4f979381d60d40400c9b3c07da0fa8eae0 __auto-added__
 - 2026-05-14T23:13:30+00:00: Generalize frontend version warning to all comfy* requirements.txt en… - https://github.com/Comfy-Org/ComfyUI/commit/b112f68681e56e508eee6fe27e96bf525dc2c137 __auto-added__
 - 2026-05-15T01:36:17+00:00: Persists ModelNoiseScale when also patching shift (#13892) - https://github.com/Comfy-Org/ComfyUI/commit/b2000029c8290207720a95c0aff5b71b2c80d91f __auto-added__
+- 2026-05-15T02:34:56+00:00: feat: Support MoGe (CORE-168) (#13878) - https://github.com/Comfy-Org/ComfyUI/commit/77e2ed5e01bcb5eb82e05760f4091d67f7d85a71 __auto-added__
+- 2026-05-15T02:24:45+00:00: v1.45.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.8 __auto-added__
