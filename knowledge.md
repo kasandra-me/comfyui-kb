@@ -1632,3 +1632,4 @@ _Last updated: 2025-08-12_
 - 2026-05-15T14:30:02+00:00: Allow negative `batch_index` on `ImageFromBatch` and `LatentFromBatch… - https://github.com/Comfy-Org/ComfyUI/commit/04856acc699f1559a11e00a9f68d2f9f9b9b8e96 __auto-added__
 - 2026-05-15T21:02:27+00:00: Reduce LTX2.3 peak VRAM when guide_mask is in use (CORE-166) (#13735) - https://github.com/Comfy-Org/ComfyUI/commit/33ce449c8bdbb4b47935cd7d67ad90bc0c648d83 __auto-added__
 - 2026-05-16T00:59:02+00:00: Remove useless option and clarify what lowvram does. (#13922) - https://github.com/Comfy-Org/ComfyUI/commit/5d5a4554e1a969fcba56d6f3e6413aba0e49138c __auto-added__
+- 2026-05-16T07:02:57+00:00: feat: Add downscaled IC-LoRA support to LTXVAddGuide (CORE-102) (#13896) - https://github.com/Comfy-Org/ComfyUI/commit/d3607a8e6d268128596964fb7f458d3282269a31 __auto-added__
