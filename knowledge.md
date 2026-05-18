@@ -1639,3 +1639,4 @@ _Last updated: 2025-08-12_
 - 2026-05-18T05:17:05+00:00: HiDream-O1: support area conditioning (#13944) - https://github.com/Comfy-Org/ComfyUI/commit/971c9e3518f8d96ddff2355c77415ced68c63d22 __auto-added__
 - 2026-05-18T06:53:31+00:00: [Partner Nodes] fix Opus 4.7 sending deprecated temperature parameter… - https://github.com/Comfy-Org/ComfyUI/commit/264b003286c731f5d219d747622643e9dd50503b __auto-added__
 - 2026-05-18T12:22:15+00:00: fix(FeatherMask): correct negative zero indexing for right/bottom fea… - https://github.com/Comfy-Org/ComfyUI/commit/d4c6c9eff80f75fdd4a2c5d7bdcdc5a63f17ad3d __auto-added__
+- 2026-05-18T20:06:13+00:00: [Partner Nodes] add ByteDance Seed LLM node (#13919) - https://github.com/Comfy-Org/ComfyUI/commit/164a9d4bbbeca1d37e28f828482901a62bdc56fe __auto-added__
