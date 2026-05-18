@@ -1637,3 +1637,4 @@ _Last updated: 2025-08-12_
 - 2026-05-17T20:30:54+00:00: Log which quant ops are enabled/emulated. (#13946) - https://github.com/Comfy-Org/ComfyUI/commit/f48d2a017ed89de2bc0c754b4d608c3ac02eae68 __auto-added__
 - 2026-05-18T01:14:00+00:00: v1.45.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.9 __auto-added__
 - 2026-05-18T05:17:05+00:00: HiDream-O1: support area conditioning (#13944) - https://github.com/Comfy-Org/ComfyUI/commit/971c9e3518f8d96ddff2355c77415ced68c63d22 __auto-added__
+- 2026-05-18T06:53:31+00:00: [Partner Nodes] fix Opus 4.7 sending deprecated temperature parameter… - https://github.com/Comfy-Org/ComfyUI/commit/264b003286c731f5d219d747622643e9dd50503b __auto-added__
