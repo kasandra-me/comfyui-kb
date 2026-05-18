@@ -1636,3 +1636,4 @@ _Last updated: 2025-08-12_
 - 2026-05-17T03:55:43+00:00: Enhance README with application and cloud links (#13936) - https://github.com/Comfy-Org/ComfyUI/commit/7c4d95d1bc2ef178937d203aa81070db0b172a92 __auto-added__
 - 2026-05-17T20:30:54+00:00: Log which quant ops are enabled/emulated. (#13946) - https://github.com/Comfy-Org/ComfyUI/commit/f48d2a017ed89de2bc0c754b4d608c3ac02eae68 __auto-added__
 - 2026-05-18T01:14:00+00:00: v1.45.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.9 __auto-added__
+- 2026-05-18T05:17:05+00:00: HiDream-O1: support area conditioning (#13944) - https://github.com/Comfy-Org/ComfyUI/commit/971c9e3518f8d96ddff2355c77415ced68c63d22 __auto-added__
