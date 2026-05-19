@@ -1644,3 +1644,4 @@ _Last updated: 2025-08-12_
 - 2026-05-19T04:19:51+00:00: docs(openapi): deprecate /api/upload/mask in favor of /api/upload/ima… - https://github.com/Comfy-Org/ComfyUI/commit/6b61918a16cd01dbd55632b148f271b0260c1e40 __auto-added__
 - 2026-05-19T08:47:44+00:00: v1.45.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.10 __auto-added__
 - 2026-05-19T17:00:26+00:00: docs(openapi): remove top-level width/height fields on Asset schema (… - https://github.com/Comfy-Org/ComfyUI/commit/d0328b442dd2ecc27bdc112bf6452b2e96aed4f8 __auto-added__
+- 2026-05-19T21:48:47+00:00: feat(openapi): add optional description field to workspace API key sc… - https://github.com/Comfy-Org/ComfyUI/commit/cc4d711eb1c34f393e81a074d881eccbb64faeba __auto-added__
