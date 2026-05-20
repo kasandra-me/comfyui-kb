@@ -1653,3 +1653,4 @@ _Last updated: 2025-08-12_
 - 2026-05-20T17:49:36+00:00: ComfyUI v0.22.0 - https://github.com/Comfy-Org/ComfyUI/commit/a8d2519058ea766ca3b14916bcc01ecef5efd235 __auto-added__
 - 2026-05-20T17:49:36+00:00: v0.22.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.22.0 __auto-added__
 - 2026-05-20T21:07:08+00:00: v0.9.2 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.2 __auto-added__
+- 2026-05-20T23:07:48+00:00: feat: MediaPipe face detection (CORE-235) (#14009) - https://github.com/Comfy-Org/ComfyUI/commit/4d6a058bf1dd18fb6d4594081c3f9a7575c97256 __auto-added__
