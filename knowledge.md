@@ -1648,3 +1648,4 @@ _Last updated: 2025-08-12_
 - 2026-05-19T23:55:04+00:00: docs(openapi): tighten workspace API key description field (BE-1004) … - https://github.com/Comfy-Org/ComfyUI/commit/6887165a9d657ced4f0122c0ca5368dc74125d80 __auto-added__
 - 2026-05-20T03:28:06+00:00: Add downscale ratio to empty ltxv latent. (#13999) - https://github.com/Comfy-Org/ComfyUI/commit/72e3f6081ccf8853baede1308f16e0e9ebcc09dc __auto-added__
 - 2026-05-20T03:19:44+00:00: v1.45.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.11 __auto-added__
+- 2026-05-20T11:58:49+00:00: fix: Hunyuan3D 2.1 batch size crashes in attention and forward pass (… - https://github.com/Comfy-Org/ComfyUI/commit/78b5dec6b6beefb9fb40f917d33d2f10a40d9e53 __auto-added__
