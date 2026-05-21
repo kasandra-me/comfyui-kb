@@ -1656,3 +1656,5 @@ _Last updated: 2025-08-12_
 - 2026-05-20T23:07:48+00:00: feat: MediaPipe face detection (CORE-235) (#14009) - https://github.com/Comfy-Org/ComfyUI/commit/4d6a058bf1dd18fb6d4594081c3f9a7575c97256 __auto-added__
 - 🔥 2026-05-21T00:17:55+00:00: Repo security stuff. (#14019) - https://github.com/Comfy-Org/ComfyUI/commit/95fdc6cf910f809e39edc3254470e619ffa9dbf8 __priority-auto-added__
 - 2026-05-21T01:05:15+00:00: v1.45.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.12 __auto-added__
+- 2026-05-21T04:32:08+00:00: openapi: remove cloud-only job_ids query param from GET /api/assets (… - https://github.com/Comfy-Org/ComfyUI/commit/1668aaf0378db1fe8ddd2c0572e7312a9ebbdd41 __auto-added__
+- 2026-05-21T02:32:18+00:00: Stable Audio 3.0 Day-0 Support in ComfyUI：From Sound Effects to Longer, More Musical Tracks - https://blog.comfy.org/p/stable-audio-3-day-0-support __auto-added__
