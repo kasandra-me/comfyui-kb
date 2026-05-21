@@ -1660,3 +1660,4 @@ _Last updated: 2025-08-12_
 - 2026-05-21T02:32:18+00:00: Stable Audio 3.0 Day-0 Support in ComfyUI：From Sound Effects to Longer, More Musical Tracks - https://blog.comfy.org/p/stable-audio-3-day-0-support __auto-added__
 - 2026-05-21T08:50:09+00:00: Update MoGe nodes display names, search aliases and descriptions (#14… - https://github.com/Comfy-Org/ComfyUI/commit/4259a0c7c3b805e3dd1f178e603e6d725780583a __auto-added__
 - 2026-05-21T15:47:20+00:00: fix(lanczos): correct dimension transposition for single-channel tens… - https://github.com/Comfy-Org/ComfyUI/commit/aab41a9ddb3cb586024a75141fcc2f5e838da12c __auto-added__
+- 2026-05-21T16:47:16+00:00: Fix reshaping lora application (#14031) - https://github.com/Comfy-Org/ComfyUI/commit/03e511862ee783fec84ef14fe306ee30d4240e2c __auto-added__
