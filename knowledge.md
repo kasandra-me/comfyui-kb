@@ -1663,3 +1663,5 @@ _Last updated: 2025-08-12_
 - 2026-05-21T16:47:16+00:00: Fix reshaping lora application (#14031) - https://github.com/Comfy-Org/ComfyUI/commit/03e511862ee783fec84ef14fe306ee30d4240e2c __auto-added__
 - 2026-05-21T18:58:03+00:00: [Partner Nodes] add widget for automatic upscaling for the ByteDance2… - https://github.com/Comfy-Org/ComfyUI/commit/b293f8cefd18b2f8be061e33cb985149ec2ee872 __auto-added__
 - 2026-05-21T21:49:55+00:00: Add backport release workflow. (#14038) - https://github.com/Comfy-Org/ComfyUI/commit/32e58393b8c329c1a3fb1ddf74902c182c5064d5 __auto-added__
+- 2026-05-21T23:39:19+00:00: Add validation for source branch in backport workflow (#14042) - https://github.com/Comfy-Org/ComfyUI/commit/8fecef0686275c9ce334ac7b6780d35eb93b836f __auto-added__
+- 2026-05-21T23:48:50+00:00: v0.22.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.22.1 __auto-added__
