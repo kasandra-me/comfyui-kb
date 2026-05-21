@@ -1658,3 +1658,4 @@ _Last updated: 2025-08-12_
 - 2026-05-21T01:05:15+00:00: v1.45.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.12 __auto-added__
 - 2026-05-21T04:32:08+00:00: openapi: remove cloud-only job_ids query param from GET /api/assets (… - https://github.com/Comfy-Org/ComfyUI/commit/1668aaf0378db1fe8ddd2c0572e7312a9ebbdd41 __auto-added__
 - 2026-05-21T02:32:18+00:00: Stable Audio 3.0 Day-0 Support in ComfyUI：From Sound Effects to Longer, More Musical Tracks - https://blog.comfy.org/p/stable-audio-3-day-0-support __auto-added__
+- 2026-05-21T08:50:09+00:00: Update MoGe nodes display names, search aliases and descriptions (#14… - https://github.com/Comfy-Org/ComfyUI/commit/4259a0c7c3b805e3dd1f178e603e6d725780583a __auto-added__
