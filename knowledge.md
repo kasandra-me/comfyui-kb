@@ -1661,3 +1661,4 @@ _Last updated: 2025-08-12_
 - 2026-05-21T08:50:09+00:00: Update MoGe nodes display names, search aliases and descriptions (#14… - https://github.com/Comfy-Org/ComfyUI/commit/4259a0c7c3b805e3dd1f178e603e6d725780583a __auto-added__
 - 2026-05-21T15:47:20+00:00: fix(lanczos): correct dimension transposition for single-channel tens… - https://github.com/Comfy-Org/ComfyUI/commit/aab41a9ddb3cb586024a75141fcc2f5e838da12c __auto-added__
 - 2026-05-21T16:47:16+00:00: Fix reshaping lora application (#14031) - https://github.com/Comfy-Org/ComfyUI/commit/03e511862ee783fec84ef14fe306ee30d4240e2c __auto-added__
+- 2026-05-21T18:58:03+00:00: [Partner Nodes] add widget for automatic upscaling for the ByteDance2… - https://github.com/Comfy-Org/ComfyUI/commit/b293f8cefd18b2f8be061e33cb985149ec2ee872 __auto-added__
