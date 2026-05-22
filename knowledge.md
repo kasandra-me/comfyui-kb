@@ -1668,3 +1668,5 @@ _Last updated: 2025-08-12_
 - 2026-05-22T02:18:13+00:00: fe: Consolidate warnings (#13970) - https://github.com/Comfy-Org/ComfyUI/commit/f48c32871b1d07a25715675b6b943c14da2ad501 __auto-added__
 - 2026-05-22T05:32:08+00:00: Move logic nodes into utils category (#14033) - https://github.com/Comfy-Org/ComfyUI/commit/93888ae8e3618a4f1aad0004ca0bfe5f80c9127a __auto-added__
 - 2026-05-22T04:16:09+00:00: v1.45.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.13 __auto-added__
+- 2026-05-22T16:07:21+00:00: [Partner Nodes] add new Rodin2.5 nodes (#14051) - https://github.com/Comfy-Org/ComfyUI/commit/1579bbb52de5b439bef0717dce723c39849c6b37 __auto-added__
+- 2026-05-22T16:51:31+00:00: v0.22.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.22.2 __auto-added__
