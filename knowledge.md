@@ -1665,3 +1665,4 @@ _Last updated: 2025-08-12_
 - 2026-05-21T21:49:55+00:00: Add backport release workflow. (#14038) - https://github.com/Comfy-Org/ComfyUI/commit/32e58393b8c329c1a3fb1ddf74902c182c5064d5 __auto-added__
 - 2026-05-21T23:39:19+00:00: Add validation for source branch in backport workflow (#14042) - https://github.com/Comfy-Org/ComfyUI/commit/8fecef0686275c9ce334ac7b6780d35eb93b836f __auto-added__
 - 2026-05-21T23:48:50+00:00: v0.22.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.22.1 __auto-added__
+- 2026-05-22T02:18:13+00:00: fe: Consolidate warnings (#13970) - https://github.com/Comfy-Org/ComfyUI/commit/f48c32871b1d07a25715675b6b943c14da2ad501 __auto-added__
