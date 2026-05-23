@@ -1672,3 +1672,4 @@ _Last updated: 2025-08-12_
 - 2026-05-22T16:51:31+00:00: v0.22.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.22.2 __auto-added__
 - 2026-05-22T21:31:43+00:00: openapi: align response declarations with implementation (5 endpoints… - https://github.com/Comfy-Org/ComfyUI/commit/112fcd5f3b86771d25b74a97e092856375c96daa __auto-added__
 - 2026-05-22T22:47:03+00:00: Delete the source branch after doing the backport. (#14062) - https://github.com/Comfy-Org/ComfyUI/commit/e75b739c1d416923e5c391775838f2f9ce9e327c __auto-added__
+- 2026-05-22T23:34:52+00:00: openapi: rename cloud-side response schemas to match runtime (PR D) (… - https://github.com/Comfy-Org/ComfyUI/commit/c3c881f37b1cad344d400e16fd3293012556c8dc __auto-added__
