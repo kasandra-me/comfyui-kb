@@ -1677,3 +1677,4 @@ _Last updated: 2025-08-12_
 - 2026-05-23T02:55:27+00:00: v1.45.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.14 __auto-added__
 - 2026-05-23T02:16:50+00:00: v0.9.3 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.3 __auto-added__
 - 2026-05-23T09:19:55+00:00: v1.46.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.0 __auto-added__
+- 2026-05-24T00:44:28+00:00: Fix --use-flash-attention ignored when xformers installed. (#14083) - https://github.com/Comfy-Org/ComfyUI/commit/08d809d128df9c6b6800dbb4198cf11cabc5422e __auto-added__
