@@ -1680,3 +1680,5 @@ _Last updated: 2025-08-12_
 - 2026-05-24T00:44:28+00:00: Fix --use-flash-attention ignored when xformers installed. (#14083) - https://github.com/Comfy-Org/ComfyUI/commit/08d809d128df9c6b6800dbb4198cf11cabc5422e __auto-added__
 - 2026-05-24T02:58:35+00:00: openapi: fix invalid BillingStatus schema (object + enum hybrid) (#14… - https://github.com/Comfy-Org/ComfyUI/commit/ea62dc11c9a10dae52186fdcc3da033eb46018a1 __auto-added__
 - 2026-05-24T22:26:50+00:00: cache-ram: lower thresholds (#14089) - https://github.com/Comfy-Org/ComfyUI/commit/b30e980a206607d1a9d56b7a6f7df3999d68438a __auto-added__
+- 2026-05-25T02:00:55+00:00: Add colored logs (#14036) - https://github.com/Comfy-Org/ComfyUI/commit/63bcaec5d14cb309679a72ddbf875c5dc8d62d46 __auto-added__
+- 2026-05-25T01:51:44+00:00: v1.46.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.1 __auto-added__
