@@ -1683,3 +1683,4 @@ _Last updated: 2025-08-12_
 - 2026-05-25T02:00:55+00:00: Add colored logs (#14036) - https://github.com/Comfy-Org/ComfyUI/commit/63bcaec5d14cb309679a72ddbf875c5dc8d62d46 __auto-added__
 - 2026-05-25T01:51:44+00:00: v1.46.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.1 __auto-added__
 - 2026-05-25T03:01:34+00:00: Save Image advanced node (CORE-32) (#13850) - https://github.com/Comfy-Org/ComfyUI/commit/0077d78cbfb44eee4d8dabc27c84f8b1ab7e2852 __auto-added__
+- 2026-05-25T17:57:18+00:00: chore: update embedded docs to v0.5.1 (#14101) - https://github.com/Comfy-Org/ComfyUI/commit/a4141a0f5a90b8a43f834f51d5f4796862965e53 __auto-added__
