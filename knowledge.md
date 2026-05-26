@@ -1689,3 +1689,4 @@ _Last updated: 2025-08-12_
 - 2026-05-26T03:07:09+00:00: fix: cross-attention AdaLN scale, shift, sigma parameters calculation… - https://github.com/Comfy-Org/ComfyUI/commit/57414dadfe732b8c37754a9680c39c7fb6691437 __auto-added__
 - 2026-05-26T04:43:29+00:00: v1.46.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.2 __auto-added__
 - 2026-05-26T07:32:53+00:00: Lens: some cleanup (#14112) - https://github.com/Comfy-Org/ComfyUI/commit/f9f54cae428337ae9d9342b14141d77e1fb53ef0 __auto-added__
+- 2026-05-26T23:25:20+00:00: openapi: document QueueManageResponse body on POST /api/queue (#14117) - https://github.com/Comfy-Org/ComfyUI/commit/921775704cd986bd49e693e49f55422dc7a82b9b __auto-added__
