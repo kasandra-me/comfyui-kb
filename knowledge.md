@@ -1688,3 +1688,4 @@ _Last updated: 2025-08-12_
 - 2026-05-26T01:26:40+00:00: MultiGPU Work Units For Accelerated Sampling (CORE-184) (#7063) - https://github.com/Comfy-Org/ComfyUI/commit/0a2dd86e782dadfad43e4b995c12d1901ce48823 __auto-added__
 - 2026-05-26T03:07:09+00:00: fix: cross-attention AdaLN scale, shift, sigma parameters calculation… - https://github.com/Comfy-Org/ComfyUI/commit/57414dadfe732b8c37754a9680c39c7fb6691437 __auto-added__
 - 2026-05-26T04:43:29+00:00: v1.46.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.2 __auto-added__
+- 2026-05-26T07:32:53+00:00: Lens: some cleanup (#14112) - https://github.com/Comfy-Org/ComfyUI/commit/f9f54cae428337ae9d9342b14141d77e1fb53ef0 __auto-added__
