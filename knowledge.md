@@ -1686,3 +1686,5 @@ _Last updated: 2025-08-12_
 - 2026-05-25T17:57:18+00:00: chore: update embedded docs to v0.5.1 (#14101) - https://github.com/Comfy-Org/ComfyUI/commit/a4141a0f5a90b8a43f834f51d5f4796862965e53 __auto-added__
 - 2026-05-25T19:25:16+00:00: Add new open-source model and built-in tool blueprints (#13980) - https://github.com/Comfy-Org/ComfyUI/commit/04879a8113961cbc4e2ff20e9feeb737ba703f51 __auto-added__
 - 2026-05-26T01:26:40+00:00: MultiGPU Work Units For Accelerated Sampling (CORE-184) (#7063) - https://github.com/Comfy-Org/ComfyUI/commit/0a2dd86e782dadfad43e4b995c12d1901ce48823 __auto-added__
+- 2026-05-26T03:07:09+00:00: fix: cross-attention AdaLN scale, shift, sigma parameters calculation… - https://github.com/Comfy-Org/ComfyUI/commit/57414dadfe732b8c37754a9680c39c7fb6691437 __auto-added__
+- 2026-05-26T04:43:29+00:00: v1.46.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.2 __auto-added__
