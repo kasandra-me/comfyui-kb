@@ -1691,3 +1691,4 @@ _Last updated: 2025-08-12_
 - 2026-05-26T07:32:53+00:00: Lens: some cleanup (#14112) - https://github.com/Comfy-Org/ComfyUI/commit/f9f54cae428337ae9d9342b14141d77e1fb53ef0 __auto-added__
 - 2026-05-26T23:25:20+00:00: openapi: document QueueManageResponse body on POST /api/queue (#14117) - https://github.com/Comfy-Org/ComfyUI/commit/921775704cd986bd49e693e49f55422dc7a82b9b __auto-added__
 - 2026-05-27T02:59:32+00:00: fix: Stop LTXVCropGuides leaving stray latent frames when guides shar… - https://github.com/Comfy-Org/ComfyUI/commit/2072d3e46d1d1c6ed9533f51726118b4c82b7113 __auto-added__
+- 2026-05-27T06:44:27+00:00: [Partner Nodes] feat: improve video references uploading for SeeDance… - https://github.com/Comfy-Org/ComfyUI/commit/0cce76d402137959ef22c26a64690955e13464d1 __auto-added__
