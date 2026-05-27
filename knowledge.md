@@ -1695,3 +1695,5 @@ _Last updated: 2025-08-12_
 - 2026-05-27T08:15:26+00:00: v1.46.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.3 __auto-added__
 - 2026-05-27T12:39:32+00:00: [Partner Nodes] feat: add Krea2 nodes (#14130) - https://github.com/Comfy-Org/ComfyUI/commit/175e85466a05ee00ba3f9e1ed9898190e3e0d17a __auto-added__
 - 2026-05-27T15:43:07+00:00: v0.22.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.22.3 __auto-added__
+- 2026-05-27T19:08:06+00:00: Support context window for PiD and fix lq_latent rounding (#14136) - https://github.com/Comfy-Org/ComfyUI/commit/987a937658c163961b2010c0293d0bac05d1cc4d __auto-added__
+- 2026-05-27T18:34:31+00:00: Krea 2 Image is now available via Partner Nodes - https://blog.comfy.org/p/krea-2-image-is-now-available-via __auto-added__
