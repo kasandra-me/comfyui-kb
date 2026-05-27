@@ -1693,3 +1693,4 @@ _Last updated: 2025-08-12_
 - 2026-05-27T02:59:32+00:00: fix: Stop LTXVCropGuides leaving stray latent frames when guides shar… - https://github.com/Comfy-Org/ComfyUI/commit/2072d3e46d1d1c6ed9533f51726118b4c82b7113 __auto-added__
 - 2026-05-27T06:44:27+00:00: [Partner Nodes] feat: improve video references uploading for SeeDance… - https://github.com/Comfy-Org/ComfyUI/commit/0cce76d402137959ef22c26a64690955e13464d1 __auto-added__
 - 2026-05-27T08:15:26+00:00: v1.46.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.3 __auto-added__
+- 2026-05-27T12:39:32+00:00: [Partner Nodes] feat: add Krea2 nodes (#14130) - https://github.com/Comfy-Org/ComfyUI/commit/175e85466a05ee00ba3f9e1ed9898190e3e0d17a __auto-added__
