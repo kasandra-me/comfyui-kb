@@ -1699,3 +1699,4 @@ _Last updated: 2025-08-12_
 - 2026-05-27T18:34:31+00:00: Krea 2 Image is now available via Partner Nodes - https://blog.comfy.org/p/krea-2-image-is-now-available-via __auto-added__
 - 2026-05-28T00:43:33+00:00: chore: Update nodes categories (#14145) - https://github.com/Comfy-Org/ComfyUI/commit/174208df6ba033e5b4784c94d83d065c0d4165a4 __auto-added__
 - 2026-05-28T08:03:28+00:00: [Partner Nodes] fix: add runtime check for SeeDance2 image inputs (#1… - https://github.com/Comfy-Org/ComfyUI/commit/4af9a4722753f96066d30d6e16dc190905436392 __auto-added__
+- 2026-05-28T11:37:06+00:00: v0.9.4 - https://github.com/Comfy-Org/desktop/releases/tag/v0.9.4 __auto-added__
