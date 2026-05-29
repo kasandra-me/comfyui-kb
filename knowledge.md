@@ -1703,3 +1703,4 @@ _Last updated: 2025-08-12_
 - 2026-05-28T17:12:04+00:00: feat: add overwrite/increment to SaveImageTextDataSetToFolderNode (#1… - https://github.com/Comfy-Org/ComfyUI/commit/6ceec29bd124877cb79a8732b32967f44dad9230 __auto-added__
 - 2026-05-28T17:39:29+00:00: v1.46.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.4 __auto-added__
 - 2026-05-28T22:07:22+00:00: Add unreviewed merge detector for SOC 2 compliance (#14146) - https://github.com/Comfy-Org/ComfyUI/commit/6dd3c67427d65751d42f2dbc0c3db3d829c697de __auto-added__
+- 2026-05-29T00:42:47+00:00: refactor: drop rotation from Load3DCamera (#14159) - https://github.com/Comfy-Org/ComfyUI/commit/26aad73cd7351822243f94a718e7a0e754dc4dcb __auto-added__
