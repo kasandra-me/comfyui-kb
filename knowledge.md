@@ -1706,3 +1706,4 @@ _Last updated: 2025-08-12_
 - 2026-05-29T00:42:47+00:00: refactor: drop rotation from Load3DCamera (#14159) - https://github.com/Comfy-Org/ComfyUI/commit/26aad73cd7351822243f94a718e7a0e754dc4dcb __auto-added__
 - 2026-05-29T05:42:17+00:00: chore: update workflow templates to v0.9.91 (#14163) - https://github.com/Comfy-Org/ComfyUI/commit/b10a61615cd3c64affff3ae62d35905c9a66712a __auto-added__
 - 2026-05-29T07:06:00+00:00: feat: add model_info output to Load3D node (#14144) - https://github.com/Comfy-Org/ComfyUI/commit/e7214d78eef4c87cd042bc29ec322ad6a2d1509b __auto-added__
+- 2026-05-29T16:19:53+00:00: [Partner Nodes] feat: add new nodes for Tripo3D P1 model (#14155) - https://github.com/Comfy-Org/ComfyUI/commit/ec1896aceb012697f0bbbc3a941b50f06e030faa __auto-added__
