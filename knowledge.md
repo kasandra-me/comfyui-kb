@@ -1709,3 +1709,5 @@ _Last updated: 2025-08-12_
 - 2026-05-29T16:19:53+00:00: [Partner Nodes] feat: add new nodes for Tripo3D P1 model (#14155) - https://github.com/Comfy-Org/ComfyUI/commit/ec1896aceb012697f0bbbc3a941b50f06e030faa __auto-added__
 - 2026-05-29T20:17:03+00:00: v1.46.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.5 __auto-added__
 - 2026-05-29T23:26:46+00:00: Remove useless code. (#14178) - https://github.com/Comfy-Org/ComfyUI/commit/6e1ef2311ba73e68330e4041b34cdfd9e8fb6aa2 __auto-added__
+- 2026-05-30T05:47:10+00:00: Speed up anima a bit on nvidia. (#14181) - https://github.com/Comfy-Org/ComfyUI/commit/0b04660ba329ce643f29cabf4905aa9b5a71c6f8 __auto-added__
+- 2026-05-30T06:52:46+00:00: v1.46.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.6 __auto-added__
