@@ -1712,3 +1712,4 @@ _Last updated: 2025-08-12_
 - 2026-05-30T05:47:10+00:00: Speed up anima a bit on nvidia. (#14181) - https://github.com/Comfy-Org/ComfyUI/commit/0b04660ba329ce643f29cabf4905aa9b5a71c6f8 __auto-added__
 - 2026-05-30T06:52:46+00:00: v1.46.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.6 __auto-added__
 - 2026-05-30T13:39:26+00:00: feat(io): add File3DPLY / File3DSPLAT / File3DSPZ / File3DKSPLAT type… - https://github.com/Comfy-Org/ComfyUI/commit/bb560036b9631d0049d51abd388be262bb57a152 __auto-added__
+- 2026-05-30T19:20:33+00:00: Revert deprecation of non-dynamic smart memory (CORE-152 (revert)) (#… - https://github.com/Comfy-Org/ComfyUI/commit/f7297bc5a9a5c9603a2926791c090bba4962d1cb __auto-added__
