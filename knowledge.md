@@ -1716,3 +1716,4 @@ _Last updated: 2025-08-12_
 - 2026-05-30T21:57:36+00:00: feat: add Preview3DAdvanced node (#14175) - https://github.com/Comfy-Org/ComfyUI/commit/08e93a31a3120172ee31755ba70dda4f1957d8cc __auto-added__
 - 2026-05-30T23:49:59+00:00: chore: update embedded docs to v0.5.2 (#14193) - https://github.com/Comfy-Org/ComfyUI/commit/ea73d3b2ea581cdd87de5ef5b684fef7e3e69ffa __auto-added__
 - 🔥 2026-05-31T01:18:42+00:00: fix(multigpu): replace hardcoded torch.cuda.set_device with device-ag… - https://github.com/Comfy-Org/ComfyUI/commit/cd45f42a83c75403e3b69f85789a2d3af43ced66 __priority-auto-added__
+- 2026-05-31T10:30:53+00:00: cloud/v1.44.19: [backport cloud/1.44] Fix node tooltip metadata i18n parsing (#12554) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.44.19 __auto-added__
