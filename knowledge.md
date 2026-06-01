@@ -1718,3 +1718,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-05-31T01:18:42+00:00: fix(multigpu): replace hardcoded torch.cuda.set_device with device-ag… - https://github.com/Comfy-Org/ComfyUI/commit/cd45f42a83c75403e3b69f85789a2d3af43ced66 __priority-auto-added__
 - 2026-05-31T10:30:53+00:00: cloud/v1.44.19: [backport cloud/1.44] Fix node tooltip metadata i18n parsing (#12554) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.44.19 __auto-added__
 - 2026-05-31T18:47:29+00:00: feat: Add gaussian splat nodes (#14190) - https://github.com/Comfy-Org/ComfyUI/commit/c37d2a0dacaa256a2fb1812ae026e09dd493661e __auto-added__
+- 2026-06-01T03:47:00+00:00: Remove old portable updater migration code. (#14202) - https://github.com/Comfy-Org/ComfyUI/commit/70a2e1a8513aada68847ce63eaa2f54ece53a893 __auto-added__
