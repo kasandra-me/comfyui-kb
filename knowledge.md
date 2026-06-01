@@ -1719,3 +1719,4 @@ _Last updated: 2025-08-12_
 - 2026-05-31T10:30:53+00:00: cloud/v1.44.19: [backport cloud/1.44] Fix node tooltip metadata i18n parsing (#12554) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.44.19 __auto-added__
 - 2026-05-31T18:47:29+00:00: feat: Add gaussian splat nodes (#14190) - https://github.com/Comfy-Org/ComfyUI/commit/c37d2a0dacaa256a2fb1812ae026e09dd493661e __auto-added__
 - 2026-06-01T03:47:00+00:00: Remove old portable updater migration code. (#14202) - https://github.com/Comfy-Org/ComfyUI/commit/70a2e1a8513aada68847ce63eaa2f54ece53a893 __auto-added__
+- 2026-06-01T14:41:00+00:00: chore: update workflow templates to v0.9.92 (#14212) - https://github.com/Comfy-Org/ComfyUI/commit/412d9ac33a9ba4772e130acb40f0c4b810d9d773 __auto-added__
