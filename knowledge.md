@@ -1723,3 +1723,5 @@ _Last updated: 2025-08-12_
 - 2026-06-01T17:05:25+00:00: ComfyUI v0.23.0 - https://github.com/Comfy-Org/ComfyUI/commit/a88e02b18576283b1ff25a4b564548c5dc42cbf6 __auto-added__
 - 2026-06-01T17:56:51+00:00: v0.23.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.23.0 __auto-added__
 - 2026-06-01T18:03:51+00:00: Bringing Native Support for 3D Gaussian Splats into ComfyUI with TripoSplat - https://blog.comfy.org/p/bringing-native-support-for-3d-gaussian __auto-added__
+- 2026-06-01T21:35:52+00:00: Fix issue with triposplat preview and old offloading mode. (#14218) - https://github.com/Comfy-Org/ComfyUI/commit/06b710aa685947f3be69da1c95216e63433f5cd1 __auto-added__
+- 2026-06-01T22:18:40+00:00: May Wrapped - https://blog.comfy.org/p/may-wrapped __auto-added__
