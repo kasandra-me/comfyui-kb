@@ -1720,3 +1720,6 @@ _Last updated: 2025-08-12_
 - 2026-05-31T18:47:29+00:00: feat: Add gaussian splat nodes (#14190) - https://github.com/Comfy-Org/ComfyUI/commit/c37d2a0dacaa256a2fb1812ae026e09dd493661e __auto-added__
 - 2026-06-01T03:47:00+00:00: Remove old portable updater migration code. (#14202) - https://github.com/Comfy-Org/ComfyUI/commit/70a2e1a8513aada68847ce63eaa2f54ece53a893 __auto-added__
 - 2026-06-01T14:41:00+00:00: chore: update workflow templates to v0.9.92 (#14212) - https://github.com/Comfy-Org/ComfyUI/commit/412d9ac33a9ba4772e130acb40f0c4b810d9d773 __auto-added__
+- 2026-06-01T17:05:25+00:00: ComfyUI v0.23.0 - https://github.com/Comfy-Org/ComfyUI/commit/a88e02b18576283b1ff25a4b564548c5dc42cbf6 __auto-added__
+- 2026-06-01T17:56:51+00:00: v0.23.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.23.0 __auto-added__
+- 2026-06-01T18:03:51+00:00: Bringing Native Support for 3D Gaussian Splats into ComfyUI with TripoSplat - https://blog.comfy.org/p/bringing-native-support-for-3d-gaussian __auto-added__
