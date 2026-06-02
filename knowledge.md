@@ -1727,3 +1727,4 @@ _Last updated: 2025-08-12_
 - 2026-06-01T22:18:40+00:00: May Wrapped - https://blog.comfy.org/p/may-wrapped __auto-added__
 - 2026-06-02T01:15:04+00:00: Fix uncaught OverflowError in Math Expression node for large int resu… - https://github.com/Comfy-Org/ComfyUI/commit/33799c4a2ee286b5b6b8aac3c45c43245641fb47 __auto-added__
 - 2026-06-02T02:33:37+00:00: v1.46.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.7 __auto-added__
+- 2026-06-02T05:07:48+00:00: Radiance: support variant with nonzero txt_ids (#14206) - https://github.com/Comfy-Org/ComfyUI/commit/c96fcddb8100d7d5358c33f5fb4fab33cb6a2da0 __auto-added__
