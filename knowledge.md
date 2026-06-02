@@ -1725,3 +1725,5 @@ _Last updated: 2025-08-12_
 - 2026-06-01T18:03:51+00:00: Bringing Native Support for 3D Gaussian Splats into ComfyUI with TripoSplat - https://blog.comfy.org/p/bringing-native-support-for-3d-gaussian __auto-added__
 - 2026-06-01T21:35:52+00:00: Fix issue with triposplat preview and old offloading mode. (#14218) - https://github.com/Comfy-Org/ComfyUI/commit/06b710aa685947f3be69da1c95216e63433f5cd1 __auto-added__
 - 2026-06-01T22:18:40+00:00: May Wrapped - https://blog.comfy.org/p/may-wrapped __auto-added__
+- 2026-06-02T01:15:04+00:00: Fix uncaught OverflowError in Math Expression node for large int resu… - https://github.com/Comfy-Org/ComfyUI/commit/33799c4a2ee286b5b6b8aac3c45c43245641fb47 __auto-added__
+- 2026-06-02T02:33:37+00:00: v1.46.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.7 __auto-added__
