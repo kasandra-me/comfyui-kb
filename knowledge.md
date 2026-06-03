@@ -1731,3 +1731,6 @@ _Last updated: 2025-08-12_
 - 2026-06-02T19:40:49+00:00: PiD: Add SDXL and QwenImage (#14240) - https://github.com/Comfy-Org/ComfyUI/commit/dc10c0133ebda1d6438c65fb6be9cd5eb20b4434 __auto-added__
 - 2026-06-03T01:57:16+00:00: comfy-aimdo: 0.4.8 (#14244) - https://github.com/Comfy-Org/ComfyUI/commit/bd7da053aeaa3424828f7a0fb6ebeffeec9f5876 __auto-added__
 - 2026-06-03T03:55:05+00:00: v1.46.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.8 __auto-added__
+- 2026-06-03T16:42:13+00:00: ComfyUI v0.24.0 - https://github.com/Comfy-Org/ComfyUI/commit/f49bdb655707b97952dcef40e12e5af1f08d2007 __auto-added__
+- 2026-06-03T16:42:13+00:00: v0.24.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.24.0 __auto-added__
+- 2026-06-03T16:15:23+00:00: Ideogram 4.0 Day-0 Support in ComfyUI: Open Weights and Structured Control - https://blog.comfy.org/p/ideogram-4-day-0-support-in-comfyui __auto-added__
