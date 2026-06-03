@@ -1734,3 +1734,4 @@ _Last updated: 2025-08-12_
 - 2026-06-03T16:42:13+00:00: ComfyUI v0.24.0 - https://github.com/Comfy-Org/ComfyUI/commit/f49bdb655707b97952dcef40e12e5af1f08d2007 __auto-added__
 - 2026-06-03T16:42:13+00:00: v0.24.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.24.0 __auto-added__
 - 2026-06-03T16:15:23+00:00: Ideogram 4.0 Day-0 Support in ComfyUI: Open Weights and Structured Control - https://blog.comfy.org/p/ideogram-4-day-0-support-in-comfyui __auto-added__
+- 2026-06-03T20:20:30+00:00: chore(openapi): sync shared API contract from cloud@7c470f0 (#14174) - https://github.com/Comfy-Org/ComfyUI/commit/bb84c752831354d21f18488f5367497065c2151f __auto-added__
