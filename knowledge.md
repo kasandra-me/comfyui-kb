@@ -1729,3 +1729,5 @@ _Last updated: 2025-08-12_
 - 2026-06-02T02:33:37+00:00: v1.46.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.7 __auto-added__
 - 2026-06-02T05:07:48+00:00: Radiance: support variant with nonzero txt_ids (#14206) - https://github.com/Comfy-Org/ComfyUI/commit/c96fcddb8100d7d5358c33f5fb4fab33cb6a2da0 __auto-added__
 - 2026-06-02T19:40:49+00:00: PiD: Add SDXL and QwenImage (#14240) - https://github.com/Comfy-Org/ComfyUI/commit/dc10c0133ebda1d6438c65fb6be9cd5eb20b4434 __auto-added__
+- 2026-06-03T01:57:16+00:00: comfy-aimdo: 0.4.8 (#14244) - https://github.com/Comfy-Org/ComfyUI/commit/bd7da053aeaa3424828f7a0fb6ebeffeec9f5876 __auto-added__
+- 2026-06-03T03:55:05+00:00: v1.46.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.8 __auto-added__
