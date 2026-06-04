@@ -1737,3 +1737,4 @@ _Last updated: 2025-08-12_
 - 2026-06-03T20:20:30+00:00: chore(openapi): sync shared API contract from cloud@7c470f0 (#14174) - https://github.com/Comfy-Org/ComfyUI/commit/bb84c752831354d21f18488f5367497065c2151f __auto-added__
 - 2026-06-03T23:05:48+00:00: [Partner Nodes] fix SaveWEBM node to save alpha channel; add BriaTran… - https://github.com/Comfy-Org/ComfyUI/commit/4f99ce0f8c77e8de7318da1b70d745e55ece6022 __auto-added__
 - 2026-06-04T02:13:01+00:00: v1.46.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.9 __auto-added__
+- 2026-06-04T08:23:52+00:00: [Partner Nodes] fix (Seedance 2.0): prevent 1080p first/last-frame st… - https://github.com/Comfy-Org/ComfyUI/commit/4d360f9c9d33eb5b2a3e5d8fff8c2eca290a9960 __auto-added__
