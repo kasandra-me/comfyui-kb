@@ -1739,3 +1739,5 @@ _Last updated: 2025-08-12_
 - 2026-06-04T02:13:01+00:00: v1.46.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.9 __auto-added__
 - 2026-06-04T08:23:52+00:00: [Partner Nodes] fix (Seedance 2.0): prevent 1080p first/last-frame st… - https://github.com/Comfy-Org/ComfyUI/commit/4d360f9c9d33eb5b2a3e5d8fff8c2eca290a9960 __auto-added__
 - 2026-06-04T16:40:44+00:00: chore: update workflow templates to v0.9.98 (#14284) - https://github.com/Comfy-Org/ComfyUI/commit/6ecca5f468ac5a24c450d601867de4d366f701fc __auto-added__
+- 2026-06-04T18:41:33+00:00: Bump comfyui-frontend-package to 1.45.15 (#14265) - https://github.com/Comfy-Org/ComfyUI/commit/4e1f7cb1db1c26bb9ee61cf1875776517e2abae8 __auto-added__
+- 2026-06-04T18:07:31+00:00: v0.24.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.24.1 __auto-added__
