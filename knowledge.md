@@ -1736,3 +1736,4 @@ _Last updated: 2025-08-12_
 - 2026-06-03T16:15:23+00:00: Ideogram 4.0 Day-0 Support in ComfyUI: Open Weights and Structured Control - https://blog.comfy.org/p/ideogram-4-day-0-support-in-comfyui __auto-added__
 - 2026-06-03T20:20:30+00:00: chore(openapi): sync shared API contract from cloud@7c470f0 (#14174) - https://github.com/Comfy-Org/ComfyUI/commit/bb84c752831354d21f18488f5367497065c2151f __auto-added__
 - 2026-06-03T23:05:48+00:00: [Partner Nodes] fix SaveWEBM node to save alpha channel; add BriaTran… - https://github.com/Comfy-Org/ComfyUI/commit/4f99ce0f8c77e8de7318da1b70d745e55ece6022 __auto-added__
+- 2026-06-04T02:13:01+00:00: v1.46.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.9 __auto-added__
