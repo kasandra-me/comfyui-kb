@@ -1743,3 +1743,4 @@ _Last updated: 2025-08-12_
 - 2026-06-04T18:07:31+00:00: v0.24.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.24.1 __auto-added__
 - 2026-06-05T02:29:41+00:00: Consolidate audio nodes into SaveAudioAdvanced node (CORE-202) (#13871) - https://github.com/Comfy-Org/ComfyUI/commit/ab0d8a9203fbad76b0ccca723bbf9ba0c257ddfe __auto-added__
 - 2026-06-05T07:04:10+00:00: Enable cfg1 optimization for DualModelGuider with CFGGuider (#14290) - https://github.com/Comfy-Org/ComfyUI/commit/5aa71b9bc28809a16596bb9fa3d0a6300d8e3f0e __auto-added__
+- 2026-06-05T15:40:03+00:00: aimdo 049 (#14300) - https://github.com/Comfy-Org/ComfyUI/commit/ec6aa979a627ecbfb7847dad85a4a26a0a3a424a __auto-added__
