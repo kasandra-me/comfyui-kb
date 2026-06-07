@@ -1748,3 +1748,4 @@ _Last updated: 2025-08-12_
 - 2026-06-05T19:41:44+00:00: Update AMD portable readme. (#14303) - https://github.com/Comfy-Org/ComfyUI/commit/986ce5b4f0935035bbee63b628d01e5dcd67a5a9 __auto-added__
 - 2026-06-05T21:18:41+00:00: BE-1172 fix(3d): save Preview3DAdvanced / PreviewGaussianSplat / Prev… - https://github.com/Comfy-Org/ComfyUI/commit/a65a5464c731932c1565bca95b729ecaf055162d __auto-added__
 - 2026-06-06T02:01:57+00:00: feat(3d): reorder Preview3DAdvanced / PreviewGaussianSplat / PreviewP… - https://github.com/Comfy-Org/ComfyUI/commit/ea36cb16d62db2029309c983f77a6361534932af __auto-added__
+- 2026-06-07T02:33:03+00:00: Update line endings check to ignore .ci files. (#14319) - https://github.com/Comfy-Org/ComfyUI/commit/2cdaaf4a25fd5771da451e906a98e096397312a9 __auto-added__
