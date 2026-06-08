@@ -1750,3 +1750,4 @@ _Last updated: 2025-08-12_
 - 2026-06-06T02:01:57+00:00: feat(3d): reorder Preview3DAdvanced / PreviewGaussianSplat / PreviewP… - https://github.com/Comfy-Org/ComfyUI/commit/ea36cb16d62db2029309c983f77a6361534932af __auto-added__
 - 2026-06-07T02:33:03+00:00: Update line endings check to ignore .ci files. (#14319) - https://github.com/Comfy-Org/ComfyUI/commit/2cdaaf4a25fd5771da451e906a98e096397312a9 __auto-added__
 - 2026-06-08T03:56:53+00:00: Use windows line endings for windows portable readmes. (#14334) - https://github.com/Comfy-Org/ComfyUI/commit/739061dd4cbb7434a19de8b39cd08cb232b38a7c __auto-added__
+- 2026-06-08T10:15:05+00:00: Add SeedVR2 support (CORE-6) (#14110) - https://github.com/Comfy-Org/ComfyUI/commit/7863cf0e53ca599a84b3ec5bcda122e4ecc3765c __auto-added__
