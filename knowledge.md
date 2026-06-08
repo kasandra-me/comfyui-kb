@@ -1752,3 +1752,4 @@ _Last updated: 2025-08-12_
 - 2026-06-08T03:56:53+00:00: Use windows line endings for windows portable readmes. (#14334) - https://github.com/Comfy-Org/ComfyUI/commit/739061dd4cbb7434a19de8b39cd08cb232b38a7c __auto-added__
 - 2026-06-08T10:15:05+00:00: Add SeedVR2 support (CORE-6) (#14110) - https://github.com/Comfy-Org/ComfyUI/commit/7863cf0e53ca599a84b3ec5bcda122e4ecc3765c __auto-added__
 - 2026-06-08T17:05:10+00:00: Improve ResolutionSelector (#14309) - https://github.com/Comfy-Org/ComfyUI/commit/a1c434eb65113673c483a922e84cb0493622b3a3 __auto-added__
+- 2026-06-08T17:52:38+00:00: v1.46.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.10 __auto-added__
