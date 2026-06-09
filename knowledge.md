@@ -1756,3 +1756,4 @@ _Last updated: 2025-08-12_
 - 2026-06-08T21:27:50+00:00: feat(assets): extract image dimensions at ingest and emit on asset re… - https://github.com/Comfy-Org/ComfyUI/commit/a0a055bc4e4f2878c106bf8cf69c1aaa30f8b840 __auto-added__
 - 2026-06-08T22:00:20+00:00: Revert "Add SeedVR2 support (CORE-6) (#14110)" (#14359) - https://github.com/Comfy-Org/ComfyUI/commit/00b633f368e68ffc229084ed819354c29006f92c __auto-added__
 - 2026-06-09T03:55:49+00:00: fix: Add back apply_rotary_emb for Qwen Image (#14364) - https://github.com/Comfy-Org/ComfyUI/commit/f89999289abe06c638e15d1895e3c7805bd486b1 __auto-added__
+- 2026-06-09T06:16:01+00:00: v1.46.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.11 __auto-added__
