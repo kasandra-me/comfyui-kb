@@ -1758,3 +1758,4 @@ _Last updated: 2025-08-12_
 - 2026-06-09T03:55:49+00:00: fix: Add back apply_rotary_emb for Qwen Image (#14364) - https://github.com/Comfy-Org/ComfyUI/commit/f89999289abe06c638e15d1895e3c7805bd486b1 __auto-added__
 - 2026-06-09T06:16:01+00:00: v1.46.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.11 __auto-added__
 - 2026-06-09T13:57:58+00:00: Add LoRA key mapping for LTXV/LTXAV models (#14349) - https://github.com/Comfy-Org/ComfyUI/commit/07c53f8f0fa6b014a46756eaa5a07fa9e411ccad __auto-added__
+- 2026-06-09T15:36:56+00:00: Move bg_removal_model input socket to first position for nicer displa… - https://github.com/Comfy-Org/ComfyUI/commit/9fc6f5f6dd80ff7433edd25959fc7983e5d4d962 __auto-added__
