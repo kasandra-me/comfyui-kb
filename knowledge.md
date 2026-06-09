@@ -1761,3 +1761,4 @@ _Last updated: 2025-08-12_
 - 2026-06-09T15:36:56+00:00: Move bg_removal_model input socket to first position for nicer displa… - https://github.com/Comfy-Org/ComfyUI/commit/9fc6f5f6dd80ff7433edd25959fc7983e5d4d962 __auto-added__
 - 2026-06-09T17:57:04+00:00: mm: dont reset cast buffers in cleanup_models_gc() (#14372) - https://github.com/Comfy-Org/ComfyUI/commit/6f01b244a29e7b15b4a33168ceb4d603a6244c86 __auto-added__
 - 2026-06-09T19:55:29+00:00: Ensure conditions are not trainable to avoid bugs (#14368) - https://github.com/Comfy-Org/ComfyUI/commit/ad564899d37aec4cf151cf77b69bf1f4b6afe233 __auto-added__
+- 2026-06-09T21:09:45+00:00: Comfy Internals | How we got four rival AI labs to fight over our code reviews - https://blog.comfy.org/p/comfy-internals-how-we-got-four-rival __auto-added__
