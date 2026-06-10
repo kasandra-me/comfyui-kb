@@ -1764,3 +1764,5 @@ _Last updated: 2025-08-12_
 - 2026-06-09T21:09:45+00:00: Comfy Internals | How we got four rival AI labs to fight over our code reviews - https://blog.comfy.org/p/comfy-internals-how-we-got-four-rival __auto-added__
 - 2026-06-09T23:47:34+00:00: feat: Add Bernini-R model support (Wan video) (CORE-279) (#14216) - https://github.com/Comfy-Org/ComfyUI/commit/f8e51b674c75f41b3960d65ce83f77301ab297c9 __auto-added__
 - 2026-06-10T01:58:42+00:00: chore(openapi): sync shared API contract from cloud@ca12913 (#14367) - https://github.com/Comfy-Org/ComfyUI/commit/46d45aade1dfab6d5a3658f2650a4626f175be3a __auto-added__
+- 2026-06-10T04:52:14+00:00: fix(assets): remove unused delete_content param from deleteAsset (#14… - https://github.com/Comfy-Org/ComfyUI/commit/039ed38ed10ad0072a13f6471e06913ed33d5e56 __auto-added__
+- 2026-06-10T05:08:17+00:00: v1.46.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.12 __auto-added__
