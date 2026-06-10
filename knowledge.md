@@ -1766,3 +1766,4 @@ _Last updated: 2025-08-12_
 - 2026-06-10T01:58:42+00:00: chore(openapi): sync shared API contract from cloud@ca12913 (#14367) - https://github.com/Comfy-Org/ComfyUI/commit/46d45aade1dfab6d5a3658f2650a4626f175be3a __auto-added__
 - 2026-06-10T04:52:14+00:00: fix(assets): remove unused delete_content param from deleteAsset (#14… - https://github.com/Comfy-Org/ComfyUI/commit/039ed38ed10ad0072a13f6471e06913ed33d5e56 __auto-added__
 - 2026-06-10T05:08:17+00:00: v1.46.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.12 __auto-added__
+- 2026-06-10T17:54:32+00:00: main: force cudnn.benchmark to false (#14390) - https://github.com/Comfy-Org/ComfyUI/commit/6d18f4adacea2304f1f6f4ff3c0279d13654ec5c __auto-added__
