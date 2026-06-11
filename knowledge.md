@@ -1770,3 +1770,4 @@ _Last updated: 2025-08-12_
 - 2026-06-11T00:04:52+00:00: feat(assets): include asset id in executed WebSocket message (#13862) - https://github.com/Comfy-Org/ComfyUI/commit/ce200c0850182722cfd6e0f9f9bd3f619e48281e __auto-added__
 - 2026-06-11T05:37:43+00:00: Improve context window resizing for SCAIL2 (CORE-286) (#14394) - https://github.com/Comfy-Org/ComfyUI/commit/91187c58d946f237a051a98eb3ef3ccd28cf926f __auto-added__
 - 2026-06-11T04:24:27+00:00: v1.46.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.13 __auto-added__
+- 2026-06-11T08:28:17+00:00: [Partner Nodes] fix(GPT Image): handle mismatched image sizes returne… - https://github.com/Comfy-Org/ComfyUI/commit/ef470b61e4eab7de3319a83e689a9f236138102f __auto-added__
