@@ -1772,3 +1772,4 @@ _Last updated: 2025-08-12_
 - 2026-06-11T04:24:27+00:00: v1.46.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.13 __auto-added__
 - 2026-06-11T08:28:17+00:00: [Partner Nodes] fix(GPT Image): handle mismatched image sizes returne… - https://github.com/Comfy-Org/ComfyUI/commit/ef470b61e4eab7de3319a83e689a9f236138102f __auto-added__
 - 2026-06-11T14:43:35+00:00: [Partner Nodes] fix(KlingTextToVideoNode): validation error for "klin… - https://github.com/Comfy-Org/ComfyUI/commit/fb991e2c1e7476809d566a4620c2132e05a466dd __auto-added__
+- 2026-06-11T23:38:06+00:00: Don't crash when using flux kv cache with split batches. (#14422) - https://github.com/Comfy-Org/ComfyUI/commit/10d466b0e3a8c48f7dcb80def8feee0dc3345543 __auto-added__
