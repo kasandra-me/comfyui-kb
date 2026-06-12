@@ -1775,3 +1775,4 @@ _Last updated: 2025-08-12_
 - 2026-06-11T23:38:06+00:00: Don't crash when using flux kv cache with split batches. (#14422) - https://github.com/Comfy-Org/ComfyUI/commit/10d466b0e3a8c48f7dcb80def8feee0dc3345543 __auto-added__
 - 2026-06-12T01:24:54+00:00: [Partner Nodes] feat: enable Bria Replace Background node (#14397) - https://github.com/Comfy-Org/ComfyUI/commit/822aca19836cd75c815631db23c3ad742d1f7d5e __auto-added__
 - 2026-06-12T14:53:33+00:00: add --high-ram option (#14437) - https://github.com/Comfy-Org/ComfyUI/commit/d7a552720cf92fb8a7e34a2165a144ff9056dbe1 __auto-added__
+- 2026-06-12T17:17:11+00:00: [Partner Nodes] feat: add Runway Aleph2 node (#14306) - https://github.com/Comfy-Org/ComfyUI/commit/28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90 __auto-added__
