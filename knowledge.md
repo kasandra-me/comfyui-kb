@@ -1778,3 +1778,4 @@ _Last updated: 2025-08-12_
 - 2026-06-12T17:17:11+00:00: [Partner Nodes] feat: add Runway Aleph2 node (#14306) - https://github.com/Comfy-Org/ComfyUI/commit/28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90 __auto-added__
 - 2026-06-13T01:38:39+00:00: Use comfy kitchen apply rope in omnigen2 model. (#14442) - https://github.com/Comfy-Org/ComfyUI/commit/7277d99d3ab9f4ced8db4e87c82bad68028aa80d __auto-added__
 - 2026-06-13T02:30:25+00:00: v1.46.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.14 __auto-added__
+- 2026-06-13T14:15:49+00:00: Expose deploy_environment in /system_stats (#14402) - https://github.com/Comfy-Org/ComfyUI/commit/b664349ae72cf2fe5e812761421b6de5a987c409 __auto-added__
