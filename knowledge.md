@@ -1780,3 +1780,4 @@ _Last updated: 2025-08-12_
 - 2026-06-13T02:30:25+00:00: v1.46.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.46.14 __auto-added__
 - 2026-06-13T14:15:49+00:00: Expose deploy_environment in /system_stats (#14402) - https://github.com/Comfy-Org/ComfyUI/commit/b664349ae72cf2fe5e812761421b6de5a987c409 __auto-added__
 - 2026-06-13T19:50:31+00:00: Revert last commit. Last time I use this stupid GitHub app. - https://github.com/Comfy-Org/ComfyUI/commit/64cc0780691ae9d8e2b7284cd930254631017274 __auto-added__
+- 2026-06-14T00:58:48+00:00: Fix nondeterministic video decode at unaligned widths (CORE-299) (#14… - https://github.com/Comfy-Org/ComfyUI/commit/a1d95f3f8266ea5aef6f8784a5bbc016b143de70 __auto-added__
