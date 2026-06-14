@@ -1782,3 +1782,4 @@ _Last updated: 2025-08-12_
 - 2026-06-13T19:50:31+00:00: Revert last commit. Last time I use this stupid GitHub app. - https://github.com/Comfy-Org/ComfyUI/commit/64cc0780691ae9d8e2b7284cd930254631017274 __auto-added__
 - 2026-06-14T00:58:48+00:00: Fix nondeterministic video decode at unaligned widths (CORE-299) (#14… - https://github.com/Comfy-Org/ComfyUI/commit/a1d95f3f8266ea5aef6f8784a5bbc016b143de70 __auto-added__
 - 2026-06-14T14:19:20+00:00: [Partner Nodes] feat(Tripo3d): add new "Import 3D" node (#14466) - https://github.com/Comfy-Org/ComfyUI/commit/5897d0c3aecb969aaf36f2d31c8a14f3eee5df58 __auto-added__
+- 2026-06-14T18:42:03+00:00: bump manager version to 4.2.2 (#14471) - https://github.com/Comfy-Org/ComfyUI/commit/e1b9366898a4657bceea8737d74139406e4ea521 __auto-added__
