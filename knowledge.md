@@ -1783,3 +1783,4 @@ _Last updated: 2025-08-12_
 - 2026-06-14T00:58:48+00:00: Fix nondeterministic video decode at unaligned widths (CORE-299) (#14… - https://github.com/Comfy-Org/ComfyUI/commit/a1d95f3f8266ea5aef6f8784a5bbc016b143de70 __auto-added__
 - 2026-06-14T14:19:20+00:00: [Partner Nodes] feat(Tripo3d): add new "Import 3D" node (#14466) - https://github.com/Comfy-Org/ComfyUI/commit/5897d0c3aecb969aaf36f2d31c8a14f3eee5df58 __auto-added__
 - 2026-06-14T18:42:03+00:00: bump manager version to 4.2.2 (#14471) - https://github.com/Comfy-Org/ComfyUI/commit/e1b9366898a4657bceea8737d74139406e4ea521 __auto-added__
+- 2026-06-15T01:47:22+00:00: This is already auto enabled by default. (#14476) - https://github.com/Comfy-Org/ComfyUI/commit/4388eb781ab35c612c14d86d346b4663640c30e6 __auto-added__
