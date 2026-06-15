@@ -1784,3 +1784,4 @@ _Last updated: 2025-08-12_
 - 2026-06-14T14:19:20+00:00: [Partner Nodes] feat(Tripo3d): add new "Import 3D" node (#14466) - https://github.com/Comfy-Org/ComfyUI/commit/5897d0c3aecb969aaf36f2d31c8a14f3eee5df58 __auto-added__
 - 2026-06-14T18:42:03+00:00: bump manager version to 4.2.2 (#14471) - https://github.com/Comfy-Org/ComfyUI/commit/e1b9366898a4657bceea8737d74139406e4ea521 __auto-added__
 - 2026-06-15T01:47:22+00:00: This is already auto enabled by default. (#14476) - https://github.com/Comfy-Org/ComfyUI/commit/4388eb781ab35c612c14d86d346b4663640c30e6 __auto-added__
+- 2026-06-15T08:35:36+00:00: chore: update embedded docs to v0.5.4 (#14478) - https://github.com/Comfy-Org/ComfyUI/commit/7d4194d984abbfcd49ec93a615b95327c031ac69 __auto-added__
