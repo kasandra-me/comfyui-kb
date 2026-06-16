@@ -1787,3 +1787,5 @@ _Last updated: 2025-08-12_
 - 2026-06-15T08:35:36+00:00: chore: update embedded docs to v0.5.4 (#14478) - https://github.com/Comfy-Org/ComfyUI/commit/7d4194d984abbfcd49ec93a615b95327c031ac69 __auto-added__
 - 2026-06-15T16:20:01+00:00: [Partner Nodes] fix(SoniloTextToMusic): always require "duration" to … - https://github.com/Comfy-Org/ComfyUI/commit/2f4c4e983c63dc60ae781bcca01e0e17f4f404d6 __auto-added__
 - 2026-06-15T12:24:22+00:00: v1.47.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.0 __auto-added__
+- 2026-06-16T04:24:41+00:00: chore(openapi): sync shared API contract from cloud@00ef9cc (#14423) - https://github.com/Comfy-Org/ComfyUI/commit/86f987ca7c887d0a37daaf341a57c6a0473ddab0 __auto-added__
+- 2026-06-16T03:45:14+00:00: v0.25.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.25.0 __auto-added__
