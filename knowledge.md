@@ -1789,3 +1789,4 @@ _Last updated: 2025-08-12_
 - 2026-06-15T12:24:22+00:00: v1.47.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.0 __auto-added__
 - 2026-06-16T04:24:41+00:00: chore(openapi): sync shared API contract from cloud@00ef9cc (#14423) - https://github.com/Comfy-Org/ComfyUI/commit/86f987ca7c887d0a37daaf341a57c6a0473ddab0 __auto-added__
 - 2026-06-16T03:45:14+00:00: v0.25.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.25.0 __auto-added__
+- 2026-06-16T08:21:04+00:00: Add the checkbox to disable head drawing in node SDPoseDrawKeypoints … - https://github.com/Comfy-Org/ComfyUI/commit/d38ea29d6244582404533a8e52cbb069c3e251f6 __auto-added__
