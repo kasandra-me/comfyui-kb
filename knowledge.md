@@ -1793,3 +1793,4 @@ _Last updated: 2025-08-12_
 - 2026-06-16T11:21:36+00:00: fix: log base directory to startup messages when --base-directory is … - https://github.com/Comfy-Org/ComfyUI/commit/90eeeb21390b746da522bb2882af6090d869ba2a __auto-added__
 - 2026-06-17T00:52:55+00:00: Add new model blueprints (#14506) - https://github.com/Comfy-Org/ComfyUI/commit/c44d261fc20a0a1032fccfe1d6472915a514d577 __auto-added__
 - 2026-06-16T23:23:29+00:00: v1.47.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.1 __auto-added__
+- 2026-06-17T03:02:53+00:00: Update links to new comfyui desktop repo. (#14516) - https://github.com/Comfy-Org/ComfyUI/commit/f026b01ba576d98442839861a0eb0046bc2250d3 __auto-added__
