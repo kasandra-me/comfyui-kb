@@ -1795,3 +1795,4 @@ _Last updated: 2025-08-12_
 - 2026-06-16T23:23:29+00:00: v1.47.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.1 __auto-added__
 - 2026-06-17T03:02:53+00:00: Update links to new comfyui desktop repo. (#14516) - https://github.com/Comfy-Org/ComfyUI/commit/f026b01ba576d98442839861a0eb0046bc2250d3 __auto-added__
 - 2026-06-17T09:15:32+00:00: 5.8.6 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.6 __auto-added__
+- 2026-06-17T13:21:23+00:00: feat: SCAIL-2 multireference (CORE-310) (#14509) - https://github.com/Comfy-Org/ComfyUI/commit/a590d60bb1d7d47c1cdb49fc8116b0e919fc4bd1 __auto-added__
