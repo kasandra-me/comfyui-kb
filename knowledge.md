@@ -1797,3 +1797,4 @@ _Last updated: 2025-08-12_
 - 2026-06-17T09:15:32+00:00: 5.8.6 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.6 __auto-added__
 - 2026-06-17T13:21:23+00:00: feat: SCAIL-2 multireference (CORE-310) (#14509) - https://github.com/Comfy-Org/ComfyUI/commit/a590d60bb1d7d47c1cdb49fc8116b0e919fc4bd1 __auto-added__
 - 2026-06-17T15:45:06+00:00: Allow using Qwen3-VL as flux2 klein text encoder (again) (#14526) - https://github.com/Comfy-Org/ComfyUI/commit/ca3dbe206c2fea84f2af4371ca13e9f2bfeb82e5 __auto-added__
+- 2026-06-17T21:22:36+00:00: feat: Support Boogu-Image (CORE-308) (#14523) - https://github.com/Comfy-Org/ComfyUI/commit/e25c391888618967f7ef199f466ff29da2ed14b3 __auto-added__
