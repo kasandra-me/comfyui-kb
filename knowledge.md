@@ -1802,3 +1802,4 @@ _Last updated: 2025-08-12_
 - 2026-06-17T23:54:53+00:00: [Partner Nodes] feat(Kling): add support for Kling V3-Turbo model (#1… - https://github.com/Comfy-Org/ComfyUI/commit/191a75a2cdc021236fb7cbd4631511246b79a8c6 __auto-added__
 - 2026-06-18T00:07:36+00:00: v0.25.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.25.1 __auto-added__
 - 2026-06-18T01:29:53+00:00: v1.47.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.2 __auto-added__
+- 2026-06-18T02:35:05+00:00: feat: add enable_telemetry CLI feature flag (#14530) - https://github.com/Comfy-Org/ComfyUI/commit/f2270f070a372898ca748299a51dcba5bba0ba53 __auto-added__
