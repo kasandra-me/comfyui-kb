@@ -1808,3 +1808,4 @@ _Last updated: 2025-08-12_
 - 2026-06-19T05:46:07+00:00: [Partner Nodes] feat(Luma): add support for Luma Rays 3.2 (#14540) - https://github.com/Comfy-Org/ComfyUI/commit/5955ddff52a2eda2ba0cf7f3fb0927c93fb2fbb8 __auto-added__
 - 2026-06-19T05:14:42+00:00: v1.45.18 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.18 __auto-added__
 - 2026-06-19T08:32:56+00:00: [Partner Nodes] fix: respect Retry-After header (#14234) - https://github.com/Comfy-Org/ComfyUI/commit/bd39bbf0678ebd31c972fd365733a8c729f2cd74 __auto-added__
+- 2026-06-19T21:16:28+00:00: v1.45.19 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.19 __auto-added__
