@@ -1812,3 +1812,4 @@ _Last updated: 2025-08-12_
 - 2026-06-19T23:47:31+00:00: feat: Context Windows sampling with LTX2 models and IC-LoRa guides (C… - https://github.com/Comfy-Org/ComfyUI/commit/cd77c551d6c7efa46a8ba514fd6f4e04aac76b4d __auto-added__
 - 2026-06-20T00:05:28+00:00: Small anima optimization. (#14557) - https://github.com/Comfy-Org/ComfyUI/commit/e00b55631a7d89125ed0e4689d14e16e835a3ed5 __auto-added__
 - 2026-06-20T06:13:37+00:00: [Partner Nodes] chore(Google): remove preview versions of models that… - https://github.com/Comfy-Org/ComfyUI/commit/dc3f8f314a987d23115ed278693e76cf6e72a5a0 __auto-added__
+- 2026-06-21T02:28:09+00:00: Update extra model paths example. (#14570) - https://github.com/Comfy-Org/ComfyUI/commit/0d8b7510bdc5409f4a76c3191e122ddea50f4aa2 __auto-added__
