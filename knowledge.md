@@ -1815,3 +1815,4 @@ _Last updated: 2025-08-12_
 - 2026-06-21T02:28:09+00:00: Update extra model paths example. (#14570) - https://github.com/Comfy-Org/ComfyUI/commit/0d8b7510bdc5409f4a76c3191e122ddea50f4aa2 __auto-added__
 - 2026-06-22T02:15:28+00:00: Add output socket to save nodes (#13866) - https://github.com/Comfy-Org/ComfyUI/commit/b0f9e326af0bf88ea901d0481f581a791a58ccbb __auto-added__
 - 2026-06-22T10:29:02+00:00: chore: update embedded docs to v0.5.5 (#14585) - https://github.com/Comfy-Org/ComfyUI/commit/6978a466b872712a004284d4b59672b61d77e3cf __auto-added__
+- 2026-06-22T16:42:19+00:00: I built a native Comfy Cloud mobile app on nothing but the public API - https://blog.comfy.org/p/i-built-a-native-comfy-cloud-mobile __auto-added__
