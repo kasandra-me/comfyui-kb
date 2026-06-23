@@ -1818,3 +1818,4 @@ _Last updated: 2025-08-12_
 - 2026-06-22T16:42:19+00:00: I built a native Comfy Cloud mobile app on nothing but the public API - https://blog.comfy.org/p/i-built-a-native-comfy-cloud-mobile __auto-added__
 - 2026-06-22T21:35:00+00:00: feat: Support Krea2 (#14589) - https://github.com/Comfy-Org/ComfyUI/commit/2a610155821d670a2d8047e654e5fce96b790eb5 __auto-added__
 - 2026-06-23T04:06:19+00:00: Please try native formats instead of disabling dynamic vram. (#14577) - https://github.com/Comfy-Org/ComfyUI/commit/833bfb572e8552d1cfe590b3b6445e96e7526f25 __auto-added__
+- 2026-06-23T10:29:46+00:00: [Partner Nodes] feat(Alibaba): add support for HappyHorse 1.1 model (… - https://github.com/Comfy-Org/ComfyUI/commit/0a92ed161e6fa18eb169d96d64b4c279cf280dc5 __auto-added__
