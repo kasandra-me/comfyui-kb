@@ -1822,3 +1822,6 @@ _Last updated: 2025-08-12_
 - 2026-06-23T13:18:35+00:00: [Partner Nodes] feat(ByteDance): add 4K resolution support for SeeDan… - https://github.com/Comfy-Org/ComfyUI/commit/0ba903bd5bab918477f9adb290f35fdb907dc703 __auto-added__
 - 2026-06-23T15:38:46+00:00: [Partner Nodes] feat(Grok): add 1080p resolution to Grok Image node (… - https://github.com/Comfy-Org/ComfyUI/commit/0f949d0fafbd86f2494459a5bf89d9329775e199 __auto-added__
 - 2026-06-23T15:59:52+00:00: The tool that expands my art: Xindi Zhang's Oscar-shortlisted thesis, built in ComfyUI - https://blog.comfy.org/p/the-tool-that-expands-my-art-xindi __auto-added__
+- 2026-06-23T17:22:28+00:00: ComfyUI v0.26.0 - https://github.com/Comfy-Org/ComfyUI/commit/f6c162ddcfbd7eefb39c06fe5b8d4c46e8d09f40 __auto-added__
+- 2026-06-23T17:22:28+00:00: v0.26.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.0 __auto-added__
+- 2026-06-23T17:58:57+00:00: Krea 2 Open-Source Models are now available in ComfyUI - https://blog.comfy.org/p/krea-2-open-source-models-are-now __auto-added__
