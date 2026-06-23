@@ -1820,3 +1820,5 @@ _Last updated: 2025-08-12_
 - 2026-06-23T04:06:19+00:00: Please try native formats instead of disabling dynamic vram. (#14577) - https://github.com/Comfy-Org/ComfyUI/commit/833bfb572e8552d1cfe590b3b6445e96e7526f25 __auto-added__
 - 2026-06-23T10:29:46+00:00: [Partner Nodes] feat(Alibaba): add support for HappyHorse 1.1 model (… - https://github.com/Comfy-Org/ComfyUI/commit/0a92ed161e6fa18eb169d96d64b4c279cf280dc5 __auto-added__
 - 2026-06-23T13:18:35+00:00: [Partner Nodes] feat(ByteDance): add 4K resolution support for SeeDan… - https://github.com/Comfy-Org/ComfyUI/commit/0ba903bd5bab918477f9adb290f35fdb907dc703 __auto-added__
+- 2026-06-23T15:38:46+00:00: [Partner Nodes] feat(Grok): add 1080p resolution to Grok Image node (… - https://github.com/Comfy-Org/ComfyUI/commit/0f949d0fafbd86f2494459a5bf89d9329775e199 __auto-added__
+- 2026-06-23T15:59:52+00:00: The tool that expands my art: Xindi Zhang's Oscar-shortlisted thesis, built in ComfyUI - https://blog.comfy.org/p/the-tool-that-expands-my-art-xindi __auto-added__
