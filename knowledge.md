@@ -1826,3 +1826,4 @@ _Last updated: 2025-08-12_
 - 2026-06-23T17:22:28+00:00: v0.26.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.0 __auto-added__
 - 2026-06-23T17:58:57+00:00: Krea 2 Open-Source Models are now available in ComfyUI - https://blog.comfy.org/p/krea-2-open-source-models-are-now __auto-added__
 - 2026-06-23T21:32:28+00:00: v1.47.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.3 __auto-added__
+- 2026-06-24T10:37:28+00:00: [Partner Nodes] feat(Alibaba): add support for HappyHorse 1.1 model (… - https://github.com/Comfy-Org/ComfyUI/commit/44955d783b969241dd7b1899777e0f00e940bc02 __auto-added__
