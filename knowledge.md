@@ -1837,3 +1837,4 @@ _Last updated: 2025-08-12_
 - 2026-06-25T15:26:32+00:00: v0.26.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.2 __auto-added__
 - 2026-06-25T15:57:10+00:00: Seedance 2.0 Mini and 4K is now available in ComfyUI - https://blog.comfy.org/p/seedance-20-mini-and-4k-is-now-available __auto-added__
 - 2026-06-25T18:23:58+00:00: Support int8 models. (#14636) - https://github.com/Comfy-Org/ComfyUI/commit/1a510f04234e5a213d3985a1a54f65652623f4bc __auto-added__
+- 2026-06-25T22:25:47+00:00: Faster int8. (#14641) - https://github.com/Comfy-Org/ComfyUI/commit/7cb784e0f48784bb6ed588912e186e5ee1e9ee68 __auto-added__
