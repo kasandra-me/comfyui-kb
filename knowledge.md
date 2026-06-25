@@ -1833,3 +1833,4 @@ _Last updated: 2025-08-12_
 - 2026-06-24T20:49:34+00:00: HappyHorse 1.1 is now available in ComfyUI - https://blog.comfy.org/p/happyhorse-11-is-now-available-in __auto-added__
 - 2026-06-25T01:39:10+00:00: feat: Add Support For Simple Seed (CORE-295) (#14616) - https://github.com/Comfy-Org/ComfyUI/commit/b22d0fb9c0f96552fa2120b251fb0a2712cf8e9b __auto-added__
 - 2026-06-25T05:54:53+00:00: chore(openapi): sync shared API contract from cloud@4118910 (#14619) - https://github.com/Comfy-Org/ComfyUI/commit/b0ec19804ff68bfafb2729fe1c83e5f451a6061e __auto-added__
+- 2026-06-25T15:05:34+00:00: chore: update workflow templates to v0.10.7 (#14632) - https://github.com/Comfy-Org/ComfyUI/commit/639c8fa788916dc1c6ecd0fb5d65fa2c00e323fb __auto-added__
