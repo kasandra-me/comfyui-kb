@@ -1831,3 +1831,4 @@ _Last updated: 2025-08-12_
 - 2026-06-24T14:57:46+00:00: [Partner Nodes] feat(ByteDance): add 4K resolution support for SeeDan… - https://github.com/Comfy-Org/ComfyUI/commit/5236cd02e61362677c22e39a06eb0e44c79c9633 __auto-added__
 - 2026-06-24T19:05:19+00:00: v0.26.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.26.1 __auto-added__
 - 2026-06-24T20:49:34+00:00: HappyHorse 1.1 is now available in ComfyUI - https://blog.comfy.org/p/happyhorse-11-is-now-available-in __auto-added__
+- 2026-06-25T01:39:10+00:00: feat: Add Support For Simple Seed (CORE-295) (#14616) - https://github.com/Comfy-Org/ComfyUI/commit/b22d0fb9c0f96552fa2120b251fb0a2712cf8e9b __auto-added__
