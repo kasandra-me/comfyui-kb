@@ -1844,3 +1844,4 @@ _Last updated: 2025-08-12_
 - 2026-06-27T22:53:11+00:00: int8 support on turing GPUs. (#14662) - https://github.com/Comfy-Org/ComfyUI/commit/a95e461916de9cbda2e89140ab86a8a7c3f9702a __auto-added__
 - 2026-06-28T06:34:30+00:00: ci: add team-gated Cursor review (thin caller for github-workflows) (… - https://github.com/Comfy-Org/ComfyUI/commit/f19735759e8973bd2ead76f08d9cc45abc1f98e4 __auto-added__
 - 2026-06-29T03:52:36+00:00: Fix int8 mm being skipped on offloaded lora weights. (#14669) - https://github.com/Comfy-Org/ComfyUI/commit/79c555ce6bfebf862d014e710b8d4b541ba5b896 __auto-added__
+- 2026-06-29T09:08:06+00:00: chore: update embedded docs to v0.5.6 (#14668) - https://github.com/Comfy-Org/ComfyUI/commit/a58473fd9bf3a1e2383a41c6267ca03a168150ba __auto-added__
