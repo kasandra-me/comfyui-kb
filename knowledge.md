@@ -1849,3 +1849,4 @@ _Last updated: 2025-08-12_
 - 2026-06-30T01:52:08+00:00: Better and faster int8 lora applying. (#14685) - https://github.com/Comfy-Org/ComfyUI/commit/785141051163612f0e471a242c1f33341f60b9bd __auto-added__
 - 2026-06-30T00:53:10+00:00: v1.45.20 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.20 __auto-added__
 - 2026-06-30T08:27:09+00:00: Add ConditioningMultiply node to nodes.py as an addition to other adj… - https://github.com/Comfy-Org/ComfyUI/commit/ba3f697dbbf2fd15a23c3e9fd8fb8f89552a1475 __auto-added__
+- 2026-06-30T18:17:23+00:00: [Partner Nodes] feat(Google): add Nano Banana 2 Lite model (#14693) - https://github.com/Comfy-Org/ComfyUI/commit/8fe0243d974b72b733deb21d04000626b26247d1 __auto-added__
