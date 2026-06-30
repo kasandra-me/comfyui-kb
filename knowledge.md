@@ -1846,3 +1846,5 @@ _Last updated: 2025-08-12_
 - 2026-06-29T03:52:36+00:00: Fix int8 mm being skipped on offloaded lora weights. (#14669) - https://github.com/Comfy-Org/ComfyUI/commit/79c555ce6bfebf862d014e710b8d4b541ba5b896 __auto-added__
 - 2026-06-29T09:08:06+00:00: chore: update embedded docs to v0.5.6 (#14668) - https://github.com/Comfy-Org/ComfyUI/commit/a58473fd9bf3a1e2383a41c6267ca03a168150ba __auto-added__
 - 2026-06-29T15:56:45+00:00: Comfy MCP: Turn your agent into a creative technologist - https://blog.comfy.org/p/comfy-mcp-turn-your-agent-into-a __auto-added__
+- 2026-06-30T01:52:08+00:00: Better and faster int8 lora applying. (#14685) - https://github.com/Comfy-Org/ComfyUI/commit/785141051163612f0e471a242c1f33341f60b9bd __auto-added__
+- 2026-06-30T00:53:10+00:00: v1.45.20 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.45.20 __auto-added__
