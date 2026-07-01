@@ -1852,3 +1852,4 @@ _Last updated: 2025-08-12_
 - 2026-06-30T18:17:23+00:00: [Partner Nodes] feat(Google): add Nano Banana 2 Lite model (#14693) - https://github.com/Comfy-Org/ComfyUI/commit/8fe0243d974b72b733deb21d04000626b26247d1 __auto-added__
 - 2026-06-30T21:40:33+00:00: Add AGENTS.md (#14696) - https://github.com/Comfy-Org/ComfyUI/commit/50e5270b86765bac2da70248d61050abba72b19f __auto-added__
 - 2026-06-30T22:19:48+00:00: v0.27.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.0 __auto-added__
+- 2026-07-01T05:51:51+00:00: Add some more stuff to AGENTS.md (#14704) - https://github.com/Comfy-Org/ComfyUI/commit/dd17debce517f8818ae9910b437cb1ebaa673176 __auto-added__
