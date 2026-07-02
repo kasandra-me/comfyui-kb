@@ -1855,3 +1855,4 @@ _Last updated: 2025-08-12_
 - 2026-07-01T05:51:51+00:00: Add some more stuff to AGENTS.md (#14704) - https://github.com/Comfy-Org/ComfyUI/commit/dd17debce517f8818ae9910b437cb1ebaa673176 __auto-added__
 - 2026-07-01T18:15:07+00:00: Fix Qwen3-VL tokenizer crash with custom embeddings (#14713) - https://github.com/Comfy-Org/ComfyUI/commit/2c935de1b1cf7f03d2412a1d0bf1ed2685157c27 __auto-added__
 - 2026-07-02T01:55:13+00:00: Update AGENTS.md with more stuff. (#14725) - https://github.com/Comfy-Org/ComfyUI/commit/92594ca84c8997541d68c970feb2a41d95d193ca __auto-added__
+- 2026-07-02T05:35:11+00:00: [Partner Nodes] chore(Ideogram): remove IdeogramV1 and IdeogramV2 nod… - https://github.com/Comfy-Org/ComfyUI/commit/694815f498295080a0e15a1502edc9dba841b110 __auto-added__
