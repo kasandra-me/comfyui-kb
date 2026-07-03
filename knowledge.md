@@ -1858,3 +1858,4 @@ _Last updated: 2025-08-12_
 - 2026-07-02T05:35:11+00:00: [Partner Nodes] chore(Ideogram): remove IdeogramV1 and IdeogramV2 nod… - https://github.com/Comfy-Org/ComfyUI/commit/694815f498295080a0e15a1502edc9dba841b110 __auto-added__
 - 2026-07-02T19:05:55+00:00: Update AGENTS.md (#14726) - https://github.com/Comfy-Org/ComfyUI/commit/35c1470935044be5610a81d46e57922a8a598c6c __auto-added__
 - 🔥 2026-07-03T03:44:54+00:00: security: fix four vulnerabilities (GHSA-779p-m5rp-r4h4) (#14734) - https://github.com/Comfy-Org/ComfyUI/commit/96e0e3585b41e1417442eaa14ec57f7b4ffcb5e0 __priority-auto-added__
+- 2026-07-03T06:08:47+00:00: Update AGENTS.md (#14733) - https://github.com/Comfy-Org/ComfyUI/commit/1e04ced089758f1855b84abad739be503c7dc9cd __auto-added__
