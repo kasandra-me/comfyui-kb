@@ -1861,3 +1861,4 @@ _Last updated: 2025-08-12_
 - 2026-07-03T06:08:47+00:00: Update AGENTS.md (#14733) - https://github.com/Comfy-Org/ComfyUI/commit/1e04ced089758f1855b84abad739be503c7dc9cd __auto-added__
 - 2026-07-03T11:24:21+00:00: [Partner Nodes] chore(StabilityAI): remove StabilityAI nodes (#14737) - https://github.com/Comfy-Org/ComfyUI/commit/77917ed3a6291689e5c2ee8ccbdd6708e85a53a6 __auto-added__
 - 2026-07-03T20:08:24+00:00: Update AGENTS.md (#14738) - https://github.com/Comfy-Org/ComfyUI/commit/de1b8f3e8d543deea34c1fa5e006b0c9971038fc __auto-added__
+- 2026-07-03T21:01:05+00:00: [Partner Nodes] chore(ByteDance): adjust category name (#14752) - https://github.com/Comfy-Org/ComfyUI/commit/1073a74976b3ecfeda41521103a81da7d5151647 __auto-added__
