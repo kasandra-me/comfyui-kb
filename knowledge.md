@@ -1868,3 +1868,4 @@ _Last updated: 2025-08-12_
 - 2026-07-04T23:13:38+00:00: fix: Bug when setting transparency in color picker (#14764) - https://github.com/Comfy-Org/ComfyUI/commit/7f287b705e3daf430c206acb5f0f862dd86c2c7c __auto-added__
 - 2026-07-05T10:55:29+00:00: [Partner Nodes] fix(logs-auth): mask authorization headers in logs (#… - https://github.com/Comfy-Org/ComfyUI/commit/985fb9d6adc974df9783d3d355cf86b992956212 __auto-added__
 - 2026-07-06T01:56:09+00:00: chore: update embedded docs to v0.5.7 (#14783) - https://github.com/Comfy-Org/ComfyUI/commit/b08debceca73bd3732b731c571bd0b4710281310 __auto-added__
+- 2026-07-06T21:35:12+00:00: Skip unloading dynamic model patchers in current workflow. (#14799) - https://github.com/Comfy-Org/ComfyUI/commit/439bd807f88083602104c2761bf5875af91141d6 __auto-added__
