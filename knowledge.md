@@ -1867,3 +1867,4 @@ _Last updated: 2025-08-12_
 - 2026-07-04T18:25:24+00:00: Try to make coderabbit enforce AGENTS.md (#14759) - https://github.com/Comfy-Org/ComfyUI/commit/b7ba504e0614f81549f7b05cece271ed5d91bc9a __auto-added__
 - 2026-07-04T23:13:38+00:00: fix: Bug when setting transparency in color picker (#14764) - https://github.com/Comfy-Org/ComfyUI/commit/7f287b705e3daf430c206acb5f0f862dd86c2c7c __auto-added__
 - 2026-07-05T10:55:29+00:00: [Partner Nodes] fix(logs-auth): mask authorization headers in logs (#… - https://github.com/Comfy-Org/ComfyUI/commit/985fb9d6adc974df9783d3d355cf86b992956212 __auto-added__
+- 2026-07-06T01:56:09+00:00: chore: update embedded docs to v0.5.7 (#14783) - https://github.com/Comfy-Org/ComfyUI/commit/b08debceca73bd3732b731c571bd0b4710281310 __auto-added__
