@@ -1871,3 +1871,4 @@ _Last updated: 2025-08-12_
 - 2026-07-06T21:35:12+00:00: Skip unloading dynamic model patchers in current workflow. (#14799) - https://github.com/Comfy-Org/ComfyUI/commit/439bd807f88083602104c2761bf5875af91141d6 __auto-added__
 - 2026-07-06T22:44:19+00:00: ci: add CLA Assistant workflow (#14582) - https://github.com/Comfy-Org/ComfyUI/commit/7747c342d4143f35e7c8031dddf3ee4455f10a2e __auto-added__
 - 2026-07-07T02:24:05+00:00: Delete symlink that breaks our updates. (#14803) - https://github.com/Comfy-Org/ComfyUI/commit/7cf4e7833519cbe9eff0e45767d01fd365d12a86 __auto-added__
+- 2026-07-07T12:59:49+00:00: fix(Video): don't crash on videos with undecodable audio streams (#14… - https://github.com/Comfy-Org/ComfyUI/commit/a3020f107e302feea24180860afec7be60af5702 __auto-added__
