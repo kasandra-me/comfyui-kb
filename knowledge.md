@@ -1874,3 +1874,4 @@ _Last updated: 2025-08-12_
 - 2026-07-07T12:59:49+00:00: fix(Video): don't crash on videos with undecodable audio streams (#14… - https://github.com/Comfy-Org/ComfyUI/commit/a3020f107e302feea24180860afec7be60af5702 __auto-added__
 - 2026-07-07T13:26:52+00:00: feat: Implement basic text overlay node (CORE-137) (#14610) - https://github.com/Comfy-Org/ComfyUI/commit/51bf508a0b1bde9416a0c221b0f33f8325305229 __auto-added__
 - 🔥 2026-07-08T02:57:52+00:00: Support gqa on all attention backends, drop support for pytorch 2.4 (… - https://github.com/Comfy-Org/ComfyUI/commit/b481bc15afda8222b1674cea29d141c24bc7ef7e __priority-auto-added__
+- 2026-07-08T04:17:31+00:00: Fix crash when using UNetSelfAttentionMultiply (#14823) - https://github.com/Comfy-Org/ComfyUI/commit/ffbecfffb953914f5b4bd8f61d810ff2300631de __auto-added__
