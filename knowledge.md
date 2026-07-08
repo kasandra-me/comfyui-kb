@@ -1877,3 +1877,4 @@ _Last updated: 2025-08-12_
 - 2026-07-08T04:17:31+00:00: Fix crash when using UNetSelfAttentionMultiply (#14823) - https://github.com/Comfy-Org/ComfyUI/commit/ffbecfffb953914f5b4bd8f61d810ff2300631de __auto-added__
 - 2026-07-08T14:20:47+00:00: add models-directory launch argument (#9113) - https://github.com/Comfy-Org/ComfyUI/commit/091b70edda0c062fc9338a1d7e8e2f94f4c0ad0b __auto-added__
 - 2026-07-08T20:01:43+00:00: Fix AttributeError in VAE.is_dynamic() for VAEs constructed without a… - https://github.com/Comfy-Org/ComfyUI/commit/c6cb9049943a5841e9ec5a8480eb882554377afc __auto-added__
+- 2026-07-08T21:04:57+00:00: Update workflow templates to v0.11.6 (#14834) - https://github.com/Comfy-Org/ComfyUI/commit/6cc814437f1da529cc949146775f0a5fd1f7e418 __auto-added__
