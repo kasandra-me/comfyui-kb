@@ -1884,3 +1884,4 @@ _Last updated: 2025-08-12_
 - 2026-07-09T06:20:10+00:00: feat: allow --comfy-api-base target ephemeral testenvs (#14569) - https://github.com/Comfy-Org/ComfyUI/commit/b35819712e9e3c1618bb0fa3d9a93c8e3a93d2fb __auto-added__
 - 2026-07-09T07:43:23+00:00: v1.48.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.0 __auto-added__
 - 2026-07-09T14:42:20+00:00: fix: Load3D failing path validation from double path resolution (#14852) - https://github.com/Comfy-Org/ComfyUI/commit/04a30fb375a6c1312365fbbbdd0a7d0669212e92 __auto-added__
+- 2026-07-09T19:59:30+00:00: feat(api): expose registered extension filters on /experiment/models … - https://github.com/Comfy-Org/ComfyUI/commit/412aaab0e27d244f3fe47b2e593fa40cc9bcb4c6 __auto-added__
