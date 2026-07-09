@@ -1881,3 +1881,5 @@ _Last updated: 2025-08-12_
 - 2026-07-08T22:32:51+00:00: v0.27.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.1 __auto-added__
 - 2026-07-09T05:00:08+00:00: feat(assets): add namespaced model_type tags and align tag semantics … - https://github.com/Comfy-Org/ComfyUI/commit/55a15f87ce7e8b70af2ea4da791a3aca75ac3ad5 __auto-added__
 - 2026-07-09T02:05:44+00:00: Seedream 5.0 Pro Now Available in ComfyUI - https://blog.comfy.org/p/seedream-50-pro __auto-added__
+- 2026-07-09T06:20:10+00:00: feat: allow --comfy-api-base target ephemeral testenvs (#14569) - https://github.com/Comfy-Org/ComfyUI/commit/b35819712e9e3c1618bb0fa3d9a93c8e3a93d2fb __auto-added__
+- 2026-07-09T07:43:23+00:00: v1.48.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.0 __auto-added__
