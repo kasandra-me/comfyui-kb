@@ -1879,3 +1879,5 @@ _Last updated: 2025-08-12_
 - 2026-07-08T20:01:43+00:00: Fix AttributeError in VAE.is_dynamic() for VAEs constructed without a… - https://github.com/Comfy-Org/ComfyUI/commit/c6cb9049943a5841e9ec5a8480eb882554377afc __auto-added__
 - 2026-07-08T21:04:57+00:00: Update workflow templates to v0.11.6 (#14834) - https://github.com/Comfy-Org/ComfyUI/commit/6cc814437f1da529cc949146775f0a5fd1f7e418 __auto-added__
 - 2026-07-08T22:32:51+00:00: v0.27.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.1 __auto-added__
+- 2026-07-09T05:00:08+00:00: feat(assets): add namespaced model_type tags and align tag semantics … - https://github.com/Comfy-Org/ComfyUI/commit/55a15f87ce7e8b70af2ea4da791a3aca75ac3ad5 __auto-added__
+- 2026-07-09T02:05:44+00:00: Seedream 5.0 Pro Now Available in ComfyUI - https://blog.comfy.org/p/seedream-50-pro __auto-added__
