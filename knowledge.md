@@ -1887,3 +1887,5 @@ _Last updated: 2025-08-12_
 - 2026-07-09T19:59:30+00:00: feat(api): expose registered extension filters on /experiment/models … - https://github.com/Comfy-Org/ComfyUI/commit/412aaab0e27d244f3fe47b2e593fa40cc9bcb4c6 __auto-added__
 - 2026-07-09T22:57:09+00:00: Support convrot int4 models. (#14859) - https://github.com/Comfy-Org/ComfyUI/commit/73e84d5ec8b943dcb42535229eb94ee7ab3abea1 __auto-added__
 - 2026-07-09T23:39:01+00:00: Try to fix the model reloading issue some people have. (#14822) - https://github.com/Comfy-Org/ComfyUI/commit/b7a648ca2011489ba40eaacf01a5d6f4e9fab539 __auto-added__
+- 2026-07-10T03:17:06+00:00: Fix black image on turing when using int4 models. (#14864) - https://github.com/Comfy-Org/ComfyUI/commit/e2a6e30d892402ffcf01d6280c8e2744a4448b9d __auto-added__
+- 2026-07-10T02:37:13+00:00: v1.48.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.1 __auto-added__
