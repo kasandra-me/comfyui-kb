@@ -1889,3 +1889,4 @@ _Last updated: 2025-08-12_
 - 2026-07-09T23:39:01+00:00: Try to fix the model reloading issue some people have. (#14822) - https://github.com/Comfy-Org/ComfyUI/commit/b7a648ca2011489ba40eaacf01a5d6f4e9fab539 __auto-added__
 - 2026-07-10T03:17:06+00:00: Fix black image on turing when using int4 models. (#14864) - https://github.com/Comfy-Org/ComfyUI/commit/e2a6e30d892402ffcf01d6280c8e2744a4448b9d __auto-added__
 - 2026-07-10T02:37:13+00:00: v1.48.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.1 __auto-added__
+- 2026-07-10T07:07:42+00:00: Add SeedVR2 support (CORE-6) (#14424) - https://github.com/Comfy-Org/ComfyUI/commit/8e2e54e2b8fd2623e5bc255b7c90ccf09bcb04bb __auto-added__
