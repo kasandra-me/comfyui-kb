@@ -1886,3 +1886,4 @@ _Last updated: 2025-08-12_
 - 2026-07-09T14:42:20+00:00: fix: Load3D failing path validation from double path resolution (#14852) - https://github.com/Comfy-Org/ComfyUI/commit/04a30fb375a6c1312365fbbbdd0a7d0669212e92 __auto-added__
 - 2026-07-09T19:59:30+00:00: feat(api): expose registered extension filters on /experiment/models … - https://github.com/Comfy-Org/ComfyUI/commit/412aaab0e27d244f3fe47b2e593fa40cc9bcb4c6 __auto-added__
 - 2026-07-09T22:57:09+00:00: Support convrot int4 models. (#14859) - https://github.com/Comfy-Org/ComfyUI/commit/73e84d5ec8b943dcb42535229eb94ee7ab3abea1 __auto-added__
+- 2026-07-09T23:39:01+00:00: Try to fix the model reloading issue some people have. (#14822) - https://github.com/Comfy-Org/ComfyUI/commit/b7a648ca2011489ba40eaacf01a5d6f4e9fab539 __auto-added__
