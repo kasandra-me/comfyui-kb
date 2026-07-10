@@ -1891,3 +1891,4 @@ _Last updated: 2025-08-12_
 - 2026-07-10T02:37:13+00:00: v1.48.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.1 __auto-added__
 - 2026-07-10T07:07:42+00:00: Add SeedVR2 support (CORE-6) (#14424) - https://github.com/Comfy-Org/ComfyUI/commit/8e2e54e2b8fd2623e5bc255b7c90ccf09bcb04bb __auto-added__
 - 2026-07-10T10:31:20+00:00: Only auto-enable the ROCm comfy-kitchen Triton backend on matrix-core… - https://github.com/Comfy-Org/ComfyUI/commit/1377a2f72925ed7a5518c1900ff71c6740217b0d __auto-added__
+- 2026-07-10T20:03:34+00:00: CORE-329 feat: add Save 3D (Advanced) node family (#14701) - https://github.com/Comfy-Org/ComfyUI/commit/328144ce24c6ce4b979dd850027f95d4cfa8449a __auto-added__
