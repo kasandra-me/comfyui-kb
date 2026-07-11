@@ -1894,3 +1894,5 @@ _Last updated: 2025-08-12_
 - 2026-07-10T20:03:34+00:00: CORE-329 feat: add Save 3D (Advanced) node family (#14701) - https://github.com/Comfy-Org/ComfyUI/commit/328144ce24c6ce4b979dd850027f95d4cfa8449a __auto-added__
 - 2026-07-10T23:32:53+00:00: chore: Update preview nodes (#14871) - https://github.com/Comfy-Org/ComfyUI/commit/1f51e146a884462a28b2071c2268ce7c72550ce9 __auto-added__
 - 2026-07-10T23:54:28+00:00: Try to fix some issues with the seedvr VAE. (#14877) - https://github.com/Comfy-Org/ComfyUI/commit/92ddf07ba14711cb579ab090846e0d51289c0619 __auto-added__
+- 2026-07-11T01:37:59+00:00: Temporarily disable auto enabling triton by default on AMD. (#14878) - https://github.com/Comfy-Org/ComfyUI/commit/f3a36e74844893f32f77f22d249d08862805d8f4 __auto-added__
+- 2026-07-11T04:09:29+00:00: v1.48.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.2 __auto-added__
