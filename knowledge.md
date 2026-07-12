@@ -1897,3 +1897,4 @@ _Last updated: 2025-08-12_
 - 2026-07-11T01:37:59+00:00: Temporarily disable auto enabling triton by default on AMD. (#14878) - https://github.com/Comfy-Org/ComfyUI/commit/f3a36e74844893f32f77f22d249d08862805d8f4 __auto-added__
 - 2026-07-11T04:09:29+00:00: v1.48.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.2 __auto-added__
 - 2026-07-12T00:16:40+00:00: Try to fix flash attention related issue on AMD. (#14880) - https://github.com/Comfy-Org/ComfyUI/commit/69ea58697bb2f05124f5dc7e00ad111f7cfff645 __auto-added__
+- 2026-07-12T04:58:25+00:00: Fix SaveVideo description: says images, saves video (#14885) - https://github.com/Comfy-Org/ComfyUI/commit/8b099de36acd81acd1afa3b5442951dc847e0a52 __auto-added__
