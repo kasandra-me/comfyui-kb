@@ -1900,3 +1900,4 @@ _Last updated: 2025-08-12_
 - 2026-07-12T04:58:25+00:00: Fix SaveVideo description: says images, saves video (#14885) - https://github.com/Comfy-Org/ComfyUI/commit/8b099de36acd81acd1afa3b5442951dc847e0a52 __auto-added__
 - 2026-07-12T16:43:30+00:00: Support PID 1.5 models. (#14894) - https://github.com/Comfy-Org/ComfyUI/commit/917faef771a2fd2f14f44af94f17da3d0b2803a3 __auto-added__
 - 2026-07-13T08:38:50+00:00: fix(image): support single-channel images in Save Image (Advanced) (#… - https://github.com/Comfy-Org/ComfyUI/commit/ec0e8b3447d5aa5a91a5a846b7fd94c88318fef7 __auto-added__
+- 2026-07-13T11:18:09+00:00: [Partner Nodes] chore(Google): reroute Gemini Image preview models to… - https://github.com/Comfy-Org/ComfyUI/commit/5697b970173bc0c16a05c30d509d0911f2b84822 __auto-added__
