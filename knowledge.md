@@ -1902,3 +1902,4 @@ _Last updated: 2025-08-12_
 - 2026-07-13T08:38:50+00:00: fix(image): support single-channel images in Save Image (Advanced) (#… - https://github.com/Comfy-Org/ComfyUI/commit/ec0e8b3447d5aa5a91a5a846b7fd94c88318fef7 __auto-added__
 - 2026-07-13T11:18:09+00:00: [Partner Nodes] chore(Google): reroute Gemini Image preview models to… - https://github.com/Comfy-Org/ComfyUI/commit/5697b970173bc0c16a05c30d509d0911f2b84822 __auto-added__
 - 2026-07-13T14:13:23+00:00: chore: update embedded docs to v0.5.8 (#14920) - https://github.com/Comfy-Org/ComfyUI/commit/5bb831a3f565dbcd517fc157284ce69af528ec2e __auto-added__
+- 2026-07-13T17:20:58+00:00: chore(openapi): sync shared API contract from cloud@bcb8f5f (#14815) - https://github.com/Comfy-Org/ComfyUI/commit/5658a68a875e4c1210d72c71d61eca95740adaf0 __auto-added__
