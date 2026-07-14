@@ -1904,3 +1904,4 @@ _Last updated: 2025-08-12_
 - 2026-07-13T14:13:23+00:00: chore: update embedded docs to v0.5.8 (#14920) - https://github.com/Comfy-Org/ComfyUI/commit/5bb831a3f565dbcd517fc157284ce69af528ec2e __auto-added__
 - 2026-07-13T17:20:58+00:00: chore(openapi): sync shared API contract from cloud@bcb8f5f (#14815) - https://github.com/Comfy-Org/ComfyUI/commit/5658a68a875e4c1210d72c71d61eca95740adaf0 __auto-added__
 - 2026-07-13T20:03:29+00:00: More optimized int8 and int4 on turing. (#14927) - https://github.com/Comfy-Org/ComfyUI/commit/80acfcf0fe6ea006f0d6176be8301ade1c0c4836 __auto-added__
+- 2026-07-14T02:07:23+00:00: Fix 3D advanced nodes crashing in API mode (no UI) (#14930) - https://github.com/Comfy-Org/ComfyUI/commit/0aecac867d7840b56ad790aa76c5e76e33c74c3d __auto-added__
