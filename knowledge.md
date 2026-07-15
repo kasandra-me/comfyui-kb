@@ -1908,3 +1908,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-07-14T20:13:08+00:00: Fix int8 performance regression on 16xx series. (#14941) - https://github.com/Comfy-Org/ComfyUI/commit/dff0b18fff04fda6558d0c1dd2ad1dca43fc18bc __priority-auto-added__
 - 2026-07-14T20:21:20+00:00: [Partner Nodes] feat(sync.so): add support for "sync-3" model (#14928) - https://github.com/Comfy-Org/ComfyUI/commit/26537080cb1da5a6efb05bfc5a4792569c845913 __auto-added__
 - 2026-07-14T21:29:01+00:00: Fix cached outputs missing from job results when prompt has no client… - https://github.com/Comfy-Org/ComfyUI/commit/1701cce8dc105e47bc1e6f5a7790c495bbcf331c __auto-added__
+- 2026-07-15T02:58:53+00:00: v1.48.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.3 __auto-added__
