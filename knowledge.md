@@ -1909,3 +1909,5 @@ _Last updated: 2025-08-12_
 - 2026-07-14T20:21:20+00:00: [Partner Nodes] feat(sync.so): add support for "sync-3" model (#14928) - https://github.com/Comfy-Org/ComfyUI/commit/26537080cb1da5a6efb05bfc5a4792569c845913 __auto-added__
 - 2026-07-14T21:29:01+00:00: Fix cached outputs missing from job results when prompt has no client… - https://github.com/Comfy-Org/ComfyUI/commit/1701cce8dc105e47bc1e6f5a7790c495bbcf331c __auto-added__
 - 2026-07-15T02:58:53+00:00: v1.48.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.3 __auto-added__
+- 2026-07-15T05:43:14+00:00: ComfyUI v0.28.0 - https://github.com/Comfy-Org/ComfyUI/commit/700821e1364eaab0e8f21c538a2131719fec57bf __auto-added__
+- 2026-07-15T05:43:14+00:00: v0.28.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.0 __auto-added__
