@@ -1911,3 +1911,4 @@ _Last updated: 2025-08-12_
 - 2026-07-15T02:58:53+00:00: v1.48.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.3 __auto-added__
 - 2026-07-15T05:43:14+00:00: ComfyUI v0.28.0 - https://github.com/Comfy-Org/ComfyUI/commit/700821e1364eaab0e8f21c538a2131719fec57bf __auto-added__
 - 2026-07-15T05:43:14+00:00: v0.28.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.0 __auto-added__
+- 2026-07-15T07:23:43+00:00: fix(Video): stream the video transcode instead of buffering every fra… - https://github.com/Comfy-Org/ComfyUI/commit/cc6b3525110bede7c4850b1f40403880b34d1ad8 __auto-added__
