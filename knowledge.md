@@ -1915,3 +1915,4 @@ _Last updated: 2025-08-12_
 - 2026-07-15T08:38:03+00:00: [Partner Nodes] feat(client): send ComfyUI Job Id in request headers … - https://github.com/Comfy-Org/ComfyUI/commit/87d23b81765161624889febfb3b81f19f3c8435b __auto-added__
 - 2026-07-15T18:50:56+00:00: Batch Generation in Comfy MCP: Use Cases in Production - https://blog.comfy.org/p/batch-generation-in-comfy-mcp-use __auto-added__
 - 2026-07-16T03:09:59+00:00: Update AGENTS.md (#14955) - https://github.com/Comfy-Org/ComfyUI/commit/678d42c90e55d05bcb17b3ce19a4e5e765ac53f9 __auto-added__
+- 2026-07-16T03:48:28+00:00: [feat]Add JoyImageEdit native model support (#14428) - https://github.com/Comfy-Org/ComfyUI/commit/03978e1e81475f19eebd7edc065cc55cb4e15e10 __auto-added__
