@@ -1916,3 +1916,5 @@ _Last updated: 2025-08-12_
 - 2026-07-15T18:50:56+00:00: Batch Generation in Comfy MCP: Use Cases in Production - https://blog.comfy.org/p/batch-generation-in-comfy-mcp-use __auto-added__
 - 2026-07-16T03:09:59+00:00: Update AGENTS.md (#14955) - https://github.com/Comfy-Org/ComfyUI/commit/678d42c90e55d05bcb17b3ce19a4e5e765ac53f9 __auto-added__
 - 2026-07-16T03:48:28+00:00: [feat]Add JoyImageEdit native model support (#14428) - https://github.com/Comfy-Org/ComfyUI/commit/03978e1e81475f19eebd7edc065cc55cb4e15e10 __auto-added__
+- 2026-07-16T12:35:07+00:00: [Partner Nodes] feat(OpenAI): add GPT5.6 models (#14957) - https://github.com/Comfy-Org/ComfyUI/commit/285a98944c397a4a81f15ac63d69fa3dbc0a27b9 __auto-added__
+- 2026-07-16T13:01:24+00:00: Comfy and UAL's Creative Computing Institute Announce Creative Campus Partnership - https://blog.comfy.org/p/comfy-and-uals-creative-computing __auto-added__
