@@ -1918,3 +1918,4 @@ _Last updated: 2025-08-12_
 - 2026-07-16T03:48:28+00:00: [feat]Add JoyImageEdit native model support (#14428) - https://github.com/Comfy-Org/ComfyUI/commit/03978e1e81475f19eebd7edc065cc55cb4e15e10 __auto-added__
 - 2026-07-16T12:35:07+00:00: [Partner Nodes] feat(OpenAI): add GPT5.6 models (#14957) - https://github.com/Comfy-Org/ComfyUI/commit/285a98944c397a4a81f15ac63d69fa3dbc0a27b9 __auto-added__
 - 2026-07-16T13:01:24+00:00: Comfy and UAL's Creative Computing Institute Announce Creative Campus Partnership - https://blog.comfy.org/p/comfy-and-uals-creative-computing __auto-added__
+- 2026-07-17T02:44:02+00:00: Speed up anima a bit. (#14953) - https://github.com/Comfy-Org/ComfyUI/commit/71b73e3b2bbdfb420aca342d61bef980b5a04f63 __auto-added__
