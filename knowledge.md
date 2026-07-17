@@ -1920,3 +1920,4 @@ _Last updated: 2025-08-12_
 - 2026-07-16T13:01:24+00:00: Comfy and UAL's Creative Computing Institute Announce Creative Campus Partnership - https://blog.comfy.org/p/comfy-and-uals-creative-computing __auto-added__
 - 2026-07-17T02:44:02+00:00: Speed up anima a bit. (#14953) - https://github.com/Comfy-Org/ComfyUI/commit/71b73e3b2bbdfb420aca342d61bef980b5a04f63 __auto-added__
 - 2026-07-17T14:36:21+00:00: Support anima lllite control models. (#14954) - https://github.com/Comfy-Org/ComfyUI/commit/0f42ba51463174fb255f2c4605ae0e0b441fe6d7 __auto-added__
+- 2026-07-17T16:53:15+00:00: chore: update workflow templates to v0.11.11 (#14973) - https://github.com/Comfy-Org/ComfyUI/commit/1d1099bea08efa6904480cf25c54ea92646aea4f __auto-added__
