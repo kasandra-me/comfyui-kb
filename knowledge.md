@@ -1922,3 +1922,4 @@ _Last updated: 2025-08-12_
 - 2026-07-17T14:36:21+00:00: Support anima lllite control models. (#14954) - https://github.com/Comfy-Org/ComfyUI/commit/0f42ba51463174fb255f2c4605ae0e0b441fe6d7 __auto-added__
 - 2026-07-17T16:53:15+00:00: chore: update workflow templates to v0.11.11 (#14973) - https://github.com/Comfy-Org/ComfyUI/commit/1d1099bea08efa6904480cf25c54ea92646aea4f __auto-added__
 - 2026-07-17T20:49:16+00:00: [Partner Nodes] feat(HeyGen): add Avatar, Talking Photo, Create Avata… - https://github.com/Comfy-Org/ComfyUI/commit/b08e6cf35fac50d3ca8470dffb3f9a1fbb7187d2 __auto-added__
+- 2026-07-17T23:37:05+00:00: v0.28.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.1 __auto-added__
