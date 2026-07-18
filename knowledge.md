@@ -1925,3 +1925,5 @@ _Last updated: 2025-08-12_
 - 2026-07-17T23:37:05+00:00: v0.28.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.1 __auto-added__
 - 2026-07-18T04:53:15+00:00: More comfy-kitchen int8 optimizations. (#14980) - https://github.com/Comfy-Org/ComfyUI/commit/4800e78518ebb1f2a9443ea5418edbff6c3935f9 __auto-added__
 - 2026-07-18T15:44:22+00:00: chore: update workflow templates to v0.11.12 (#14986) - https://github.com/Comfy-Org/ComfyUI/commit/7774301a7b1d953393a4b34454431d8174fffd6f __auto-added__
+- 2026-07-18T16:36:34+00:00: [Partner Nodes] fix(Google): switch to Interactions API for Omni mode… - https://github.com/Comfy-Org/ComfyUI/commit/83082a51c420a364b15ea5f40d61da74e35b2da5 __auto-added__
+- 2026-07-18T17:11:00+00:00: v0.28.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.2 __auto-added__
