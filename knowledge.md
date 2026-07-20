@@ -1929,3 +1929,4 @@ _Last updated: 2025-08-12_
 - 2026-07-18T17:11:00+00:00: v0.28.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.2 __auto-added__
 - 2026-07-19T00:12:18+00:00: Implement regular and timestep zero reference images to krea 2 for os… - https://github.com/Comfy-Org/ComfyUI/commit/c9602625e445e9ee37d3ac6faf5ea9ec1e0de87e __auto-added__
 - 2026-07-19T22:13:49+00:00: Fix wan dancer issue with batches. (#14999) - https://github.com/Comfy-Org/ComfyUI/commit/66655153499f89052aa72d5a869f556b25f0e9c6 __auto-added__
+- 2026-07-20T23:33:26+00:00: feat: Support Gemma4 12B (CORE-277) (#14304) - https://github.com/Comfy-Org/ComfyUI/commit/ecba6f2594755f8d9440d517156771d098b71ba6 __auto-added__
