@@ -1931,3 +1931,4 @@ _Last updated: 2025-08-12_
 - 2026-07-19T22:13:49+00:00: Fix wan dancer issue with batches. (#14999) - https://github.com/Comfy-Org/ComfyUI/commit/66655153499f89052aa72d5a869f556b25f0e9c6 __auto-added__
 - 2026-07-20T23:33:26+00:00: feat: Support Gemma4 12B (CORE-277) (#14304) - https://github.com/Comfy-Org/ComfyUI/commit/ecba6f2594755f8d9440d517156771d098b71ba6 __auto-added__
 - 2026-07-21T04:02:54+00:00: [Trainer,Dataset/Feature] Video processing nodes, Image Processing No… - https://github.com/Comfy-Org/ComfyUI/commit/d0fec2ef7e7086533fde261de3fdb88289bdca9e __auto-added__
+- 2026-07-21T12:44:14+00:00: Add native Uni3C Controlnet support for Wan models (CORE-365) (#14946) - https://github.com/Comfy-Org/ComfyUI/commit/ac3a7a654fb3c694920336c33f8b20a2a1e42ac8 __auto-added__
