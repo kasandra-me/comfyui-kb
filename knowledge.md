@@ -1934,3 +1934,4 @@ _Last updated: 2025-08-12_
 - 2026-07-21T12:44:14+00:00: Add native Uni3C Controlnet support for Wan models (CORE-365) (#14946) - https://github.com/Comfy-Org/ComfyUI/commit/ac3a7a654fb3c694920336c33f8b20a2a1e42ac8 __auto-added__
 - 2026-07-21T15:19:53+00:00: [Partner Nodes] fix(Gemini-Omni): pass videos as inline data (#15014) - https://github.com/Comfy-Org/ComfyUI/commit/78b43d25003ecf3c2b2509259d3a3cc72e941ec8 __auto-added__
 - 2026-07-21T19:00:10+00:00: ci: bump cursor-review to github-workflows@964d5aa (#15017) - https://github.com/Comfy-Org/ComfyUI/commit/7bf8bfcd078c7f4ae50ca5149c9ff7d8613e1fb1 __auto-added__
+- 2026-07-22T03:02:45+00:00: Use optimized rms_rope function in joyai image model. (#15018) - https://github.com/Comfy-Org/ComfyUI/commit/947c2749dd04c51ef0e21b069544d8b0b4f9b411 __auto-added__
