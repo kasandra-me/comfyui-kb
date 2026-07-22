@@ -1935,3 +1935,4 @@ _Last updated: 2025-08-12_
 - 2026-07-21T15:19:53+00:00: [Partner Nodes] fix(Gemini-Omni): pass videos as inline data (#15014) - https://github.com/Comfy-Org/ComfyUI/commit/78b43d25003ecf3c2b2509259d3a3cc72e941ec8 __auto-added__
 - 2026-07-21T19:00:10+00:00: ci: bump cursor-review to github-workflows@964d5aa (#15017) - https://github.com/Comfy-Org/ComfyUI/commit/7bf8bfcd078c7f4ae50ca5149c9ff7d8613e1fb1 __auto-added__
 - 2026-07-22T03:02:45+00:00: Use optimized rms_rope function in joyai image model. (#15018) - https://github.com/Comfy-Org/ComfyUI/commit/947c2749dd04c51ef0e21b069544d8b0b4f9b411 __auto-added__
+- 2026-07-22T14:31:26+00:00: [Partner Nodes] feat(Anthropic): add new models (#15023) - https://github.com/Comfy-Org/ComfyUI/commit/f6d30bce9a862d56d9184dd65341621a8905ea3e __auto-added__
