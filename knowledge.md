@@ -1936,3 +1936,4 @@ _Last updated: 2025-08-12_
 - 2026-07-21T19:00:10+00:00: ci: bump cursor-review to github-workflows@964d5aa (#15017) - https://github.com/Comfy-Org/ComfyUI/commit/7bf8bfcd078c7f4ae50ca5149c9ff7d8613e1fb1 __auto-added__
 - 2026-07-22T03:02:45+00:00: Use optimized rms_rope function in joyai image model. (#15018) - https://github.com/Comfy-Org/ComfyUI/commit/947c2749dd04c51ef0e21b069544d8b0b4f9b411 __auto-added__
 - 2026-07-22T14:31:26+00:00: [Partner Nodes] feat(Anthropic): add new models (#15023) - https://github.com/Comfy-Org/ComfyUI/commit/f6d30bce9a862d56d9184dd65341621a8905ea3e __auto-added__
+- 2026-07-22T16:49:39+00:00: chore: update workflow templates to v0.11.15 (#15030) - https://github.com/Comfy-Org/ComfyUI/commit/54ca9193a3862cec3f125677811a72e3be2e75e0 __auto-added__
