@@ -1943,3 +1943,4 @@ _Last updated: 2025-08-12_
 - 2026-07-23T08:59:00+00:00: Bump comfyui-frontend-package to 1.47.10 (#15045) - https://github.com/Comfy-Org/ComfyUI/commit/a449f5f987d49ecce18245d1402e4ec68513e7c0 __auto-added__
 - 2026-07-23T08:44:33+00:00: v1.48.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.5 __auto-added__
 - 2026-07-23T16:27:55+00:00: [Partner Nodes] chore(Runway): deprecate Gen3a model (#15050) - https://github.com/Comfy-Org/ComfyUI/commit/feca51a8544511dd73d43602f387def0cc601a9d __auto-added__
+- 2026-07-23T18:11:43+00:00: Comfy For Teams Is Here - https://blog.comfy.org/p/comfy-for-teams-is-here __auto-added__
