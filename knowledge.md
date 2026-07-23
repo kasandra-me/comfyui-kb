@@ -1939,3 +1939,4 @@ _Last updated: 2025-08-12_
 - 2026-07-22T16:49:39+00:00: chore: update workflow templates to v0.11.15 (#15030) - https://github.com/Comfy-Org/ComfyUI/commit/54ca9193a3862cec3f125677811a72e3be2e75e0 __auto-added__
 - 2026-07-22T19:34:27+00:00: Make z image/lumina 2 models use comfy kitchen rms rope. (#15036) - https://github.com/Comfy-Org/ComfyUI/commit/2e47082c8ed1d1a0fe54add57f98b63433cfacbb __auto-added__
 - 2026-07-22T19:49:35+00:00: v0.28.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.3 __auto-added__
+- 2026-07-23T01:46:06+00:00: v1.48.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.4 __auto-added__
