@@ -1940,3 +1940,5 @@ _Last updated: 2025-08-12_
 - 2026-07-22T19:34:27+00:00: Make z image/lumina 2 models use comfy kitchen rms rope. (#15036) - https://github.com/Comfy-Org/ComfyUI/commit/2e47082c8ed1d1a0fe54add57f98b63433cfacbb __auto-added__
 - 2026-07-22T19:49:35+00:00: v0.28.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.3 __auto-added__
 - 2026-07-23T01:46:06+00:00: v1.48.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.4 __auto-added__
+- 2026-07-23T08:59:00+00:00: Bump comfyui-frontend-package to 1.47.10 (#15045) - https://github.com/Comfy-Org/ComfyUI/commit/a449f5f987d49ecce18245d1402e4ec68513e7c0 __auto-added__
+- 2026-07-23T08:44:33+00:00: v1.48.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.5 __auto-added__
