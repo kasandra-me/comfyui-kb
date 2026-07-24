@@ -1946,3 +1946,4 @@ _Last updated: 2025-08-12_
 - 2026-07-23T18:11:43+00:00: Comfy For Teams Is Here - https://blog.comfy.org/p/comfy-for-teams-is-here __auto-added__
 - 2026-07-24T02:06:52+00:00: Make Ernie use comfy kitchen rms rope (#15055) - https://github.com/Comfy-Org/ComfyUI/commit/0cb84e7e6e0bdce2fa6e352aa07c6ea9c7cc984b __auto-added__
 - 2026-07-24T11:13:09+00:00: chore: update workflow templates to v0.11.17 (#15059) - https://github.com/Comfy-Org/ComfyUI/commit/c0ca3a5991986d76fd85dc21829687f547c2c6a5 __auto-added__
+- 2026-07-24T20:34:40+00:00: upscalers: convert latent_upsampler model to DynamicVram (#15063) - https://github.com/Comfy-Org/ComfyUI/commit/f8a3fd9d79837bd377d4e15e634271b488d9ee26 __auto-added__
