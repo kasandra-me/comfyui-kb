@@ -1944,3 +1944,4 @@ _Last updated: 2025-08-12_
 - 2026-07-23T08:44:33+00:00: v1.48.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.5 __auto-added__
 - 2026-07-23T16:27:55+00:00: [Partner Nodes] chore(Runway): deprecate Gen3a model (#15050) - https://github.com/Comfy-Org/ComfyUI/commit/feca51a8544511dd73d43602f387def0cc601a9d __auto-added__
 - 2026-07-23T18:11:43+00:00: Comfy For Teams Is Here - https://blog.comfy.org/p/comfy-for-teams-is-here __auto-added__
+- 2026-07-24T02:06:52+00:00: Make Ernie use comfy kitchen rms rope (#15055) - https://github.com/Comfy-Org/ComfyUI/commit/0cb84e7e6e0bdce2fa6e352aa07c6ea9c7cc984b __auto-added__
