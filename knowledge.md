@@ -1949,3 +1949,4 @@ _Last updated: 2025-08-12_
 - 2026-07-24T20:34:40+00:00: upscalers: convert latent_upsampler model to DynamicVram (#15063) - https://github.com/Comfy-Org/ComfyUI/commit/f8a3fd9d79837bd377d4e15e634271b488d9ee26 __auto-added__
 - 2026-07-24T23:48:52+00:00: cli_args: bump clamp to 128BGB (#15068) - https://github.com/Comfy-Org/ComfyUI/commit/36aec0d086f7321d253cde71b4f3b08f63e35d8f __auto-added__
 - 2026-07-25T03:14:01+00:00: feat: Support MageFlow (CORE-372) (#15026) - https://github.com/Comfy-Org/ComfyUI/commit/45ffd5430beeccf63682b5f8b569faad45fd60e1 __auto-added__
+- 2026-07-25T11:30:37+00:00: Improve LTXV IC-lora detection (#15073) - https://github.com/Comfy-Org/ComfyUI/commit/6f6c500c1596b452e5b3c391c16dc7613b7ca8bc __auto-added__
