@@ -1950,3 +1950,4 @@ _Last updated: 2025-08-12_
 - 2026-07-24T23:48:52+00:00: cli_args: bump clamp to 128BGB (#15068) - https://github.com/Comfy-Org/ComfyUI/commit/36aec0d086f7321d253cde71b4f3b08f63e35d8f __auto-added__
 - 2026-07-25T03:14:01+00:00: feat: Support MageFlow (CORE-372) (#15026) - https://github.com/Comfy-Org/ComfyUI/commit/45ffd5430beeccf63682b5f8b569faad45fd60e1 __auto-added__
 - 2026-07-25T11:30:37+00:00: Improve LTXV IC-lora detection (#15073) - https://github.com/Comfy-Org/ComfyUI/commit/6f6c500c1596b452e5b3c391c16dc7613b7ca8bc __auto-added__
+- 2026-07-25T17:25:58+00:00: [Partner Nodes] feat(Anthropic): add Claude Opus 5 to OpenRouter node… - https://github.com/Comfy-Org/ComfyUI/commit/fad06e5da4a757414ea286588240243f876f9996 __auto-added__
