@@ -1953,3 +1953,4 @@ _Last updated: 2025-08-12_
 - 2026-07-25T17:25:58+00:00: [Partner Nodes] feat(Anthropic): add Claude Opus 5 to OpenRouter node… - https://github.com/Comfy-Org/ComfyUI/commit/fad06e5da4a757414ea286588240243f876f9996 __auto-added__
 - 2026-07-25T19:09:26+00:00: Optimize ideogram model using comfy kitchen rms rope. (#15080) - https://github.com/Comfy-Org/ComfyUI/commit/f966a2b38c21702c906ab4103261641c322e0a2d __auto-added__
 - 2026-07-26T01:01:51+00:00: Fix MageFlow on cards that don't support bf16 (#15081) - https://github.com/Comfy-Org/ComfyUI/commit/806e092ed42772e4ce7abf44c97c50021cc4bd10 __auto-added__
+- 2026-07-26T21:21:05+00:00: Update AGENTS.md (#15096) - https://github.com/Comfy-Org/ComfyUI/commit/02c688429e40577510fad10c1e113cceb72b5d6d __auto-added__
