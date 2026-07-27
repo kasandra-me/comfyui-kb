@@ -1956,3 +1956,4 @@ _Last updated: 2025-08-12_
 - 2026-07-26T21:21:05+00:00: Update AGENTS.md (#15096) - https://github.com/Comfy-Org/ComfyUI/commit/02c688429e40577510fad10c1e113cceb72b5d6d __auto-added__
 - 2026-07-27T00:59:14+00:00: chore: update embedded docs to v0.5.9 (#15092) - https://github.com/Comfy-Org/ComfyUI/commit/093d571b83e7a79833200e199b46b9f5a62217f9 __auto-added__
 - 2026-07-27T17:10:44+00:00: [Partner Nodes] feat(Anthropic): add Claude Opus 5 model (#15079) - https://github.com/Comfy-Org/ComfyUI/commit/c06ee57933f2d4a9b644ab76a918c02e857fd126 __auto-added__
+- 2026-07-27T19:29:10+00:00: v1.49.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.0 __auto-added__
