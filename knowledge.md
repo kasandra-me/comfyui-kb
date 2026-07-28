@@ -1965,3 +1965,4 @@ _Last updated: 2025-08-12_
 - 2026-07-28T21:05:57+00:00: Load weights to process RAM with MRU policy using pinning infrastruct… - https://github.com/Comfy-Org/ComfyUI/commit/c01175530ed36fcb5961c2f2f2598e19b73287b9 __auto-added__
 - 2026-07-28T20:58:41+00:00: v0.29.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.29.0 __auto-added__
 - 2026-07-28T22:25:55+00:00: Support Pruna LTX VAE (#15129) - https://github.com/Comfy-Org/ComfyUI/commit/c38171ddb93368ee6a6bbc677b92e4b50cead865 __auto-added__
+- 🔥 2026-07-28T23:03:04+00:00: [Dataset/Security,Feature] Add dataset folder to avoid arbitrary fold… - https://github.com/Comfy-Org/ComfyUI/commit/42d2aa55432b57371ddc9d4078ae250b54227641 __priority-auto-added__
