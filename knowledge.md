@@ -1959,3 +1959,4 @@ _Last updated: 2025-08-12_
 - 2026-07-27T19:29:10+00:00: v1.49.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.0 __auto-added__
 - 2026-07-27T20:04:14+00:00: Allow using float fps for LTXVEmptyLatentAudio (#15106) - https://github.com/Comfy-Org/ComfyUI/commit/a3572c4832f3a047dc1fdd4017cad2ff7ffeab9f __auto-added__
 - 2026-07-28T03:31:55+00:00: Update stable portable release workflow. (#15113) - https://github.com/Comfy-Org/ComfyUI/commit/6e36e12970952bca210387c99b941c0bc5390b6f __auto-added__
+- 2026-07-28T12:17:23+00:00: [Partner Nodes] feat(credits): respect "X-Comfy-Credits-Used" header … - https://github.com/Comfy-Org/ComfyUI/commit/cd0eddaf161656a4a38db4ec7f5d8c4eba6168f5 __auto-added__
