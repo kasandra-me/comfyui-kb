@@ -1960,3 +1960,4 @@ _Last updated: 2025-08-12_
 - 2026-07-27T20:04:14+00:00: Allow using float fps for LTXVEmptyLatentAudio (#15106) - https://github.com/Comfy-Org/ComfyUI/commit/a3572c4832f3a047dc1fdd4017cad2ff7ffeab9f __auto-added__
 - 2026-07-28T03:31:55+00:00: Update stable portable release workflow. (#15113) - https://github.com/Comfy-Org/ComfyUI/commit/6e36e12970952bca210387c99b941c0bc5390b6f __auto-added__
 - 2026-07-28T12:17:23+00:00: [Partner Nodes] feat(credits): respect "X-Comfy-Credits-Used" header … - https://github.com/Comfy-Org/ComfyUI/commit/cd0eddaf161656a4a38db4ec7f5d8c4eba6168f5 __auto-added__
+- 2026-07-28T15:39:34+00:00: [Partner Nodes] feat(Recraft): add V4.1 model (#15105) - https://github.com/Comfy-Org/ComfyUI/commit/f4509ff2136ba6bae8dd3d36a51e023c9414f794 __auto-added__
