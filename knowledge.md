@@ -1964,3 +1964,4 @@ _Last updated: 2025-08-12_
 - 2026-07-28T16:45:57+00:00: chore: update workflow templates to v0.11.19 (#15123) - https://github.com/Comfy-Org/ComfyUI/commit/e8f8c2ff432276f711604d21d1547686c2e89253 __auto-added__
 - 2026-07-28T21:05:57+00:00: Load weights to process RAM with MRU policy using pinning infrastruct… - https://github.com/Comfy-Org/ComfyUI/commit/c01175530ed36fcb5961c2f2f2598e19b73287b9 __auto-added__
 - 2026-07-28T20:58:41+00:00: v0.29.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.29.0 __auto-added__
+- 2026-07-28T22:25:55+00:00: Support Pruna LTX VAE (#15129) - https://github.com/Comfy-Org/ComfyUI/commit/c38171ddb93368ee6a6bbc677b92e4b50cead865 __auto-added__
