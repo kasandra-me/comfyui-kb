@@ -1962,3 +1962,5 @@ _Last updated: 2025-08-12_
 - 2026-07-28T12:17:23+00:00: [Partner Nodes] feat(credits): respect "X-Comfy-Credits-Used" header … - https://github.com/Comfy-Org/ComfyUI/commit/cd0eddaf161656a4a38db4ec7f5d8c4eba6168f5 __auto-added__
 - 2026-07-28T15:39:34+00:00: [Partner Nodes] feat(Recraft): add V4.1 model (#15105) - https://github.com/Comfy-Org/ComfyUI/commit/f4509ff2136ba6bae8dd3d36a51e023c9414f794 __auto-added__
 - 2026-07-28T16:45:57+00:00: chore: update workflow templates to v0.11.19 (#15123) - https://github.com/Comfy-Org/ComfyUI/commit/e8f8c2ff432276f711604d21d1547686c2e89253 __auto-added__
+- 2026-07-28T21:05:57+00:00: Load weights to process RAM with MRU policy using pinning infrastruct… - https://github.com/Comfy-Org/ComfyUI/commit/c01175530ed36fcb5961c2f2f2598e19b73287b9 __auto-added__
+- 2026-07-28T20:58:41+00:00: v0.29.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.29.0 __auto-added__
