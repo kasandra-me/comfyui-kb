@@ -1958,3 +1958,4 @@ _Last updated: 2025-08-12_
 - 2026-07-27T17:10:44+00:00: [Partner Nodes] feat(Anthropic): add Claude Opus 5 model (#15079) - https://github.com/Comfy-Org/ComfyUI/commit/c06ee57933f2d4a9b644ab76a918c02e857fd126 __auto-added__
 - 2026-07-27T19:29:10+00:00: v1.49.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.0 __auto-added__
 - 2026-07-27T20:04:14+00:00: Allow using float fps for LTXVEmptyLatentAudio (#15106) - https://github.com/Comfy-Org/ComfyUI/commit/a3572c4832f3a047dc1fdd4017cad2ff7ffeab9f __auto-added__
+- 2026-07-28T03:31:55+00:00: Update stable portable release workflow. (#15113) - https://github.com/Comfy-Org/ComfyUI/commit/6e36e12970952bca210387c99b941c0bc5390b6f __auto-added__
