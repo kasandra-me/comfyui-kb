@@ -1969,3 +1969,4 @@ _Last updated: 2025-08-12_
 - 2026-07-29T03:24:08+00:00: Fix LTXAV crash when sampling without an audio latent (#15132) - https://github.com/Comfy-Org/ComfyUI/commit/e651b7bef55a5376343dcb1c0edb79f0142c985e __auto-added__
 - 2026-07-29T00:49:06+00:00: backup/ecs-pre-rebase - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/backup%2Fecs-pre-rebase __auto-added__
 - 2026-07-29T21:10:01+00:00: Update comfy-kitchen to fix flux kv issue. (#15144) - https://github.com/Comfy-Org/ComfyUI/commit/4f874c5e3a2fafb9938273c5f3fc47d2da017667 __auto-added__
+- 2026-07-29T22:35:44+00:00: v1.49.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.1 __auto-added__
