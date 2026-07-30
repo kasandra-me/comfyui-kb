@@ -1971,3 +1971,4 @@ _Last updated: 2025-08-12_
 - 2026-07-29T21:10:01+00:00: Update comfy-kitchen to fix flux kv issue. (#15144) - https://github.com/Comfy-Org/ComfyUI/commit/4f874c5e3a2fafb9938273c5f3fc47d2da017667 __auto-added__
 - 2026-07-29T22:35:44+00:00: v1.49.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.1 __auto-added__
 - 2026-07-30T01:10:28+00:00: Fallback to cudnn attention on linux if flash attention doesn't work.… - https://github.com/Comfy-Org/ComfyUI/commit/f73e8cde88794bd9568474e92f4421aa5622ff1a __auto-added__
+- 2026-07-30T06:29:36+00:00: Fix SVG previews broken by the stored-XSS forced-download (#15149) - https://github.com/Comfy-Org/ComfyUI/commit/9cf91339b708a245762fa38ffeec9702b381e0db __auto-added__
