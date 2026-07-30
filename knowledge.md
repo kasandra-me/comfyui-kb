@@ -1973,3 +1973,4 @@ _Last updated: 2025-08-12_
 - 2026-07-30T01:10:28+00:00: Fallback to cudnn attention on linux if flash attention doesn't work.… - https://github.com/Comfy-Org/ComfyUI/commit/f73e8cde88794bd9568474e92f4421aa5622ff1a __auto-added__
 - 2026-07-30T06:29:36+00:00: Fix SVG previews broken by the stored-XSS forced-download (#15149) - https://github.com/Comfy-Org/ComfyUI/commit/9cf91339b708a245762fa38ffeec9702b381e0db __auto-added__
 - 2026-07-30T20:15:39+00:00: Don't enable comfyui_detail.log by default. (#15159) - https://github.com/Comfy-Org/ComfyUI/commit/9b3aa0896737845c8c42866f85c837523a97e51a __auto-added__
+- 2026-07-30T23:03:20+00:00: v1.47.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.11 __auto-added__
