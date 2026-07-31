@@ -1975,3 +1975,6 @@ _Last updated: 2025-08-12_
 - 2026-07-30T20:15:39+00:00: Don't enable comfyui_detail.log by default. (#15159) - https://github.com/Comfy-Org/ComfyUI/commit/9b3aa0896737845c8c42866f85c837523a97e51a __auto-added__
 - 2026-07-30T23:03:20+00:00: v1.47.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.11 __auto-added__
 - 2026-07-31T00:05:51+00:00: Bump comfyui-frontend-package to 1.47.11 (#15161) - https://github.com/Comfy-Org/ComfyUI/commit/c20269c1cbb99744c974de0771aaae4d24d31d9f __auto-added__
+- 2026-07-31T02:30:32+00:00: Add minimax h3 support (#15167) - https://github.com/Comfy-Org/ComfyUI/commit/7dd46274601239644fff19b1b069cff199fcf738 __auto-added__
+- 2026-07-31T03:06:25+00:00: v0.29.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.29.2 __auto-added__
+- 2026-07-31T02:48:14+00:00: v1.49.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.2 __auto-added__
