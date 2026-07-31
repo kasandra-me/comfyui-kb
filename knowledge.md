@@ -1978,3 +1978,4 @@ _Last updated: 2025-08-12_
 - 2026-07-31T02:30:32+00:00: Add minimax h3 support (#15167) - https://github.com/Comfy-Org/ComfyUI/commit/7dd46274601239644fff19b1b069cff199fcf738 __auto-added__
 - 2026-07-31T03:06:25+00:00: v0.29.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.29.2 __auto-added__
 - 2026-07-31T02:48:14+00:00: v1.49.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.2 __auto-added__
+- 2026-07-31T07:07:31+00:00: fix: resend cached histogram UI for CurveEditor after page refresh (#… - https://github.com/Comfy-Org/ComfyUI/commit/5cc026f5b81b3f01fe7a1438a0fd4131d2ebda25 __auto-added__
