@@ -1982,3 +1982,4 @@ _Last updated: 2025-08-12_
 - 2026-07-31T16:12:17+00:00: Don't assume sampler_function has a __name__ attribute in detail logg… - https://github.com/Comfy-Org/ComfyUI/commit/831710d25740257ce84691f1367e5e0eae9c3e33 __auto-added__
 - 2026-07-31T17:44:09+00:00: ops: apply the custom placeholder logic to Linux too (#15181) - https://github.com/Comfy-Org/ComfyUI/commit/7c806288d5210b497cedfca0d111bb56d84a20de __auto-added__
 - 2026-07-31T18:57:45+00:00: [Partner Nodes] fix(ByteDance): encode stereo reference audio without… - https://github.com/Comfy-Org/ComfyUI/commit/6cedd34343ba3214ca9591397bd106e02ef2acf6 __auto-added__
+- 2026-07-31T22:17:56+00:00: Expand k, v when attention backend would fall back to math because gq… - https://github.com/Comfy-Org/ComfyUI/commit/a1c421994cdcc5044dbce2bb7628e89386311cc5 __auto-added__
