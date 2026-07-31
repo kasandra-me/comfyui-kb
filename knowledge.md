@@ -1974,3 +1974,4 @@ _Last updated: 2025-08-12_
 - 2026-07-30T06:29:36+00:00: Fix SVG previews broken by the stored-XSS forced-download (#15149) - https://github.com/Comfy-Org/ComfyUI/commit/9cf91339b708a245762fa38ffeec9702b381e0db __auto-added__
 - 2026-07-30T20:15:39+00:00: Don't enable comfyui_detail.log by default. (#15159) - https://github.com/Comfy-Org/ComfyUI/commit/9b3aa0896737845c8c42866f85c837523a97e51a __auto-added__
 - 2026-07-30T23:03:20+00:00: v1.47.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.11 __auto-added__
+- 2026-07-31T00:05:51+00:00: Bump comfyui-frontend-package to 1.47.11 (#15161) - https://github.com/Comfy-Org/ComfyUI/commit/c20269c1cbb99744c974de0771aaae4d24d31d9f __auto-added__
