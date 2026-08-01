@@ -1985,3 +1985,4 @@ _Last updated: 2025-08-12_
 - 2026-07-31T22:17:56+00:00: Expand k, v when attention backend would fall back to math because gq… - https://github.com/Comfy-Org/ComfyUI/commit/a1c421994cdcc5044dbce2bb7628e89386311cc5 __auto-added__
 - 2026-08-01T04:27:48+00:00: Add crf option to save video node. (#15191) - https://github.com/Comfy-Org/ComfyUI/commit/235b466a0cb26d47c24f2ab66d1a8c5e70b21070 __auto-added__
 - 2026-08-01T01:30:28+00:00: v1.49.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.3 __auto-added__
+- 2026-08-01T07:21:28+00:00: Store mp4 metadata at the beginning of the file when possible. (#15195) - https://github.com/Comfy-Org/ComfyUI/commit/2881e6161081439b1c3fb3b6c1f51b3d272da710 __auto-added__
