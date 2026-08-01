@@ -1987,3 +1987,4 @@ _Last updated: 2025-08-12_
 - 2026-08-01T01:30:28+00:00: v1.49.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.3 __auto-added__
 - 2026-08-01T07:21:28+00:00: Store mp4 metadata at the beginning of the file when possible. (#15195) - https://github.com/Comfy-Org/ComfyUI/commit/2881e6161081439b1c3fb3b6c1f51b3d272da710 __auto-added__
 - 2026-08-01T17:30:00+00:00: [Partner Nodes] feat(xAI): update nodes for grok-imagine-video-1.5 mo… - https://github.com/Comfy-Org/ComfyUI/commit/d8e6aa55f377d9914e64bf07d7633dfe6abbf643 __auto-added__
+- 2026-08-01T17:43:42+00:00: [Partner Nodes] chore(Bria): increase price for video endpoints (#15186) - https://github.com/Comfy-Org/ComfyUI/commit/1091c47b3ae9ac423097649a5b7593d369d03bec __auto-added__
