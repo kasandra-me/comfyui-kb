@@ -1990,3 +1990,4 @@ _Last updated: 2025-08-12_
 - 2026-08-01T17:43:42+00:00: [Partner Nodes] chore(Bria): increase price for video endpoints (#15186) - https://github.com/Comfy-Org/ComfyUI/commit/1091c47b3ae9ac423097649a5b7593d369d03bec __auto-added__
 - 2026-08-01T19:10:39+00:00: Update comfy-kitchen version to 0.2.26 (#15208) - https://github.com/Comfy-Org/ComfyUI/commit/e8e233cdf61c19a76fa60918efe2a6a6172f88cd __auto-added__
 - 2026-08-01T20:38:42+00:00: Let the VAEDecodeAudio node decode nested audio. (#15211) - https://github.com/Comfy-Org/ComfyUI/commit/e803f24ea090de7108772d65957fd6388d3f2085 __auto-added__
+- 2026-08-01T23:57:15+00:00: Support latent previews for nested latents (#15196) - https://github.com/Comfy-Org/ComfyUI/commit/49a74228920714b3756d206d2fec8ff61145dd2d __auto-added__
