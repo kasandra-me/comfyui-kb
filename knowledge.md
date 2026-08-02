@@ -1995,3 +1995,4 @@ _Last updated: 2025-08-12_
 - 2026-08-02T05:12:12+00:00: Handle case where swap memory query fails on windows. (#15219) - https://github.com/Comfy-Org/ComfyUI/commit/f06a187f50f896e4a0ba5be1ce1f2d2dcd13b77b __auto-added__
 - 2026-08-02T10:55:37+00:00: comfy-aimdo 0.4.11 (#15215) - https://github.com/Comfy-Org/ComfyUI/commit/8084083d4b085e0ba4bf09b31a050e48ea2a970a __auto-added__
 - 2026-08-02T14:10:47+00:00: [Partner Nodes] feat(Minimax): add 768P resolution for H3 model (#15227) - https://github.com/Comfy-Org/ComfyUI/commit/364081170f1c15853608db1f24ed9897763bdd09 __auto-added__
+- 2026-08-02T15:16:06+00:00: fix pin registration priority (#15226) - https://github.com/Comfy-Org/ComfyUI/commit/611f2a4e0f30ea7f50451fd34ab25b8f9365ff2f __auto-added__
