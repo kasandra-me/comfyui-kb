@@ -1993,3 +1993,4 @@ _Last updated: 2025-08-12_
 - 2026-08-01T23:57:15+00:00: Support latent previews for nested latents (#15196) - https://github.com/Comfy-Org/ComfyUI/commit/49a74228920714b3756d206d2fec8ff61145dd2d __auto-added__
 - 2026-08-02T03:15:51+00:00: Disable gradients on diffusion models. (#15218) - https://github.com/Comfy-Org/ComfyUI/commit/532a16f3b9557f49ef8e3d5dc7978d2040a0f4a1 __auto-added__
 - 2026-08-02T05:12:12+00:00: Handle case where swap memory query fails on windows. (#15219) - https://github.com/Comfy-Org/ComfyUI/commit/f06a187f50f896e4a0ba5be1ce1f2d2dcd13b77b __auto-added__
+- 2026-08-02T10:55:37+00:00: comfy-aimdo 0.4.11 (#15215) - https://github.com/Comfy-Org/ComfyUI/commit/8084083d4b085e0ba4bf09b31a050e48ea2a970a __auto-added__
