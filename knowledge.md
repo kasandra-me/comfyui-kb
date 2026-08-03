@@ -2004,3 +2004,4 @@ _Last updated: 2025-08-12_
 - 2026-08-03T05:26:16+00:00: v0.30.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.30.1 __auto-added__
 - 2026-08-03T04:56:15+00:00: v1.47.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.12 __auto-added__
 - 2026-08-03T20:29:47+00:00: Don't pin too much memory on Linux systems with no swap partition. (#… - https://github.com/Comfy-Org/ComfyUI/commit/e377e263049f9338b4d12a3dd417b36ae62948ff __auto-added__
+- 2026-08-03T21:41:48+00:00: v1.50.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.0 __auto-added__
