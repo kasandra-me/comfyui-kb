@@ -2000,3 +2000,6 @@ _Last updated: 2025-08-12_
 - 2026-08-03T02:49:14+00:00: ComfyUI v0.30.0 - https://github.com/Comfy-Org/ComfyUI/commit/b1693ecba9f5b65f8c80ab36b195ab963ec92413 __auto-added__
 - 2026-08-03T03:48:40+00:00: v0.30.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.30.0 __auto-added__
 - 2026-08-03T02:55:11+00:00: MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video - https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui __auto-added__
+- 2026-08-03T05:03:37+00:00: Bump comfyui-frontend-package to 1.47.12 (#15244) - https://github.com/Comfy-Org/ComfyUI/commit/14b05228cef127ce529bc0c08660770d4af3e9a8 __auto-added__
+- 2026-08-03T05:26:16+00:00: v0.30.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.30.1 __auto-added__
+- 2026-08-03T04:56:15+00:00: v1.47.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.47.12 __auto-added__
