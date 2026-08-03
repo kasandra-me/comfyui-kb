@@ -1997,3 +1997,6 @@ _Last updated: 2025-08-12_
 - 2026-08-02T14:10:47+00:00: [Partner Nodes] feat(Minimax): add 768P resolution for H3 model (#15227) - https://github.com/Comfy-Org/ComfyUI/commit/364081170f1c15853608db1f24ed9897763bdd09 __auto-added__
 - 2026-08-02T15:16:06+00:00: fix pin registration priority (#15226) - https://github.com/Comfy-Org/ComfyUI/commit/611f2a4e0f30ea7f50451fd34ab25b8f9365ff2f __auto-added__
 - 2026-08-02T20:20:27+00:00: rename comfy/logging.py to comfy/internal_logging.py (#15231) - https://github.com/Comfy-Org/ComfyUI/commit/b53e247c94f9225dc206bcfef5d64a2f7bc85232 __auto-added__
+- 2026-08-03T02:49:14+00:00: ComfyUI v0.30.0 - https://github.com/Comfy-Org/ComfyUI/commit/b1693ecba9f5b65f8c80ab36b195ab963ec92413 __auto-added__
+- 2026-08-03T03:48:40+00:00: v0.30.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.30.0 __auto-added__
+- 2026-08-03T02:55:11+00:00: MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video - https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui __auto-added__
