@@ -2009,3 +2009,5 @@ _Last updated: 2025-08-12_
 - 2026-08-04T03:28:58+00:00: cloud/v1.49.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.49.3 __auto-added__
 - 2026-08-04T03:55:13+00:00: Harden some nodes against potential issues related to combos. (#15277) - https://github.com/Comfy-Org/ComfyUI/commit/9a9fdb10ed144ce760d9682cb247526ea23cc525 __auto-added__
 - 2026-08-04T16:24:21+00:00: [Partner Nodes] chore(Kling): remove retired legacy models and Virtua… - https://github.com/Comfy-Org/ComfyUI/commit/c44dea18809e3ca0e12e25cbe6938c2c45a29c9d __auto-added__
+- 2026-08-04T19:51:09+00:00: [Partner Nodes] feat(TopazAI): add Bloom 2 and Wonder 3.5 models supp… - https://github.com/Comfy-Org/ComfyUI/commit/1868372da043f707505b480e8e1751c365076912 __auto-added__
+- 2026-08-04T20:05:54+00:00: v1.50.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.1 __auto-added__
