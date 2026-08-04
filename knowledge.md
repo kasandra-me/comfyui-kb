@@ -2007,3 +2007,4 @@ _Last updated: 2025-08-12_
 - 2026-08-03T21:41:48+00:00: v1.50.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.0 __auto-added__
 - 2026-08-03T23:06:12+00:00: fix(minimax): cast raw parameters to input device in H3 VAEs (#15268) - https://github.com/Comfy-Org/ComfyUI/commit/16e3f3034f2bba1fff6c70cbd759339778555cd6 __auto-added__
 - 2026-08-04T03:28:58+00:00: cloud/v1.49.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.49.3 __auto-added__
+- 2026-08-04T03:55:13+00:00: Harden some nodes against potential issues related to combos. (#15277) - https://github.com/Comfy-Org/ComfyUI/commit/9a9fdb10ed144ce760d9682cb247526ea23cc525 __auto-added__
