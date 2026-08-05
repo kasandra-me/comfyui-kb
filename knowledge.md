@@ -2015,3 +2015,4 @@ _Last updated: 2025-08-12_
 - 2026-08-05T00:47:33+00:00: v0.30.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.30.2 __auto-added__
 - 2026-08-05T02:53:21+00:00: Bump comfyui-frontend-package to 1.48.6 (#15301) - https://github.com/Comfy-Org/ComfyUI/commit/6f7cd7fceaaf60d2669b554936394a7412c6fde5 __auto-added__
 - 2026-08-05T02:16:50+00:00: v1.48.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.48.6 __auto-added__
+- 2026-08-05T19:31:49+00:00: FLUX 3 is now available via Partner Nodes - https://blog.comfy.org/p/flux-3-is-now-available-via-partner __auto-added__
