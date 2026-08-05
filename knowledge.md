@@ -2011,3 +2011,5 @@ _Last updated: 2025-08-12_
 - 2026-08-04T16:24:21+00:00: [Partner Nodes] chore(Kling): remove retired legacy models and Virtua… - https://github.com/Comfy-Org/ComfyUI/commit/c44dea18809e3ca0e12e25cbe6938c2c45a29c9d __auto-added__
 - 2026-08-04T19:51:09+00:00: [Partner Nodes] feat(TopazAI): add Bloom 2 and Wonder 3.5 models supp… - https://github.com/Comfy-Org/ComfyUI/commit/1868372da043f707505b480e8e1751c365076912 __auto-added__
 - 2026-08-04T20:05:54+00:00: v1.50.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.1 __auto-added__
+- 2026-08-05T00:29:44+00:00: chore: update workflow templates to v0.11.31 (#15297) - https://github.com/Comfy-Org/ComfyUI/commit/2bbb200dc956ce199de15d7814013074075a6be7 __auto-added__
+- 2026-08-05T00:47:33+00:00: v0.30.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.30.2 __auto-added__
