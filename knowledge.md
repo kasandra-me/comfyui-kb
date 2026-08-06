@@ -2018,3 +2018,4 @@ _Last updated: 2025-08-12_
 - 2026-08-05T19:31:49+00:00: FLUX 3 is now available via Partner Nodes - https://blog.comfy.org/p/flux-3-is-now-available-via-partner __auto-added__
 - 2026-08-05T21:25:15+00:00: Make the desktop app more prominent in the readme. (#15330) - https://github.com/Comfy-Org/ComfyUI/commit/7972b5ba7f1597f68261be33c912f5e5dba8b9c0 __auto-added__
 - 2026-08-06T03:47:13+00:00: Fix MiniMax H3 latent noise mask sampling (#15322) - https://github.com/Comfy-Org/ComfyUI/commit/563b98eefbe643a4cd510ee7f0b43e79880d5a3f __auto-added__
+- 2026-08-06T07:21:36+00:00: [Partner Nodes] chore(Reve): deprecate Reve nodes (#15331) - https://github.com/Comfy-Org/ComfyUI/commit/2eb609766a749e3104485979615e062e401bab97 __auto-added__
