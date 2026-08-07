@@ -2025,3 +2025,4 @@ _Last updated: 2025-08-12_
 - 2026-08-07T04:26:16+00:00: Fix full offload on minimax audio vae. (#15377) - https://github.com/Comfy-Org/ComfyUI/commit/2340099d93305bfdf4eaa29e9f8d32ec92d3035f __auto-added__
 - 2026-08-07T07:33:38+00:00: Update comfy-kitchen package version to 0.2.27 (#15388) - https://github.com/Comfy-Org/ComfyUI/commit/0ab8332bfa41c695b1c104a6535ff1fde81c7939 __auto-added__
 - 2026-08-07T11:36:12+00:00: [Partner Nodes] chore(Gemini,OpenAI): update pricing for image models… - https://github.com/Comfy-Org/ComfyUI/commit/531ea7db139a856a830182694441e9755f0e260a __auto-added__
+- 2026-08-07T15:32:57+00:00: Support asym w4a8_int (#15308) - https://github.com/Comfy-Org/ComfyUI/commit/344b43989e8c56b5bb4a66cf028c834192ab59dd __auto-added__
