@@ -2027,3 +2027,4 @@ _Last updated: 2025-08-12_
 - 2026-08-07T11:36:12+00:00: [Partner Nodes] chore(Gemini,OpenAI): update pricing for image models… - https://github.com/Comfy-Org/ComfyUI/commit/531ea7db139a856a830182694441e9755f0e260a __auto-added__
 - 2026-08-07T15:32:57+00:00: Support asym w4a8_int (#15308) - https://github.com/Comfy-Org/ComfyUI/commit/344b43989e8c56b5bb4a66cf028c834192ab59dd __auto-added__
 - 2026-08-07T18:51:34+00:00: Bump comfyui-frontend-package to 1.48.7 (#15403) - https://github.com/Comfy-Org/ComfyUI/commit/6db4fa2fcd38a92d4e0364c917cd8503620e2a74 __auto-added__
+- 2026-08-07T20:28:01+00:00: chore: update workflow templates to v0.11.34 (#15404) - https://github.com/Comfy-Org/ComfyUI/commit/2f40b7131cb26c7255d48f6f6d821bd5fd56bedf __auto-added__
