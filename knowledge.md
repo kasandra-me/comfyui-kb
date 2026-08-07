@@ -2023,3 +2023,4 @@ _Last updated: 2025-08-12_
 - 2026-08-07T01:08:16+00:00: feat: Support Wan-Animate2 (CORE-358) (#15362) - https://github.com/Comfy-Org/ComfyUI/commit/a464ac33588ae182f81a090d910cfbf21e255b73 __auto-added__
 - 2026-08-07T02:13:26+00:00: v1.50.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.2 __auto-added__
 - 2026-08-07T04:26:16+00:00: Fix full offload on minimax audio vae. (#15377) - https://github.com/Comfy-Org/ComfyUI/commit/2340099d93305bfdf4eaa29e9f8d32ec92d3035f __auto-added__
+- 2026-08-07T07:33:38+00:00: Update comfy-kitchen package version to 0.2.27 (#15388) - https://github.com/Comfy-Org/ComfyUI/commit/0ab8332bfa41c695b1c104a6535ff1fde81c7939 __auto-added__
