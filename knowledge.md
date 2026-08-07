@@ -2020,3 +2020,5 @@ _Last updated: 2025-08-12_
 - 2026-08-06T03:47:13+00:00: Fix MiniMax H3 latent noise mask sampling (#15322) - https://github.com/Comfy-Org/ComfyUI/commit/563b98eefbe643a4cd510ee7f0b43e79880d5a3f __auto-added__
 - 2026-08-06T07:21:36+00:00: [Partner Nodes] chore(Reve): deprecate Reve nodes (#15331) - https://github.com/Comfy-Org/ComfyUI/commit/2eb609766a749e3104485979615e062e401bab97 __auto-added__
 - 2026-08-06T22:17:44+00:00: Skip creating useless noise in res_multistep sampler. (#15339) - https://github.com/Comfy-Org/ComfyUI/commit/88fec4b605a576bb74a679ccd9a4001807be96d5 __auto-added__
+- 2026-08-07T01:08:16+00:00: feat: Support Wan-Animate2 (CORE-358) (#15362) - https://github.com/Comfy-Org/ComfyUI/commit/a464ac33588ae182f81a090d910cfbf21e255b73 __auto-added__
+- 2026-08-07T02:13:26+00:00: v1.50.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.2 __auto-added__
