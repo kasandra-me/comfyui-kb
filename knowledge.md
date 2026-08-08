@@ -2033,3 +2033,4 @@ _Last updated: 2025-08-12_
 - 2026-08-08T00:55:27+00:00: v1.50.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.3 __auto-added__
 - 2026-08-08T02:27:21+00:00: chore: update workflow templates to v0.11.37 (#15415) - https://github.com/Comfy-Org/ComfyUI/commit/5599a05fea715cb2aff11f30f5b06e16d0dfa0c4 __auto-added__
 - 2026-08-08T03:48:53+00:00: Seedance 2.5 is now available via Partner Nodes - https://blog.comfy.org/p/seedance-25-is-now-available-via __auto-added__
+- 2026-08-08T05:04:30+00:00: v0.31.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.31.1 __auto-added__
