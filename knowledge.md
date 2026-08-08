@@ -2037,3 +2037,4 @@ _Last updated: 2025-08-12_
 - 2026-08-08T05:22:42+00:00: Wan Animate 2 is now available in ComfyUI - https://blog.comfy.org/p/wan-animate-2-is-now-available-in __auto-added__
 - 🔥 2026-08-08T06:12:21+00:00: Minimum officially supported pytorch is now 2.7 (#15413) - https://github.com/Comfy-Org/ComfyUI/commit/dd79c643a95402136a75a28f6187d843bcf457ed __priority-auto-added__
 - 2026-08-08T17:50:09+00:00: fix: make Create Layered Image discoverable and its flags self-explan… - https://github.com/Comfy-Org/ComfyUI/commit/00d02f2854892ee5b9808bc2f6348b972017886a __auto-added__
+- 🔥 2026-08-08T21:51:05+00:00: Fix upscale models breaking on non dynamic vram low vram. (#15437) - https://github.com/Comfy-Org/ComfyUI/commit/9eaba63e1a9f2b27701cf0a0694aeed777da42f5 __priority-auto-added__
