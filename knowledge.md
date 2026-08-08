@@ -2030,3 +2030,4 @@ _Last updated: 2025-08-12_
 - 2026-08-07T20:28:01+00:00: chore: update workflow templates to v0.11.34 (#15404) - https://github.com/Comfy-Org/ComfyUI/commit/2f40b7131cb26c7255d48f6f6d821bd5fd56bedf __auto-added__
 - 2026-08-07T22:29:35+00:00: ComfyUI v0.31.0 - https://github.com/Comfy-Org/ComfyUI/commit/43cb4fffc89bba20ab7bd61467a36d0339338dab __auto-added__
 - 2026-08-07T22:29:35+00:00: v0.31.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.31.0 __auto-added__
+- 2026-08-08T00:55:27+00:00: v1.50.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.3 __auto-added__
