@@ -2034,3 +2034,4 @@ _Last updated: 2025-08-12_
 - 2026-08-08T02:27:21+00:00: chore: update workflow templates to v0.11.37 (#15415) - https://github.com/Comfy-Org/ComfyUI/commit/5599a05fea715cb2aff11f30f5b06e16d0dfa0c4 __auto-added__
 - 2026-08-08T03:48:53+00:00: Seedance 2.5 is now available via Partner Nodes - https://blog.comfy.org/p/seedance-25-is-now-available-via __auto-added__
 - 2026-08-08T05:04:30+00:00: v0.31.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.31.1 __auto-added__
+- 2026-08-08T05:22:42+00:00: Wan Animate 2 is now available in ComfyUI - https://blog.comfy.org/p/wan-animate-2-is-now-available-in __auto-added__
