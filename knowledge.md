@@ -2040,3 +2040,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-08-08T21:51:05+00:00: Fix upscale models breaking on non dynamic vram low vram. (#15437) - https://github.com/Comfy-Org/ComfyUI/commit/9eaba63e1a9f2b27701cf0a0694aeed777da42f5 __priority-auto-added__
 - 2026-08-09T02:38:34+00:00: Make a context manager for cast_bias_weight and use it. (#14750) - https://github.com/Comfy-Org/ComfyUI/commit/cbbc9dab1f03d0d9a6caa8a8be7d77a7e37e1e44 __auto-added__
 - 2026-08-09T01:32:41+00:00: v1.50.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.4 __auto-added__
+- 2026-08-09T18:24:48+00:00: Optimize MiniMax-H3 VAE (#15446) - https://github.com/Comfy-Org/ComfyUI/commit/2a68ce33b4c9ea6ee4283e618a74560cefb32694 __auto-added__
