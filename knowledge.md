@@ -2038,3 +2038,5 @@ _Last updated: 2025-08-12_
 - 🔥 2026-08-08T06:12:21+00:00: Minimum officially supported pytorch is now 2.7 (#15413) - https://github.com/Comfy-Org/ComfyUI/commit/dd79c643a95402136a75a28f6187d843bcf457ed __priority-auto-added__
 - 2026-08-08T17:50:09+00:00: fix: make Create Layered Image discoverable and its flags self-explan… - https://github.com/Comfy-Org/ComfyUI/commit/00d02f2854892ee5b9808bc2f6348b972017886a __auto-added__
 - 🔥 2026-08-08T21:51:05+00:00: Fix upscale models breaking on non dynamic vram low vram. (#15437) - https://github.com/Comfy-Org/ComfyUI/commit/9eaba63e1a9f2b27701cf0a0694aeed777da42f5 __priority-auto-added__
+- 2026-08-09T02:38:34+00:00: Make a context manager for cast_bias_weight and use it. (#14750) - https://github.com/Comfy-Org/ComfyUI/commit/cbbc9dab1f03d0d9a6caa8a8be7d77a7e37e1e44 __auto-added__
+- 2026-08-09T01:32:41+00:00: v1.50.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.4 __auto-added__
