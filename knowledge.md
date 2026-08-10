@@ -2042,3 +2042,4 @@ _Last updated: 2025-08-12_
 - 2026-08-09T01:32:41+00:00: v1.50.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.4 __auto-added__
 - 2026-08-09T18:24:48+00:00: Optimize MiniMax-H3 VAE (#15446) - https://github.com/Comfy-Org/ComfyUI/commit/2a68ce33b4c9ea6ee4283e618a74560cefb32694 __auto-added__
 - 2026-08-10T05:01:35+00:00: v1.50.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.50.5 __auto-added__
+- 2026-08-10T07:13:24+00:00: [Partner Nodes] feat(Qwen): add Qwen-Image 3.0 image generation and e… - https://github.com/Comfy-Org/ComfyUI/commit/7d11ec31cb700d881fdf2d73731ecde0093b9540 __auto-added__
