@@ -2052,3 +2052,4 @@ _Last updated: 2025-08-12_
 - 2026-08-11T07:08:29+00:00: v1.51.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.1 __auto-added__
 - 2026-08-11T09:09:29+00:00: Fix peak memory issue with H3. (#15486) - https://github.com/Comfy-Org/ComfyUI/commit/62b3c94bd45154f6486c7abf1b9efcacee96ea69 __auto-added__
 - 2026-08-11T18:07:32+00:00: Fix for broken tiled audio decode. (#15502) - https://github.com/Comfy-Org/ComfyUI/commit/2a19bbf0140743553d396d2ac49a2c73439195cc __auto-added__
+- 2026-08-11T19:38:08+00:00: [Partner Nodes] feat(Grok): add Grok Imagine Image 2.0 model (#15496) - https://github.com/Comfy-Org/ComfyUI/commit/2eaf09f50d1f8c2cfd382302bed36396a3633331 __auto-added__
