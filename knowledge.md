@@ -2051,3 +2051,4 @@ _Last updated: 2025-08-12_
 - 2026-08-11T05:03:08+00:00: Implement comfy kitchen attention. (#15479) - https://github.com/Comfy-Org/ComfyUI/commit/bf4c9a08fc854df6d3b2bef1b92b509e2ef2d2c9 __auto-added__
 - 2026-08-11T07:08:29+00:00: v1.51.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.1 __auto-added__
 - 2026-08-11T09:09:29+00:00: Fix peak memory issue with H3. (#15486) - https://github.com/Comfy-Org/ComfyUI/commit/62b3c94bd45154f6486c7abf1b9efcacee96ea69 __auto-added__
+- 2026-08-11T18:07:32+00:00: Fix for broken tiled audio decode. (#15502) - https://github.com/Comfy-Org/ComfyUI/commit/2a19bbf0140743553d396d2ac49a2c73439195cc __auto-added__
