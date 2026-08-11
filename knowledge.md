@@ -2047,3 +2047,4 @@ _Last updated: 2025-08-12_
 - 2026-08-10T21:06:35+00:00: v1.51.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.0 __auto-added__
 - 2026-08-11T03:00:23+00:00: Fix VAEDecodeTiled crash on NestedTensor latents (MiniMax H3) (#15477) - https://github.com/Comfy-Org/ComfyUI/commit/6233790c6dff26bf35113d46d6d3367b7041b1d8 __auto-added__
 - 2026-08-11T01:46:58+00:00: 5.8.7 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.7 __auto-added__
+- 2026-08-11T03:25:01+00:00: Make cu130 warning more visible. (#15463) - https://github.com/Comfy-Org/ComfyUI/commit/4f3544d131652678c8070b306f01cce392465cb5 __auto-added__
