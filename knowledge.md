@@ -2049,3 +2049,4 @@ _Last updated: 2025-08-12_
 - 2026-08-11T01:46:58+00:00: 5.8.7 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.7 __auto-added__
 - 2026-08-11T03:25:01+00:00: Make cu130 warning more visible. (#15463) - https://github.com/Comfy-Org/ComfyUI/commit/4f3544d131652678c8070b306f01cce392465cb5 __auto-added__
 - 2026-08-11T05:03:08+00:00: Implement comfy kitchen attention. (#15479) - https://github.com/Comfy-Org/ComfyUI/commit/bf4c9a08fc854df6d3b2bef1b92b509e2ef2d2c9 __auto-added__
+- 2026-08-11T07:08:29+00:00: v1.51.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.1 __auto-added__
