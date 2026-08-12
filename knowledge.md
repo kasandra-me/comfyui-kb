@@ -2059,3 +2059,4 @@ _Last updated: 2025-08-12_
 - 2026-08-11T21:58:00+00:00: Fix KSamplerAdvanced with add_noise disabled on nested latents (#15447) - https://github.com/Comfy-Org/ComfyUI/commit/27bca654eb9a70237d93f56a6ea336ab55f8925d __auto-added__
 - 2026-08-12T01:11:17+00:00: v1.51.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.2 __auto-added__
 - 2026-08-12T04:42:09+00:00: LTX-2.5 Day-0 Support in ComfyUI - https://blog.comfy.org/p/ltx-25-day-0-support-in-comfyui __auto-added__
+- 2026-08-12T05:24:24+00:00: chore: update workflow templates to v0.11.40 (#15522) - https://github.com/Comfy-Org/ComfyUI/commit/1108f2ac5e412b27accb0e5d51c90ef2ba39784d __auto-added__
