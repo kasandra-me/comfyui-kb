@@ -2057,3 +2057,4 @@ _Last updated: 2025-08-12_
 - 2026-08-11T20:46:59+00:00: ComfyUI v0.32.0 - https://github.com/Comfy-Org/ComfyUI/commit/c2bcbecd82ec5ae66594340b395c24ef0217b238 __auto-added__
 - 2026-08-11T20:46:59+00:00: v0.32.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.32.0 __auto-added__
 - 2026-08-11T21:58:00+00:00: Fix KSamplerAdvanced with add_noise disabled on nested latents (#15447) - https://github.com/Comfy-Org/ComfyUI/commit/27bca654eb9a70237d93f56a6ea336ab55f8925d __auto-added__
+- 2026-08-12T01:11:17+00:00: v1.51.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.2 __auto-added__
