@@ -2062,3 +2062,4 @@ _Last updated: 2025-08-12_
 - 2026-08-12T05:24:24+00:00: chore: update workflow templates to v0.11.40 (#15522) - https://github.com/Comfy-Org/ComfyUI/commit/1108f2ac5e412b27accb0e5d51c90ef2ba39784d __auto-added__
 - 2026-08-12T06:42:35+00:00: Fix PreviewAny escaping non-ASCII text in dict and list previews (#15… - https://github.com/Comfy-Org/ComfyUI/commit/26d7f8556822d9d08c2d3e1878636ac3b4969af9 __auto-added__
 - 2026-08-12T07:55:08+00:00: Fix float64 device in ltx diffusion decoder. (#15516) - https://github.com/Comfy-Org/ComfyUI/commit/bd34f338ac505ea79e43968753968a464060e609 __auto-added__
+- 2026-08-12T20:22:50+00:00: Support  anima tunes with extra blocks. (#15555) - https://github.com/Comfy-Org/ComfyUI/commit/725e6ec60621c6f001af04769173e7dbb3c53541 __auto-added__
