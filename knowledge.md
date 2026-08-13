@@ -2065,3 +2065,4 @@ _Last updated: 2025-08-12_
 - 2026-08-12T20:22:50+00:00: Support  anima tunes with extra blocks. (#15555) - https://github.com/Comfy-Org/ComfyUI/commit/725e6ec60621c6f001af04769173e7dbb3c53541 __auto-added__
 - 2026-08-13T03:01:31+00:00: Update comfy-kitchen package version to 0.2.31 (#15564) - https://github.com/Comfy-Org/ComfyUI/commit/b323a345bbbfb2f3a95b5b73b68eb7919a26515e __auto-added__
 - 2026-08-13T04:49:00+00:00: cloud/v1.50.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.50.6 __auto-added__
+- 2026-08-13T08:09:01+00:00: v1.51.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.3 __auto-added__
