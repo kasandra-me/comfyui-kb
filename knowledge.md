@@ -2067,3 +2067,4 @@ _Last updated: 2025-08-12_
 - 2026-08-13T04:49:00+00:00: cloud/v1.50.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.50.6 __auto-added__
 - 2026-08-13T08:09:01+00:00: v1.51.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.3 __auto-added__
 - 2026-08-13T14:46:08+00:00: [Partner Nodes] feat(MiniMax): add ContextIR and Regenerate nodes (#1… - https://github.com/Comfy-Org/ComfyUI/commit/12666983cba9b43254ed993c2894dc727ca8ecfd __auto-added__
+- 2026-08-13T16:23:02+00:00: chore: update workflow templates to v0.11.41 (#15578) - https://github.com/Comfy-Org/ComfyUI/commit/86aedfd943d36d485e5ed3cb9d962f21f73d1741 __auto-added__
