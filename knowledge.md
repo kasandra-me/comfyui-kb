@@ -2072,3 +2072,5 @@ _Last updated: 2025-08-12_
 - 2026-08-13T17:20:22+00:00: v0.33.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.0 __auto-added__
 - 2026-08-13T19:55:36+00:00: Add MiniMaxH3AddGuide for anchoring image and audio guides at any fra… - https://github.com/Comfy-Org/ComfyUI/commit/e01fb4c56b7a88149d469b99cbbfe3223d715054 __auto-added__
 - 2026-08-13T20:09:36+00:00: v0.33.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.1 __auto-added__
+- 2026-08-13T20:22:05+00:00: chore(openapi): sync shared API contract from cloud@94d0f1b (#15041) - https://github.com/Comfy-Org/ComfyUI/commit/8f37cf8c833a8f2d3c62e2adbccebfd165623481 __auto-added__
+- 2026-08-13T20:41:33+00:00: MiniMax Music 3: State of the Art Open Weight Music Generation - https://blog.comfy.org/p/minimax-music-3-state-of-the-art __auto-added__
