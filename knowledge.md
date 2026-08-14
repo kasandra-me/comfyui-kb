@@ -2076,3 +2076,4 @@ _Last updated: 2025-08-12_
 - 2026-08-13T20:41:33+00:00: MiniMax Music 3: State of the Art Open Weight Music Generation - https://blog.comfy.org/p/minimax-music-3-state-of-the-art __auto-added__
 - 2026-08-13T23:55:28+00:00: Bump comfyui-frontend-package to 1.49.6 (#15526) - https://github.com/Comfy-Org/ComfyUI/commit/a779de4d89fd21d90c300f6a40ca3ed2dc04e2ee __auto-added__
 - 2026-08-14T01:12:55+00:00: Speedup Gemma4 text generation (CORE-371) (#15054) - https://github.com/Comfy-Org/ComfyUI/commit/7fe8a6138504f90ff7be82f3babf416da32876b1 __auto-added__
+- 2026-08-14T09:22:45+00:00: cloud/v1.50.7: [backport cloud/1.50] fix: show complete workspace member list (#15242) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.50.7 __auto-added__
