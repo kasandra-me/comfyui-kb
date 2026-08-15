@@ -2083,3 +2083,4 @@ _Last updated: 2025-08-12_
 - 2026-08-15T01:30:21+00:00: v1.51.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.5 __auto-added__
 - 2026-08-15T00:52:41+00:00: The 8 Best AI Creative Workflow Platforms in 2026 - https://blog.comfy.org/p/the-8-best-ai-creative-workflow-platforms __auto-added__
 - 2026-08-15T04:37:17+00:00: [Partner Nodes] feat(ByteDance): add Seedance 2.5 task_type for video… - https://github.com/Comfy-Org/ComfyUI/commit/0f1fa67ad8a68b62c65ebc97a7bf485df2459c3a __auto-added__
+- 2026-08-15T17:27:24+00:00: [Partner Nodes] Stop adding an opaque alpha channel to API node image… - https://github.com/Comfy-Org/ComfyUI/commit/a9ab2b62dac17743c62fc1cab8468340496d302e __auto-added__
