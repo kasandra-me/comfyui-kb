@@ -2080,3 +2080,5 @@ _Last updated: 2025-08-12_
 - 2026-08-14T17:31:38+00:00: chore: update embedded docs to v0.5.10 (#15613) - https://github.com/Comfy-Org/ComfyUI/commit/1c6d8d45b3693bfbb32385b410d813a7fd6be216 __auto-added__
 - 2026-08-14T19:17:18+00:00: Fix thinking handling (#15611) - https://github.com/Comfy-Org/ComfyUI/commit/55b6a9b11dffecdd65a3ccd5eb6a1b3a178c96dc __auto-added__
 - 2026-08-15T00:34:40+00:00: Enable dynamic vram by default on ROCm 7.14 and higher. (#15633) - https://github.com/Comfy-Org/ComfyUI/commit/a7365071e47175fb06572d0a56d1bf4116c2f581 __auto-added__
+- 2026-08-15T01:30:21+00:00: v1.51.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.5 __auto-added__
+- 2026-08-15T00:52:41+00:00: The 8 Best AI Creative Workflow Platforms in 2026 - https://blog.comfy.org/p/the-8-best-ai-creative-workflow-platforms __auto-added__
