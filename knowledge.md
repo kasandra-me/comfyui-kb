@@ -2085,3 +2085,4 @@ _Last updated: 2025-08-12_
 - 2026-08-15T04:37:17+00:00: [Partner Nodes] feat(ByteDance): add Seedance 2.5 task_type for video… - https://github.com/Comfy-Org/ComfyUI/commit/0f1fa67ad8a68b62c65ebc97a7bf485df2459c3a __auto-added__
 - 2026-08-15T17:27:24+00:00: [Partner Nodes] Stop adding an opaque alpha channel to API node image… - https://github.com/Comfy-Org/ComfyUI/commit/a9ab2b62dac17743c62fc1cab8468340496d302e __auto-added__
 - 2026-08-15T18:43:20+00:00: fix(tests): accept Python 3.14 math error messages (#15645) - https://github.com/Comfy-Org/ComfyUI/commit/37ac9ff44ffd1e4cc4b481cee550ced67608ec3a __auto-added__
+- 2026-08-15T23:34:53+00:00: Add MiniMax Music 3 to readme. (#15656) - https://github.com/Comfy-Org/ComfyUI/commit/aaabf342585279134b82638136fe93aeeaa2ca74 __auto-added__
