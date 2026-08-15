@@ -2082,3 +2082,4 @@ _Last updated: 2025-08-12_
 - 2026-08-15T00:34:40+00:00: Enable dynamic vram by default on ROCm 7.14 and higher. (#15633) - https://github.com/Comfy-Org/ComfyUI/commit/a7365071e47175fb06572d0a56d1bf4116c2f581 __auto-added__
 - 2026-08-15T01:30:21+00:00: v1.51.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.5 __auto-added__
 - 2026-08-15T00:52:41+00:00: The 8 Best AI Creative Workflow Platforms in 2026 - https://blog.comfy.org/p/the-8-best-ai-creative-workflow-platforms __auto-added__
+- 2026-08-15T04:37:17+00:00: [Partner Nodes] feat(ByteDance): add Seedance 2.5 task_type for video… - https://github.com/Comfy-Org/ComfyUI/commit/0f1fa67ad8a68b62c65ebc97a7bf485df2459c3a __auto-added__
