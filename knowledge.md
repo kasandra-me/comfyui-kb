@@ -2088,3 +2088,4 @@ _Last updated: 2025-08-12_
 - 2026-08-15T23:34:53+00:00: Add MiniMax Music 3 to readme. (#15656) - https://github.com/Comfy-Org/ComfyUI/commit/aaabf342585279134b82638136fe93aeeaa2ca74 __auto-added__
 - 2026-08-16T02:49:12+00:00: v1.51.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.6 __auto-added__
 - 2026-08-16T09:19:07+00:00: v1.51.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.7 __auto-added__
+- 2026-08-16T11:30:58+00:00: [Partner Nodes] feat(x-comfy-credits): remove custom price extractor … - https://github.com/Comfy-Org/ComfyUI/commit/b963f4ad210a42841ab23dfc28a84143a0cce227 __auto-added__
