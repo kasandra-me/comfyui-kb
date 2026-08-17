@@ -2094,3 +2094,4 @@ _Last updated: 2025-08-12_
 - 2026-08-17T05:37:50+00:00: Remove kling-v2 from Kling Image Generation node (#15676) - https://github.com/Comfy-Org/ComfyUI/commit/784462cbbd2a4edab54a3020bab130826bd00c29 __auto-added__
 - 2026-08-17T06:19:53+00:00: Forward node class attributes into schema for dataset nodes (#15683) - https://github.com/Comfy-Org/ComfyUI/commit/0d80858061b511bd38c8cef4c235ef8e01040822 __auto-added__
 - 2026-08-17T16:34:20+00:00: [Partner Nodes] feat(FishAudio): implement basic nodes (#15612) - https://github.com/Comfy-Org/ComfyUI/commit/7d39997e9f3897d8a50506bdc5f86dce844e0223 __auto-added__
+- 2026-08-17T17:11:10+00:00: chore: update workflow templates to v0.11.43 (#15690) - https://github.com/Comfy-Org/ComfyUI/commit/c1739380c6fab78e7e263cb665d04aafbfe24593 __auto-added__
