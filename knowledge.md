@@ -2092,3 +2092,4 @@ _Last updated: 2025-08-12_
 - 2026-08-17T01:34:39+00:00: Allow regular single image Empty Latent Image node to be used with H3… - https://github.com/Comfy-Org/ComfyUI/commit/0696f61dced6340086cdca64a96200c50f306c66 __auto-added__
 - 2026-08-17T03:40:36+00:00: v1.51.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.8 __auto-added__
 - 2026-08-17T05:37:50+00:00: Remove kling-v2 from Kling Image Generation node (#15676) - https://github.com/Comfy-Org/ComfyUI/commit/784462cbbd2a4edab54a3020bab130826bd00c29 __auto-added__
+- 2026-08-17T06:19:53+00:00: Forward node class attributes into schema for dataset nodes (#15683) - https://github.com/Comfy-Org/ComfyUI/commit/0d80858061b511bd38c8cef4c235ef8e01040822 __auto-added__
