@@ -2089,3 +2089,4 @@ _Last updated: 2025-08-12_
 - 2026-08-16T02:49:12+00:00: v1.51.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.6 __auto-added__
 - 2026-08-16T09:19:07+00:00: v1.51.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.7 __auto-added__
 - 2026-08-16T11:30:58+00:00: [Partner Nodes] feat(x-comfy-credits): remove custom price extractor … - https://github.com/Comfy-Org/ComfyUI/commit/b963f4ad210a42841ab23dfc28a84143a0cce227 __auto-added__
+- 2026-08-17T01:34:39+00:00: Allow regular single image Empty Latent Image node to be used with H3… - https://github.com/Comfy-Org/ComfyUI/commit/0696f61dced6340086cdca64a96200c50f306c66 __auto-added__
