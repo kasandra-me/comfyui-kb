@@ -2097,3 +2097,4 @@ _Last updated: 2025-08-12_
 - 2026-08-17T17:11:10+00:00: chore: update workflow templates to v0.11.43 (#15690) - https://github.com/Comfy-Org/ComfyUI/commit/c1739380c6fab78e7e263cb665d04aafbfe24593 __auto-added__
 - 2026-08-17T19:31:22+00:00: v0.33.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.2 __auto-added__
 - 2026-08-17T22:38:58+00:00: v1.52.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.0 __auto-added__
+- 2026-08-18T03:20:28+00:00: Add support for taeh3. (#15695) - https://github.com/Comfy-Org/ComfyUI/commit/8e869efc8764546415036e5fdac05fc287dbe926 __auto-added__
