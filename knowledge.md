@@ -2098,3 +2098,4 @@ _Last updated: 2025-08-12_
 - 2026-08-17T19:31:22+00:00: v0.33.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.2 __auto-added__
 - 2026-08-17T22:38:58+00:00: v1.52.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.0 __auto-added__
 - 2026-08-18T03:20:28+00:00: Add support for taeh3. (#15695) - https://github.com/Comfy-Org/ComfyUI/commit/8e869efc8764546415036e5fdac05fc287dbe926 __auto-added__
+- 2026-08-18T04:25:38+00:00: feat(minimax): support prompt embeddings (#15697) - https://github.com/Comfy-Org/ComfyUI/commit/e5a38e3f7b91619ff295ffbbeddff35d8e381677 __auto-added__
