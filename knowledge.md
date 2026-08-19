@@ -2102,3 +2102,5 @@ _Last updated: 2025-08-12_
 - 2026-08-18T05:57:55+00:00: Keep temp-directory assets visible while their files exist (#15510) - https://github.com/Comfy-Org/ComfyUI/commit/cc0fc21fea7a6a82f568362b15b7fbd713b419c1 __auto-added__
 - 2026-08-18T16:46:49+00:00: Open Sourcing Comfy MCP on Local - https://blog.comfy.org/p/open-sourcing-comfy-mcp-on-local __auto-added__
 - 2026-08-18T18:58:57+00:00: Prs/ace graphs (#15698) - https://github.com/Comfy-Org/ComfyUI/commit/8b2d29176f7f1b9b72f9dff11a0848027d136910 __auto-added__
+- 2026-08-19T00:32:05+00:00: Drop the duplicate first image from the Qwen-Image-Layered blueprint … - https://github.com/Comfy-Org/ComfyUI/commit/187eda8ef5e588c6a5765cad53e482765edae052 __auto-added__
+- 2026-08-19T00:39:11+00:00: v1.52.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.1 __auto-added__
