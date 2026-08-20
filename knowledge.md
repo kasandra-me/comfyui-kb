@@ -2110,3 +2110,4 @@ _Last updated: 2025-08-12_
 - 2026-08-19T23:31:47+00:00: Limit Windows multi-GPU visibility (#15737) - https://github.com/Comfy-Org/ComfyUI/commit/5ab2f7a2d676c1fb7b410c22e82e2ed8f217b56c __auto-added__
 - 2026-08-20T03:32:14+00:00: v1.52.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.2 __auto-added__
 - 2026-08-19T20:39:58+00:00: Comfy H3 Sync Sound Community Challenge! - https://blog.comfy.org/p/comfy-h3-sync-sound-community-challenge __auto-added__
+- 2026-08-20T16:22:49+00:00: [Partner Nodes] feat(BFL): add Flux Video Upscale node (#15753) - https://github.com/Comfy-Org/ComfyUI/commit/d3363657c2d6b89980791835218da36eeaafd6d7 __auto-added__
