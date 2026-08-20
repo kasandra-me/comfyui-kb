@@ -2112,3 +2112,4 @@ _Last updated: 2025-08-12_
 - 2026-08-19T20:39:58+00:00: Comfy H3 Sync Sound Community Challenge! - https://blog.comfy.org/p/comfy-h3-sync-sound-community-challenge __auto-added__
 - 2026-08-20T16:22:49+00:00: [Partner Nodes] feat(BFL): add Flux Video Upscale node (#15753) - https://github.com/Comfy-Org/ComfyUI/commit/d3363657c2d6b89980791835218da36eeaafd6d7 __auto-added__
 - 2026-08-20T16:35:15+00:00: chore: update workflow templates to v0.11.44 (#15754) - https://github.com/Comfy-Org/ComfyUI/commit/8583b0ce0a813c6215e2c304d08bf597e2993c37 __auto-added__
+- 2026-08-20T18:13:36+00:00: v0.33.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.3 __auto-added__
