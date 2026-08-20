@@ -2108,3 +2108,4 @@ _Last updated: 2025-08-12_
 - 2026-08-19T04:00:28+00:00: Derive asset preview URLs from the file path (#15509) - https://github.com/Comfy-Org/ComfyUI/commit/3aba3daef37af4692c86cf5b2122b488ab941325 __auto-added__
 - 2026-08-19T06:59:50+00:00: [Partner Nodes] feat(Gemini-LLM): Add Gemini 3.7 Flash to the Gemini … - https://github.com/Comfy-Org/ComfyUI/commit/c67885b14556cf3e4e061862925282d403d09862 __auto-added__
 - 2026-08-19T23:31:47+00:00: Limit Windows multi-GPU visibility (#15737) - https://github.com/Comfy-Org/ComfyUI/commit/5ab2f7a2d676c1fb7b410c22e82e2ed8f217b56c __auto-added__
+- 2026-08-20T03:32:14+00:00: v1.52.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.2 __auto-added__
