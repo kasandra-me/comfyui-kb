@@ -2116,3 +2116,4 @@ _Last updated: 2025-08-12_
 - 2026-08-20T18:39:30+00:00: ci: add Notify on Merge dispatch workflow (#15568) - https://github.com/Comfy-Org/ComfyUI/commit/de6b062fb5ed1c9b471a3ebcd614705d93d67560 __auto-added__
 - 2026-08-20T23:29:20+00:00: Support HDR video saving, AV1 codec, mkv and webm. (#15741) - https://github.com/Comfy-Org/ComfyUI/commit/dcbcf8c2e10ba618ad38cc6eebfe54b099fec11a __auto-added__
 - 2026-08-21T00:16:31+00:00: Add HDR color space options to h264 codec in Save Video node. (#15764) - https://github.com/Comfy-Org/ComfyUI/commit/76135e557da1ec7dcb270160f01e597565e3e003 __auto-added__
+- 2026-08-21T00:58:36+00:00: v1.52.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.3 __auto-added__
