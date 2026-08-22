@@ -2120,3 +2120,4 @@ _Last updated: 2025-08-12_
 - 2026-08-21T21:34:49+00:00: fix: fail CLA allowlist step on API errors (#15792) - https://github.com/Comfy-Org/ComfyUI/commit/28864ca8fed67cc05a957710f88ce23aff75fd2f __auto-added__
 - 2026-08-22T00:44:56+00:00: Increase trellis2 memory factor a bit. (#15796) - https://github.com/Comfy-Org/ComfyUI/commit/7dde56176efa71fd74ef7b3930ab5882d1926288 __auto-added__
 - 2026-08-22T05:17:36+00:00: [Partner Nodes] feat(ByteDance): add vCube Video Enhance node (#15755) - https://github.com/Comfy-Org/ComfyUI/commit/783545f689a0af730065994b46b382ae24844c99 __auto-added__
+- 2026-08-22T22:03:29+00:00: Minimax-H3: Add missing special tokens (#15808) - https://github.com/Comfy-Org/ComfyUI/commit/924743af083c151296cc16f925aeab113b6484e8 __auto-added__
