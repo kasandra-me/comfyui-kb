@@ -2118,3 +2118,4 @@ _Last updated: 2025-08-12_
 - 2026-08-21T00:16:31+00:00: Add HDR color space options to h264 codec in Save Video node. (#15764) - https://github.com/Comfy-Org/ComfyUI/commit/76135e557da1ec7dcb270160f01e597565e3e003 __auto-added__
 - 2026-08-21T00:58:36+00:00: v1.52.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.3 __auto-added__
 - 2026-08-21T21:34:49+00:00: fix: fail CLA allowlist step on API errors (#15792) - https://github.com/Comfy-Org/ComfyUI/commit/28864ca8fed67cc05a957710f88ce23aff75fd2f __auto-added__
+- 2026-08-22T00:44:56+00:00: Increase trellis2 memory factor a bit. (#15796) - https://github.com/Comfy-Org/ComfyUI/commit/7dde56176efa71fd74ef7b3930ab5882d1926288 __auto-added__
