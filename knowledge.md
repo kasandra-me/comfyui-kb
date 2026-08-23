@@ -2124,3 +2124,4 @@ _Last updated: 2025-08-12_
 - 2026-08-23T02:08:22+00:00: feat: Support Sam3d-body (CORE-35) (#14370) - https://github.com/Comfy-Org/ComfyUI/commit/82f839f5e737d8bfce480872ba05e5a430f2526f __auto-added__
 - 2026-08-23T04:16:27+00:00: v1.49.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.7 __auto-added__
 - 2026-08-23T05:58:28+00:00: v1.52.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.4 __auto-added__
+- 2026-08-23T16:29:18+00:00: Increase minimum pyav version. (#15827) - https://github.com/Comfy-Org/ComfyUI/commit/b78cec879b9460d5cb25228a83a942fb78d2cd24 __auto-added__
