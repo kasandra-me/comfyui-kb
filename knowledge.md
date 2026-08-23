@@ -2123,3 +2123,4 @@ _Last updated: 2025-08-12_
 - 2026-08-22T22:03:29+00:00: Minimax-H3: Add missing special tokens (#15808) - https://github.com/Comfy-Org/ComfyUI/commit/924743af083c151296cc16f925aeab113b6484e8 __auto-added__
 - 2026-08-23T02:08:22+00:00: feat: Support Sam3d-body (CORE-35) (#14370) - https://github.com/Comfy-Org/ComfyUI/commit/82f839f5e737d8bfce480872ba05e5a430f2526f __auto-added__
 - 2026-08-23T04:16:27+00:00: v1.49.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.7 __auto-added__
+- 2026-08-23T05:58:28+00:00: v1.52.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.4 __auto-added__
