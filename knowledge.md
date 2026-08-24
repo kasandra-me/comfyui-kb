@@ -2125,3 +2125,4 @@ _Last updated: 2025-08-12_
 - 2026-08-23T04:16:27+00:00: v1.49.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.49.7 __auto-added__
 - 2026-08-23T05:58:28+00:00: v1.52.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.52.4 __auto-added__
 - 2026-08-23T16:29:18+00:00: Increase minimum pyav version. (#15827) - https://github.com/Comfy-Org/ComfyUI/commit/b78cec879b9460d5cb25228a83a942fb78d2cd24 __auto-added__
+- 2026-08-24T16:48:48+00:00: [Partner Nodes] feat(Meshy): add Meshy-7 support (#15807) - https://github.com/Comfy-Org/ComfyUI/commit/bab6ee5f274c5231bfc072daf045104838e7147b __auto-added__
