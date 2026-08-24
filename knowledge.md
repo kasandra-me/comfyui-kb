@@ -2128,3 +2128,4 @@ _Last updated: 2025-08-12_
 - 2026-08-24T16:48:48+00:00: [Partner Nodes] feat(Meshy): add Meshy-7 support (#15807) - https://github.com/Comfy-Org/ComfyUI/commit/bab6ee5f274c5231bfc072daf045104838e7147b __auto-added__
 - 2026-08-24T18:31:42+00:00: chore: update workflow templates to v0.11.46 (#15864) - https://github.com/Comfy-Org/ComfyUI/commit/180060c295da013c9bc834f575ae8142a4e6c38f __auto-added__
 - 2026-08-24T19:57:19+00:00: v0.33.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.4 __auto-added__
+- 2026-08-24T20:56:59+00:00: Update nodes_image_compare.py (#15868) - https://github.com/Comfy-Org/ComfyUI/commit/eb8cad737517717b65244dd5ede09fb447f95cd7 __auto-added__
