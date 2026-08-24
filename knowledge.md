@@ -2129,3 +2129,4 @@ _Last updated: 2025-08-12_
 - 2026-08-24T18:31:42+00:00: chore: update workflow templates to v0.11.46 (#15864) - https://github.com/Comfy-Org/ComfyUI/commit/180060c295da013c9bc834f575ae8142a4e6c38f __auto-added__
 - 2026-08-24T19:57:19+00:00: v0.33.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.4 __auto-added__
 - 2026-08-24T20:56:59+00:00: Update nodes_image_compare.py (#15868) - https://github.com/Comfy-Org/ComfyUI/commit/eb8cad737517717b65244dd5ede09fb447f95cd7 __auto-added__
+- 2026-08-24T23:19:03+00:00: Fix default database path for custom user directory (#14539) - https://github.com/Comfy-Org/ComfyUI/commit/5f0c4e18cb7e98f0e7c46c2c7ce928d641351e67 __auto-added__
