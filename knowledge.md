@@ -2135,3 +2135,4 @@ _Last updated: 2025-08-12_
 - 2026-08-25T03:00:34+00:00: v1.53.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.1 __auto-added__
 - 2026-08-25T06:25:23+00:00: [Partner Nodes] chore(Tripo): remove retired Refine node and v2.0 mod… - https://github.com/Comfy-Org/ComfyUI/commit/a1079ba16f2674734b065eb036fbfdddaa321a4d __auto-added__
 - 2026-08-25T16:12:40+00:00: comfy-aimdo 0.4.15 (#15886) - https://github.com/Comfy-Org/ComfyUI/commit/7a054eb472d4f911ad3ed1d943f6e7de4d67730f __auto-added__
+- 2026-08-25T19:40:46+00:00: [Partner Nodes] feat(Pixverse): add Pixverse V6 model support (#15880) - https://github.com/Comfy-Org/ComfyUI/commit/7d9d0c391b90b3d89c2ec880a870bb34236a417c __auto-added__
