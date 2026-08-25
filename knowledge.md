@@ -2137,3 +2137,5 @@ _Last updated: 2025-08-12_
 - 2026-08-25T16:12:40+00:00: comfy-aimdo 0.4.15 (#15886) - https://github.com/Comfy-Org/ComfyUI/commit/7a054eb472d4f911ad3ed1d943f6e7de4d67730f __auto-added__
 - 2026-08-25T19:40:46+00:00: [Partner Nodes] feat(Pixverse): add Pixverse V6 model support (#15880) - https://github.com/Comfy-Org/ComfyUI/commit/7d9d0c391b90b3d89c2ec880a870bb34236a417c __auto-added__
 - 2026-08-25T20:29:16+00:00: Update workflow templates to v0.11.48 (#15888) - https://github.com/Comfy-Org/ComfyUI/commit/ef0d752e5ee41d6f40c685ecd729e53d18c0f075 __auto-added__
+- 2026-08-25T21:58:26+00:00: ComfyUI v0.34.0 - https://github.com/Comfy-Org/ComfyUI/commit/12d5279438bfefc058a269eae805ceab6047777f __auto-added__
+- 2026-08-25T21:58:26+00:00: v0.34.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.0 __auto-added__
