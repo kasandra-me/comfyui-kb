@@ -2131,3 +2131,5 @@ _Last updated: 2025-08-12_
 - 2026-08-24T20:56:59+00:00: Update nodes_image_compare.py (#15868) - https://github.com/Comfy-Org/ComfyUI/commit/eb8cad737517717b65244dd5ede09fb447f95cd7 __auto-added__
 - 2026-08-24T23:19:03+00:00: Fix default database path for custom user directory (#14539) - https://github.com/Comfy-Org/ComfyUI/commit/5f0c4e18cb7e98f0e7c46c2c7ce928d641351e67 __auto-added__
 - 2026-08-25T01:54:23+00:00: Wan 3.0 in ComfyUI: Native 30-Second Video with Omni-Reference Control - https://blog.comfy.org/p/wan-30-in-comfyui-native-30-second __auto-added__
+- 2026-08-25T03:09:38+00:00: Python 3.10 will be EOL soon, please upgrade. (#15874) - https://github.com/Comfy-Org/ComfyUI/commit/2618d32dfbf67b01ff2e12e0c630a360a6acb4ad __auto-added__
+- 2026-08-25T03:00:34+00:00: v1.53.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.1 __auto-added__
