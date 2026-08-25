@@ -2133,3 +2133,4 @@ _Last updated: 2025-08-12_
 - 2026-08-25T01:54:23+00:00: Wan 3.0 in ComfyUI: Native 30-Second Video with Omni-Reference Control - https://blog.comfy.org/p/wan-30-in-comfyui-native-30-second __auto-added__
 - 2026-08-25T03:09:38+00:00: Python 3.10 will be EOL soon, please upgrade. (#15874) - https://github.com/Comfy-Org/ComfyUI/commit/2618d32dfbf67b01ff2e12e0c630a360a6acb4ad __auto-added__
 - 2026-08-25T03:00:34+00:00: v1.53.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.1 __auto-added__
+- 2026-08-25T06:25:23+00:00: [Partner Nodes] chore(Tripo): remove retired Refine node and v2.0 mod… - https://github.com/Comfy-Org/ComfyUI/commit/a1079ba16f2674734b065eb036fbfdddaa321a4d __auto-added__
