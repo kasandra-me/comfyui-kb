@@ -2134,3 +2134,4 @@ _Last updated: 2025-08-12_
 - 2026-08-25T03:09:38+00:00: Python 3.10 will be EOL soon, please upgrade. (#15874) - https://github.com/Comfy-Org/ComfyUI/commit/2618d32dfbf67b01ff2e12e0c630a360a6acb4ad __auto-added__
 - 2026-08-25T03:00:34+00:00: v1.53.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.1 __auto-added__
 - 2026-08-25T06:25:23+00:00: [Partner Nodes] chore(Tripo): remove retired Refine node and v2.0 mod… - https://github.com/Comfy-Org/ComfyUI/commit/a1079ba16f2674734b065eb036fbfdddaa321a4d __auto-added__
+- 2026-08-25T16:12:40+00:00: comfy-aimdo 0.4.15 (#15886) - https://github.com/Comfy-Org/ComfyUI/commit/7a054eb472d4f911ad3ed1d943f6e7de4d67730f __auto-added__
