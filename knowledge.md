@@ -2142,3 +2142,4 @@ _Last updated: 2025-08-12_
 - 2026-08-26T07:44:38+00:00: v1.53.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.2 __auto-added__
 - 2026-08-26T08:30:06+00:00: [Partner Nodes] chore(Google): drop retiring Veo 2 and Veo 3.0 models… - https://github.com/Comfy-Org/ComfyUI/commit/b133e48368d0f52bb014f0dd7ae1adb7403d515b __auto-added__
 - 2026-08-26T18:22:22+00:00: [Partner Nodes] feat(Recraft): add V4 Styles (#15903) - https://github.com/Comfy-Org/ComfyUI/commit/30d03fea0ae59dd7e9ee4628fc5676cf34d6d40f __auto-added__
+- 2026-08-26T18:26:03+00:00: [Partner Nodes] feat(WAN): add WAN3-Prime model support (#15894) - https://github.com/Comfy-Org/ComfyUI/commit/a25c7bf2b8c7408d8724f4245dbe09d95992e3a1 __auto-added__
