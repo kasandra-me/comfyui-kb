@@ -2139,3 +2139,4 @@ _Last updated: 2025-08-12_
 - 2026-08-25T20:29:16+00:00: Update workflow templates to v0.11.48 (#15888) - https://github.com/Comfy-Org/ComfyUI/commit/ef0d752e5ee41d6f40c685ecd729e53d18c0f075 __auto-added__
 - 2026-08-25T21:58:26+00:00: ComfyUI v0.34.0 - https://github.com/Comfy-Org/ComfyUI/commit/12d5279438bfefc058a269eae805ceab6047777f __auto-added__
 - 2026-08-25T21:58:26+00:00: v0.34.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.0 __auto-added__
+- 2026-08-26T07:44:38+00:00: v1.53.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.2 __auto-added__
