@@ -2140,3 +2140,4 @@ _Last updated: 2025-08-12_
 - 2026-08-25T21:58:26+00:00: ComfyUI v0.34.0 - https://github.com/Comfy-Org/ComfyUI/commit/12d5279438bfefc058a269eae805ceab6047777f __auto-added__
 - 2026-08-25T21:58:26+00:00: v0.34.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.0 __auto-added__
 - 2026-08-26T07:44:38+00:00: v1.53.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.2 __auto-added__
+- 2026-08-26T08:30:06+00:00: [Partner Nodes] chore(Google): drop retiring Veo 2 and Veo 3.0 models… - https://github.com/Comfy-Org/ComfyUI/commit/b133e48368d0f52bb014f0dd7ae1adb7403d515b __auto-added__
