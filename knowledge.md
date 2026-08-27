@@ -2147,3 +2147,4 @@ _Last updated: 2025-08-12_
 - 2026-08-26T20:38:34+00:00: v0.34.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.1 __auto-added__
 - 2026-08-27T00:28:50+00:00: fix(video): remux HEVC to mp4/mov as hvc1 via hevc_mp4toannexb (#15809) - https://github.com/Comfy-Org/ComfyUI/commit/d8e7bbc9d586d95f758d6b0ed23d519088be578a __auto-added__
 - 2026-08-27T02:15:54+00:00: v1.53.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.3 __auto-added__
+- 2026-08-27T14:57:31+00:00: fix(memory): respect the container cgroup memory limit instead of hos… - https://github.com/Comfy-Org/ComfyUI/commit/77739723a36ea503f875c121b03e9c4288aa4914 __auto-added__
