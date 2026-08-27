@@ -2145,3 +2145,5 @@ _Last updated: 2025-08-12_
 - 2026-08-26T18:26:03+00:00: [Partner Nodes] feat(WAN): add WAN3-Prime model support (#15894) - https://github.com/Comfy-Org/ComfyUI/commit/a25c7bf2b8c7408d8724f4245dbe09d95992e3a1 __auto-added__
 - 2026-08-26T23:17:57+00:00: Support avif in Save Image Advanced node. (#15891) - https://github.com/Comfy-Org/ComfyUI/commit/5653b4ac8eca01e64df7d8b5a2ee22385f14dabf __auto-added__
 - 2026-08-26T20:38:34+00:00: v0.34.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.1 __auto-added__
+- 2026-08-27T00:28:50+00:00: fix(video): remux HEVC to mp4/mov as hvc1 via hevc_mp4toannexb (#15809) - https://github.com/Comfy-Org/ComfyUI/commit/d8e7bbc9d586d95f758d6b0ed23d519088be578a __auto-added__
+- 2026-08-27T02:15:54+00:00: v1.53.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.3 __auto-added__
