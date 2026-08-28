@@ -2155,3 +2155,4 @@ _Last updated: 2025-08-12_
 - 2026-08-28T02:57:30+00:00: Add to readme that we support HDR and high bit depth. (#15940) - https://github.com/Comfy-Org/ComfyUI/commit/0a33ed6c28f926d14536235771c222f9e6d1026b __auto-added__
 - 2026-08-28T08:41:42+00:00: v1.53.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.4 __auto-added__
 - 2026-08-28T05:05:32+00:00: Gemini Omni 1.1 Flash in ComfyUI: Faster Video Generation, Editing, and 4K Output - https://blog.comfy.org/p/gemini-omni-11-flash-in-comfyui-faster __auto-added__
+- 2026-08-28T22:12:36+00:00: MiniMax-H3: Support PDD LoRA (#15908) - https://github.com/Comfy-Org/ComfyUI/commit/2504e68d4d9dedb514e172692f13436623f25aed __auto-added__
