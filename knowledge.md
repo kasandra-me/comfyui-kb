@@ -2148,3 +2148,7 @@ _Last updated: 2025-08-12_
 - 2026-08-27T00:28:50+00:00: fix(video): remux HEVC to mp4/mov as hvc1 via hevc_mp4toannexb (#15809) - https://github.com/Comfy-Org/ComfyUI/commit/d8e7bbc9d586d95f758d6b0ed23d519088be578a __auto-added__
 - 2026-08-27T02:15:54+00:00: v1.53.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.3 __auto-added__
 - 2026-08-27T14:57:31+00:00: fix(memory): respect the container cgroup memory limit instead of hos… - https://github.com/Comfy-Org/ComfyUI/commit/77739723a36ea503f875c121b03e9c4288aa4914 __auto-added__
+- 2026-08-27T22:29:35+00:00: [Partner Nodes] feat(Google-Omni): add support for Omni 1.1 model (#1… - https://github.com/Comfy-Org/ComfyUI/commit/4c6359f2e39df5ac075d556acb7ccd49a91f7181 __auto-added__
+- 2026-08-27T23:08:38+00:00: v0.34.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.2 __auto-added__
+- 2026-08-27T22:44:41+00:00: Comfy Is Now the Only Official Reseller of MiniMax H3 Commercial Licenses - https://blog.comfy.org/p/comfy-is-now-the-only-official-reseller __auto-added__
+- 🔥 2026-08-21T10:19:59+00:00: 5.8.8: Merge pull request #234 from runpod-workers/changeset-release/main - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.8.8 __priority-auto-added__
