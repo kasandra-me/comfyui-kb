@@ -2157,3 +2157,4 @@ _Last updated: 2025-08-12_
 - 2026-08-28T05:05:32+00:00: Gemini Omni 1.1 Flash in ComfyUI: Faster Video Generation, Editing, and 4K Output - https://blog.comfy.org/p/gemini-omni-11-flash-in-comfyui-faster __auto-added__
 - 2026-08-28T22:12:36+00:00: MiniMax-H3: Support PDD LoRA (#15908) - https://github.com/Comfy-Org/ComfyUI/commit/2504e68d4d9dedb514e172692f13436623f25aed __auto-added__
 - 2026-08-29T00:00:29+00:00: Add section about user input tolerance to AGENTS.md (#15955) - https://github.com/Comfy-Org/ComfyUI/commit/e7051b03758a1247e3adb84a5b784ffacb9a23bd __auto-added__
+- 2026-08-29T17:53:58+00:00: [Partner Nodes] fix(HeyGen): update Avatar Video price badge (#15945) - https://github.com/Comfy-Org/ComfyUI/commit/5bdcb5f4edd70412e12fb04f357766cb4504e0fa __auto-added__
