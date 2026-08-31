@@ -2161,3 +2161,4 @@ _Last updated: 2025-08-12_
 - 2026-08-30T00:10:20+00:00: Improve some warning messages. (#15977) - https://github.com/Comfy-Org/ComfyUI/commit/8a33128f2f8c5585c57486c07de481241e70a39c __auto-added__
 - 2026-08-30T22:54:48+00:00: feat: add VideoTrim and VideoCrop nodes with VIDEO_EDIT widget inputs… - https://github.com/Comfy-Org/ComfyUI/commit/f938505952476e48a12687eac696cdc94d48a3fe __auto-added__
 - 2026-08-31T03:19:14+00:00: Disable push event trigger for failing workflow. (#15995) - https://github.com/Comfy-Org/ComfyUI/commit/95d755cd8107a72258d452b5d3657273d571f07d __auto-added__
+- 2026-08-31T17:51:03+00:00: secure-nodes-poc-2026-08-31 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/secure-nodes-poc-2026-08-31 __auto-added__
