@@ -2162,3 +2162,6 @@ _Last updated: 2025-08-12_
 - 2026-08-30T22:54:48+00:00: feat: add VideoTrim and VideoCrop nodes with VIDEO_EDIT widget inputs… - https://github.com/Comfy-Org/ComfyUI/commit/f938505952476e48a12687eac696cdc94d48a3fe __auto-added__
 - 2026-08-31T03:19:14+00:00: Disable push event trigger for failing workflow. (#15995) - https://github.com/Comfy-Org/ComfyUI/commit/95d755cd8107a72258d452b5d3657273d571f07d __auto-added__
 - 2026-08-31T17:51:03+00:00: secure-nodes-poc-2026-08-31 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/secure-nodes-poc-2026-08-31 __auto-added__
+- 2026-08-31T23:09:43+00:00: Add how to cache model stuff to AGENTS.md (#16003) - https://github.com/Comfy-Org/ComfyUI/commit/a8b4fa64104a4d834c51396eef5c62518b7691c9 __auto-added__
+- 2026-08-31T23:05:46+00:00: v2-cloud-nodes-demo-2026-08-31 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v2-cloud-nodes-demo-2026-08-31 __auto-added__
+- 2026-08-31T22:01:22+00:00: Trellis.2 and Pixal3D Are Now Native in ComfyUI - https://blog.comfy.org/p/trellis2-and-pixal3d-are-now-native __auto-added__
