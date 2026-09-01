@@ -2168,3 +2168,4 @@ _Last updated: 2025-08-12_
 - 2026-08-31T23:44:42+00:00: Minimax h3 controlnet as a model patch instead of a controlnet. (#15975) - https://github.com/Comfy-Org/ComfyUI/commit/d3eaf6adb388c27245374ac26e585fef4936c485 __auto-added__
 - 2026-09-01T03:05:53+00:00: Support SenseNova U1.5 (CORE-411) (#15922) - https://github.com/Comfy-Org/ComfyUI/commit/3216c62e9962c3babd28a4dfea6e5aef50b8fe16 __auto-added__
 - 2026-09-01T02:11:03+00:00: v1.54.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.0 __auto-added__
+- 2026-09-01T17:34:48+00:00: 5.10.0 - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.10.0 __auto-added__
