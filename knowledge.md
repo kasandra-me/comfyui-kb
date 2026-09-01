@@ -2165,3 +2165,4 @@ _Last updated: 2025-08-12_
 - 2026-08-31T23:09:43+00:00: Add how to cache model stuff to AGENTS.md (#16003) - https://github.com/Comfy-Org/ComfyUI/commit/a8b4fa64104a4d834c51396eef5c62518b7691c9 __auto-added__
 - 2026-08-31T23:05:46+00:00: v2-cloud-nodes-demo-2026-08-31 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v2-cloud-nodes-demo-2026-08-31 __auto-added__
 - 2026-08-31T22:01:22+00:00: Trellis.2 and Pixal3D Are Now Native in ComfyUI - https://blog.comfy.org/p/trellis2-and-pixal3d-are-now-native __auto-added__
+- 2026-08-31T23:44:42+00:00: Minimax h3 controlnet as a model patch instead of a controlnet. (#15975) - https://github.com/Comfy-Org/ComfyUI/commit/d3eaf6adb388c27245374ac26e585fef4936c485 __auto-added__
