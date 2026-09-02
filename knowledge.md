@@ -2176,3 +2176,4 @@ _Last updated: 2025-08-12_
 - 2026-09-02T15:29:30+00:00: [Partner Nodes] feat(Minimax-H3): add the Max model to the Reference … - https://github.com/Comfy-Org/ComfyUI/commit/ec803fc97ee3e5a923a90753ab3620d431109f85 __auto-added__
 - 2026-09-02T17:46:37+00:00: chore: update workflow templates to v0.11.54 (#16045) - https://github.com/Comfy-Org/ComfyUI/commit/a87667f72f5fad094b74b10dc9c9f82faea728ef __auto-added__
 - 2026-09-02T19:25:10+00:00: v0.34.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.3 __auto-added__
+- 2026-09-02T21:47:17+00:00: Fix SAM3 segmentation head receiving 4 FPN levels when scalp=1 (#15979) - https://github.com/Comfy-Org/ComfyUI/commit/2035799189bccaaaadc4e22a62169357c7969041 __auto-added__
