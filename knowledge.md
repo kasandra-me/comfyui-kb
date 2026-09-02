@@ -2173,3 +2173,4 @@ _Last updated: 2025-08-12_
 - 2026-09-01T23:59:29+00:00: Disable ck attention when fp32 + low_precision_attention False. (#16029) - https://github.com/Comfy-Org/ComfyUI/commit/3258eb3a4d7f7b853c4d1d72936ceaa654f7b93e __auto-added__
 - 2026-09-02T02:43:25+00:00: Lower trellis workflow remesh memory usage. (#16034) - https://github.com/Comfy-Org/ComfyUI/commit/4e024cb1e8423be735b919c585669dc189735c7b __auto-added__
 - 2026-09-02T11:35:27+00:00: Annotate temp paths in Preview3DAdvanced / PreviewGaussianSplat / Pre… - https://github.com/Comfy-Org/ComfyUI/commit/ace9172e95038ac25015c419713aa7755f739034 __auto-added__
+- 2026-09-02T15:29:30+00:00: [Partner Nodes] feat(Minimax-H3): add the Max model to the Reference … - https://github.com/Comfy-Org/ComfyUI/commit/ec803fc97ee3e5a923a90753ab3620d431109f85 __auto-added__
