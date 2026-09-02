@@ -2174,3 +2174,5 @@ _Last updated: 2025-08-12_
 - 2026-09-02T02:43:25+00:00: Lower trellis workflow remesh memory usage. (#16034) - https://github.com/Comfy-Org/ComfyUI/commit/4e024cb1e8423be735b919c585669dc189735c7b __auto-added__
 - 2026-09-02T11:35:27+00:00: Annotate temp paths in Preview3DAdvanced / PreviewGaussianSplat / Pre… - https://github.com/Comfy-Org/ComfyUI/commit/ace9172e95038ac25015c419713aa7755f739034 __auto-added__
 - 2026-09-02T15:29:30+00:00: [Partner Nodes] feat(Minimax-H3): add the Max model to the Reference … - https://github.com/Comfy-Org/ComfyUI/commit/ec803fc97ee3e5a923a90753ab3620d431109f85 __auto-added__
+- 2026-09-02T17:46:37+00:00: chore: update workflow templates to v0.11.54 (#16045) - https://github.com/Comfy-Org/ComfyUI/commit/a87667f72f5fad094b74b10dc9c9f82faea728ef __auto-added__
+- 2026-09-02T19:25:10+00:00: v0.34.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.3 __auto-added__
