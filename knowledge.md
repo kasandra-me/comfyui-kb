@@ -2178,3 +2178,4 @@ _Last updated: 2025-08-12_
 - 2026-09-02T19:25:10+00:00: v0.34.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.3 __auto-added__
 - 2026-09-02T21:47:17+00:00: Fix SAM3 segmentation head receiving 4 FPN levels when scalp=1 (#15979) - https://github.com/Comfy-Org/ComfyUI/commit/2035799189bccaaaadc4e22a62169357c7969041 __auto-added__
 - 2026-09-02T22:29:16+00:00: Add live resolution preview widget to ResolutionSelector (#16013) - https://github.com/Comfy-Org/ComfyUI/commit/567275141678c9fd65bafef6aa9dcb4ac9bd70e3 __auto-added__
+- 2026-09-03T02:48:06+00:00: Add warning about forcing single GPU mode on Windows (#16055) - https://github.com/Comfy-Org/ComfyUI/commit/345c9190497c82cff53e71fb4ae00d1e135a6542 __auto-added__
