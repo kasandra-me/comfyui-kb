@@ -2192,3 +2192,4 @@ _Last updated: 2025-08-12_
 - 2026-09-04T17:06:37+00:00: Forward Deployed Creatives - https://blog.comfy.org/p/forward-deployed-creatives __auto-added__
 - 2026-09-04T20:20:38+00:00: chore: update workflow templates to v0.11.55 (#16104) - https://github.com/Comfy-Org/ComfyUI/commit/acb2a019b24861d89721a23862c059e3a6ece660 __auto-added__
 - 2026-09-04T21:07:26+00:00: v0.34.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.4 __auto-added__
+- 2026-09-04T22:55:13+00:00: comfy-aimdo 0.5.2 (#16108) - https://github.com/Comfy-Org/ComfyUI/commit/6e3c0bda5a756ec334df449cdc7d4a4685631e91 __auto-added__
