@@ -2183,3 +2183,5 @@ _Last updated: 2025-08-12_
 - 2026-09-03T09:12:33+00:00: cloud/v1.53.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.53.6 __auto-added__
 - 2026-09-03T19:36:25+00:00: Update README.md (#16071) - https://github.com/Comfy-Org/ComfyUI/commit/5f056310d51881f73101b7e3adcd4cf3ef123c51 __auto-added__
 - 2026-09-03T21:05:26+00:00: Support MiniMax-H3 and HiDream O1 loras trained with DiffSynth-Studio… - https://github.com/Comfy-Org/ComfyUI/commit/d22a13c66747ef89080622bcd095bd722846fa3c __auto-added__
+- 2026-09-03T23:01:51+00:00: Lower peak trellis workflow vram and ram usage. (#16054) - https://github.com/Comfy-Org/ComfyUI/commit/0eb098b5910f60d3a73f4f027822cd3599396674 __auto-added__
+- 2026-09-03T22:28:57+00:00: Comfy H3 Sync Sound Challenge: The Winners - https://blog.comfy.org/p/comfy-h3-sync-sound-challenge-the __auto-added__
