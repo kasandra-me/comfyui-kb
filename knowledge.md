@@ -2188,3 +2188,5 @@ _Last updated: 2025-08-12_
 - 2026-09-04T00:31:23+00:00: [Partner Nodes] feat(Recraft): add V4 Styles Pro models to Create Sty… - https://github.com/Comfy-Org/ComfyUI/commit/e80c1570b6b44a2557d5d8e341e05782d18c9bbb __auto-added__
 - 2026-09-04T01:57:58+00:00: v1.54.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.3 __auto-added__
 - 2026-09-04T16:05:50+00:00: chore: Update nodes categories (#16077) - https://github.com/Comfy-Org/ComfyUI/commit/e3a78dab9ed69a16b3f461acea70d778db6197b1 __auto-added__
+- 2026-09-04T17:47:40+00:00: [Partner Nodes] fix(Tripo): real output formats, exact pricing, missi… - https://github.com/Comfy-Org/ComfyUI/commit/8f486ad315a14929b223ff482974b2dfbf4ba72c __auto-added__
+- 2026-09-04T17:06:37+00:00: Forward Deployed Creatives - https://blog.comfy.org/p/forward-deployed-creatives __auto-added__
