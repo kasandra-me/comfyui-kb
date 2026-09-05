@@ -2197,3 +2197,4 @@ _Last updated: 2025-08-12_
 - 2026-09-05T02:40:10+00:00: v0.34.5 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.5 __auto-added__
 - 2026-09-05T01:54:12+00:00: v1.54.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.4 __auto-added__
 - 2026-09-05T19:23:16+00:00: [Partner Nodes] feat(OpenAI): add gpt 6 astra model and reasoning par… - https://github.com/Comfy-Org/ComfyUI/commit/8a43c6bd92499db45dd6b829b118f88dce9ce229 __auto-added__
+- 2026-09-05T21:12:49+00:00: [Partner Nodes] deprecate retired models (#16121) - https://github.com/Comfy-Org/ComfyUI/commit/f00bfd610cb001381603669e2cc01160ae37aaf3 __auto-added__
