@@ -2202,3 +2202,4 @@ _Last updated: 2025-08-12_
 - 2026-09-06T01:07:53+00:00: v1.51.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.10 __auto-added__
 - 2026-09-06T01:31:05+00:00: chore: update embedded docs to v0.5.11 (#15947) - https://github.com/Comfy-Org/ComfyUI/commit/15eb748b3ec5f8a0a2d470b7fb280e2d7579f916 __auto-added__
 - 2026-09-06T02:21:38+00:00: v1.54.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.5 __auto-added__
+- 2026-09-06T17:49:45+00:00: Pause comfy compiler for long lived sparse allocations (#16148) - https://github.com/Comfy-Org/ComfyUI/commit/a99d1f9c14f4594fe1e9d7e17c1997bf104d89fb __auto-added__
