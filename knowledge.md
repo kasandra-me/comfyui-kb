@@ -2204,3 +2204,4 @@ _Last updated: 2025-08-12_
 - 2026-09-06T02:21:38+00:00: v1.54.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.5 __auto-added__
 - 2026-09-06T17:49:45+00:00: Pause comfy compiler for long lived sparse allocations (#16148) - https://github.com/Comfy-Org/ComfyUI/commit/a99d1f9c14f4594fe1e9d7e17c1997bf104d89fb __auto-added__
 - 2026-09-06T20:15:15+00:00: Fix test_base_path_changes leaking a reloaded cli_args singleton (#16… - https://github.com/Comfy-Org/ComfyUI/commit/82db4037ce78bfc0c5c65a4b83ef9ca2a01e85aa __auto-added__
+- 2026-09-06T21:13:35+00:00: Fix Detect Edges (Canny) on images with an alpha channel (#15631) - https://github.com/Comfy-Org/ComfyUI/commit/d03a2430e1e7e2e7f9b520b65c0db6ded9683891 __auto-added__
