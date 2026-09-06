@@ -2200,3 +2200,5 @@ _Last updated: 2025-08-12_
 - 2026-09-05T21:12:49+00:00: [Partner Nodes] deprecate retired models (#16121) - https://github.com/Comfy-Org/ComfyUI/commit/f00bfd610cb001381603669e2cc01160ae37aaf3 __auto-added__
 - 2026-09-06T01:00:11+00:00: Fix potential mps issue of supports_fp64 called with None. (#16136) - https://github.com/Comfy-Org/ComfyUI/commit/d1c5e6411998943ae7703fd7490b162f68042da9 __auto-added__
 - 2026-09-06T01:07:53+00:00: v1.51.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.51.10 __auto-added__
+- 2026-09-06T01:31:05+00:00: chore: update embedded docs to v0.5.11 (#15947) - https://github.com/Comfy-Org/ComfyUI/commit/15eb748b3ec5f8a0a2d470b7fb280e2d7579f916 __auto-added__
+- 2026-09-06T02:21:38+00:00: v1.54.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.5 __auto-added__
