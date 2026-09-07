@@ -2207,3 +2207,4 @@ _Last updated: 2025-08-12_
 - 2026-09-06T21:13:35+00:00: Fix Detect Edges (Canny) on images with an alpha channel (#15631) - https://github.com/Comfy-Org/ComfyUI/commit/d03a2430e1e7e2e7f9b520b65c0db6ded9683891 __auto-added__
 - 2026-09-07T02:38:26+00:00: Don't invert the alpha channel in the Invert Image node (#15622) - https://github.com/Comfy-Org/ComfyUI/commit/fbed745c8d7d62573b099cd61fe51cb64b9b807e __auto-added__
 - 2026-09-07T02:01:11+00:00: v1.54.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.6 __auto-added__
+- 2026-09-07T07:53:13+00:00: Fix transparent Porter-Duff blend modes (#15721) - https://github.com/Comfy-Org/ComfyUI/commit/ea33b15489b1cc7f13fc74f26e96af995479548f __auto-added__
