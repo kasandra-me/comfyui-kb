@@ -2215,3 +2215,5 @@ _Last updated: 2025-08-12_
 - 2026-09-08T02:02:58+00:00: Add LTXV generated-keyframe nodes and Freeze Latent (#16040) - https://github.com/Comfy-Org/ComfyUI/commit/efa6c8f804bff78b46a0fd458ebd2e47bba07a30 __auto-added__
 - 2026-09-08T16:32:43+00:00: Comfy Aimdo 0.5.3 + Memory compiler fixes (#16180) - https://github.com/Comfy-Org/ComfyUI/commit/00d34d92fe0afbfbab3893ebbab2d5d70f5e9882 __auto-added__
 - 2026-09-08T19:52:21+00:00: Cleaner way of enabling quantized mm on text gen but not on text enc.… - https://github.com/Comfy-Org/ComfyUI/commit/249c5a3b951823c7990d0eb596f95b8bc542d00a __auto-added__
+- 2026-09-08T21:25:33+00:00: Fix MiniMax H3 denoise masks (#15988) - https://github.com/Comfy-Org/ComfyUI/commit/421a1c245c682c04d4325ba365f40c834c66f5b0 __auto-added__
+- 2026-09-08T21:27:09+00:00: cloud/v1.54.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.7 __auto-added__
