@@ -2212,3 +2212,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-09-07T21:54:46+00:00: Verify aotriton kernels actually launch before enabling pytorch atten… - https://github.com/Comfy-Org/ComfyUI/commit/41db8f4fa1587d139e412a57b9b69394e3b13f95 __priority-auto-added__
 - 2026-09-07T19:24:58+00:00: v0.34.6 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.6 __auto-added__
 - 2026-09-07T23:27:58+00:00: Remove useless code. (#16169) - https://github.com/Comfy-Org/ComfyUI/commit/f5ed117b88964f5536545221615889adbb8f497f __auto-added__
+- 2026-09-08T02:02:58+00:00: Add LTXV generated-keyframe nodes and Freeze Latent (#16040) - https://github.com/Comfy-Org/ComfyUI/commit/efa6c8f804bff78b46a0fd458ebd2e47bba07a30 __auto-added__
