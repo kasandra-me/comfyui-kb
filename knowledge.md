@@ -2221,3 +2221,4 @@ _Last updated: 2025-08-12_
 - 2026-09-09T03:43:43+00:00: v1.55.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.2 __auto-added__
 - 2026-09-09T05:08:46+00:00: Add new model blueprints and reorganize subgraph categories (#14785) - https://github.com/Comfy-Org/ComfyUI/commit/54e03f5367ebd8d96380e4cf02fa3084f7a7eca5 __auto-added__
 - 2026-09-09T05:02:46+00:00: v0.35.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.0 __auto-added__
+- 2026-09-09T15:51:34+00:00: main: bump the AMD Windows VA quota to 4TB (#16199) - https://github.com/Comfy-Org/ComfyUI/commit/6f3895ed8d1e0f1d5fad11b48b3f159f7de1cc15 __auto-added__
