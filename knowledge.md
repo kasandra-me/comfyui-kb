@@ -2219,3 +2219,5 @@ _Last updated: 2025-08-12_
 - 2026-09-08T21:27:09+00:00: cloud/v1.54.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.7 __auto-added__
 - 2026-09-09T04:50:21+00:00: Report the file saved by Save 3D (Advanced) as a standard 3d output i… - https://github.com/Comfy-Org/ComfyUI/commit/3074d0e331f0ccb5ef30875545e33ae11fc574b9 __auto-added__
 - 2026-09-09T03:43:43+00:00: v1.55.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.2 __auto-added__
+- 2026-09-09T05:08:46+00:00: Add new model blueprints and reorganize subgraph categories (#14785) - https://github.com/Comfy-Org/ComfyUI/commit/54e03f5367ebd8d96380e4cf02fa3084f7a7eca5 __auto-added__
+- 2026-09-09T05:02:46+00:00: v0.35.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.0 __auto-added__
