@@ -2226,3 +2226,4 @@ _Last updated: 2025-08-12_
 - 2026-09-09T20:14:27+00:00: quant_ops: drop the dead ROCm triton arch gate (#16211) - https://github.com/Comfy-Org/ComfyUI/commit/be92396834f9b6e3e361cfe30e7eed693137a448 __auto-added__
 - 2026-09-10T02:33:59+00:00: Update instructions for manual install on windows AMD. (#16217) - https://github.com/Comfy-Org/ComfyUI/commit/a7b1d39d342d102f305797fb5ba12dc304d9c1f5 __auto-added__
 - 2026-09-10T05:50:31+00:00: cloud/v1.54.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.8 __auto-added__
+- 2026-09-10T16:55:49+00:00: [Partner Nodes] feat(Tripo): migrate to the v3 API, add the Smart Seg… - https://github.com/Comfy-Org/ComfyUI/commit/6eba895f7d3615284da81e95bf49eaed4a5f7309 __auto-added__
