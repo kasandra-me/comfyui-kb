@@ -2228,3 +2228,5 @@ _Last updated: 2025-08-12_
 - 2026-09-10T05:50:31+00:00: cloud/v1.54.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.8 __auto-added__
 - 2026-09-10T16:55:49+00:00: [Partner Nodes] feat(Tripo): migrate to the v3 API, add the Smart Seg… - https://github.com/Comfy-Org/ComfyUI/commit/6eba895f7d3615284da81e95bf49eaed4a5f7309 __auto-added__
 - 2026-09-10T17:39:20+00:00: chore: update workflow templates to v0.11.59 (#16233) - https://github.com/Comfy-Org/ComfyUI/commit/1f641fd9337f0ec4d635a28415a8d25a8d15f753 __auto-added__
+- 2026-09-10T21:10:36+00:00: Fix h3 fun controlnet with comfy compiler. (#16240) - https://github.com/Comfy-Org/ComfyUI/commit/6338e4bd428247a4a8843496aa98fb7f2a9d3632 __auto-added__
+- 2026-09-10T21:14:03+00:00: v0.35.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.1 __auto-added__
