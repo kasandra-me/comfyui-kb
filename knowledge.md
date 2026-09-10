@@ -2227,3 +2227,4 @@ _Last updated: 2025-08-12_
 - 2026-09-10T02:33:59+00:00: Update instructions for manual install on windows AMD. (#16217) - https://github.com/Comfy-Org/ComfyUI/commit/a7b1d39d342d102f305797fb5ba12dc304d9c1f5 __auto-added__
 - 2026-09-10T05:50:31+00:00: cloud/v1.54.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.8 __auto-added__
 - 2026-09-10T16:55:49+00:00: [Partner Nodes] feat(Tripo): migrate to the v3 API, add the Smart Seg… - https://github.com/Comfy-Org/ComfyUI/commit/6eba895f7d3615284da81e95bf49eaed4a5f7309 __auto-added__
+- 2026-09-10T17:39:20+00:00: chore: update workflow templates to v0.11.59 (#16233) - https://github.com/Comfy-Org/ComfyUI/commit/1f641fd9337f0ec4d635a28415a8d25a8d15f753 __auto-added__
