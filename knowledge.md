@@ -2230,3 +2230,4 @@ _Last updated: 2025-08-12_
 - 2026-09-10T17:39:20+00:00: chore: update workflow templates to v0.11.59 (#16233) - https://github.com/Comfy-Org/ComfyUI/commit/1f641fd9337f0ec4d635a28415a8d25a8d15f753 __auto-added__
 - 2026-09-10T21:10:36+00:00: Fix h3 fun controlnet with comfy compiler. (#16240) - https://github.com/Comfy-Org/ComfyUI/commit/6338e4bd428247a4a8843496aa98fb7f2a9d3632 __auto-added__
 - 2026-09-10T21:14:03+00:00: v0.35.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.1 __auto-added__
+- 2026-09-10T21:55:20+00:00: cloud/v1.54.9: [backport cloud/1.54] assetDeletionEnabled only changes message (#17377) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.9 __auto-added__
