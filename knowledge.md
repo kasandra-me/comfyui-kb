@@ -2232,3 +2232,4 @@ _Last updated: 2025-08-12_
 - 2026-09-10T21:14:03+00:00: v0.35.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.1 __auto-added__
 - 2026-09-10T21:55:20+00:00: cloud/v1.54.9: [backport cloud/1.54] assetDeletionEnabled only changes message (#17377) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.9 __auto-added__
 - 2026-09-11T01:52:52+00:00: Add linear to ImageColorSpace. (#16247) - https://github.com/Comfy-Org/ComfyUI/commit/1d48d9cf7bcecb6022a87b3cb13e0fb435bf9b8a __auto-added__
+- 2026-09-11T18:27:22+00:00: Fix unit tests (#16271) - https://github.com/Comfy-Org/ComfyUI/commit/c40c94e1f5142b236274c01381b0bd6ba7ca8f85 __auto-added__
