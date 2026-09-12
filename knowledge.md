@@ -2235,3 +2235,5 @@ _Last updated: 2025-08-12_
 - 2026-09-11T18:27:22+00:00: Fix unit tests (#16271) - https://github.com/Comfy-Org/ComfyUI/commit/c40c94e1f5142b236274c01381b0bd6ba7ca8f85 __auto-added__
 - 2026-09-11T22:40:56+00:00: feat: Marigold v2 support (CORE-431) (#16232) - https://github.com/Comfy-Org/ComfyUI/commit/1d91a82dc6236af35080957633b95e263afdbf1b __auto-added__
 - 2026-09-11T23:34:44+00:00: Support Yue2 music model. (#16250) - https://github.com/Comfy-Org/ComfyUI/commit/b058ec652802e1de24f1d429b3c7c1fb868f791c __auto-added__
+- 2026-09-12T02:32:18+00:00: Bump comfyui-frontend-package to 1.52.7 (#16275) - https://github.com/Comfy-Org/ComfyUI/commit/7193f5627f036701e5efc23beaea20fa37ceaadd __auto-added__
+- 2026-09-12T01:42:52+00:00: v1.55.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.5 __auto-added__
