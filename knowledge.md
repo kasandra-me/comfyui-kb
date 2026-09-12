@@ -2237,3 +2237,4 @@ _Last updated: 2025-08-12_
 - 2026-09-11T23:34:44+00:00: Support Yue2 music model. (#16250) - https://github.com/Comfy-Org/ComfyUI/commit/b058ec652802e1de24f1d429b3c7c1fb868f791c __auto-added__
 - 2026-09-12T02:32:18+00:00: Bump comfyui-frontend-package to 1.52.7 (#16275) - https://github.com/Comfy-Org/ComfyUI/commit/7193f5627f036701e5efc23beaea20fa37ceaadd __auto-added__
 - 2026-09-12T01:42:52+00:00: v1.55.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.5 __auto-added__
+- 2026-09-12T06:58:57+00:00: [Partner Nodes] feat(Bria): add new image edit nodes and the Video Er… - https://github.com/Comfy-Org/ComfyUI/commit/c75d8c966c29cb0392259af791f43373315b72db __auto-added__
