@@ -2238,3 +2238,4 @@ _Last updated: 2025-08-12_
 - 2026-09-12T02:32:18+00:00: Bump comfyui-frontend-package to 1.52.7 (#16275) - https://github.com/Comfy-Org/ComfyUI/commit/7193f5627f036701e5efc23beaea20fa37ceaadd __auto-added__
 - 2026-09-12T01:42:52+00:00: v1.55.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.5 __auto-added__
 - 2026-09-12T06:58:57+00:00: [Partner Nodes] feat(Bria): add new image edit nodes and the Video Er… - https://github.com/Comfy-Org/ComfyUI/commit/c75d8c966c29cb0392259af791f43373315b72db __auto-added__
+- 2026-09-12T18:41:00+00:00: [Partner Nodes] feat(client): consume estimated-duration headers for … - https://github.com/Comfy-Org/ComfyUI/commit/9113c08c2e14f1ca6c0ccab64920777fd01e1bb9 __auto-added__
