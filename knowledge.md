@@ -2240,3 +2240,4 @@ _Last updated: 2025-08-12_
 - 2026-09-12T06:58:57+00:00: [Partner Nodes] feat(Bria): add new image edit nodes and the Video Er… - https://github.com/Comfy-Org/ComfyUI/commit/c75d8c966c29cb0392259af791f43373315b72db __auto-added__
 - 2026-09-12T18:41:00+00:00: [Partner Nodes] feat(client): consume estimated-duration headers for … - https://github.com/Comfy-Org/ComfyUI/commit/9113c08c2e14f1ca6c0ccab64920777fd01e1bb9 __auto-added__
 - 2026-09-12T22:45:38+00:00: Fix linear_input_act to respect _full_precision_mm fallback (#16285) - https://github.com/Comfy-Org/ComfyUI/commit/a20738f1d345e2695429544b5defea672dd74486 __auto-added__
+- 2026-09-12T23:54:50+00:00: Log typed asset scanner filesystem errors (#16096) - https://github.com/Comfy-Org/ComfyUI/commit/d43a5fa20c8547ff42d13232f589a06536c42b97 __auto-added__
