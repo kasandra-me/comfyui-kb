@@ -2248,3 +2248,5 @@ _Last updated: 2025-08-12_
 - 2026-09-14T05:24:33+00:00: feat: structured event log lines for the assets system (#16306) - https://github.com/Comfy-Org/ComfyUI/commit/f42b24efbeee194513fff465d84ad6913a2698d5 __auto-added__
 - 2026-09-14T12:14:09+00:00: [Partner Nodes] feat(Gemini-LLM): add GeminiNodeV3, deprecate V2 (#16… - https://github.com/Comfy-Org/ComfyUI/commit/b00584967778871f329c2d31190a5e9b767b8366 __auto-added__
 - 2026-09-14T18:53:50+00:00: chore: update workflow templates to v0.11.60 (#16319) - https://github.com/Comfy-Org/ComfyUI/commit/db70adbd1a4693fe8d959b898ecc5dc166daad35 __auto-added__
+- 2026-09-14T21:36:30+00:00: comfy-execution: cache: cache errors is RAM cache sizing scan (#16314) - https://github.com/Comfy-Org/ComfyUI/commit/a2afcdb89910f7ada92e2a6e04c8b5c9126122f1 __auto-added__
+- 2026-09-14T22:21:06+00:00: v0.35.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.2 __auto-added__
