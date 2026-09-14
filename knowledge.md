@@ -2247,3 +2247,4 @@ _Last updated: 2025-08-12_
 - 2026-09-14T00:53:45+00:00: v1.55.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.9 __auto-added__
 - 2026-09-14T05:24:33+00:00: feat: structured event log lines for the assets system (#16306) - https://github.com/Comfy-Org/ComfyUI/commit/f42b24efbeee194513fff465d84ad6913a2698d5 __auto-added__
 - 2026-09-14T12:14:09+00:00: [Partner Nodes] feat(Gemini-LLM): add GeminiNodeV3, deprecate V2 (#16… - https://github.com/Comfy-Org/ComfyUI/commit/b00584967778871f329c2d31190a5e9b767b8366 __auto-added__
+- 2026-09-14T18:53:50+00:00: chore: update workflow templates to v0.11.60 (#16319) - https://github.com/Comfy-Org/ComfyUI/commit/db70adbd1a4693fe8d959b898ecc5dc166daad35 __auto-added__
