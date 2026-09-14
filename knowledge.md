@@ -2245,3 +2245,4 @@ _Last updated: 2025-08-12_
 - 2026-09-13T08:00:06+00:00: [Partner Nodes] feat(BFL): add the Flux Video Edit node (#16259) - https://github.com/Comfy-Org/ComfyUI/commit/02d39c8cd7828566f48ccf783c1c75b8336044f5 __auto-added__
 - 2026-09-13T19:04:51+00:00: feat(assets): split asset records from content (#16295) - https://github.com/Comfy-Org/ComfyUI/commit/19e1058f4c445ef74047e77a23f9ca7684c1e4b6 __auto-added__
 - 2026-09-14T00:53:45+00:00: v1.55.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.9 __auto-added__
+- 2026-09-14T05:24:33+00:00: feat: structured event log lines for the assets system (#16306) - https://github.com/Comfy-Org/ComfyUI/commit/f42b24efbeee194513fff465d84ad6913a2698d5 __auto-added__
