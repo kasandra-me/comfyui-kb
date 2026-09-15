@@ -2250,3 +2250,4 @@ _Last updated: 2025-08-12_
 - 2026-09-14T18:53:50+00:00: chore: update workflow templates to v0.11.60 (#16319) - https://github.com/Comfy-Org/ComfyUI/commit/db70adbd1a4693fe8d959b898ecc5dc166daad35 __auto-added__
 - 2026-09-14T21:36:30+00:00: comfy-execution: cache: cache errors is RAM cache sizing scan (#16314) - https://github.com/Comfy-Org/ComfyUI/commit/a2afcdb89910f7ada92e2a6e04c8b5c9126122f1 __auto-added__
 - 2026-09-14T22:21:06+00:00: v0.35.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.35.2 __auto-added__
+- 2026-09-15T04:32:24+00:00: Temporarily disable testing with `--enable-assets` (#16334) - https://github.com/Comfy-Org/ComfyUI/commit/36da3ff763687eab86a35e1019995dd1fb369b0d __auto-added__
