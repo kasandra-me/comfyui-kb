@@ -2257,3 +2257,4 @@ _Last updated: 2025-08-12_
 - 2026-09-16T18:01:10+00:00: Add transparent background option for GPT Image 2 (#16366) - https://github.com/Comfy-Org/ComfyUI/commit/8ad078bbf81b966cc3c1e96ad9d2d13293f91347 __auto-added__
 - 2026-09-17T02:27:39+00:00: Always put text encoder on GPU when dynamic vram on. (#16374) - https://github.com/Comfy-Org/ComfyUI/commit/d39cdfdb03932f14f390dda27891b3e546efb746 __auto-added__
 - 2026-09-17T07:29:13+00:00: [Partner Nodes] fix(Tripo): refuse a P2 run whose linked GLB or FBX o… - https://github.com/Comfy-Org/ComfyUI/commit/387f98aa2822f684b8597959a52a467d88cc4806 __auto-added__
+- 2026-09-17T18:17:04+00:00: feat: Support MoGe 3 (CORE-443) (#16381) - https://github.com/Comfy-Org/ComfyUI/commit/a2f455c9da47fad15a09459e2a2a2de9ea50e7c4 __auto-added__
