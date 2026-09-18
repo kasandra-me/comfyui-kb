@@ -2260,3 +2260,4 @@ _Last updated: 2025-08-12_
 - 2026-09-17T18:17:04+00:00: feat: Support MoGe 3 (CORE-443) (#16381) - https://github.com/Comfy-Org/ComfyUI/commit/a2f455c9da47fad15a09459e2a2a2de9ea50e7c4 __auto-added__
 - 2026-09-17T23:48:54+00:00: chores: Update nodes names and categories (#16274) - https://github.com/Comfy-Org/ComfyUI/commit/7de99222f06e1b6cddb1868859319010bd7ac878 __auto-added__
 - 2026-09-17T23:02:46+00:00: v1.53.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.6 __auto-added__
+- 2026-09-18T03:43:08+00:00: Lower the pos embed precision of SheetSage2 to match upstream. (#16395) - https://github.com/Comfy-Org/ComfyUI/commit/944386c233e02eaf877b1c8d5d513fb3d3a4d5e3 __auto-added__
