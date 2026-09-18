@@ -2262,3 +2262,4 @@ _Last updated: 2025-08-12_
 - 2026-09-17T23:02:46+00:00: v1.53.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.6 __auto-added__
 - 2026-09-18T03:43:08+00:00: Lower the pos embed precision of SheetSage2 to match upstream. (#16395) - https://github.com/Comfy-Org/ComfyUI/commit/944386c233e02eaf877b1c8d5d513fb3d3a4d5e3 __auto-added__
 - 2026-09-18T06:56:18+00:00: [Partner Nodes] feat(client): send Idempotency-Key on partner-proxy c… - https://github.com/Comfy-Org/ComfyUI/commit/a8686f2b33fc540f137df50c0f0719953830a5e7 __auto-added__
+- 2026-09-18T16:13:15+00:00: Bump comfyui-frontend-package to 1.53.6 (#16386) - https://github.com/Comfy-Org/ComfyUI/commit/0d9017220a8a06c85f059f387949ff0bf23f4672 __auto-added__
