@@ -2263,3 +2263,5 @@ _Last updated: 2025-08-12_
 - 2026-09-18T03:43:08+00:00: Lower the pos embed precision of SheetSage2 to match upstream. (#16395) - https://github.com/Comfy-Org/ComfyUI/commit/944386c233e02eaf877b1c8d5d513fb3d3a4d5e3 __auto-added__
 - 2026-09-18T06:56:18+00:00: [Partner Nodes] feat(client): send Idempotency-Key on partner-proxy c… - https://github.com/Comfy-Org/ComfyUI/commit/a8686f2b33fc540f137df50c0f0719953830a5e7 __auto-added__
 - 2026-09-18T16:13:15+00:00: Bump comfyui-frontend-package to 1.53.6 (#16386) - https://github.com/Comfy-Org/ComfyUI/commit/0d9017220a8a06c85f059f387949ff0bf23f4672 __auto-added__
+- 2026-09-18T18:35:35+00:00: Fix ace step VAE decode crashing on non bf16 GPUs. (#16405) - https://github.com/Comfy-Org/ComfyUI/commit/3c80da7f87ee359b2d06f107cb3c0797079dfbbb __auto-added__
+- 2026-09-18T04:43:27+00:00: cloud/v1.54.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.10 __auto-added__
