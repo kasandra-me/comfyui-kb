@@ -2258,3 +2258,5 @@ _Last updated: 2025-08-12_
 - 2026-09-17T02:27:39+00:00: Always put text encoder on GPU when dynamic vram on. (#16374) - https://github.com/Comfy-Org/ComfyUI/commit/d39cdfdb03932f14f390dda27891b3e546efb746 __auto-added__
 - 2026-09-17T07:29:13+00:00: [Partner Nodes] fix(Tripo): refuse a P2 run whose linked GLB or FBX o… - https://github.com/Comfy-Org/ComfyUI/commit/387f98aa2822f684b8597959a52a467d88cc4806 __auto-added__
 - 2026-09-17T18:17:04+00:00: feat: Support MoGe 3 (CORE-443) (#16381) - https://github.com/Comfy-Org/ComfyUI/commit/a2f455c9da47fad15a09459e2a2a2de9ea50e7c4 __auto-added__
+- 2026-09-17T23:48:54+00:00: chores: Update nodes names and categories (#16274) - https://github.com/Comfy-Org/ComfyUI/commit/7de99222f06e1b6cddb1868859319010bd7ac878 __auto-added__
+- 2026-09-17T23:02:46+00:00: v1.53.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.53.6 __auto-added__
