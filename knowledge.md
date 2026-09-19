@@ -2266,3 +2266,4 @@ _Last updated: 2025-08-12_
 - 2026-09-18T18:35:35+00:00: Fix ace step VAE decode crashing on non bf16 GPUs. (#16405) - https://github.com/Comfy-Org/ComfyUI/commit/3c80da7f87ee359b2d06f107cb3c0797079dfbbb __auto-added__
 - 2026-09-18T04:43:27+00:00: cloud/v1.54.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.10 __auto-added__
 - 2026-09-19T02:37:02+00:00: cloud/v1.54.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.11 __auto-added__
+- 2026-09-19T22:44:02+00:00: feat: Qwen-image 2.1 support (CORE-423) (#16400) - https://github.com/Comfy-Org/ComfyUI/commit/6bfaacc67c2103481e5f0c84d75257cd0581d86a __auto-added__
