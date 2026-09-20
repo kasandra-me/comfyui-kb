@@ -2274,3 +2274,4 @@ _Last updated: 2025-08-12_
 - 2026-09-20T13:12:07+00:00: Qwen-Image-2.1 in ComfyUI: Open-Weight Image Generation and Editing, Now with Transparency - https://blog.comfy.org/p/qwen-image-21-in-comfyui-open-weight __auto-added__
 - 2026-09-20T15:29:50+00:00: Bump back frontend to 1.53.6 after dowgrading it on the stable commit. - https://github.com/Comfy-Org/ComfyUI/commit/0f74f7fb9f83a78bf46188fd4fd53e6bc44c1ae8 __auto-added__
 - 2026-09-20T15:27:36+00:00: v0.37.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.0 __auto-added__
+- 2026-09-20T17:31:55+00:00: Allow model files to contain which attention should be used for each … - https://github.com/Comfy-Org/ComfyUI/commit/c194dd00cd42aa18d9dbf27d977bf6b85d9ea565 __auto-added__
