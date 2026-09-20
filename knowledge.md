@@ -2270,3 +2270,5 @@ _Last updated: 2025-08-12_
 - 2026-09-19T23:29:49+00:00: chore: update embedded docs to v0.5.12 (#16396) - https://github.com/Comfy-Org/ComfyUI/commit/00abd23d4ecc1d5f5a002df3705362436be325b7 __auto-added__
 - 2026-09-20T02:50:30+00:00: Lower wan peak vram when using comfy kitchen attention. (#16418) - https://github.com/Comfy-Org/ComfyUI/commit/c8ed2c8ce957475459731135c4ca31c6856a4542 __auto-added__
 - 2026-09-20T07:35:58+00:00: Add --disable-fast-disk to disable fast disk. (#16424) - https://github.com/Comfy-Org/ComfyUI/commit/5ba116a40f1944f64e2e4a8ace826656e6293bf4 __auto-added__
+- 2026-09-20T11:00:04+00:00: v1.55.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.11 __auto-added__
+- 2026-09-20T13:12:07+00:00: Qwen-Image-2.1 in ComfyUI: Open-Weight Image Generation and Editing, Now with Transparency - https://blog.comfy.org/p/qwen-image-21-in-comfyui-open-weight __auto-added__
