@@ -2268,3 +2268,4 @@ _Last updated: 2025-08-12_
 - 2026-09-19T02:37:02+00:00: cloud/v1.54.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.11 __auto-added__
 - 2026-09-19T22:44:02+00:00: feat: Qwen-image 2.1 support (CORE-423) (#16400) - https://github.com/Comfy-Org/ComfyUI/commit/6bfaacc67c2103481e5f0c84d75257cd0581d86a __auto-added__
 - 2026-09-19T23:29:49+00:00: chore: update embedded docs to v0.5.12 (#16396) - https://github.com/Comfy-Org/ComfyUI/commit/00abd23d4ecc1d5f5a002df3705362436be325b7 __auto-added__
+- 2026-09-20T02:50:30+00:00: Lower wan peak vram when using comfy kitchen attention. (#16418) - https://github.com/Comfy-Org/ComfyUI/commit/c8ed2c8ce957475459731135c4ca31c6856a4542 __auto-added__
