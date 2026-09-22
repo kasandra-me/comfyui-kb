@@ -2283,3 +2283,5 @@ _Last updated: 2025-08-12_
 - 🔥 2026-09-22T00:56:56+00:00: Remove torchaudio dependency. (#16457) - https://github.com/Comfy-Org/ComfyUI/commit/b16023b004d3b1bfbbd6463414dc20da1b36cc4d __priority-auto-added__
 - 2026-09-22T06:03:25+00:00: [Partner Nodes] feat(Tencent): add Hunyuan Image 3.5 text-to-image an… - https://github.com/Comfy-Org/ComfyUI/commit/b09760de30799bdb9c603a9c3e99792c4aefb47a __auto-added__
 - 2026-09-22T06:22:30+00:00: chore: update workflow templates to v0.11.68 (#16466) - https://github.com/Comfy-Org/ComfyUI/commit/b33e2b55cae074eca5aec96283cceac19aa249ba __auto-added__
+- 2026-09-22T16:27:09+00:00: support union cn 2.0 (#16471) - https://github.com/Comfy-Org/ComfyUI/commit/95539f56344958339e39b7582a476267d489b0ee __auto-added__
+- 2026-09-22T18:09:30+00:00: Making the MiniMax H3 Video VAE 2x Faster - https://blog.comfy.org/p/making-the-minimax-h3-video-vae-2x __auto-added__
