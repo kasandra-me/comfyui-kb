@@ -2282,3 +2282,4 @@ _Last updated: 2025-08-12_
 - 2026-09-21T22:37:24+00:00: 5.11.0 — validate workflow model references before submitting - https://github.com/runpod-workers/worker-comfyui/releases/tag/5.11.0 __auto-added__
 - 🔥 2026-09-22T00:56:56+00:00: Remove torchaudio dependency. (#16457) - https://github.com/Comfy-Org/ComfyUI/commit/b16023b004d3b1bfbbd6463414dc20da1b36cc4d __priority-auto-added__
 - 2026-09-22T06:03:25+00:00: [Partner Nodes] feat(Tencent): add Hunyuan Image 3.5 text-to-image an… - https://github.com/Comfy-Org/ComfyUI/commit/b09760de30799bdb9c603a9c3e99792c4aefb47a __auto-added__
+- 2026-09-22T06:22:30+00:00: chore: update workflow templates to v0.11.68 (#16466) - https://github.com/Comfy-Org/ComfyUI/commit/b33e2b55cae074eca5aec96283cceac19aa249ba __auto-added__
