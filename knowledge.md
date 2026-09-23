@@ -2286,3 +2286,4 @@ _Last updated: 2025-08-12_
 - 2026-09-22T16:27:09+00:00: support union cn 2.0 (#16471) - https://github.com/Comfy-Org/ComfyUI/commit/95539f56344958339e39b7582a476267d489b0ee __auto-added__
 - 2026-09-22T18:09:30+00:00: Making the MiniMax H3 Video VAE 2x Faster - https://blog.comfy.org/p/making-the-minimax-h3-video-vae-2x __auto-added__
 - 2026-09-22T19:12:39+00:00: v0.37.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.1 __auto-added__
+- 2026-09-23T03:16:13+00:00: Port some optimizations to flux model family. (#16488) - https://github.com/Comfy-Org/ComfyUI/commit/b5cc8830279eae909a59de030af1e50761c36751 __auto-added__
