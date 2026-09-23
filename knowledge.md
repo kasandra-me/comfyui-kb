@@ -2288,3 +2288,6 @@ _Last updated: 2025-08-12_
 - 2026-09-22T19:12:39+00:00: v0.37.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.1 __auto-added__
 - 2026-09-23T03:16:13+00:00: Port some optimizations to flux model family. (#16488) - https://github.com/Comfy-Org/ComfyUI/commit/b5cc8830279eae909a59de030af1e50761c36751 __auto-added__
 - 2026-09-23T05:44:22+00:00: cloud/v1.54.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.14 __auto-added__
+- 2026-09-23T17:51:13+00:00: chore: update workflow templates to v0.11.69 (#16503) - https://github.com/Comfy-Org/ComfyUI/commit/2255709aa0be2deade91c7c80cda49d31b73906f __auto-added__
+- 2026-09-23T18:34:39+00:00: v0.37.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.2 __auto-added__
+- 2026-09-23T15:47:01+00:00: Introducing Comfy Router: One API for Frontier Media Models - https://blog.comfy.org/p/introducing-comfy-router-one-api __auto-added__
