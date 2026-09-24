@@ -2292,3 +2292,5 @@ _Last updated: 2025-08-12_
 - 2026-09-23T18:34:39+00:00: v0.37.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.2 __auto-added__
 - 2026-09-23T15:47:01+00:00: Introducing Comfy Router: One API for Frontier Media Models - https://blog.comfy.org/p/introducing-comfy-router-one-api __auto-added__
 - 2026-09-23T22:17:11+00:00: Take the SQLite write lock up front for asset scan and output-registr… - https://github.com/Comfy-Org/ComfyUI/commit/9d3bfc393b3415e146efb8434b32784cc2e69521 __auto-added__
+- 2026-09-24T03:01:48+00:00: Lower memory usage and .comfy_attention support for lumina family mod… - https://github.com/Comfy-Org/ComfyUI/commit/1568e6cfd04586a4b3c4e1817ea7dde09b1bf9e7 __auto-added__
+- 2026-09-24T02:02:05+00:00: cloud/v1.55.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.55.13 __auto-added__
