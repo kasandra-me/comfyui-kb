@@ -2297,3 +2297,5 @@ _Last updated: 2025-08-12_
 - 2026-09-24T17:49:51+00:00: [Partner Nodes] feat(ByteDance): add Seedream 5.0 Flash (#16522) - https://github.com/Comfy-Org/ComfyUI/commit/93810483a4739a1588236919a3128d3070244146 __auto-added__
 - 2026-09-25T00:06:46+00:00: feat(npu): support async weight offload streams (#16057) - https://github.com/Comfy-Org/ComfyUI/commit/78368eafee727c52efd121b775e0783c195e5c94 __auto-added__
 - 2026-09-25T02:33:18+00:00: Small fix: skip unnecessary work. (#16540) - https://github.com/Comfy-Org/ComfyUI/commit/88ab4a06566454ad89db8f0bedb970d6c08cd1b7 __auto-added__
+- 2026-09-25T20:54:59+00:00: Fix HDR output issue with negative values in Convert Image Color Spac… - https://github.com/Comfy-Org/ComfyUI/commit/f2a419eb5c107f422951e9f6afc9caf8ffe03f66 __auto-added__
+- 2026-09-25T22:08:57+00:00: v0.37.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.4 __auto-added__
