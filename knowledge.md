@@ -2301,3 +2301,4 @@ _Last updated: 2025-08-12_
 - 2026-09-25T22:08:57+00:00: v0.37.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.4 __auto-added__
 - 2026-09-26T03:10:52+00:00: Mention some ComfyUI optimization details in README. (#16576) - https://github.com/Comfy-Org/ComfyUI/commit/79be670e2d9be63e238785af307369d2b9039ed1 __auto-added__
 - 2026-09-27T00:46:14+00:00: Support tiny VAE for Qwen-Image 2.1 (#16552) - https://github.com/Comfy-Org/ComfyUI/commit/a73d24ba17715a82d3e5dfcaf5525cba7ae9890d __auto-added__
+- 2026-09-27T02:40:47+00:00: Fix potential regression with previous PR. (#16596) - https://github.com/Comfy-Org/ComfyUI/commit/4ef23c34d950eecc37040a21ee1741a49d2e44b1 __auto-added__
