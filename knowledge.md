@@ -2304,3 +2304,4 @@ _Last updated: 2025-08-12_
 - 2026-09-27T02:40:47+00:00: Fix potential regression with previous PR. (#16596) - https://github.com/Comfy-Org/ComfyUI/commit/4ef23c34d950eecc37040a21ee1741a49d2e44b1 __auto-added__
 - 2026-09-27T22:45:17+00:00: Add comfy_attention and AttentionTensorContainer to a few models. (#1… - https://github.com/Comfy-Org/ComfyUI/commit/8d534945ebd53cff61e8def81757c6a6c1b9cf2d __auto-added__
 - 2026-09-28T04:58:05+00:00: cloud/v1.54.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.15 __auto-added__
+- 2026-09-28T20:38:51+00:00: Searching "kitchen" now returns the attention node. (#16632) - https://github.com/Comfy-Org/ComfyUI/commit/2139131e880cf07116f0d0238de8cfbb125d2114 __auto-added__
