@@ -2305,3 +2305,4 @@ _Last updated: 2025-08-12_
 - 2026-09-27T22:45:17+00:00: Add comfy_attention and AttentionTensorContainer to a few models. (#1… - https://github.com/Comfy-Org/ComfyUI/commit/8d534945ebd53cff61e8def81757c6a6c1b9cf2d __auto-added__
 - 2026-09-28T04:58:05+00:00: cloud/v1.54.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.15 __auto-added__
 - 2026-09-28T20:38:51+00:00: Searching "kitchen" now returns the attention node. (#16632) - https://github.com/Comfy-Org/ComfyUI/commit/2139131e880cf07116f0d0238de8cfbb125d2114 __auto-added__
+- 2026-09-29T01:11:28+00:00: Update comfy-kitchen package version to 0.2.36 (#16635) - https://github.com/Comfy-Org/ComfyUI/commit/6f6a27421620a26d5ea99156598bbf7d542d54cd __auto-added__
