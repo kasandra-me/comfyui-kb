@@ -2306,3 +2306,5 @@ _Last updated: 2025-08-12_
 - 2026-09-28T04:58:05+00:00: cloud/v1.54.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.54.15 __auto-added__
 - 2026-09-28T20:38:51+00:00: Searching "kitchen" now returns the attention node. (#16632) - https://github.com/Comfy-Org/ComfyUI/commit/2139131e880cf07116f0d0238de8cfbb125d2114 __auto-added__
 - 2026-09-29T01:11:28+00:00: Update comfy-kitchen package version to 0.2.36 (#16635) - https://github.com/Comfy-Org/ComfyUI/commit/6f6a27421620a26d5ea99156598bbf7d542d54cd __auto-added__
+- 2026-09-29T04:37:37+00:00: Avoid unnecessary write. (#16639) - https://github.com/Comfy-Org/ComfyUI/commit/a7169322485d0049380fb207fa17e9fb3ec40486 __auto-added__
+- 2026-09-29T06:39:57+00:00: v1.54.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.8 __auto-added__
