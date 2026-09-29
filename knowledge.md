@@ -2310,3 +2310,5 @@ _Last updated: 2025-08-12_
 - 2026-09-29T06:39:57+00:00: v1.54.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.8 __auto-added__
 - 2026-09-29T18:46:44+00:00: ComfyUI v0.38.0 - https://github.com/Comfy-Org/ComfyUI/commit/6b747c0428c343e1417219641db93a4fb7cb69ae __auto-added__
 - 2026-09-29T18:46:44+00:00: v0.38.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.0 __auto-added__
+- 2026-09-29T20:45:14+00:00: chore: update embedded docs to v0.5.13 (#16618) - https://github.com/Comfy-Org/ComfyUI/commit/9d80841aa1990305cc7a280c5ea505f317efcc2d __auto-added__
+- 2026-09-29T22:29:42+00:00: v1.54.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.9 __auto-added__
