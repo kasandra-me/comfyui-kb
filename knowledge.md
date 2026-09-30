@@ -2315,3 +2315,4 @@ _Last updated: 2025-08-12_
 - 2026-09-30T01:42:08+00:00: feat: add DynamicGroup widget input (#16260) - https://github.com/Comfy-Org/ComfyUI/commit/2d2fa46e18d293ced1b958fe288730e2ef4b322e __auto-added__
 - 2026-09-30T00:27:13+00:00: cloud/v1.55.14: [backport cloud/1.55] fix: close cloud tag workflow review gaps (#19509) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.55.14 __auto-added__
 - 2026-09-30T04:00:09+00:00: Fix crash when selecting int8 or int4 cache in qwen image 2.1 (#16667) - https://github.com/Comfy-Org/ComfyUI/commit/fb2315f11db0ebfaafa9099a5df5227dc6bb42bc __auto-added__
+- 2026-09-30T09:50:27+00:00: [Partner Nodes] feat(Anthropic): add Sonnet 5.5 model (#16647) - https://github.com/Comfy-Org/ComfyUI/commit/8cfe5e1ecb97512dea8deaac15e1228d7e6feeb1 __auto-added__
