@@ -2318,3 +2318,6 @@ _Last updated: 2025-08-12_
 - 2026-09-30T09:50:27+00:00: [Partner Nodes] feat(Anthropic): add Sonnet 5.5 model (#16647) - https://github.com/Comfy-Org/ComfyUI/commit/8cfe5e1ecb97512dea8deaac15e1228d7e6feeb1 __auto-added__
 - 2026-09-30T18:52:07+00:00: Fix minimax vae offload issue. (#16698) - https://github.com/Comfy-Org/ComfyUI/commit/83071e1aec311d31e773d64d6872181b3bad0fe2 __auto-added__
 - 2026-09-30T17:15:13+00:00: Comfy API Is Live: Deploy ComfyUI Workflows as Production APIs - https://blog.comfy.org/p/comfy-api-is-live-deploy-comfyui __auto-added__
+- 2026-09-30T20:06:44+00:00: chore: update workflow templates to v0.11.73 (#16693) - https://github.com/Comfy-Org/ComfyUI/commit/b65d1ffaca35fcda5889e120dcd0c8520553c7b2 __auto-added__
+- 2026-09-30T20:19:00+00:00: v0.38.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.1 __auto-added__
+- 2026-09-30T19:46:54+00:00: v1.56.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.56.1 __auto-added__
