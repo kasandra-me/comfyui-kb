@@ -2325,3 +2325,5 @@ _Last updated: 2025-08-12_
 - 2026-10-01T07:33:59+00:00: Open Call: Comfy Dev Platform Challenge - https://blog.comfy.org/p/open-call-comfy-dev-platform-challenge __auto-added__
 - 2026-10-01T12:04:56+00:00: Reduce MiniMax-H3 peak VRAM by releasing embedding temporaries before… - https://github.com/Comfy-Org/ComfyUI/commit/2d6b73283af2447bdd065ece4090b8c6b1784544 __auto-added__
 - 2026-10-01T09:06:22+00:00: v1.56.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.56.2 __auto-added__
+- 2026-10-01T17:43:11+00:00: Update default bit depth for 'exr' option to 16 bit float. (#16715) - https://github.com/Comfy-Org/ComfyUI/commit/77c0f39e343aa83597d67cd95811df9e4fbfef2e __auto-added__
+- 2026-10-01T18:58:07+00:00: Creating the story of YUI with 852話 Hakoniwa and Comfy Agent - https://blog.comfy.org/p/creating-the-story-of-yui-with-852 __auto-added__
