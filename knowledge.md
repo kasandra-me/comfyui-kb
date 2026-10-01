@@ -2321,3 +2321,5 @@ _Last updated: 2025-08-12_
 - 2026-09-30T20:06:44+00:00: chore: update workflow templates to v0.11.73 (#16693) - https://github.com/Comfy-Org/ComfyUI/commit/b65d1ffaca35fcda5889e120dcd0c8520553c7b2 __auto-added__
 - 2026-09-30T20:19:00+00:00: v0.38.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.1 __auto-added__
 - 2026-09-30T19:46:54+00:00: v1.56.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.56.1 __auto-added__
+- 2026-10-01T03:44:36+00:00: Bump comfyui-frontend-package to 1.53.10 (#16456) - https://github.com/Comfy-Org/ComfyUI/commit/651ca296a73cd21c12a57eb8741d52e40dc6528f __auto-added__
+- 2026-10-01T07:33:59+00:00: Open Call: Comfy Dev Platform Challenge - https://blog.comfy.org/p/open-call-comfy-dev-platform-challenge __auto-added__
