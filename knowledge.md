@@ -2332,3 +2332,5 @@ _Last updated: 2025-08-12_
 - 2026-10-02T01:49:30+00:00: v0.38.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.2 __auto-added__
 - 2026-10-02T01:49:34+00:00: v1.54.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.11 __auto-added__
 - 2026-10-02T05:49:13+00:00: fix(assets): batch prefix filters so scans work with many model folde… - https://github.com/Comfy-Org/ComfyUI/commit/65787d668397d230bf5839d69a0a7239e2dad378 __auto-added__
+- 2026-10-02T18:50:19+00:00: Update comfy-kitchen version to 0.2.37 (#16738) - https://github.com/Comfy-Org/ComfyUI/commit/2472a20bd291451acc303917059ab14dfc380478 __auto-added__
+- 2026-10-02T16:54:51+00:00: v1.54.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.12 __auto-added__
