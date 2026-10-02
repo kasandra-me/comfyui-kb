@@ -2331,3 +2331,4 @@ _Last updated: 2025-08-12_
 - 2026-10-02T01:22:15+00:00: chore: update workflow templates to v0.11.74 (#16724) - https://github.com/Comfy-Org/ComfyUI/commit/fa98a189b4271c76f66210e15f81790b555eb610 __auto-added__
 - 2026-10-02T01:49:30+00:00: v0.38.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.2 __auto-added__
 - 2026-10-02T01:49:34+00:00: v1.54.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.11 __auto-added__
+- 2026-10-02T05:49:13+00:00: fix(assets): batch prefix filters so scans work with many model folde… - https://github.com/Comfy-Org/ComfyUI/commit/65787d668397d230bf5839d69a0a7239e2dad378 __auto-added__
