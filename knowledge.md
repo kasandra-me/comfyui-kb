@@ -2328,3 +2328,6 @@ _Last updated: 2025-08-12_
 - 2026-10-01T17:43:11+00:00: Update default bit depth for 'exr' option to 16 bit float. (#16715) - https://github.com/Comfy-Org/ComfyUI/commit/77c0f39e343aa83597d67cd95811df9e4fbfef2e __auto-added__
 - 2026-10-01T18:58:07+00:00: Creating the story of YUI with 852話 Hakoniwa and Comfy Agent - https://blog.comfy.org/p/creating-the-story-of-yui-with-852 __auto-added__
 - 2026-10-01T22:17:05+00:00: [Partner Nodes] feat(BFL): add FLUX 3 Image node (#16716) - https://github.com/Comfy-Org/ComfyUI/commit/1b883beab11c04a2eb82cf6a3ee64294f3303897 __auto-added__
+- 2026-10-02T01:22:15+00:00: chore: update workflow templates to v0.11.74 (#16724) - https://github.com/Comfy-Org/ComfyUI/commit/fa98a189b4271c76f66210e15f81790b555eb610 __auto-added__
+- 2026-10-02T01:49:30+00:00: v0.38.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.2 __auto-added__
+- 2026-10-02T01:49:34+00:00: v1.54.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.11 __auto-added__
