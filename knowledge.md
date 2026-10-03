@@ -2337,3 +2337,5 @@ _Last updated: 2025-08-12_
 - 2026-10-02T22:22:04+00:00: chore: update workflow templates to v0.11.76 (#16739) - https://github.com/Comfy-Org/ComfyUI/commit/36c0b0a687e5e6d7b55e3e61ab24262ffc0f2508 __auto-added__
 - 2026-10-03T03:24:15+00:00: Echo the Create Bounding Boxes background as a UI preview (#16636) - https://github.com/Comfy-Org/ComfyUI/commit/3c169c2c7de85ccec4582af336a92c469f14df02 __auto-added__
 - 2026-10-03T08:20:37+00:00: fix(assets): write the prune and offline marking in short batches so … - https://github.com/Comfy-Org/ComfyUI/commit/e9027f2b30f37bb3052714eb08fcf479542f4fc0 __auto-added__
+- 2026-10-03T21:25:42+00:00: Add new attention and compiler stuff to AGENTS.md (#16762) - https://github.com/Comfy-Org/ComfyUI/commit/f1072eb0350638a3390ddb6afbcaa8c6b237c6fd __auto-added__
+- 2026-10-03T20:32:14+00:00: cloud/v1.55.17 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.55.17 __auto-added__
