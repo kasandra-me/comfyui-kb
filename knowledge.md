@@ -2335,3 +2335,4 @@ _Last updated: 2025-08-12_
 - 2026-10-02T18:50:19+00:00: Update comfy-kitchen version to 0.2.37 (#16738) - https://github.com/Comfy-Org/ComfyUI/commit/2472a20bd291451acc303917059ab14dfc380478 __auto-added__
 - 2026-10-02T16:54:51+00:00: v1.54.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.12 __auto-added__
 - 2026-10-02T22:22:04+00:00: chore: update workflow templates to v0.11.76 (#16739) - https://github.com/Comfy-Org/ComfyUI/commit/36c0b0a687e5e6d7b55e3e61ab24262ffc0f2508 __auto-added__
+- 2026-10-03T03:24:15+00:00: Echo the Create Bounding Boxes background as a UI preview (#16636) - https://github.com/Comfy-Org/ComfyUI/commit/3c169c2c7de85ccec4582af336a92c469f14df02 __auto-added__
