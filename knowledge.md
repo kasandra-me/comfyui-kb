@@ -2339,3 +2339,4 @@ _Last updated: 2025-08-12_
 - 2026-10-03T08:20:37+00:00: fix(assets): write the prune and offline marking in short batches so … - https://github.com/Comfy-Org/ComfyUI/commit/e9027f2b30f37bb3052714eb08fcf479542f4fc0 __auto-added__
 - 2026-10-03T21:25:42+00:00: Add new attention and compiler stuff to AGENTS.md (#16762) - https://github.com/Comfy-Org/ComfyUI/commit/f1072eb0350638a3390ddb6afbcaa8c6b237c6fd __auto-added__
 - 2026-10-03T20:32:14+00:00: cloud/v1.55.17 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.55.17 __auto-added__
+- 2026-10-04T19:06:36+00:00: Add comfy_attention and AttentionTensorContainer support to more mode… - https://github.com/Comfy-Org/ComfyUI/commit/b87fe48b0491425f682f7ffdaed56d0387cb6c5d __auto-added__
