@@ -2342,3 +2342,4 @@ _Last updated: 2025-08-12_
 - 2026-10-04T19:06:36+00:00: Add comfy_attention and AttentionTensorContainer support to more mode… - https://github.com/Comfy-Org/ComfyUI/commit/b87fe48b0491425f682f7ffdaed56d0387cb6c5d __auto-added__
 - 2026-10-05T00:45:09+00:00: fix(assets): resume the background scan once the prompt queue is empt… - https://github.com/Comfy-Org/ComfyUI/commit/d707c97a7d557b147cabf5831f2ed9e404da2afb __auto-added__
 - 2026-10-05T00:33:28+00:00: v1.54.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.54.13 __auto-added__
+- 2026-10-05T01:20:55+00:00: fix(assets): pause the startup scan during its folder walk and file s… - https://github.com/Comfy-Org/ComfyUI/commit/5c460d8172fe30761ff67c0df3d5643bb74e0d70 __auto-added__
