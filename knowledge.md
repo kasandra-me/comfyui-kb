@@ -2347,3 +2347,4 @@ _Last updated: 2025-08-12_
 - 2026-10-05T22:08:37+00:00: v0.39.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.0 __auto-added__
 - 2026-10-06T02:12:35+00:00: Implement the asset export API locally (CORE-454) (#16578) - https://github.com/Comfy-Org/ComfyUI/commit/ccda0377cbb5204efc6daf7233e0cfb03cd4d0ab __auto-added__
 - 2026-10-05T23:38:16+00:00: v1.57.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.0 __auto-added__
+- 2026-10-06T05:11:12+00:00: refactor: keep DynamicGroup internal while stabilizing (#16811) - https://github.com/Comfy-Org/ComfyUI/commit/d49e888586dd8ae012c0667b33466b815fee07f7 __auto-added__
