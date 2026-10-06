@@ -2350,3 +2350,5 @@ _Last updated: 2025-08-12_
 - 2026-10-06T05:11:12+00:00: refactor: keep DynamicGroup internal while stabilizing (#16811) - https://github.com/Comfy-Org/ComfyUI/commit/d49e888586dd8ae012c0667b33466b815fee07f7 __auto-added__
 - 2026-10-06T13:10:19+00:00: feat: add CameraAngle node with camera_info and shot prompt outputs (… - https://github.com/Comfy-Org/ComfyUI/commit/7a5dad695fe1cae25efcb2550530fb20ef68da3d __auto-added__
 - 2026-10-06T11:01:29+00:00: cloud/v1.56.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.56.2 __auto-added__
+- 2026-10-06T20:29:58+00:00: Consolidate Linear forward API with prologue/epilogue fusion paths (#… - https://github.com/Comfy-Org/ComfyUI/commit/0752bcb28cd32e606b7c4ed35979997054d42d5c __auto-added__
+- 2026-10-06T18:49:02+00:00: v0.39.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.1 __auto-added__
