@@ -2345,3 +2345,5 @@ _Last updated: 2025-08-12_
 - 2026-10-05T01:20:55+00:00: fix(assets): pause the startup scan during its folder walk and file s… - https://github.com/Comfy-Org/ComfyUI/commit/5c460d8172fe30761ff67c0df3d5643bb74e0d70 __auto-added__
 - 2026-10-05T22:08:37+00:00: ComfyUI v0.39.0 - https://github.com/Comfy-Org/ComfyUI/commit/b0b743566f65daafc423b4fea8a2fbda94b3384a __auto-added__
 - 2026-10-05T22:08:37+00:00: v0.39.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.0 __auto-added__
+- 2026-10-06T02:12:35+00:00: Implement the asset export API locally (CORE-454) (#16578) - https://github.com/Comfy-Org/ComfyUI/commit/ccda0377cbb5204efc6daf7233e0cfb03cd4d0ab __auto-added__
+- 2026-10-05T23:38:16+00:00: v1.57.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.0 __auto-added__
