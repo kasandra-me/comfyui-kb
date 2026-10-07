@@ -2352,3 +2352,5 @@ _Last updated: 2025-08-12_
 - 2026-10-06T11:01:29+00:00: cloud/v1.56.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.56.2 __auto-added__
 - 2026-10-06T20:29:58+00:00: Consolidate Linear forward API with prologue/epilogue fusion paths (#… - https://github.com/Comfy-Org/ComfyUI/commit/0752bcb28cd32e606b7c4ed35979997054d42d5c __auto-added__
 - 2026-10-06T18:49:02+00:00: v0.39.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.1 __auto-added__
+- 2026-10-06T23:45:35+00:00: Add governance enforcement for custom nodes (#16167) - https://github.com/Comfy-Org/ComfyUI/commit/3d9b2d551788d4fe80ede5743417077d1795cbd2 __auto-added__
+- 2026-10-06T23:54:49+00:00: Gemini Nano Banana 2.1 is now available via Partner Nodes - https://blog.comfy.org/p/gemini-nano-banana-21-is-now-available __auto-added__
