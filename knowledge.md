@@ -2356,3 +2356,4 @@ _Last updated: 2025-08-12_
 - 2026-10-06T23:54:49+00:00: Gemini Nano Banana 2.1 is now available via Partner Nodes - https://blog.comfy.org/p/gemini-nano-banana-21-is-now-available __auto-added__
 - 2026-10-07T05:25:38+00:00: Bump comfyui-frontend-package to 1.55.14 (#16736) - https://github.com/Comfy-Org/ComfyUI/commit/c9d8a6e69c4b5ab7fa0f789e7b988c172cd31fc9 __auto-added__
 - 2026-10-07T02:00:05+00:00: v1.55.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.14 __auto-added__
+- 2026-10-07T18:27:00+00:00: [Partner Nodes] feat(ClarityAI): add Crystal Upscaler node (#16817) - https://github.com/Comfy-Org/ComfyUI/commit/87c32827017c50c6a629da941439015b4ad656e6 __auto-added__
