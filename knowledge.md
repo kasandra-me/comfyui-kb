@@ -2354,3 +2354,5 @@ _Last updated: 2025-08-12_
 - 2026-10-06T18:49:02+00:00: v0.39.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.1 __auto-added__
 - 2026-10-06T23:45:35+00:00: Add governance enforcement for custom nodes (#16167) - https://github.com/Comfy-Org/ComfyUI/commit/3d9b2d551788d4fe80ede5743417077d1795cbd2 __auto-added__
 - 2026-10-06T23:54:49+00:00: Gemini Nano Banana 2.1 is now available via Partner Nodes - https://blog.comfy.org/p/gemini-nano-banana-21-is-now-available __auto-added__
+- 2026-10-07T05:25:38+00:00: Bump comfyui-frontend-package to 1.55.14 (#16736) - https://github.com/Comfy-Org/ComfyUI/commit/c9d8a6e69c4b5ab7fa0f789e7b988c172cd31fc9 __auto-added__
+- 2026-10-07T02:00:05+00:00: v1.55.14 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.14 __auto-added__
