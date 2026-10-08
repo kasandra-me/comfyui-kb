@@ -2360,3 +2360,4 @@ _Last updated: 2025-08-12_
 - 2026-10-07T21:46:55+00:00: chore: update workflow templates to v0.11.78 (#16851) - https://github.com/Comfy-Org/ComfyUI/commit/52f98af2e2e42c421070a3e147c161c47cdeaf22 __auto-added__
 - 2026-10-07T21:58:07+00:00: v0.39.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.2 __auto-added__
 - 2026-10-07T21:43:19+00:00: v1.55.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.15 __auto-added__
+- 2026-10-08T02:22:19+00:00: Fix issue with bypass loras and fused paths. (#16862) - https://github.com/Comfy-Org/ComfyUI/commit/d91ed5f5b7fa60fa18464c2ad7c80254da2f0f29 __auto-added__
