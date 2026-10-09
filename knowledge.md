@@ -2364,3 +2364,4 @@ _Last updated: 2025-08-12_
 - 2026-10-08T15:35:17+00:00: Fix Qwen3.5 MTP embedding offload (#16877) - https://github.com/Comfy-Org/ComfyUI/commit/46493d824fd7eac25a741e505159e4c9e0ef0ebd __auto-added__
 - 2026-10-08T17:06:37+00:00: v1.55.16 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.16 __auto-added__
 - 2026-10-08T19:01:22+00:00: How I Generated Live Video with MiniMax H3 on a Single GPU - https://blog.comfy.org/p/how-i-generated-live-video-with-minimax __auto-added__
+- 2026-10-09T00:26:24+00:00: Configure cross-repository CodeRabbit context (#16769) - https://github.com/Comfy-Org/ComfyUI/commit/a4b5a045e56fc334903db8457b728b64e006119c __auto-added__
