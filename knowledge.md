@@ -2368,3 +2368,4 @@ _Last updated: 2025-08-12_
 - 2026-10-09T07:39:49+00:00: Turn the assets system on by default; add --disable-assets (#16884) - https://github.com/Comfy-Org/ComfyUI/commit/1d2ea2948d33dfda4d7cfe58c6d234968aa62cf8 __auto-added__
 - 2026-10-09T09:00:41+00:00: [Partner Nodes] feat(HeyGen): add 2k resolution to HeyGen Video 1.0 n… - https://github.com/Comfy-Org/ComfyUI/commit/08ff3c11b3a85eb07c2c06f21cb378ac2e086840 __auto-added__
 - 2026-10-09T19:31:15+00:00: cloud/v1.56.3: 1.56.3 (#20308) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.56.3 __auto-added__
+- 2026-10-10T02:55:48+00:00: fix(assets): date scanned assets by their file's mtime (#16810) - https://github.com/Comfy-Org/ComfyUI/commit/0df64eb242b7c5759c3e86afd5d1846d923b1033 __auto-added__
