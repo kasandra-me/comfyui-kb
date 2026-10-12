@@ -2372,3 +2372,4 @@ _Last updated: 2025-08-12_
 - 2026-10-10T21:31:53+00:00: Fix issues with loading half float files with pyav. (#16949) - https://github.com/Comfy-Org/ComfyUI/commit/7f7fd918ed0815c5d5ef2ccfe44bfc8e72cfd217 __auto-added__
 - 2026-10-11T19:19:00+00:00: Keep linked repository findings focused (#16920) - https://github.com/Comfy-Org/ComfyUI/commit/81100cd83612317fa0cc9edbbcab1b7e2efca986 __auto-added__
 - 2026-10-11T20:57:32+00:00: Remove some outdated code. (#16960) - https://github.com/Comfy-Org/ComfyUI/commit/e8665ca8e4089ab917567cdb491308e1397663d4 __auto-added__
+- 2026-10-12T18:56:50+00:00: Turn assets off unless --enable-assets, and scan the output folder ag… - https://github.com/Comfy-Org/ComfyUI/commit/0ebee95bbbdd1c5c983ab46a6a4af1e304b8a744 __auto-added__
