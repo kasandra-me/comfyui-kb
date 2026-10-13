@@ -2376,3 +2376,7 @@ _Last updated: 2025-08-12_
 - 2026-10-13T00:03:38+00:00: Remove the cryptography package dependency. (#16988) - https://github.com/Comfy-Org/ComfyUI/commit/06c67806bcb36789a1e8e1278c6a764b389ff858 __auto-added__
 - 2026-10-13T06:29:06+00:00: [Partner Nodes] feat(Higgsfield): add Genjutsu Motion Transfer node (… - https://github.com/Comfy-Org/ComfyUI/commit/8010b48d2c1be986613f8e8c761527d205bd756f __auto-added__
 - 2026-10-13T09:28:02+00:00: v1.55.17 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.17 __auto-added__
+- 2026-10-13T19:40:56+00:00: Add a core route for the default workflow (#16956) - https://github.com/Comfy-Org/ComfyUI/commit/e0a32bce84f4603f2b61b16b50f8958e68fd6171 __auto-added__
+- 2026-10-13T19:18:03+00:00: v0.40.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.40.0 __auto-added__
+- 2026-10-13T19:53:50+00:00: v1.58.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.0 __auto-added__
+- 2026-10-13T19:41:39+00:00: Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals - https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling __auto-added__
