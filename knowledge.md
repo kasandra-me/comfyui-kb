@@ -2374,3 +2374,5 @@ _Last updated: 2025-08-12_
 - 2026-10-11T20:57:32+00:00: Remove some outdated code. (#16960) - https://github.com/Comfy-Org/ComfyUI/commit/e8665ca8e4089ab917567cdb491308e1397663d4 __auto-added__
 - 2026-10-12T18:56:50+00:00: Turn assets off unless --enable-assets, and scan the output folder ag… - https://github.com/Comfy-Org/ComfyUI/commit/0ebee95bbbdd1c5c983ab46a6a4af1e304b8a744 __auto-added__
 - 2026-10-13T00:03:38+00:00: Remove the cryptography package dependency. (#16988) - https://github.com/Comfy-Org/ComfyUI/commit/06c67806bcb36789a1e8e1278c6a764b389ff858 __auto-added__
+- 2026-10-13T06:29:06+00:00: [Partner Nodes] feat(Higgsfield): add Genjutsu Motion Transfer node (… - https://github.com/Comfy-Org/ComfyUI/commit/8010b48d2c1be986613f8e8c761527d205bd756f __auto-added__
+- 2026-10-13T09:28:02+00:00: v1.55.17 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.17 __auto-added__
