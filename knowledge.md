@@ -2380,3 +2380,4 @@ _Last updated: 2025-08-12_
 - 2026-10-13T19:18:03+00:00: v0.40.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.40.0 __auto-added__
 - 2026-10-13T19:53:50+00:00: v1.58.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.0 __auto-added__
 - 2026-10-13T19:41:39+00:00: Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals - https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling __auto-added__
+- 2026-10-14T15:32:01+00:00: cloud/v1.57.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.57.0 __auto-added__
