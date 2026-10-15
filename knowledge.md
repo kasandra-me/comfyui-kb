@@ -2382,3 +2382,4 @@ _Last updated: 2025-08-12_
 - 2026-10-13T19:41:39+00:00: Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals - https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling __auto-added__
 - 2026-10-14T15:32:01+00:00: cloud/v1.57.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.57.0 __auto-added__
 - 2026-10-14T20:36:19+00:00: Add ReferenceMultiLatent node. (#17009) - https://github.com/Comfy-Org/ComfyUI/commit/6da3d1a5f5125656a4194a5ac0cef07341d44a83 __auto-added__
+- 2026-10-14T23:26:56+00:00: Disable the LoRA stack nodes until the frontend supports DynamicGroup… - https://github.com/Comfy-Org/ComfyUI/commit/b60ae8ec08fad21dd6a4efa9cc82c6d11cc69cca __auto-added__
