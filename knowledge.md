@@ -2387,3 +2387,4 @@ _Last updated: 2025-08-12_
 - 2026-10-15T16:11:51+00:00: chore: update workflow templates to v0.11.85 (#17068) - https://github.com/Comfy-Org/ComfyUI/commit/29e28e2b488e7739c351c331d73da25aa435da5c __auto-added__
 - 2026-10-15T16:32:44+00:00: v0.41.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.1 __auto-added__
 - 2026-10-15T17:57:34+00:00: FLUX 3 Image Klein in ComfyUI: 5.6B Open Weights - https://blog.comfy.org/p/flux-3-image-klein-in-comfyui-56b __auto-added__
+- 2026-10-15T21:15:45+00:00: Krea 3 is now available via Partner Nodes - https://blog.comfy.org/p/krea-3-is-now-available-via-partner __auto-added__
