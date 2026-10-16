@@ -2391,3 +2391,5 @@ _Last updated: 2025-08-12_
 - 2026-10-15T22:22:05+00:00: Use FLUX 3 Image in node display labels (#17075) - https://github.com/Comfy-Org/ComfyUI/commit/9fa63b0acc1fe3503db536109e104bba3bb1614f __auto-added__
 - 2026-10-15T23:04:19+00:00: Higgsfield promised to open source their entire platform. They didn’t, so let’s help them. - https://blog.comfy.org/p/higgsfield-promised-to-open-source __auto-added__
 - 2026-10-16T00:51:17+00:00: Better documentation about the comfy quant format. (#17078) - https://github.com/Comfy-Org/ComfyUI/commit/5a665890ded5020c282f63c4ea2dd9e083e025ff __auto-added__
+- 2026-10-16T04:27:33+00:00: chore: update workflow templates to v0.11.86 (#17083) - https://github.com/Comfy-Org/ComfyUI/commit/bdc63e72f5ab29fde448c161db3057827148c0ef __auto-added__
+- 2026-10-16T04:58:24+00:00: v0.41.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.2 __auto-added__
