@@ -2390,3 +2390,4 @@ _Last updated: 2025-08-12_
 - 2026-10-15T21:15:45+00:00: Krea 3 is now available via Partner Nodes - https://blog.comfy.org/p/krea-3-is-now-available-via-partner __auto-added__
 - 2026-10-15T22:22:05+00:00: Use FLUX 3 Image in node display labels (#17075) - https://github.com/Comfy-Org/ComfyUI/commit/9fa63b0acc1fe3503db536109e104bba3bb1614f __auto-added__
 - 2026-10-15T23:04:19+00:00: Higgsfield promised to open source their entire platform. They didn’t, so let’s help them. - https://blog.comfy.org/p/higgsfield-promised-to-open-source __auto-added__
+- 2026-10-16T00:51:17+00:00: Better documentation about the comfy quant format. (#17078) - https://github.com/Comfy-Org/ComfyUI/commit/5a665890ded5020c282f63c4ea2dd9e083e025ff __auto-added__
