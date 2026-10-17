@@ -2398,3 +2398,4 @@ _Last updated: 2025-08-12_
 - 2026-10-17T03:43:26+00:00: chore: update workflow templates to v0.11.87 (#17110) - https://github.com/Comfy-Org/ComfyUI/commit/5cc4b870094c89090db54bd8d12649dcaf89f2ba __auto-added__
 - 2026-10-17T04:26:50+00:00: v0.41.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.3 __auto-added__
 - 2026-10-17T15:49:59+00:00: Fix Qwen think-block templates in TextGenerate (#17121) - https://github.com/Comfy-Org/ComfyUI/commit/ce1e922d8623bb507180e32a0c01a7d0e29edef7 __auto-added__
+- 2026-10-17T20:37:25+00:00: v1.55.18 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.18 __auto-added__
