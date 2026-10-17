@@ -2395,3 +2395,5 @@ _Last updated: 2025-08-12_
 - 2026-10-16T04:58:24+00:00: v0.41.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.2 __auto-added__
 - 2026-10-16T16:06:45+00:00: feat: Add MOSS-image support (#17095) - https://github.com/Comfy-Org/ComfyUI/commit/e087d8f6cb7c6cdb11b59dc7c9bf17c79f8d877d __auto-added__
 - 2026-10-16T19:07:19+00:00: [Partner Nodes] chore(Quiver): remove retired Arrow 1.x models (#17102) - https://github.com/Comfy-Org/ComfyUI/commit/fc04da91b2ab12f99e4716371a7e4f98ac982597 __auto-added__
+- 2026-10-17T03:43:26+00:00: chore: update workflow templates to v0.11.87 (#17110) - https://github.com/Comfy-Org/ComfyUI/commit/5cc4b870094c89090db54bd8d12649dcaf89f2ba __auto-added__
+- 2026-10-17T04:26:50+00:00: v0.41.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.3 __auto-added__
