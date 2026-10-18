@@ -2402,3 +2402,4 @@ _Last updated: 2025-08-12_
 - 2026-10-17T21:48:24+00:00: Add ARM Linux to execution and unit tests. (#17139) - https://github.com/Comfy-Org/ComfyUI/commit/c9ea36b9d2140c89b2ef84f93f428df474e72ba5 __auto-added__
 - 2026-10-18T02:37:20+00:00: Bump comfyui-frontend-package to 1.55.18 (#16859) - https://github.com/Comfy-Org/ComfyUI/commit/c06bf5f569d268b80076e5f44126f87cdf835869 __auto-added__
 - 2026-10-18T15:34:50+00:00: add support for loading embeddings models onto Qwen3.5 (#17159) - https://github.com/Comfy-Org/ComfyUI/commit/872eb6a3a5497721f53ebe82c0da9a3ba3414c13 __auto-added__
+- 2026-10-18T18:36:35+00:00: Make NAF neighborhood attention work per LR cell (#17155) - https://github.com/Comfy-Org/ComfyUI/commit/446ef4e005fc7134d53ce6869ebd77d2134cd39c __auto-added__
