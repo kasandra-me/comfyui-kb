@@ -2403,3 +2403,4 @@ _Last updated: 2025-08-12_
 - 2026-10-18T02:37:20+00:00: Bump comfyui-frontend-package to 1.55.18 (#16859) - https://github.com/Comfy-Org/ComfyUI/commit/c06bf5f569d268b80076e5f44126f87cdf835869 __auto-added__
 - 2026-10-18T15:34:50+00:00: add support for loading embeddings models onto Qwen3.5 (#17159) - https://github.com/Comfy-Org/ComfyUI/commit/872eb6a3a5497721f53ebe82c0da9a3ba3414c13 __auto-added__
 - 2026-10-18T18:36:35+00:00: Make NAF neighborhood attention work per LR cell (#17155) - https://github.com/Comfy-Org/ComfyUI/commit/446ef4e005fc7134d53ce6869ebd77d2134cd39c __auto-added__
+- 2026-10-18T20:38:06+00:00: Update comfy-kitchen version to 0.2.39 (#17171) - https://github.com/Comfy-Org/ComfyUI/commit/18fe3e66d9db8f850df7279000572dd564a1e422 __auto-added__
