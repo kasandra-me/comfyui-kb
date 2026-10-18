@@ -2400,3 +2400,4 @@ _Last updated: 2025-08-12_
 - 2026-10-17T15:49:59+00:00: Fix Qwen think-block templates in TextGenerate (#17121) - https://github.com/Comfy-Org/ComfyUI/commit/ce1e922d8623bb507180e32a0c01a7d0e29edef7 __auto-added__
 - 2026-10-17T20:37:25+00:00: v1.55.18 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.55.18 __auto-added__
 - 2026-10-17T21:48:24+00:00: Add ARM Linux to execution and unit tests. (#17139) - https://github.com/Comfy-Org/ComfyUI/commit/c9ea36b9d2140c89b2ef84f93f428df474e72ba5 __auto-added__
+- 2026-10-18T02:37:20+00:00: Bump comfyui-frontend-package to 1.55.18 (#16859) - https://github.com/Comfy-Org/ComfyUI/commit/c06bf5f569d268b80076e5f44126f87cdf835869 __auto-added__
