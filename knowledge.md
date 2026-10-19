@@ -2406,3 +2406,5 @@ _Last updated: 2025-08-12_
 - 2026-10-18T20:38:06+00:00: Update comfy-kitchen version to 0.2.39 (#17171) - https://github.com/Comfy-Org/ComfyUI/commit/18fe3e66d9db8f850df7279000572dd564a1e422 __auto-added__
 - 2026-10-18T23:06:25+00:00: [Partner Nodes] Renew partner-node sign-in tokens in API nodes (#16943) - https://github.com/Comfy-Org/ComfyUI/commit/8f04fd6ecf4a548937971e840af2a985529fab76 __auto-added__
 - 2026-10-18T22:58:57+00:00: v0.42.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1 __auto-added__
+- 2026-10-19T22:15:38+00:00: Support MOSS-image color-depth control (#17206) - https://github.com/Comfy-Org/ComfyUI/commit/e3bee7ffcb7d6547ed0bcd15221792f3b8646b17 __auto-added__
+- 2026-10-19T20:37:58+00:00: v1.59.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.0 __auto-added__
