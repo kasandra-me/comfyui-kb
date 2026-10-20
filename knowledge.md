@@ -2412,3 +2412,6 @@ _Last updated: 2025-08-12_
 - 2026-10-20T02:59:47+00:00: Add to Readme that MOSS image is supported. (#17212) - https://github.com/Comfy-Org/ComfyUI/commit/b1a247c9cf9dbfda4b2c0a0c1d50950667eeaa0c __auto-added__
 - 2026-10-20T16:31:50+00:00: [Partner Nodes] feat(BFL): add FLUX 3 Max nodes (#17202) - https://github.com/Comfy-Org/ComfyUI/commit/fd734e958c68d96f310cafbc2ca609567dd1daf2 __auto-added__
 - 2026-10-20T20:10:59+00:00: [Partner Nodes] feat(Bria): add FIBO 2.0 Image Generate node and move… - https://github.com/Comfy-Org/ComfyUI/commit/7ef81780f814dc25b4108163e70b22c011e968be __auto-added__
+- 2026-10-20T21:43:42+00:00: chore: update workflow templates to v0.11.93 (#17238) - https://github.com/Comfy-Org/ComfyUI/commit/d52a7a5ef60b36062f7c3c69bd774f4c98b56eb0 __auto-added__
+- 2026-10-20T22:44:30+00:00: v0.42.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.3 __auto-added__
+- 2026-10-20T22:50:38+00:00: v1.57.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.1 __auto-added__
