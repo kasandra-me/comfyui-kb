@@ -2408,3 +2408,4 @@ _Last updated: 2025-08-12_
 - 2026-10-18T22:58:57+00:00: v0.42.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1 __auto-added__
 - 2026-10-19T22:15:38+00:00: Support MOSS-image color-depth control (#17206) - https://github.com/Comfy-Org/ComfyUI/commit/e3bee7ffcb7d6547ed0bcd15221792f3b8646b17 __auto-added__
 - 2026-10-19T20:37:58+00:00: v1.59.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.0 __auto-added__
+- 2026-10-20T01:26:54+00:00: cloud/v1.58.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.58.0 __auto-added__
