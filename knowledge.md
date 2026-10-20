@@ -2411,3 +2411,4 @@ _Last updated: 2025-08-12_
 - 2026-10-20T01:26:54+00:00: cloud/v1.58.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.58.0 __auto-added__
 - 2026-10-20T02:59:47+00:00: Add to Readme that MOSS image is supported. (#17212) - https://github.com/Comfy-Org/ComfyUI/commit/b1a247c9cf9dbfda4b2c0a0c1d50950667eeaa0c __auto-added__
 - 2026-10-20T16:31:50+00:00: [Partner Nodes] feat(BFL): add FLUX 3 Max nodes (#17202) - https://github.com/Comfy-Org/ComfyUI/commit/fd734e958c68d96f310cafbc2ca609567dd1daf2 __auto-added__
+- 2026-10-20T20:10:59+00:00: [Partner Nodes] feat(Bria): add FIBO 2.0 Image Generate node and move… - https://github.com/Comfy-Org/ComfyUI/commit/7ef81780f814dc25b4108163e70b22c011e968be __auto-added__
