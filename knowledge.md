@@ -2415,3 +2415,4 @@ _Last updated: 2025-08-12_
 - 2026-10-20T21:43:42+00:00: chore: update workflow templates to v0.11.93 (#17238) - https://github.com/Comfy-Org/ComfyUI/commit/d52a7a5ef60b36062f7c3c69bd774f4c98b56eb0 __auto-added__
 - 2026-10-20T22:44:30+00:00: v0.42.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.3 __auto-added__
 - 2026-10-20T22:50:38+00:00: v1.57.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.1 __auto-added__
+- 2026-10-21T01:24:39+00:00: Set minimum Pillow version in requirements. (#17249) - https://github.com/Comfy-Org/ComfyUI/commit/37ff76b4d3d47405ba46ac1e14698e280b70b33f __auto-added__
