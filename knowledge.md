@@ -2416,3 +2416,4 @@ _Last updated: 2025-08-12_
 - 2026-10-20T22:44:30+00:00: v0.42.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.3 __auto-added__
 - 2026-10-20T22:50:38+00:00: v1.57.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.1 __auto-added__
 - 2026-10-21T01:24:39+00:00: Set minimum Pillow version in requirements. (#17249) - https://github.com/Comfy-Org/ComfyUI/commit/37ff76b4d3d47405ba46ac1e14698e280b70b33f __auto-added__
+- 2026-10-21T04:48:03+00:00: Load the optional local agent through comfy-agent's v1 host (#17241) - https://github.com/Comfy-Org/ComfyUI/commit/7a28332047b6af638dc6c7f72ef3481a718769fd __auto-added__
