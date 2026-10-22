@@ -2421,3 +2421,5 @@ _Last updated: 2025-08-12_
 - 2026-10-21T18:41:43+00:00: [Partner Nodes] feat(VEED): add Fabric 1.0, Lipsync 2.0, Background R… - https://github.com/Comfy-Org/ComfyUI/commit/faa7e494f3a0c9e45e1c3db8d20ee48fd5fe1b52 __auto-added__
 - 2026-10-21T23:14:35+00:00: Update workflow templates to v0.11.94 (#17268) - https://github.com/Comfy-Org/ComfyUI/commit/46aad33e4d4c0696582611bf450dd93742fa9090 __auto-added__
 - 2026-10-21T23:31:22+00:00: v0.42.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.4 __auto-added__
+- 2026-10-22T03:43:22+00:00: Fix Gemma4 31B global attention: k_eq_v with 4 KV heads (#17220) - https://github.com/Comfy-Org/ComfyUI/commit/1a82e6d01f395b43275c77acd289af1eb7090bb9 __auto-added__
+- 2026-10-22T02:54:53+00:00: v1.57.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.2 __auto-added__
