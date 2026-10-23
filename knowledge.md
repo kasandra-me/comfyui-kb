@@ -2424,3 +2424,5 @@ _Last updated: 2025-08-12_
 - 2026-10-22T03:43:22+00:00: Fix Gemma4 31B global attention: k_eq_v with 4 KV heads (#17220) - https://github.com/Comfy-Org/ComfyUI/commit/1a82e6d01f395b43275c77acd289af1eb7090bb9 __auto-added__
 - 2026-10-22T02:54:53+00:00: v1.57.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.2 __auto-added__
 - 2026-10-22T20:44:09+00:00: Align Fibo2.0 T2I negative prompt handling (#17285) - https://github.com/Comfy-Org/ComfyUI/commit/f5ea88af1c46c50a39792d00af80e5af941f99f6 __auto-added__
+- 2026-10-22T23:41:56+00:00: Update workflow templates to v0.11.96 (#17301) - https://github.com/Comfy-Org/ComfyUI/commit/6cbc3862d5c3ceffa9e31ea38b3fe66681bbd6ab __auto-added__
+- 2026-10-23T00:07:14+00:00: v0.42.5 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5 __auto-added__
