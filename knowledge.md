@@ -2427,3 +2427,4 @@ _Last updated: 2025-08-12_
 - 2026-10-22T23:41:56+00:00: Update workflow templates to v0.11.96 (#17301) - https://github.com/Comfy-Org/ComfyUI/commit/6cbc3862d5c3ceffa9e31ea38b3fe66681bbd6ab __auto-added__
 - 2026-10-23T00:07:14+00:00: v0.42.5 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5 __auto-added__
 - 2026-10-23T02:41:37+00:00: Fuse and strip the Flux2 VAE through comfy-kitchen (#17196) - https://github.com/Comfy-Org/ComfyUI/commit/d07dff4565ea9804277fff8cdfa0c817e08c3d44 __auto-added__
+- 2026-10-23T09:40:32+00:00: Add ACEScg to Convert Image Color Space and Save Image (Advanced) EXR… - https://github.com/Comfy-Org/ComfyUI/commit/bc5f880dbdd43e426077f42ccec53bb577ffee9f __auto-added__
