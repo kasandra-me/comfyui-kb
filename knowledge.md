@@ -2431,3 +2431,4 @@ _Last updated: 2025-08-12_
 - 2026-10-23T17:52:38+00:00: Add attention bias conditioning and image strength for MOSS-Image edi… - https://github.com/Comfy-Org/ComfyUI/commit/9fe7ef764d0452dcc9dcb925efd076d4e68eece1 __auto-added__
 - 🔥 2026-10-23T19:58:58+00:00: Don't use pytorch attention for head dims above 256 on gfx11 (#17323) - https://github.com/Comfy-Org/ComfyUI/commit/fb3befd168731438f88bc96e0920a538e8649878 __priority-auto-added__
 - 2026-10-23T19:41:51+00:00: v1.57.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.3 __auto-added__
+- 2026-10-24T02:22:35+00:00: Update architecture boundaries in AGENTS.md (#17331) - https://github.com/Comfy-Org/ComfyUI/commit/7cebca52227c63b4180ceed448cbd7ad22903b6d __auto-added__
