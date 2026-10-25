@@ -2433,3 +2433,4 @@ _Last updated: 2025-08-12_
 - 2026-10-23T19:41:51+00:00: v1.57.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.3 __auto-added__
 - 2026-10-24T02:22:35+00:00: Update architecture boundaries in AGENTS.md (#17331) - https://github.com/Comfy-Org/ComfyUI/commit/7cebca52227c63b4180ceed448cbd7ad22903b6d __auto-added__
 - 2026-10-25T03:36:07+00:00: Add a Branch node (#16383) - https://github.com/Comfy-Org/ComfyUI/commit/19ae172bff6c9e4c738e7f2e00fe087f5b5b46ab __auto-added__
+- 2026-10-25T19:42:21+00:00: Add model specific merge node for MOSS. (#17349) - https://github.com/Comfy-Org/ComfyUI/commit/fe298e4e20f1ff26d30e8639267bbd0b57811390 __auto-added__
