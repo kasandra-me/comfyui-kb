@@ -2435,3 +2435,5 @@ _Last updated: 2025-08-12_
 - 2026-10-25T03:36:07+00:00: Add a Branch node (#16383) - https://github.com/Comfy-Org/ComfyUI/commit/19ae172bff6c9e4c738e7f2e00fe087f5b5b46ab __auto-added__
 - 2026-10-25T19:42:21+00:00: Add model specific merge node for MOSS. (#17349) - https://github.com/Comfy-Org/ComfyUI/commit/fe298e4e20f1ff26d30e8639267bbd0b57811390 __auto-added__
 - 2026-10-26T06:46:25+00:00: [Partner Nodes] fix(client): respect proxy environment variables (#17… - https://github.com/Comfy-Org/ComfyUI/commit/0b05cd8a3683cbf0c291b1472bb8b64da41de9ae __auto-added__
+- 2026-10-26T13:50:39+00:00: docs: add Huawei branding to Ascend NPU section in README (#17359) - https://github.com/Comfy-Org/ComfyUI/commit/cdf272f3514353aab04dc2d9fceef57a260dc156 __auto-added__
+- 2026-10-26T17:15:39+00:00: v1.57.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.4 __auto-added__
