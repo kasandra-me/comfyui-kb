@@ -2437,3 +2437,5 @@ _Last updated: 2025-08-12_
 - 2026-10-26T06:46:25+00:00: [Partner Nodes] fix(client): respect proxy environment variables (#17… - https://github.com/Comfy-Org/ComfyUI/commit/0b05cd8a3683cbf0c291b1472bb8b64da41de9ae __auto-added__
 - 2026-10-26T13:50:39+00:00: docs: add Huawei branding to Ascend NPU section in README (#17359) - https://github.com/Comfy-Org/ComfyUI/commit/cdf272f3514353aab04dc2d9fceef57a260dc156 __auto-added__
 - 2026-10-26T17:15:39+00:00: v1.57.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.4 __auto-added__
+- 2026-10-26T20:09:06+00:00: Bump comfyui-frontend-package to 1.57.4 (#17329) - https://github.com/Comfy-Org/ComfyUI/commit/2fb8cabd40be44d1e3b0d6f4f9100aa29aa9f881 __auto-added__
+- 2026-10-26T21:05:25+00:00: v1.60.0 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.60.0 __auto-added__
