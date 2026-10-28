@@ -2447,3 +2447,4 @@ _Last updated: 2025-08-12_
 - 2026-10-28T06:08:23+00:00: Bump comfyui-frontend-package to 1.57.6 (#17375) - https://github.com/Comfy-Org/ComfyUI/commit/e1df394db644987bfbdd05c887a78b9115d49261 __auto-added__
 - 2026-10-28T04:26:20+00:00: v0.43.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.1 __auto-added__
 - 2026-10-28T03:21:46+00:00: cloud/v1.59.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.59.2 __auto-added__
+- 2026-10-28T07:43:04+00:00: Look up a pinned frontend release by its tag instead of listing every… - https://github.com/Comfy-Org/ComfyUI/commit/79cf64c21a1dba50749945ba9fe2e3a692f45438 __auto-added__
