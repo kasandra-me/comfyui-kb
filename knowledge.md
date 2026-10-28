@@ -2449,3 +2449,4 @@ _Last updated: 2025-08-12_
 - 2026-10-28T03:21:46+00:00: cloud/v1.59.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/cloud%2Fv1.59.2 __auto-added__
 - 2026-10-28T07:43:04+00:00: Look up a pinned frontend release by its tag instead of listing every… - https://github.com/Comfy-Org/ComfyUI/commit/79cf64c21a1dba50749945ba9fe2e3a692f45438 __auto-added__
 - 2026-10-28T16:15:18+00:00: [Partner Nodes] feat(BFL): add 1080p, 2K and 4K targets to Flux Video… - https://github.com/Comfy-Org/ComfyUI/commit/c7bd15c28213348d72042ba0675747f1ebbed95f __auto-added__
+- 2026-10-28T22:54:41+00:00: Fix empty concat in more conds. (#17414) - https://github.com/Comfy-Org/ComfyUI/commit/e6354106fa0761ea1f40773b9971985dbe51421a __auto-added__
