@@ -2443,3 +2443,4 @@ _Last updated: 2025-08-12_
 - 2026-10-27T01:12:41+00:00: v0.43.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.0 __auto-added__
 - 2026-10-27T18:06:54+00:00: v1.57.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.6 __auto-added__
 - 2026-10-27T21:11:28+00:00: [Partner Nodes] feat(Patina): add Patina texture nodes (#17384) - https://github.com/Comfy-Org/ComfyUI/commit/49abb64b25ff72bad792f1cd4bc977e6545cb98c __auto-added__
+- 2026-10-28T00:24:01+00:00: Update workflow templates to v0.11.98 (#17391) - https://github.com/Comfy-Org/ComfyUI/commit/08cf0284ff45723aa67841c80cabb0e3cb50c9d7 __auto-added__
