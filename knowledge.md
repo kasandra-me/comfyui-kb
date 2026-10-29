@@ -2451,3 +2451,5 @@ _Last updated: 2025-08-12_
 - 2026-10-28T16:15:18+00:00: [Partner Nodes] feat(BFL): add 1080p, 2K and 4K targets to Flux Video… - https://github.com/Comfy-Org/ComfyUI/commit/c7bd15c28213348d72042ba0675747f1ebbed95f __auto-added__
 - 2026-10-28T22:54:41+00:00: Fix empty concat in more conds. (#17414) - https://github.com/Comfy-Org/ComfyUI/commit/e6354106fa0761ea1f40773b9971985dbe51421a __auto-added__
 - 2026-10-28T23:46:26+00:00: Support MiniMax Sol-H3-VAE  (#17411) - https://github.com/Comfy-Org/ComfyUI/commit/0df1646a9cd71d4c990a87014fb37797a2956ead __auto-added__
+- 2026-10-29T11:50:57+00:00: [Partner Nodes] feat(WaveSpeed): move FlashVSR and image upscale node… - https://github.com/Comfy-Org/ComfyUI/commit/fd7639f477050e5c25b68fc38a9c2a6b6d988211 __auto-added__
+- 2026-10-29T14:15:52+00:00: v1.58.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.2 __auto-added__
