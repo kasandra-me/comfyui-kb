@@ -2454,3 +2454,6 @@ _Last updated: 2025-08-12_
 - 2026-10-29T11:50:57+00:00: [Partner Nodes] feat(WaveSpeed): move FlashVSR and image upscale node… - https://github.com/Comfy-Org/ComfyUI/commit/fd7639f477050e5c25b68fc38a9c2a6b6d988211 __auto-added__
 - 2026-10-29T14:15:52+00:00: v1.58.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.2 __auto-added__
 - 2026-10-30T00:42:17+00:00: [Partner Nodes] feat(Ideogram): add context window region editing to … - https://github.com/Comfy-Org/ComfyUI/commit/8c4f1f240426eb3ffad9791cad52bd9890e9833d __auto-added__
+- 🔥 2026-10-30T01:31:46+00:00: Don't call torch.equal when the two tensors are the same. (#17439) - https://github.com/Comfy-Org/ComfyUI/commit/b5a432157de6b8884f81104cd02926adf4d597e4 __priority-auto-added__
+- 2026-10-30T01:24:06+00:00: v0.43.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2 __auto-added__
+- 2026-10-30T06:21:05+00:00: v1.58.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.3 __auto-added__
