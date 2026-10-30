@@ -2453,3 +2453,4 @@ _Last updated: 2025-08-12_
 - 2026-10-28T23:46:26+00:00: Support MiniMax Sol-H3-VAE  (#17411) - https://github.com/Comfy-Org/ComfyUI/commit/0df1646a9cd71d4c990a87014fb37797a2956ead __auto-added__
 - 2026-10-29T11:50:57+00:00: [Partner Nodes] feat(WaveSpeed): move FlashVSR and image upscale node… - https://github.com/Comfy-Org/ComfyUI/commit/fd7639f477050e5c25b68fc38a9c2a6b6d988211 __auto-added__
 - 2026-10-29T14:15:52+00:00: v1.58.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.2 __auto-added__
+- 2026-10-30T00:42:17+00:00: [Partner Nodes] feat(Ideogram): add context window region editing to … - https://github.com/Comfy-Org/ComfyUI/commit/8c4f1f240426eb3ffad9791cad52bd9890e9833d __auto-added__
