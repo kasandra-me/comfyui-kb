@@ -2459,3 +2459,4 @@ _Last updated: 2025-08-12_
 - 2026-10-30T06:21:05+00:00: v1.58.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.3 __auto-added__
 - 2026-10-31T01:05:40+00:00: Add a node to set the VAE compute dtype. (#17450) - https://github.com/Comfy-Org/ComfyUI/commit/fbca05a62e23c1b08b6e77f408db2742127a9929 __auto-added__
 - 2026-10-31T02:14:16+00:00: [Partner Nodes] feat(Pruna): add P-Video Upscale node (#17443) - https://github.com/Comfy-Org/ComfyUI/commit/6ea48ffc21d2a0c9be0df79f08d72b4ecf2d678f __auto-added__
+- 2026-10-31T08:32:07+00:00: [Partner Nodes] feat(MiniMax): add H3 Max Recast, Extend, Reframe, In… - https://github.com/Comfy-Org/ComfyUI/commit/7c4390a6f70cd8eb41014d6af52969397a752fc4 __auto-added__
