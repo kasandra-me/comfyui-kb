@@ -2457,3 +2457,4 @@ _Last updated: 2025-08-12_
 - 🔥 2026-10-30T01:31:46+00:00: Don't call torch.equal when the two tensors are the same. (#17439) - https://github.com/Comfy-Org/ComfyUI/commit/b5a432157de6b8884f81104cd02926adf4d597e4 __priority-auto-added__
 - 2026-10-30T01:24:06+00:00: v0.43.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2 __auto-added__
 - 2026-10-30T06:21:05+00:00: v1.58.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.3 __auto-added__
+- 2026-10-31T01:05:40+00:00: Add a node to set the VAE compute dtype. (#17450) - https://github.com/Comfy-Org/ComfyUI/commit/fbca05a62e23c1b08b6e77f408db2742127a9929 __auto-added__
