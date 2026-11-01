@@ -2465,3 +2465,5 @@ _Last updated: 2025-08-12_
 - 2026-11-01T03:00:10+00:00: Support prores and using different chroma subsampling for video savin… - https://github.com/Comfy-Org/ComfyUI/commit/6d352802d8f8b9133f664a1757d6c6d26390c335 __auto-added__
 - 2026-11-01T13:08:48+00:00: v1.57.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.57.7 __auto-added__
 - 2026-11-01T15:57:48+00:00: Fix MTPHead unpack crash in prefetch queue cleanup (CORE-644) (#17180) - https://github.com/Comfy-Org/ComfyUI/commit/a9ba0f1a7e16a13d5a3d8d993951c642a6e2b010 __auto-added__
+- 2026-11-01T19:14:38+00:00: Remove outdated guideline in AGENTS.md (#17482) - https://github.com/Comfy-Org/ComfyUI/commit/17ff1dcce963bd9f23095ec9b28febbfc4db8388 __auto-added__
+- 2026-11-01T19:16:24+00:00: v1.58.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.4 __auto-added__
