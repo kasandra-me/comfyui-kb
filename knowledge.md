@@ -2461,3 +2461,4 @@ _Last updated: 2025-08-12_
 - 2026-10-31T02:14:16+00:00: [Partner Nodes] feat(Pruna): add P-Video Upscale node (#17443) - https://github.com/Comfy-Org/ComfyUI/commit/6ea48ffc21d2a0c9be0df79f08d72b4ecf2d678f __auto-added__
 - 2026-10-31T08:32:07+00:00: [Partner Nodes] feat(MiniMax): add H3 Max Recast, Extend, Reframe, In… - https://github.com/Comfy-Org/ComfyUI/commit/7c4390a6f70cd8eb41014d6af52969397a752fc4 __auto-added__
 - 2026-10-31T17:46:38+00:00: Stop paging GitHub releases at the first prerelease (#17434) - https://github.com/Comfy-Org/ComfyUI/commit/0dbfd493b4cc604db743c699f0f7ce01348e54a4 __auto-added__
+- 2026-11-01T00:00:16+00:00: Return execution_meta in the job detail (#17397) - https://github.com/Comfy-Org/ComfyUI/commit/0698f6d7c24ce1790c5e48f42eff3023d92cd4f3 __auto-added__
