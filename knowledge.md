@@ -2468,3 +2468,4 @@ _Last updated: 2025-08-12_
 - 2026-11-01T19:14:38+00:00: Remove outdated guideline in AGENTS.md (#17482) - https://github.com/Comfy-Org/ComfyUI/commit/17ff1dcce963bd9f23095ec9b28febbfc4db8388 __auto-added__
 - 2026-11-01T19:16:24+00:00: v1.58.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.4 __auto-added__
 - 2026-11-02T04:02:16+00:00: Fix fp8_e4m3fn_fast falling back to bf16 compute with dynamic VRAM (#… - https://github.com/Comfy-Org/ComfyUI/commit/bb878b9ee35274e67931634ba9e8c338f8c06035 __auto-added__
+- 2026-11-02T17:03:06+00:00: [Partner Nodes] feat(Topaz): add Wonder 4 model to Topaz Image Enhanc… - https://github.com/Comfy-Org/ComfyUI/commit/384577510969e0ed59506f8eb5fcf6e6df15a3d1 __auto-added__
