@@ -2469,3 +2469,5 @@ _Last updated: 2025-08-12_
 - 2026-11-01T19:16:24+00:00: v1.58.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.4 __auto-added__
 - 2026-11-02T04:02:16+00:00: Fix fp8_e4m3fn_fast falling back to bf16 compute with dynamic VRAM (#… - https://github.com/Comfy-Org/ComfyUI/commit/bb878b9ee35274e67931634ba9e8c338f8c06035 __auto-added__
 - 2026-11-02T17:03:06+00:00: [Partner Nodes] feat(Topaz): add Wonder 4 model to Topaz Image Enhanc… - https://github.com/Comfy-Org/ComfyUI/commit/384577510969e0ed59506f8eb5fcf6e6df15a3d1 __auto-added__
+- 2026-11-03T00:36:45+00:00: Add TextGenerateV2 with Autogrow image inputs (#17492) - https://github.com/Comfy-Org/ComfyUI/commit/6b904b5fafd062effc1acbc46b1d3196922f7055 __auto-added__
+- 2026-11-03T00:34:12+00:00: v1.58.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.5 __auto-added__
