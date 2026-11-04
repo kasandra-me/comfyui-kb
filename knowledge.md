@@ -2475,3 +2475,4 @@ _Last updated: 2025-08-12_
 - 2026-11-03T15:38:12+00:00: feat: Support PH3Image (CORE-697) (#17506) - https://github.com/Comfy-Org/ComfyUI/commit/576b642e77b4c42f84afe583c8e8f0eef7637618 __auto-added__
 - 2026-11-03T19:21:48+00:00: ComfyUI v0.44.0 - https://github.com/Comfy-Org/ComfyUI/commit/2c75dc1b379a59e0880619d029607af5169a62ef __auto-added__
 - 2026-11-03T19:21:48+00:00: v0.44.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0 __auto-added__
+- 2026-11-04T01:10:35+00:00: Bump comfyui-frontend-package to 1.58.5 (#17442) - https://github.com/Comfy-Org/ComfyUI/commit/7f09d3fa4a783868fe39d4d63cf4f815e58abecd __auto-added__
