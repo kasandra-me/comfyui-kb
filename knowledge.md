@@ -2477,3 +2477,4 @@ _Last updated: 2025-08-12_
 - 2026-11-03T19:21:48+00:00: v0.44.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.0 __auto-added__
 - 2026-11-04T01:10:35+00:00: Bump comfyui-frontend-package to 1.58.5 (#17442) - https://github.com/Comfy-Org/ComfyUI/commit/7f09d3fa4a783868fe39d4d63cf4f815e58abecd __auto-added__
 - 2026-11-04T05:20:26+00:00: Use adaptive slicing in seedvr2 decode (#17508) - https://github.com/Comfy-Org/ComfyUI/commit/56f179f6c50dad0c4c860ae4da427415c8e86415 __auto-added__
+- 2026-11-04T13:00:11+00:00: [Partner Nodes] feat(Pika): add Pika Soundtrack, SFX and Music nodes … - https://github.com/Comfy-Org/ComfyUI/commit/5f415e31abfd837870bbc733ba1e158de71ed985 __auto-added__
