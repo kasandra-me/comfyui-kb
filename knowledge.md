@@ -2482,3 +2482,4 @@ _Last updated: 2025-08-12_
 - 2026-11-05T01:25:26+00:00: Turn on local_web_sso and partner_node_token by default (#17540) - https://github.com/Comfy-Org/ComfyUI/commit/3cd2596673a96819133e34281688c370aff9563b __auto-added__
 - 2026-11-05T06:22:19+00:00: Name comfy-agent without a version in agent_requirements.txt (CORE-69… - https://github.com/Comfy-Org/ComfyUI/commit/fb2b26fdac507b7da81277c7becaf54c5e46ac6b __auto-added__
 - 2026-11-05T06:49:11+00:00: v1.58.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.6 __auto-added__
+- 2026-11-05T15:12:09+00:00: v1.58.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.7 __auto-added__
