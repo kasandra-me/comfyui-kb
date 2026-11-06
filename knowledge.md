@@ -2485,3 +2485,5 @@ _Last updated: 2025-08-12_
 - 2026-11-05T15:12:09+00:00: v1.58.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.58.7 __auto-added__
 - 2026-11-05T21:14:40+00:00: Support RelayVSR (CORE-701) (#17511) - https://github.com/Comfy-Org/ComfyUI/commit/2f8943324e1eae89a5ee6c7db93602299246b5f1 __auto-added__
 - 2026-11-06T02:40:40+00:00: [Partner Nodes] feat(Qwen): move Qwen Image nodes to Comfy Router (#1… - https://github.com/Comfy-Org/ComfyUI/commit/aa8a8d4f0a195cd33112a36ce7a0bcb157eafc89 __auto-added__
+- 2026-11-06T06:32:17+00:00: Make the partner node team code owners of comfy_api_nodes (#17575) - https://github.com/Comfy-Org/ComfyUI/commit/63e5bf594339f676b4b15e072529873e3448409e __auto-added__
+- 2026-11-06T03:26:00+00:00: v0.44.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.1 __auto-added__
