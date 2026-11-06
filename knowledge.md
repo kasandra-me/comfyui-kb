@@ -2487,3 +2487,5 @@ _Last updated: 2025-08-12_
 - 2026-11-06T02:40:40+00:00: [Partner Nodes] feat(Qwen): move Qwen Image nodes to Comfy Router (#1… - https://github.com/Comfy-Org/ComfyUI/commit/aa8a8d4f0a195cd33112a36ce7a0bcb157eafc89 __auto-added__
 - 2026-11-06T06:32:17+00:00: Make the partner node team code owners of comfy_api_nodes (#17575) - https://github.com/Comfy-Org/ComfyUI/commit/63e5bf594339f676b4b15e072529873e3448409e __auto-added__
 - 2026-11-06T03:26:00+00:00: v0.44.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.1 __auto-added__
+- 2026-11-06T21:05:16+00:00: Add video input support to Qwen 3.x (#17582) - https://github.com/Comfy-Org/ComfyUI/commit/c85957ad7f0b7b963931ff3ca6b57816d433c869 __auto-added__
+- 2026-11-06T20:37:56+00:00: v0.44.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.2 __auto-added__
