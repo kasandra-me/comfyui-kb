@@ -2493,3 +2493,4 @@ _Last updated: 2025-08-12_
 - 2026-11-08T00:51:32+00:00: Fix crash when using the UNetSelfAttentionMultiply node. (#17603) - https://github.com/Comfy-Org/ComfyUI/commit/bdb0816a292d221efeb6ec4ae41bcdff3f91fc86 __auto-added__
 - 2026-11-08T08:00:02+00:00: [Partner Nodes] feat(OpenAI): add GPT Image V3, GIF and SVG nodes (#1… - https://github.com/Comfy-Org/ComfyUI/commit/c76e64fe5f9108af6946ac3a39ff4280142d6dcd __auto-added__
 - 2026-11-08T09:56:54+00:00: [Partner Nodes] chore(Grok): update prices and tooltips for retired i… - https://github.com/Comfy-Org/ComfyUI/commit/0decb39ee5b5e17c200334589fc317dbbe98310e __auto-added__
+- 2026-11-09T01:56:03+00:00: Fix qwen fp8 crashing when generating text. (#17620) - https://github.com/Comfy-Org/ComfyUI/commit/fca60fe70e5b84c5c6b058263653d15cb3401e44 __auto-added__
