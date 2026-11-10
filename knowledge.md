@@ -2501,3 +2501,5 @@ _Last updated: 2025-08-12_
 - 2026-11-10T15:59:14+00:00: ComfyUI v0.45.0 - https://github.com/Comfy-Org/ComfyUI/commit/989d93d0d968e704c589ce0146bb18c77f6b50cc __auto-added__
 - 2026-11-10T15:59:14+00:00: v0.45.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0 __auto-added__
 - 2026-11-10T16:05:43+00:00: MiniMax H3 Image is now available in ComfyUI - https://blog.comfy.org/p/minimax-h3-image-is-now-available __auto-added__
+- 2026-11-10T22:30:24+00:00: Fix for some workflows not working properly. (#17675) - https://github.com/Comfy-Org/ComfyUI/commit/0228a9d73cd7c2daf8f61fe13d56b12efe307171 __auto-added__
+- 2026-11-10T21:31:02+00:00: v0.45.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.1 __auto-added__
