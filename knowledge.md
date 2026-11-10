@@ -2496,3 +2496,4 @@ _Last updated: 2025-08-12_
 - 2026-11-09T01:56:03+00:00: Fix qwen fp8 crashing when generating text. (#17620) - https://github.com/Comfy-Org/ComfyUI/commit/fca60fe70e5b84c5c6b058263653d15cb3401e44 __auto-added__
 - 2026-11-09T20:17:30+00:00: feat: Support WeVisOne-VL (CORE-690) (#17632) - https://github.com/Comfy-Org/ComfyUI/commit/540a82ee722bda1f32a1fbd97fcadadeb22d548b __auto-added__
 - 2026-11-09T17:56:36+00:00: The little things that shipped in October - https://blog.comfy.org/p/the-little-things-that-shipped-in __auto-added__
+- 2026-11-09T23:55:33+00:00: feat: Add texture rebaking and support UltraTex  (CORE-606) (#17636) - https://github.com/Comfy-Org/ComfyUI/commit/61e524bdba7a4e193b45c2697f1af83c1beb86d6 __auto-added__
