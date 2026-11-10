@@ -2498,3 +2498,6 @@ _Last updated: 2025-08-12_
 - 2026-11-09T17:56:36+00:00: The little things that shipped in October - https://blog.comfy.org/p/the-little-things-that-shipped-in __auto-added__
 - 2026-11-09T23:55:33+00:00: feat: Add texture rebaking and support UltraTex  (CORE-606) (#17636) - https://github.com/Comfy-Org/ComfyUI/commit/61e524bdba7a4e193b45c2697f1af83c1beb86d6 __auto-added__
 - 2026-11-10T07:58:39+00:00: [Partner Nodes] feat(Breeze): add Breeze TTS 2 voice and text-to-spee… - https://github.com/Comfy-Org/ComfyUI/commit/bbd810e647c64da8212b0d4ab94f1354c9d523f6 __auto-added__
+- 2026-11-10T15:59:14+00:00: ComfyUI v0.45.0 - https://github.com/Comfy-Org/ComfyUI/commit/989d93d0d968e704c589ce0146bb18c77f6b50cc __auto-added__
+- 2026-11-10T15:59:14+00:00: v0.45.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0 __auto-added__
+- 2026-11-10T16:05:43+00:00: MiniMax H3 Image is now available in ComfyUI - https://blog.comfy.org/p/minimax-h3-image-is-now-available __auto-added__
