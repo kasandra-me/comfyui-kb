@@ -2506,3 +2506,6 @@ _Last updated: 2025-08-12_
 - 2026-11-11T02:25:54+00:00: v0.45.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.2 __auto-added__
 - 2026-11-11T00:42:03+00:00: Seedream 5.5 is now available via Partner Nodes - https://blog.comfy.org/p/seedream-55-is-now-available-via __auto-added__
 - 2026-11-11T05:42:39+00:00: Conform Concatenate Video clips to the first clip's frame rate and au… - https://github.com/Comfy-Org/ComfyUI/commit/4d64a8bc072b81c9b47321789b4d83fb7348ae2a __auto-added__
+- 2026-11-11T14:41:34+00:00: [Partner Nodes] feat(Wan): move Wan nodes to Comfy Router (#17639) - https://github.com/Comfy-Org/ComfyUI/commit/74eb0c4b8a1a894e7210326882a8d9a016e37ccb __auto-added__
+- 2026-11-11T17:27:24+00:00: v1.59.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.1 __auto-added__
+- 2026-11-11T16:56:59+00:00: Doubling LLM token rates in ComfyUI - https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui __auto-added__
