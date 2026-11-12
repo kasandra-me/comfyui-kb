@@ -2509,3 +2509,4 @@ _Last updated: 2025-08-12_
 - 2026-11-11T14:41:34+00:00: [Partner Nodes] feat(Wan): move Wan nodes to Comfy Router (#17639) - https://github.com/Comfy-Org/ComfyUI/commit/74eb0c4b8a1a894e7210326882a8d9a016e37ccb __auto-added__
 - 2026-11-11T17:27:24+00:00: v1.59.1 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.1 __auto-added__
 - 2026-11-11T16:56:59+00:00: Doubling LLM token rates in ComfyUI - https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui __auto-added__
+- 2026-11-12T00:41:03+00:00: Bump comfyui-frontend-package to 1.59.1 (#17553) - https://github.com/Comfy-Org/ComfyUI/commit/a592c0a654af22f75d97f214d6e3e34eb13cd9db __auto-added__
