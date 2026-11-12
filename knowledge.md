@@ -2511,3 +2511,5 @@ _Last updated: 2025-08-12_
 - 2026-11-11T16:56:59+00:00: Doubling LLM token rates in ComfyUI - https://blog.comfy.org/p/doubling-llm-token-rates-in-comfyui __auto-added__
 - 2026-11-12T00:41:03+00:00: Bump comfyui-frontend-package to 1.59.1 (#17553) - https://github.com/Comfy-Org/ComfyUI/commit/a592c0a654af22f75d97f214d6e3e34eb13cd9db __auto-added__
 - 2026-11-12T04:49:37+00:00: Remove directml support. (#17711) - https://github.com/Comfy-Org/ComfyUI/commit/c5751c81abe131202eea9e4c66d000589013dd0b __auto-added__
+- 2026-11-12T20:46:52+00:00: Update workflow templates to v0.11.107 (#17725) - https://github.com/Comfy-Org/ComfyUI/commit/c1eece62cbf1805d4f64286d7f5592e6a215e6ba __auto-added__
+- 2026-11-12T20:58:31+00:00: v0.45.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3 __auto-added__
