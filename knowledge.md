@@ -2515,3 +2515,5 @@ _Last updated: 2025-08-12_
 - 2026-11-12T20:58:31+00:00: v0.45.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3 __auto-added__
 - 2026-11-13T07:17:28+00:00: [Partner Nodes] fix(FishAudio): show Drama 3 full price in the badge … - https://github.com/Comfy-Org/ComfyUI/commit/dc9ffe6adde25671bf535e99556ca9f8085c7d0f __auto-added__
 - 2026-11-13T16:30:24+00:00: [Partner Nodes] feat(Luma): move Luma nodes to Comfy Router (#17714) - https://github.com/Comfy-Org/ComfyUI/commit/f11d16096a3799c5dbcb09392d878f2be1303531 __auto-added__
+- 2026-11-13T22:29:10+00:00: Show Topaz request IDs on polling timeout (#17742) - https://github.com/Comfy-Org/ComfyUI/commit/102350eb949bca599e450a904f0562ad3f551279 __auto-added__
+- 2026-11-13T00:49:30+00:00: v1.61.1: 1.61.1 (#22750) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.1 __auto-added__
