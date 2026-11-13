@@ -2513,3 +2513,4 @@ _Last updated: 2025-08-12_
 - 2026-11-12T04:49:37+00:00: Remove directml support. (#17711) - https://github.com/Comfy-Org/ComfyUI/commit/c5751c81abe131202eea9e4c66d000589013dd0b __auto-added__
 - 2026-11-12T20:46:52+00:00: Update workflow templates to v0.11.107 (#17725) - https://github.com/Comfy-Org/ComfyUI/commit/c1eece62cbf1805d4f64286d7f5592e6a215e6ba __auto-added__
 - 2026-11-12T20:58:31+00:00: v0.45.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3 __auto-added__
+- 2026-11-13T07:17:28+00:00: [Partner Nodes] fix(FishAudio): show Drama 3 full price in the badge … - https://github.com/Comfy-Org/ComfyUI/commit/dc9ffe6adde25671bf535e99556ca9f8085c7d0f __auto-added__
