@@ -2519,3 +2519,4 @@ _Last updated: 2025-08-12_
 - 2026-11-13T00:49:30+00:00: v1.61.1: 1.61.1 (#22750) - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.1 __auto-added__
 - 2026-11-14T02:14:28+00:00: Add a mesh input to Create Camera Info to frame any mesh (#17730) - https://github.com/Comfy-Org/ComfyUI/commit/eee59185ff4f43ae2d9ad122b245619d27d9daad __auto-added__
 - 2026-11-14T08:07:38+00:00: v1.61.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.2 __auto-added__
+- 2026-11-15T00:20:29+00:00: Video Deflicker node and Faster RAFT optical flow implementation (#17… - https://github.com/Comfy-Org/ComfyUI/commit/ba546e921c43af6431b391a29f6823891d44a339 __auto-added__
