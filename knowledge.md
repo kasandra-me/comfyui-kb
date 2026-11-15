@@ -2524,3 +2524,4 @@ _Last updated: 2025-08-12_
 - 2026-11-15T09:20:36+00:00: [Partner Nodes] feat(OpenRouter): add Meta Muse Wonder, Spark 1.3 and… - https://github.com/Comfy-Org/ComfyUI/commit/157db2ea2f835917c16191147c11e5896eca01a9 __auto-added__
 - 2026-11-15T19:15:36+00:00: feat: Support PAN2 (#17755) - https://github.com/Comfy-Org/ComfyUI/commit/78e3002d94df539e545be463a3133df0571e92d8 __auto-added__
 - 2026-11-15T17:00:36+00:00: v0.45.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.4 __auto-added__
+- 🔥 2026-11-15T20:01:14+00:00: Make the cuda version warning yellow. (#17769) - https://github.com/Comfy-Org/ComfyUI/commit/e9afbccc2669677076feb08e52658f129cd8c12b __priority-auto-added__
