@@ -2521,3 +2521,4 @@ _Last updated: 2025-08-12_
 - 2026-11-14T08:07:38+00:00: v1.61.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.2 __auto-added__
 - 2026-11-15T00:20:29+00:00: Video Deflicker node and Faster RAFT optical flow implementation (#17… - https://github.com/Comfy-Org/ComfyUI/commit/ba546e921c43af6431b391a29f6823891d44a339 __auto-added__
 - 🔥 2026-11-15T02:36:37+00:00: Add warning if someone is not using cuda 13 on a GPU that support it.… - https://github.com/Comfy-Org/ComfyUI/commit/c844cb672186f187bf9455e2808821417a10d296 __priority-auto-added__
+- 2026-11-15T09:20:36+00:00: [Partner Nodes] feat(OpenRouter): add Meta Muse Wonder, Spark 1.3 and… - https://github.com/Comfy-Org/ComfyUI/commit/157db2ea2f835917c16191147c11e5896eca01a9 __auto-added__
