@@ -2526,3 +2526,5 @@ _Last updated: 2025-08-12_
 - 2026-11-15T17:00:36+00:00: v0.45.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.4 __auto-added__
 - 🔥 2026-11-15T20:01:14+00:00: Make the cuda version warning yellow. (#17769) - https://github.com/Comfy-Org/ComfyUI/commit/e9afbccc2669677076feb08e52658f129cd8c12b __priority-auto-added__
 - 2026-11-16T06:52:11+00:00: v1.59.2 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.2 __auto-added__
+- 2026-11-17T02:08:00+00:00: Update embedded docs to v0.5.17 (#17761) - https://github.com/Comfy-Org/ComfyUI/commit/31f24e8bce5525b25836c44b9b87d8e771902b2d __auto-added__
+- 2026-11-17T02:07:45+00:00: v0.45.5 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.5 __auto-added__
