@@ -2534,3 +2534,5 @@ _Last updated: 2025-08-12_
 - 2026-11-17T19:22:22+00:00: v1.61.3 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.3 __auto-added__
 - 2026-11-18T02:13:36+00:00: Fix dynamo. (#17808) - https://github.com/Comfy-Org/ComfyUI/commit/0d41e846686af8cefe9695e0bac62bc3ad056054 __auto-added__
 - 2026-11-17T22:47:35+00:00: v0.45.6 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.6 __auto-added__
+- 2026-11-18T07:20:41+00:00: [Partner Nodes] feat: move more partner nodes to Comfy Router (#17794) - https://github.com/Comfy-Org/ComfyUI/commit/0263e48806e5be43fa926d3961caac29cd268d84 __auto-added__
+- 2026-11-18T07:35:45+00:00: v1.59.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.5 __auto-added__
