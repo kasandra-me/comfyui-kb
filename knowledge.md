@@ -2536,3 +2536,6 @@ _Last updated: 2025-08-12_
 - 2026-11-17T22:47:35+00:00: v0.45.6 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.6 __auto-added__
 - 2026-11-18T07:20:41+00:00: [Partner Nodes] feat: move more partner nodes to Comfy Router (#17794) - https://github.com/Comfy-Org/ComfyUI/commit/0263e48806e5be43fa926d3961caac29cd268d84 __auto-added__
 - 2026-11-18T07:35:45+00:00: v1.59.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.5 __auto-added__
+- 2026-11-18T17:49:28+00:00: [Partner Nodes] feat(Kling): add 4:3 and 3:4 aspect ratios to Kling 4… - https://github.com/Comfy-Org/ComfyUI/commit/b391fa77e62e54eb697df24e9f3c5bf4a8365809 __auto-added__
+- 2026-11-18T17:19:02+00:00: v1.59.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.6 __auto-added__
+- 2026-11-18T17:06:38+00:00: Your custom ComfyUI is now in Comfy Cloud - https://blog.comfy.org/p/your-custom-comfyui-is-now-in-comfy __auto-added__
