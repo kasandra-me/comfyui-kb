@@ -2542,3 +2542,5 @@ _Last updated: 2025-08-12_
 - 2026-11-18T21:41:27+00:00: ComfyUI v0.46.0 - https://github.com/Comfy-Org/ComfyUI/commit/a277b5bf213e8a44fa34817b7770b54f86ef4cea __auto-added__
 - 2026-11-18T22:55:32+00:00: v0.46.0 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.0 __auto-added__
 - 2026-11-19T00:52:21+00:00: v1.59.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.7 __auto-added__
+- 2026-11-19T04:23:11+00:00: Preserve frontend contract evidence in CodeRabbit reviews (#17173) - https://github.com/Comfy-Org/ComfyUI/commit/d5d59c4011312df6b3a4241fb48c045289ad9441 __auto-added__
+- 2026-11-19T06:56:44+00:00: v1.61.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.4 __auto-added__
