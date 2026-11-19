@@ -2545,3 +2545,5 @@ _Last updated: 2025-08-12_
 - 2026-11-19T04:23:11+00:00: Preserve frontend contract evidence in CodeRabbit reviews (#17173) - https://github.com/Comfy-Org/ComfyUI/commit/d5d59c4011312df6b3a4241fb48c045289ad9441 __auto-added__
 - 2026-11-19T06:56:44+00:00: v1.61.4 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.4 __auto-added__
 - 2026-11-19T10:04:48+00:00: [Partner Nodes] feat(Tripo): add Smart UV node (#17827) - https://github.com/Comfy-Org/ComfyUI/commit/995456d0188ffb51032c28f41527cfa82d87d8a9 __auto-added__
+- 2026-11-19T23:15:55+00:00: Support SPZ v4 in File3DToSplat (#17852) - https://github.com/Comfy-Org/ComfyUI/commit/c59e67bd5a2757ddba1c6c6a993c0b6c811b54da __auto-added__
+- 2026-11-19T21:33:50+00:00: v0.46.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.1 __auto-added__
