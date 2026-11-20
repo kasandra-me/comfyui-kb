@@ -2549,3 +2549,4 @@ _Last updated: 2025-08-12_
 - 2026-11-19T21:33:50+00:00: v0.46.1 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.1 __auto-added__
 - 2026-11-20T01:10:17+00:00: Add regression test for CVE-2024-12882 model download SSRF (#17773) - https://github.com/Comfy-Org/ComfyUI/commit/1994420682258539f9ea1d22a9857a14df6acd32 __auto-added__
 - 2026-11-20T04:18:34+00:00: v1.59.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.10 __auto-added__
+- 2026-11-20T08:27:03+00:00: [Partner Nodes] feat(Mirelo): auto-downscale videos above 2160p in Vi… - https://github.com/Comfy-Org/ComfyUI/commit/a20552b5efd844ddf4da9dce4f55e313333a9ef9 __auto-added__
