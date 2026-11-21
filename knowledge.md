@@ -2554,3 +2554,4 @@ _Last updated: 2025-08-12_
 - 2026-11-20T22:11:48+00:00: [Partner Nodes] feat(HeyGen): add HeyGen Voice 1.0 Instant Clone Text… - https://github.com/Comfy-Org/ComfyUI/commit/afcb984e76fe9f870bf7746cf394766e1f690563 __auto-added__
 - 2026-11-20T21:58:18+00:00: v0.46.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.2 __auto-added__
 - 2026-11-20T23:45:17+00:00: v1.61.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.5 __auto-added__
+- 2026-11-21T09:23:08+00:00: [Partner Nodes] feat(Pruna): add P-Video-2 Pro Avatar and Reference t… - https://github.com/Comfy-Org/ComfyUI/commit/f99de883d5e65317c7f4a4b617b5aa7936622029 __auto-added__
