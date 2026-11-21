@@ -2551,3 +2551,6 @@ _Last updated: 2025-08-12_
 - 2026-11-20T04:18:34+00:00: v1.59.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.10 __auto-added__
 - 2026-11-20T08:27:03+00:00: [Partner Nodes] feat(Mirelo): auto-downscale videos above 2160p in Vi… - https://github.com/Comfy-Org/ComfyUI/commit/a20552b5efd844ddf4da9dce4f55e313333a9ef9 __auto-added__
 - 2026-11-20T21:23:25+00:00: Update workflow templates to v0.11.114 (#17880) - https://github.com/Comfy-Org/ComfyUI/commit/8b146ae23468a8b51bde3d2bf5689ec5a88cd639 __auto-added__
+- 2026-11-20T22:11:48+00:00: [Partner Nodes] feat(HeyGen): add HeyGen Voice 1.0 Instant Clone Text… - https://github.com/Comfy-Org/ComfyUI/commit/afcb984e76fe9f870bf7746cf394766e1f690563 __auto-added__
+- 2026-11-20T21:58:18+00:00: v0.46.2 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.2 __auto-added__
+- 2026-11-20T23:45:17+00:00: v1.61.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.5 __auto-added__
