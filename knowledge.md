@@ -2556,3 +2556,5 @@ _Last updated: 2025-08-12_
 - 2026-11-20T23:45:17+00:00: v1.61.5 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.5 __auto-added__
 - 2026-11-21T09:23:08+00:00: [Partner Nodes] feat(Pruna): add P-Video-2 Pro Avatar and Reference t… - https://github.com/Comfy-Org/ComfyUI/commit/f99de883d5e65317c7f4a4b617b5aa7936622029 __auto-added__
 - 2026-11-21T11:04:49+00:00: v1.59.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.12 __auto-added__
+- 2026-11-21T19:00:07+00:00: Bump comfyui-frontend-package to 1.59.11 (#17891) - https://github.com/Comfy-Org/ComfyUI/commit/5df2ce62f1408572c18a12a3aefee326cd2305a5 __auto-added__
+- 2026-11-21T21:19:46+00:00: v1.59.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.13 __auto-added__
