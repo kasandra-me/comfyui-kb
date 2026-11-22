@@ -2558,3 +2558,4 @@ _Last updated: 2025-08-12_
 - 2026-11-21T11:04:49+00:00: v1.59.12 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.12 __auto-added__
 - 2026-11-21T19:00:07+00:00: Bump comfyui-frontend-package to 1.59.11 (#17891) - https://github.com/Comfy-Org/ComfyUI/commit/5df2ce62f1408572c18a12a3aefee326cd2305a5 __auto-added__
 - 2026-11-21T21:19:46+00:00: v1.59.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.13 __auto-added__
+- 2026-11-22T01:14:00+00:00: Keep context window accumulators on the intermediate device (#17884) - https://github.com/Comfy-Org/ComfyUI/commit/4bff04177c25cf1f1448ee0e1209f175059a9b35 __auto-added__
