@@ -2559,3 +2559,5 @@ _Last updated: 2025-08-12_
 - 2026-11-21T19:00:07+00:00: Bump comfyui-frontend-package to 1.59.11 (#17891) - https://github.com/Comfy-Org/ComfyUI/commit/5df2ce62f1408572c18a12a3aefee326cd2305a5 __auto-added__
 - 2026-11-21T21:19:46+00:00: v1.59.13 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.13 __auto-added__
 - 2026-11-22T01:14:00+00:00: Keep context window accumulators on the intermediate device (#17884) - https://github.com/Comfy-Org/ComfyUI/commit/4bff04177c25cf1f1448ee0e1209f175059a9b35 __auto-added__
+- 2026-11-22T09:53:50+00:00: [Partner Nodes] feat(ElevenLabs): add SFX v3 to the Text to Sound Eff… - https://github.com/Comfy-Org/ComfyUI/commit/8b25bbc371b73e876996cf14c917d075d78de2ee __auto-added__
+- 2026-11-22T08:25:31+00:00: v1.61.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.6 __auto-added__
