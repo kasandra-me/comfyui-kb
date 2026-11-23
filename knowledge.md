@@ -2563,3 +2563,5 @@ _Last updated: 2025-08-12_
 - 2026-11-22T08:25:31+00:00: v1.61.6 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.6 __auto-added__
 - 2026-11-22T15:19:22+00:00: [Partner Nodes] feat(TypeSafe): add TypeSafe Jev Yes/No, Choice, Pick… - https://github.com/Comfy-Org/ComfyUI/commit/4c2b826d74a1827f5cc4a706608fc4653ed12972 __auto-added__
 - 2026-11-23T02:44:46+00:00: cleanup last commit. (#17932) - https://github.com/Comfy-Org/ComfyUI/commit/5ea159fa614bca9fb38a25a099189d6d0b4f3597 __auto-added__
+- 2026-11-23T10:05:33+00:00: [Partner Nodes] feat(Gemini-LLM): add Gemini 4 Neon to the Gemini tex… - https://github.com/Comfy-Org/ComfyUI/commit/f08f28aaac5447af3b2e8a83e2f53c8774d23151 __auto-added__
+- 2026-11-23T06:02:43+00:00: v1.61.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.7 __auto-added__
