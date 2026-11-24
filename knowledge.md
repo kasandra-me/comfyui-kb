@@ -2567,3 +2567,6 @@ _Last updated: 2025-08-12_
 - 2026-11-23T06:02:43+00:00: v1.61.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.7 __auto-added__
 - 2026-11-23T23:24:17+00:00: Serve an empty stylesheet when user.css is missing (#17928) - https://github.com/Comfy-Org/ComfyUI/commit/2fcb6cef9ab1b6dc556b7cff1765a0724ad5e884 __auto-added__
 - 2026-11-23T22:52:54+00:00: Comfy Desktop becomes your front door to everything ComfyUI - https://blog.comfy.org/p/comfy-desktop-becomes-your-front __auto-added__
+- 2026-11-24T03:54:40+00:00: Missing custom nodes folders should not cause a startup crash. (#17954) - https://github.com/Comfy-Org/ComfyUI/commit/da8bd08e48deee74d9f6c3bc00aed365b00ec209 __auto-added__
+- 2026-11-24T03:32:16+00:00: v0.46.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3 __auto-added__
+- 2026-11-24T04:06:49+00:00: v1.61.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.8 __auto-added__
