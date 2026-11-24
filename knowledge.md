@@ -2565,3 +2565,5 @@ _Last updated: 2025-08-12_
 - 2026-11-23T02:44:46+00:00: cleanup last commit. (#17932) - https://github.com/Comfy-Org/ComfyUI/commit/5ea159fa614bca9fb38a25a099189d6d0b4f3597 __auto-added__
 - 2026-11-23T10:05:33+00:00: [Partner Nodes] feat(Gemini-LLM): add Gemini 4 Neon to the Gemini tex… - https://github.com/Comfy-Org/ComfyUI/commit/f08f28aaac5447af3b2e8a83e2f53c8774d23151 __auto-added__
 - 2026-11-23T06:02:43+00:00: v1.61.7 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.7 __auto-added__
+- 2026-11-23T23:24:17+00:00: Serve an empty stylesheet when user.css is missing (#17928) - https://github.com/Comfy-Org/ComfyUI/commit/2fcb6cef9ab1b6dc556b7cff1765a0724ad5e884 __auto-added__
+- 2026-11-23T22:52:54+00:00: Comfy Desktop becomes your front door to everything ComfyUI - https://blog.comfy.org/p/comfy-desktop-becomes-your-front __auto-added__
