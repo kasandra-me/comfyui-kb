@@ -2574,3 +2574,4 @@ _Last updated: 2025-08-12_
 - 2026-11-25T02:44:50+00:00: Don't do int8 linears in int8 on GB300. (#17973) - https://github.com/Comfy-Org/ComfyUI/commit/0d0e105153c02261519a6a552c52ec1cd5d9855e __auto-added__
 - 2026-11-25T12:59:00+00:00: [Partner Nodes] feat(Meshy): accept and emit task ids as STRING (#17987) - https://github.com/Comfy-Org/ComfyUI/commit/a2103ae69d98d8ef94c150f5a472b89775eed929 __auto-added__
 - 2026-11-25T05:20:05+00:00: v1.59.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.15 __auto-added__
+- 2026-11-25T20:51:32+00:00: Bump comfyui-frontend-package to 1.59.15 (#17899) - https://github.com/Comfy-Org/ComfyUI/commit/f40a4fbb2ac85271d3ccad85a14415ce94dc9d38 __auto-added__
