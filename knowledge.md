@@ -2572,3 +2572,5 @@ _Last updated: 2025-08-12_
 - 2026-11-24T04:06:49+00:00: v1.61.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.8 __auto-added__
 - 2026-11-24T19:44:13+00:00: [Partner Nodes] feat(OpenAI): add ChatGPT V2 node and GPT-6.2 Astra a… - https://github.com/Comfy-Org/ComfyUI/commit/62879ac7f585be68f9423af242cbedbf95858b70 __auto-added__
 - 2026-11-25T02:44:50+00:00: Don't do int8 linears in int8 on GB300. (#17973) - https://github.com/Comfy-Org/ComfyUI/commit/0d0e105153c02261519a6a552c52ec1cd5d9855e __auto-added__
+- 2026-11-25T12:59:00+00:00: [Partner Nodes] feat(Meshy): accept and emit task ids as STRING (#17987) - https://github.com/Comfy-Org/ComfyUI/commit/a2103ae69d98d8ef94c150f5a472b89775eed929 __auto-added__
+- 2026-11-25T05:20:05+00:00: v1.59.15 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.59.15 __auto-added__
