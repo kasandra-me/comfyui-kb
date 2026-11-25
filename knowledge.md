@@ -2571,3 +2571,4 @@ _Last updated: 2025-08-12_
 - 2026-11-24T03:32:16+00:00: v0.46.3 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3 __auto-added__
 - 2026-11-24T04:06:49+00:00: v1.61.8 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.8 __auto-added__
 - 2026-11-24T19:44:13+00:00: [Partner Nodes] feat(OpenAI): add ChatGPT V2 node and GPT-6.2 Astra a… - https://github.com/Comfy-Org/ComfyUI/commit/62879ac7f585be68f9423af242cbedbf95858b70 __auto-added__
+- 2026-11-25T02:44:50+00:00: Don't do int8 linears in int8 on GB300. (#17973) - https://github.com/Comfy-Org/ComfyUI/commit/0d0e105153c02261519a6a552c52ec1cd5d9855e __auto-added__
