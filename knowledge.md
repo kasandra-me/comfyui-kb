@@ -2578,3 +2578,4 @@ _Last updated: 2025-08-12_
 - 2026-11-25T23:23:22+00:00: Support streaming text previews in the TextGenerateV2 node. (#17996) - https://github.com/Comfy-Org/ComfyUI/commit/ef507153a6b96c22e0ba98ceec824682c61d70fb __auto-added__
 - 2026-11-26T11:25:42+00:00: Release VBAR pins when a module cast fails part way (#17837) - https://github.com/Comfy-Org/ComfyUI/commit/8b0f107157b58f9ec79a19fb3182e78cb30f0a23 __auto-added__
 - 2026-11-26T08:15:38+00:00: v1.61.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.9 __auto-added__
+- 2026-11-26T21:29:43+00:00: Update manual install instructions in README.md (#18013) - https://github.com/Comfy-Org/ComfyUI/commit/7c78b5641ab2d6cb7f7766a183a8a43a59de0a8b __auto-added__
