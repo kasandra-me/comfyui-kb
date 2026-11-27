@@ -2579,3 +2579,5 @@ _Last updated: 2025-08-12_
 - 2026-11-26T11:25:42+00:00: Release VBAR pins when a module cast fails part way (#17837) - https://github.com/Comfy-Org/ComfyUI/commit/8b0f107157b58f9ec79a19fb3182e78cb30f0a23 __auto-added__
 - 2026-11-26T08:15:38+00:00: v1.61.9 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.9 __auto-added__
 - 2026-11-26T21:29:43+00:00: Update manual install instructions in README.md (#18013) - https://github.com/Comfy-Org/ComfyUI/commit/7c78b5641ab2d6cb7f7766a183a8a43a59de0a8b __auto-added__
+- 2026-11-27T22:49:32+00:00: [Partner Nodes] feat(MAGI): add MAGI-2 nodes (#18030) - https://github.com/Comfy-Org/ComfyUI/commit/c450ed22e51be581edf55e3e5862441803e3e984 __auto-added__
+- 2026-11-27T19:05:08+00:00: v1.61.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.10 __auto-added__
