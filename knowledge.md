@@ -2583,3 +2583,4 @@ _Last updated: 2025-08-12_
 - 2026-11-27T19:05:08+00:00: v1.61.10 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.10 __auto-added__
 - 2026-11-28T03:45:33+00:00: Revert "Apply EXIF orientation in LoadImage regardless of the install… - https://github.com/Comfy-Org/ComfyUI/commit/5f0d863aa0c52425ff27d48747bc45f9ab83c454 __auto-added__
 - 2026-11-28T00:43:23+00:00: v0.46.4 - https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.4 __auto-added__
+- 2026-11-28T12:15:53+00:00: v1.61.11 - https://github.com/Comfy-Org/ComfyUI_frontend/releases/tag/v1.61.11 __auto-added__
